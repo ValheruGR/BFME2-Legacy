@@ -1,0 +1,60 @@
+Battletest2 DC Changelog
+Version 2.3 - 20/07/08
+
+Changes from previous Version (2.2):
+
+*- Light hero armor now takes 63% from magic (was 70%)
+*- Rallying Call Reload now 2m30s (was 2m)
+*- Industry radius reduced to 100 (was 200)
+*- All Fort Armor upgrades cost now 1200 (was 1600)
+
+*- Balrog's health increased to 4800 (was 4000), armor flank penalty now -50%, siege damage penalty vs forts now -90% (was -87.5%)
+*- Summoned Dragon +75% damage bonus vs heroes no longer affects other summoned units
+
+*- Gandalf's mounted attack angle now 45 degrees clockwise (was 90)
+*- Eowyn's Smite now has a +150% bonus against FoD heroes (was +200%)
+*- MotW banner upgrade cost/time 300/5s (was 350/15s)
+
+*- Dwarven riches and Industry no longer stack
+*- Mighty catapult siege damage now has a -75% penalty vs forts
+
+*- Floodgates' fire reload 16s (was 20s), health 1300 (was 1000) and cost 1200 (was 1500)
+*- Legolas hawk strike reload time now 85s (was 90s)
+*- Treebeard now takes 75% from flame (was 200%) and 50% from specialist (was 100%)
+*- Eagles plow damage penalty vs forts now -77% (was -70%)
+
+*- Bloodthirsty for Orc warriors now has a +250% experience modifier (was +150%) - level 1 horde gets to almost level three with one usage
+*- Orc Archer health 180 (was 200)
+*- Troll cage lvl3 upgrade time now 45s (from 60s)
+*- Attack troll CP cost now 60 (from 75), buildtime 40s (was 45s), magic armor now 45% (from 50%)
+*- Fellbeast now takes 115% from cavalry-ranged (was 100%)
+*- Mounted Witchking now takes 50% from cavalry-ranged (was 20%)
+
+*- Berzerker Specialist armor now 90% (was 80%), health 950 (was 1000), buildtime now 30s (was 25s)
+*- Warg Rider leveling no longer affects its trample damage; Howl effect now +70% damage and -15% armor, now stacks with everything but damage leaderships and can't be cancelled by a debuff
+*- Sharku's Tame the Beast moved to lvl9, can now capture any cavalry unit but can only target one horde
+*- Wormtongue experience required for lvl10 now 740 (was 690); Venomous words moved to level 2, speed penalty now -35% (was -50%)
+*- Warg Sentry now automatically respawns wargs, vision range 400 (was 175), no longer decelerates when crushing (had 1% deceleration); Both wargs now die when the building is destroyed
+*- Isen mine launcher fort upgrade weapon now fires three additional mines
+*- Bloodthirsty for Uruks now has a +125% experience modifier (was +20%) - level 1 horde gets to level three with one usage
+
+*- Inn wildmen buildtime now 32s (from 25), garrisoned weapon no longer has splash
+*- Drake Inferno radius now 100 (was 110)
+*- Venom sacks upgrade cost 600 (from 1000) to research, 15s to equip
+*- Goblin archer cost 325 from 320, flame damage now has a +25% bonus vs fellbeasts
+*- Drogoth plow damage bonus vs battlewagons now +400% (was +900%)
+*- Spiderling damage vs Production and economy buildings now has a -15% penalty (was -10% vs economy buildings only)
+
+Bugfixes:
+=========
+
+*- Elven forge upgrade level 3 "magic firing bug" fixed
+*- Several campaign missions fixed
+*- Battlewagon hearth no longer heals buildings
+*- Summoned Spiderling not being affected by buffs fixed
+*- Darkness ending FX re-enabled
+*- Fixed Thranduil's deadeye exploit
+*- Fixed Lurtz's carnage exploit
+*- Dragon strike no longer gets stuck on high buildings
+*- Fellbeast claw attack no longer decimates nearby buildings
+*- Spider Riders no longer gain poison damage with the forged blades upgrade
