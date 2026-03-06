@@ -1,0 +1,349 @@
+Version 1.08 - by Valheru
+Changelog - Nov 16 2013
+
+
+
+
+Men Of The West
+
+-Ranger Summon lifetime now 90s, from 120s
+-Rangers normal and fire weapons now deal 90% to WitchKing dismounted
+-Added Shield Bubble Sound
+-Gandalf Lightning Sword cooldown from 180s to 210s
+-Gandalf Word Of Power Shockwave increased
+-Gandalf Lightning Sword now deals 75% vs forts
+-Added new Gandalf Death animation
+-Added two new Gandalf Death sounds
+-Theoden Glorious Charge modifier from 200% damage 99% armor, to 80% armor 0% crush deceleration.
+-Theoden Glorious Charge now available on level 7
+-Theoden HP from 2000 to 3000
+-Theoden now grants 25% bonus experience
+-Men Farm fire fuel rate decreased
+-Rohirrim Forged Blades no longer has bonuses against Forts
+-Men Fortress banners buildtime now 20s, from 30s
+-Marketplace health from 2500 to 2000
+-Theoden, Eomer, and Eowyn now suffer an additional 10% penalty vs structures while mounted
+-Added Cavalry unit to Aragorns Army of the Dead, with a larger model
+-Aragorn summon Oathbreakers lifetime now 35s, from 20s
+-Added new Men Stable sound
+-Boromir Knockback restored to 35% only against Lurtz, from 25%
+-Faramir Wounding Arrow now deals 50% against Legolas
+-Faramir levels 4-6 exp required increased
+-Faramir wounding arrow cooldown now 45s, from 35s
+-Wounding Arrow damage against Ents & TB reduced
+-Faramir Wounding Arrow now has a small shockwave
+-Boromir levels 5-10 exp required reduced
+-Aragorn Blademaster and regular attack now deal 65% against forts
+-Men Level 2 stable HP add from 1500 to 2000
+-Men Lone Tower cooldown from 180s to 240s
+-Eowyn hero damage bug fixed
+-Eowyn base damage from 150 to 200
+-Eowyn levels 4 onwards exp required increased
+-Eowyn cost now 1800, from 1500
+-Eowyn Smite base damage from 500 to 700
+-Eowyn Smite now deals 120% against Heroes
+-Eowyn smite bonus's against Mordor Flyers restored
+-Eowyn Smite cooldown from 60s to 180s
+-Eowyn Disguise now grants 80% crush deceleration to Rohirim
+-Eowyn Disguise now available at level 7, from 4
+-Eowyn levels 5-10 exp required increased
+
+
+
+IPB Image
+
+Isengard
+
+-Isengard Corsairs now spawn on level 1, from 2
+-Isengard Excavations now heals all nearby allies, and replenishes horde members every 8s, from 10s.
+-Saruman Fireball scalars now include all Giant Eagle's
+-Lurtz carnage now deals 50% against TB and Ents
+-Isengard Inn Corsair cost from 250 to 300
+-Wormtongue buildtime from 20s to 30s
+-Sharku buildtime from 50s to 45s
+-Sharku delaybetween shots from 2000ms to 1500ms
+-Xbow speed from 63 to 60
+-Xbow delay between shots set to 2100ms
+-Crossbow health from 110 to 100
+-Crossbow range from 325 to 320
+-Crossbows now take 30% Poison, from 45%
+-Wormtongue levels 7-10 exp required increased
+-Saruman Dominate now available at level 7, from 8
+-Saruman Dominate radius from 80 to 90
+-Saruman Lightning Bolt cooldown from 60s to 150s
+-Crossbow base damage from 65 to 62
+-DragonStrike health increased from 10k to 50k
+-Berserkers now gain self heal at level 7
+
+
+
+IPB Image
+
+
+Elves
+
+-Silverthorn Arrows now deal significantly less damage to All Structures
+-Mirkwoods normal and Silverthorn weapons now deal 90% to WitchKing dismounted
+-Lorien Archers now deal 90% to Soldiers of Gondor, from 100%
+-Level 2 Mallorn Tree HP Add now 700, from 500
+-Level 3 Mallorn Tree HP Add now 1200, from 1000
+-Haldir now grants 25% bonus experience
+-Elrond leadership radius from 200 to 350
+-Treebeard Punch Radius from 50 to 60
+-Treebeard Punch shockwave increased
+-All Pikeman Crush Revenge now deals 45% against Treebeard, from 100%
+-Elven Mallorn Tree fire fuel rate decreased
+-Mithlond Sentry Heavy Armor now takes 60% Slash, from 80%
+-Mithlond Sentry Heavy Armor now takes 50% Uruk, from 70%
+-Mithlond Sentry Heavy Armor now takes 60% pierce, from 80%
+-Sunflare now deals 300% vs heroes(not flyers)
+-Rivendell lancer now takes 115% poison, from 130%
+-Mithlond Sentry weapon now deals 150% vs Spider Riders
+-Eagle lifetime now 70s, from 80s
+-Eagles now deal double damage vs heroes
+-Thranduil delay between shots from 1750ms to 1450ms
+-Thranduil Dead eye now deals 50% to structures
+-Undermine now deals 60% to all Elven Archers, from 100%
+-Thranduil normal bow now gains 12% bonus damage to Black Riders & MoS
+-Thrandiul exp required for levels 7-10 increased
+-Mystic Fountains no longer heals Eagles
+-Added new Elrond Death Voice
+-Added Ent Summon Music
+-Glorfindel Res timer level 4 onwards from 180s to 130s
+-Glorfindel Res timer level 8 onwards from 270s to 210s
+-Glorfindel buildtime from 50s to 55s
+-Glorfindel now takes 45% slash, from 40%
+-Glorfindel now takes 60% hero, from 50%
+-Glorfindel now takes 25% specialist, from 15%
+-Ent Summon Hatch Delay from 5s to 6.5s
+-Hobbit Firecrackers no longer deal critical damage to ents
+-Corsair Firebomb now deals 50% vs Ents & Treebeard
+-Treebeard healing rate now 50 hp/s, from 35
+-Nazgul Mounted deals 10% less damage to Mallorn Trees
+-Rivendell Lancer Crush now deals 110% vs Orc Warriors
+-Peasant buildtime from 20s to 25s
+-Giant Eagle now deals 25% vs heroes, from 18%
+-Arwen buildtime now 65s, from 75s
+-Haldir buildtime now 64s, from 70s
+-Ent resistance to pierce and slash from 25% to 10%
+-Ent resistance to hero ranged from 50% to 35%
+-Treebeard resistance to hero ranged from 50% to 20%
+-Treebeard healing rate now 50 hp/s, from 35
+-Giant Eagle health from 3400 to 3700(includes summon)
+-Treebeard now cloaks near trees
+-All Mirkwood archer weapons now deal 75% against Mumakil
+-Legolas now deals 75% to Mumakil
+-Lorien Archer bow now deals 80% to Mumakil
+-Mirkwood Silverthorn damage now deals 12% against Balrog, from 25%
+
+
+IPB Image
+
+
+Dwarves
+
+-Battlewagon Men of Dale scalars now includes all Eagle types
+-Battlewagon Men Of Dale now deal 25% against all builder types
+-Axe Throwers now deal 90% to Lorien Archers
+-Axe Throwers now deal 80% to Mithlond Sentries
+-Citadel Recharge time now 600s, from 540s
+-Summon Citadel HP from 15000 to 13000
+-Dwarven Citadel is now connected to the tunnel network
+-Added two additional garrison slots for Dwarven Citadel
+-Added evacuate all to Dwarven Citadel
+-Gloin Slam cooldown now 70s, from 60s
+-Guardian Bullrush cooldown from 120s to 90s
+-Battlewagons now take 10% from logical fire
+-Dwarven Fort Banners cost now 400, from 500
+-Siege Kegs now provides a 25% reduction in hero res timers
+-Siege Kegs cost now 650, from 750
+-Gimli Axe Throw now deals ~1500 damage to Mordor Mumakil
+-Gimli Slayer splash radius from 10 to 14
+-Gimli Slayer Shockwave Amount increased
+-Gloin Shatter Hammer new visual and Shockwave
+-Gimli now has a 60% penalty vs forts
+-Gimli Slayer no longer penalises attack speed
+-Guardians now deal 85% vs Mordor Slaughter House
+-Gloin now deals 80% vs nazgul
+-Guardians now deal 60% vs nazgul
+-Gloin Slam now deals 85% against Nazgul
+-Fixed Dwarven Lone Tower not healing when Siege Kegs is purchased
+-Guardians now deal 75% to Orc pits
+-Guardians now deal 85% to Goblin Caves
+-Dwarven Lone Tower cooldown from 180s to 240s
+-Spawn Citadel now deals 175 specialist damage in 250 radius 
+-Watcher can now be cast on battlewagons
+-Battlewagon Men Of Dale now deal 30% to Heroes, from 100%
+-Battlewagon Men Of Dale now deal 75% to flyers, from 100%
+-Undermine cooldown from 240s to 300s
+-undermine health from 8500 to 6000
+
+
+IPB Image
+
+
+Mordor
+
+-Drummer Troll now provides +25% experience
+-Attack Trolls now take 30% from Isengard crush revenge, from 45%
+-Doom Pyres buildtime now 20s, from 30s
+-Haradrim Lancers can now capture neutral buildings
+-Black Rider Mounted now takes 100% from structural, from 90%
+-Added Aragorn Death Sound
+-Added new Nazgul death sound
+-Added 3 new Fellbeast/WK impact sounds
+-Added ~10 new Fellbeast/WK mounted voices
+-Added new Hour of The Witch King Sound
+-Hour of The Witch King cast range from 200 to 300
+-Witch King Mounted now takes 35% from pierce and structural, from 25%
+-Added new Drummer Troll sound
+-Grond now takes 0% from logical fire
+-Haradrim Palace no longer has a tower
+-The Grond is now buildable in multiplayer
+-Added Grond sound
+-Added New Mordor Fortress sound
+-Added new Mumakil sound
+-WitchKing Mounted model now slightly larger
+-Mumakil model now slightly larger
+-Attack Troll model now slightly larger
+-Corsair Firebomb now deals 50% vs Ents & Treebeard
+-Corsair now deals 95% vs Isengard Furnaces
+-Corsairs now deal 10% bonus damage vs Guardians
+-Corsair Forged Blades Hero Bonus from 150% to 135%
+-Attack Troll command points from 75 to 60
+-Nazgul now deals an 8% bonus crush vs Guardians
+-WitchKing Warmace radius from 40 to 45
+-Witchking and Fellbeasts no longer share the same weapons
+-Witchking Mounted now deals 400% vs Battlewagons
+-Witchking Mounted and Fellbeast Grab Attack radius from 30 to 45
+-Witchking Mounted now takes 50% pierce and 60% structural, from 60/70
+-Mumakil now take 50% from crush revenge
+-Mumakil healing rate doubled and now available on level 3
+-Mumakil trample will no longer instagib Tier 3+ heroes
+-Mumakil Tusk Attack now deals 300% vs heroes
+-Mumakil speed increased by 3
+-Orc Warrior CP from 40 to 30
+-Orc Warriors gain a 40% bonus vs Dwarven Mines
+-Orc Archer bonus vs Dwarven Gurdians from 12% to 20%
+-Orc Archer bonus vs Dwarven Phalanx from 12% to 15%
+-Haradrim Archer cost now 450, from 400
+-Fellbeast buildtime from 95s to 80s
+-Corsairs now deal 95% to Goblin Tunnels
+-Mordor Barricade cooldown from 180s to 240s
+-Haradrim Palace Tier 2 Upgrade time from 30s to 40s
+-Haradrim Archers resistance to pierce decreased from 80% to 95%
+-Corsairs now take 90% crush, from 85%
+-Lancer battalion size increased
+-Lancer crush revenge removed as a result
+-Lancer now deals slash, instead of specialist
+-Lancer base damage decreased to compensate for larger horde
+
+
+
+IPB Image
+
+
+Goblins
+
+-Drogoth Incinerate now deals 600% vs Heroes
+-Drogoth Incinerate now deals 600% vs Structures
+-Drogoth Incinerate can now hit flyers
+-Gorkil levels 4-6 exp required reduced
+-Shelob and Gorkil can now sting Black Riders
+-Half Troll now gains 125% damage against Black Riders
+-Goblin Warriors gain a 12% bonus vs Dwarven Mines
+-Shelob delay between shots from 1666ms to 1200ms
+-Shelob levels 4-6 exp required increased
+-Shelob now deals 85% to heroes
+-Shelob now deals 65% to structures
+-Shelob Stinger cooldown now 80s, from 60s
+-Spiderlings now correctly cost 60cp
+
+
+
+Global
+
+-Balrog Leap Range doubled
+-Balrog Sword now deals 300% vs Heroes
+-Balrog Sword Weapon new shockwave
+-Wildmen Summon now 280s
+-Summon Dragon damage vs Heroes from 175% to 225%
+-Sam has firecracker
+-Sam firecracker now deals 900% bonus damage vs Shelob(50% HP)
+-Fellbeast, Black Riders, Witchking & Shelob fears from 180s to 150s
+-Fire Drake now takes 50% from Slash and Uruk, from 100%
+-Tom Bombadil Sonic Song Damage from 500 to 200
+-Tom Bombadil Sonic Song cooldown from 17s to 15s
+-Tom Bombadil cooldown from 480s to 410s
+-Tom Bombadil punch damage from 200 to 400
+-Tom Bombadil punch radius from 50 to 75
+-Tom Bombadil speed increased to 63, from 45
+-Tom Bombadil lifetime from 45s to 60s
+-Tom Bombadil no longer shares the Resilient Hero Armor
+-Tom Bombadil now takes 40% from specialist, from 60%
+-Tom Bombadil now takes 40% from hero, from 60%
+-Tom Bombadil now takes 30% from all pikeman crush revenge, from 100%
+-Tom Bombadil punch now deals 50% vs heroes and structures
+-Tom Bombadil punch now deals 25% vs ents and Treebeard
+-Tom Bombadil attacks can no longer harm army of the dead
+-Tom Bombail punch damage no longer deals critical damage to Mumakil
+-Merry health from 400 to 600
+-Lone Tower Summons Armor decreased
+-Level 2 & 3 Lumber Mill exp required reduced for all FoD
+-Battering Ram health from 2000 to 1500
+-Battering Ram damage from 1000 to 750
+-Merry Fireworks detonation impacts now set to 25 radius, from 50
+-Hobbit Firecrackers no longer deal critical damage to ents
+-Trolls no longer have the bombard weapon
+
+Misc
+-All units may now reach Rank 10, with unique leveling formula
+-Rank bonus's from 5 upwards are health and damage unless specified otherwise
+-Mirkwood archers gain significantly higher damage output at Rank 10
+-All Factions Banner carries minimum respawn time out of battle from 20s to 10s
+-Elven Banner carrier's now respawn dead units every 7s, from 10s
+-Mirkwood Archer banner carrier's now respawn dead units every 7s, from 10s
+-Rivendell Lancer banner carrier's now respawn dead units every 7s, from 10s
+-Mordor Orcs and Archers Banner carriers now respawn dead units every 7s, from 10s
+-Goblin Warriors and Archers Banner carries now respawn dead units every 7s, from 10s
+-Half Troll Banner carries now respawn dead units every 7s, from 10s
+-Wildmen Banner carries now respawn dead units every 7s, from 10s
+-Isengard infantry Banner carries now respawn dead units every 7s, from 10s
+-Men Infantry Banner carriers now respawn dead units every 7s, from 10s
+-Dwarven Guardians & Phalanx Banner carriers now respawn dead units every 7s, from 10s
+-Added 8 new faction colours
+-Added Collectors Edition Barrage FX
+-Flyers no longer deal critical damage to Mordor Grond
+-Multiplayer beacons now autodelete in 7.5s
+-Fixed all flyers killing themselves/each other when attacking the same target
+-Treasure Trove, Blacksmith & Elven Forge HP increased to 4000 from 2000
+-Neutral Cave Trolls no longer fear infantry
+-Sauron can now summon Balrogs
+-Sauron buildtime now 200s, from 300s
+-Sauron weapon improved dramatically
+-Sauron healing improved
+-Sauron now deals less damage to forts
+-Sauron now has new spells
+-Gollum now significantly harder to kill
+-Added 2 new Sauron entry Sounds
+-Hobbit Firecrackers now deal 75% to Mumakil
+-Galadriel can now summon Eagles and OathBreakers
+-Galadriel buildtime now 200s, from 300s
+-Galadriel healing improved
+-Galadriel HP from 5000 to 12000
+-Galadriel Weapon improved
+-Balrog Ignite cooldown restored to 10s, from 60s
+-Fixed the bug that causes Cavalry to kill Mithlonds,Phalanx &TowerGuards via flanking angles
+-Enabled All Collectors Edition Items, with some conditions below
+-Added Smaug(Goblins only)
+-Added White Eagles
+-Added Black Mumakils upon reaching Level 5
+-Added Attack Troll Warmace upon reaching Level 5
+-Summoned Dragon Delaybetweenshots from 5s to 3.5s
+-Summon Dragon Spawn Weapon radius from 50 to 150
+-Summon Dragon Spawn Shockwave Increased
+-Summon Dragon Teleport Weapon radius from 50 to 150
+-Summon Dragon Teleport Shockwave increased
+-Pippin Campfire lifetime from 80s to 200s
+-Pippin Campfire now heals All, from just hobbits, at 3% hp/s
+-Pippin Campfire Leadership now applies to all except heroes, from just hobbits.
