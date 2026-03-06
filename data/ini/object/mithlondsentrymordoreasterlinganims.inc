@@ -357,6 +357,23 @@
 	End
 
 	; --- emotions --- ;
+    
+    AnimationState = EMOTION_ALERT EMOTION_AFRAID  
+        ShareAnimation = Yes
+        Animation = Apprehensive
+            AnimationName = EUMthlnd_SKL.EUMthlnd_FERA
+            AnimationMode = LOOP
+        End
+        Flags = RANDOMSTART
+    End
+    AnimationState = EMOTION_AFRAID
+        ShareAnimation = Yes
+        Animation = FERA
+            AnimationName = EUMthlnd_SKL.EUMthlnd_FERA
+            AnimationMode = LOOP
+        End
+        Flags = RANDOMSTART
+    End
 
     AnimationState							= WAR_CHANT
 		Animation							= Chant

@@ -122,7 +122,7 @@ Color:Green
 END
 
 Color:RohanGreen
-"Elf Yeþili"
+"Rohan Yeþili"
 END
 
 Color:Black
@@ -5171,17 +5171,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"%d.%02d.%d Yapý %d %c%c"
+"1.09"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"Sürüm %d.%02d.%d"
+"1.09"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"Sürüm %d.%02d"
+"1.09"
 END
 
 Version:BuildTime
@@ -8078,7 +8078,7 @@ CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"+%25 Zýrh, -%40 Hýz"
+"+%20 Zýrh, +%25 Ok Direnci, -%30 Hýz"
 END
 
 CONTROLBAR:ToolTipToggleGFighterBlockToLineFormation
@@ -14903,7 +14903,7 @@ CONTROLBAR:FueltheFires
 End
 
 CONTROLBAR:ToolTipFueltheFires
-"Aðaçlardan gelen kaynaklarý +%100 arttýrýr \n Pasif güç"
+"Aðaçlardan gelen kaynaklarý +%65 arttýrýr \n Oduncular +%20 Zýrh kazanýr \n Müttefikler için de kullanýlabilir \n Pasif güç \n Kaleye sahip olmalýsýnýz"
 End
 
 CONTROLBAR:PlusCommandPoints
@@ -15013,7 +15013,7 @@ CONTROLBAR:Rebuild
 End
 
 CONTROLBAR:TooltipRebuild
-"Binalarý iyileþtirir \n Önce simgeye sonra hedeflenen binalara sol týklayýn"
+"Binanýn saðlýðýný 4000 puan iyileþtirir \n Önce simgeye sonra hedeflenen binalara sol týklayýn"
 End
 
 CONTROLBAR:Draft
@@ -15065,7 +15065,7 @@ CONTROLBAR:CloudBreak
 End
 
 CONTROLBAR:ToolTipCloudBreak
-"Dondurucu Yaðmur ve Karanlýðý ortadan kaldýrýr \n Düþman birimlerini sersemletir \n Etkinleþtirmek için sol týklayýn"
+"Dondurucu Yaðmur ve Karanlýðý ortadan kaldýrýr \n 10 saniyeliðine düþman birimlerini  sersemletir \n 15 saniyeliðine müttefik birimleri iyileþtirir ve diriltir \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ElvenWood
@@ -15073,7 +15073,7 @@ CONTROLBAR:ElvenWood
 End
 
 CONTROLBAR:ToolTipElvenWood
-"Yemyeþil bir arazi oluþturur \n Tüm müttefikler +%50 Zýrh kazanýr \n Tüm düþman birimleri liderlik bonuslarýný kaybeder \n Kahramanlarý etkilemez \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Yemyeþil bir arazi oluþturur \n Müttefik birimler iki kat Zýrh kazanýrlar \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:SummonEntAllies
@@ -15137,7 +15137,7 @@ CONTROLBAR:SummonTomBombadil
 END
 
 CONTROLBAR:TooltipSummonTomBombadil
-"Tom Bombadil'i çaðýrýr \n Önce simgeye sonra uygun yere sol týklayýn"
+"Kudretli, þapkalý, þiþman, ihtiyar, þarký söylemeyi seven Tom Bombadil'i çaðýrýr. \n Eä'nýn yaratýcýsý Eru'nun insan görünümüne bürünmüþ hali olduðuna dair söylentiler vardýr. \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 CONTROLBAR:SummonHobbitAllies
@@ -15157,7 +15157,7 @@ CONTROLBAR:LoneTower
 END
 
 CONTROLBAR:TooltipLoneTower
-"Bir savunma kulesi çaðýrýr \n Önce simgeye sonra uygun yere sol týklayýn"
+"Bir savunma kulesi çaðýrýr \n Liderlik, iyileþtirme ve diriltme etkilerine sahiptir \n Taþ Ýþçiliði ile geliþtirilebilir \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 CONTROLBAR:ArrowVolley
@@ -15181,7 +15181,7 @@ CONTROLBAR:Undermine
 END
 
 CONTROLBAR:TooltipUndermine
-"Haritanýn herhangi bir yerine Maden Kuyusu yerleþtirir \n Yerleþtirilen Kuyu diðer tünel aðlarýna baðlanýr \n Önce simgeye sonra görülebilir bir yere sol týklayýn"
+"Haritanýn herhangi bir yerine Maden Kuyusu yerleþtirir \n Merkeze yüksek, etrafýna düþük oranda hasar verir \n Yerleþtirilen Kuyu diðer tünel aðlarýna baðlanýr \n Önce simgeye sonra görülebilir bir yere sol týklayýn"
 END
 
 OBJECT:UndermineMineShaft
@@ -15277,7 +15277,7 @@ CONTROLBAR:ToolTipBuildGondorFireArrowPorter
 END
 
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde
-"Süvarilere karþý güçlü"
+"Süvarilere ve Eðitim Binalarýna karþý güçlü"
 END
 
 CONTROLBAR:ToolTipBuildGondorTrebuchet
@@ -15305,7 +15305,7 @@ CONTROLBAR:ConstructGondorPeasant
 END
 
 CONTROLBAR:ToolTipBuildNumenorStoneworkUpgrade
-"Sur ve kulelerin zýrhýný arttýrýr"
+"Sur ve kulelerin dayanýklýlýðýný arttýrýr \n Kudretli Mancýnýk için gereklidir \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:ToolTipBuildReinforcedGateUpgrade
@@ -15317,7 +15317,7 @@ CONTROLBAR:ToolTipBuildIronOreUpgrade
 END
 
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
-"Çiftliklerden gelen kaynak +%10 artar \n Bu geliþtirmeden yararlanmaya devam etmek için Pazar Yerinizi korumalýsýnýz"
+"Çiftliklerden gelen kaynak +%15 artar \n Bu geliþtirmeden yararlanmaya devam etmek için Pazar Yerinizi korumalýsýnýz"
 END
 
 CONTROLBAR:ToolTipBuildSiegeMaterialsUpgrade
@@ -15572,7 +15572,7 @@ CONTROLBAR:ConstructGoblinArcherHorde
 "Goblin Okçul&arý"
 END
 CONTROLBAR:ToolTipBuildGoblinFighterHorde
-"Mýzrakçýlara karþý güçlü"
+"Mýzrakçýlara karþý güçlü\n Birlik Bonusu: \n Goblinlerin sayýsý 100'ü geçince +%33 Hasar Verme ve +%25 Hýz kazanýrlar"
 END
 CONTROLBAR:ConstructGoblinCave
 "Goblin Maðarasý Kur"
@@ -15765,7 +15765,7 @@ CONTROLBAR:ToolTipBuildMordorOrcFighterHordeShelobsLair
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
-"Süvarilere karþý güçlü"
+"Süvarilere ve Eðitim Binalarýna karþý güçlü"
 END
 
 CONTROLBAR:ConstructMordorPorter
@@ -15936,7 +15936,7 @@ CONTROLBAR:ConstructIsengardFireArrowPorter
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
-"Süvarilere karþý güçlü"
+"Süvarilere ve Eðitim Binalarýna karþý güçlü"
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeLadder
@@ -16202,7 +16202,7 @@ CONTROLBAR:ToolTipSpecialAbilityGrabAndEatPassenger
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIgnite
-"Balrog +200% Hasar Verme ve +%50 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Balrog iki kat Hasar Verme ve +%50 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFlamingSword
@@ -16284,10 +16284,6 @@ CONTROLBAR:ToolTipLightTorch
 "Mayýnlarý patlatmak için kullanýlýr \n Etkinleþtirmek için sol týklayýn"
 END
 
-CONTROLBAR:TooltipBladeMaster
-"Gereken Seviye: 2 \n Aragorn +%100 Hasar Verme ve +%100 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
-END
-
 CONTROLBAR:ToolTipNarsilAttack
 "Sauron'u yenmek için kullanýlýr \n Etkinleþtirmek için sol týklayýn"
 END
@@ -16308,10 +16304,6 @@ CONTROLBAR:ToolTipElendil
 "Gereken Seviye: 6 \n Düþmanlarýn korku içinde kaçmalarýna neden olur \n Etkinleþtirmek için sol týklayýn"
 END
 
-CONTROLBAR:Oathbreakers
-"Yeminbozanlar [&K]"
-END
-
 CONTROLBAR:ToolTipOathbreakers
 "Gereken Seviye: 10 \n Ölüler Ordusunu çaðýrýr \n Önce simgeye sonra uygun yere sol týklayýn"
 END
@@ -16321,7 +16313,7 @@ CONTROLBAR:ToolTipHawkStrike
 END
 
 CONTROLBAR:ToolTipTrainArchers
-"Gereken Seviye: 4 \n Hedeflenen okçular tecrübe kazanýr \n Önce simgeye sonra hedeflenen okçulara sol týklayýn"
+"Gereken Seviye: 3 \n Hedeflenen okçular tecrübe kazanýr \n Önce simgeye sonra hedeflenen okçulara sol týklayýn"
 END
 
 CONTROLBAR:MonsterSlayer
@@ -16334,10 +16326,6 @@ END
 
 CONTROLBAR:WarSpeech
 "Savaþ Söylevi"
-END
-
-CONTROLBAR:Leadership
-"Liderlik"
 END
 
 CONTROLBAR:InspiringPresence
@@ -16369,7 +16357,7 @@ CONTROLBAR:ToolTipWitchKingLeadership
 END
 
 CONTROLBAR:ToolTipInspiringPresence
-"Tom Bombadil'in yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Tom Bombadil'in yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n +%50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlabilir"
 END
 
 CONTROLBAR:DwarvenGrudge
@@ -16385,7 +16373,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:ToolTipLurtzPillage
-"Gereken Seviye: 6 \n Öldürülen düþmanlardan kaynak kazanýlýr \n Pasif yetenek"
+"Gereken Seviye: 7 \n Öldürülen düþmanlardan kaynak kazanýlýr \n Pasif yetenek"
 END
 
 CONTROLBAR:OutlawLeadership
@@ -16517,7 +16505,7 @@ CONTROLBAR:ToolTipToggleWedgeFormation
 END
 
 CONTROLBAR:ToolTipToggleLineFormation
-"Varsayýlan Hat Düzeni [&M]"
+"Varsayýlan Hat Düzeni [&M]" //obsolete
 END
 
 CONTROLBAR:TogglePorcupineFormation
@@ -16589,7 +16577,7 @@ CONTROLBAR:Mount
 END
 
 CONTROLBAR:ToolTipMount
-"Ata binmek için sol týklayýn \n At üstündeyken Kýlýççýlara ve Süvarilere karþý +%25 Zýrh kazanýr \n Okçulara ve Mýzrakçýlara karþý -%50 Zýrh kaybeder \n Okçulardan ve Mýzrakçýlardan 100% daha fazla hasar alýr"
+"Ata binmek için sol týklayýn \n At üstündeyken Kýlýççýlara ve Süvarilere karþý +%25 Zýrh kazanýr \n Okçulara ve Mýzrakçýlara karþý -%50 Zýrh kaybeder \n Okçulardan ve Mýzrakçýlardan %100 daha fazla hasar alýr"
 END
 
 CONTROLBAR:UseSword
@@ -16601,7 +16589,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:PhialofGaladriel
-"Galadriel'in Þiþesi [&P]"
+"Galadriel'in Þiþesi (&T)"
 END
 
 CONTROLBAR:ToolTipPhialofGaladriel
@@ -16645,7 +16633,7 @@ CONTROLBAR:EomerMount
 END
 
 CONTROLBAR:ToolTipEomerMount
-"Ata binmek için sol týklayýn \n At üstündeyken Kýlýççýlara ve Süvarilere karþý +%25 Zýrh kazanýr \n Okçulara ve Mýzrakçýlara karþý -%50 Zýrh kaybeder \n Okçulardan ve Mýzrakçýlardan 100% daha fazla hasar alýr"
+"Ata binmek için sol týklayýn \n At üstündeyken Kýlýççýlara ve Süvarilere karþý +%25 Zýrh kazanýr \n Okçulara ve Mýzrakçýlara karþý -%50 Zýrh kaybeder \n Okçulardan ve Mýzrakçýlardan %100 daha fazla hasar alýr"
 END
 
 CONTROLBAR:ToolTipIstariLight
@@ -16657,11 +16645,11 @@ CONTROLBAR:ToolTipLightningSword
 END
 
 CONTROLBAR:ToolTipWoundingArrow
-"Gereken Seviye: 2 \n Tek bir düþmaný korku içinde kaçýrtan uzun menzilli saldýrý \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 2 \n Tek bir düþmaný korku içinde kaçýrtan ve yüksek oranda hasar veren uzun menzilli saldýrý \n Büyük oranda hasar verir \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipCaptainofGondor
-"Gereken Seviye: 7 \n Hedeflenen birimlere tecrübe kazandýrýr \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
+"Gereken Seviye: 5 \n Hedeflenen birimlere tecrübe kazandýrýr \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
 END
 
 CONTROLBAR:FaramirWarSpeech
@@ -16704,7 +16692,7 @@ CONTROLBAR:ToggleLooseFormation
 "Serbest Düzen [&M]"
 END
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
-"-%40 Hýz \n +%25 Zýrh"
+"-%30 Hýz \n +%20 Zýrh \n +%25 Ok Direnci"
 END
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
 "Varsayýlan Düzen"
@@ -16716,7 +16704,7 @@ CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLooseFormation
 "Varsayýlan Düzen"
 END
 CONTROLBAR:ToolTipToggleFighterLooseToBlockFormation
-"-%40 Hýz \n +%25 Zýrh"
+"-%30 Hýz \n +%20 Zýrh \n +%25 Ok Direnci"
 END
 CONTROLBAR:ToolTipToggleFighterBlockToLooseFormation
 "Varsayýlan Düzen"
@@ -16745,7 +16733,7 @@ CONTROLBAR:ToolTipDisguise
 END
 
 CONTROLBAR:ToolTipShieldMaiden
-"Gereken Seviye: 5 \n Éowyn +%65 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 5 \n Éowyn +%65 Zýrh kazanýr \n Rohirrimin düþmaný ezerken yavaþlama oraný yarý yarýya azalýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToggleTrebWeapon
@@ -21008,9 +20996,6 @@ END
 LWA:FellowshipArmy
 "Kardeþlik"
 END
-LWA:ElvesArmy
-"Elf Ordusu"
-END
 LWA:EntsArmy
 "Entler"
 END
@@ -25137,14 +25122,6 @@ UPGRADE:MordorFireArrowUpgrade
 "Ateþ Oklarý"
 END
 
-UPGRADE:WildFireArrowUpgrade
-"Ateþ Oklarý"
-END
-
-UPGRADE:WildForgedBlades
-"Dövülmüþ Kýlýçlar"
-END
-
 TOOLTIP:LackLevel2Blacksmith
 "Seviye 2 Demirci gerekir"
 END
@@ -26180,16 +26157,8 @@ CONTROLBAR:PurchaseUpgradeMenFortressBanners
 "Sa&ncaklar"
 END
 
-CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
-"Yakýndaki birliklere ek tecrübe kazandýrýr \n Kahraman maliyetlerini %10 azaltýr \n Kahraman çaðrýlma sürelerini %10 azaltýr \n Ýþçi maliyetlerini %20 azaltýr"
-END
-
 CONTROLBAR:PurchaseUpgradeMenFortressHouseOfHealing
 "Þifa Evi [&G]"
-END
-
-CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Kahraman diriltme maliyetlerini %20 azaltýr \n Kahraman diriltme sürelerini %20 azaltýr"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
@@ -26354,7 +26323,7 @@ CONTROLBAR:ConstructDwarvenStatue
 END
 
 CONTROLBAR:TooltipConstructDwarvenStatue
-"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n Yýðýlamaz \n Yönetme puaný sýnýrýný 10 arttýrýr"
+"Heykelin yanýndaki müttefikler \n +%50 Zýrh kazandýrýr \n Yönetme puaný sýnýrýný 10 arttýrýr"
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRange
@@ -26423,7 +26392,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressDwarvenStonework
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework
-"Kale ve surlarýn dayanýklýlýðýný arttýrýr \n Kudretli Mancýnýk için gereklidir"
+"Kale ve surlarýn dayanýklýlýðýný arttýrýr \n Kudretli Mancýnýk için gereklidir \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressFlamingMunitions
@@ -26434,16 +26403,12 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressBanners
 "Sa&ncaklar"
 END
 
-CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
-"Yakýndaki birliklere ek tecrübe kazandýrýr \n Kahraman maliyetlerini %10 azaltýr \n Kahraman çaðrýlma sürelerini %10 azaltýr \n Ýþçi maliyetlerini %20 azaltýr"
-END
-
 CONTROLBAR:PurchaseUpgradeDwarvenFortressSiegeKegs
 "&Kuþatma Fýçýlarý"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs
-"Kale ve Salonlarýn yanýndaki müttefikleri iyileþtirir \n Kaleye ek saðlýk ekler"
+"Yakýndaki müttefikleri iyileþtirir \n Her 6.5 sn'de bir birimi diriltir \n Kahraman dirilme sürelerini %25 azaltýr \n Kaleye ek saðlýk ekler \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
@@ -26624,7 +26589,7 @@ CONTROLBAR:ConstructDwarvenPhalanxHorde
 END
 
 CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
-"Süvarilere karþý güçlü"
+"Süvarilere ve Eðitim Binalarýna karþý güçlü"
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
@@ -26664,7 +26629,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"+%25 Daha Hýzlý Üretim \n Savunucu Balta Kulesi ekler"
+"+%10 Daha Hýzlý Üretim \n Savunucu Balta Kulesi ekler"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -26782,7 +26747,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressDragonNest
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest
-"Alev Ejderhasý çaðýrmaya izin verir"
+"Alev Ejderhasý çaðýrmaya izin verir \n Drogoth'u iyileþtirir \n Drogoth'un dirilme süresini %10 azaltýr"
 END
 
 
@@ -27038,7 +27003,7 @@ CONTROLBAR:PurchaseUpgradeElvenFortressMysticFountains
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains
-"Yakýndaki birliklerin saðlýklarýný arttýrýr \n Kahramanlar bu kalede 25% daha hýzlý dirilirler"
+"Yakýndaki müttefikleri iyileþtirir \n Her 6.5 sn'de bir birimi diriltir \n Kahraman dirilme sürelerini %20 azaltýr"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
@@ -27046,7 +27011,7 @@ CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEnchantedAnvil
-"Elf birim geliþtirmelerinin maliyetlerini azaltýr: \n Örslü 1 kale = %10 ucuzluk \n Örslü 2 kale = %20 ucuzluk \n Örslü 3 kale = %25 ucuzluk \n Örslü 4 kale = %30 ucuzluk \n Örslü 5 kale = %35 ucuzluk"
+"Elf birim geliþtirmelerinin maliyetlerini azaltýr: \n Örslü 1 kale = %20 ucuzluk \n Örslü 2 kale = %30 ucuzluk \n Örslü 3 kale = %40 ucuzluk \n Örslü 4 kale = %50 ucuzluk \n Örslü 5 kale = %60 ucuzluk"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressBlessedMist
@@ -27062,7 +27027,7 @@ CONTROLBAR:PurchaseUpgradeElvenFortressCrystalMoat
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat
-"Kaleyi yakýn menzilli silahlara karþý güçlendirir"
+"Kaleyi yakýn menzilli silahlara karþý güçlendirir \n Yakýndaki müttefik birimler: \n +%25 Hasar Verme ve +%25 daha hýzlý tecrübe kazanýrlar\n Yýðýlabilir"
 END
 
 CONTROLBAR:ToolTipElvenEntMoot
@@ -27139,10 +27104,6 @@ END
 
 CONTROLBAR:ConstructElvenStatue
 "Kahraman Heykel&i Kur"
-END
-
-CONTROLBAR:ToolTipElvenStatue
-"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n Yýðýlamaz"
 END
 
 CONTROLBAR:ConstructElvenBattleTower
@@ -27226,7 +27187,7 @@ CONTROLBAR:ConstructElvenMithlondSentryHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
-"Süvarilere karþý güçlü \n Aðaçlarýn arasýnda görünmez olurlar"
+"Süvarilere ve Eðitim binalarýna karþý güçlü \n Aðaçlarýn arasýnda görünmez olurlar"
 END
 
 CONTROLBAR:BuildElvenRivendellLancers
@@ -29707,7 +29668,7 @@ CONTROLBAR:Barricade
 END
 
 CONTROLBAR:TooltipBarricade
-"Okçu mevzilendirilmiþ savunma kulesi çaðýrýr \n Önce simgeye sonra uygun yere sol týklayýn"
+"Okçu mevzilendirilmiþ savunma kulesi çaðýrýr \n Kaledeki Ateþ Oklarý ile geliþtirilebilir \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 CONTROLBAR:ArrowVolleyEvil
@@ -29763,7 +29724,7 @@ CONTROLBAR:Sunflare
 END
 
 CONTROLBAR:TooltipSunflare
-"Savaþ alanýný yakan güneþ ýþýnlarý çaðýrýr. \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Savaþ alanýný yakan güneþ ýþýnlarý çaðýrýr \n Zayýf kahramanlara karþý etkili \n Karanlýk ve Dondurucu Yaðmuru sona erdirir \n \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:CaveBats
@@ -29771,7 +29732,7 @@ CONTROLBAR:CaveBats
 END
 
 CONTROLBAR:TooltipCaveBats
-"Gizlenen birimleri ortaya çýkarýr \n Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Önce simgeye sonra uygun yere sol týklayýn"
+"Gizlenen birimleri ortaya çýkarýr \n Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Düþmanýn liderlik bonusu sýfýrlanýr \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 CONTROLBAR:UntamedAllegiance
@@ -29840,7 +29801,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressRazorSpines
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines
-"Kaleye yakýn düþman birimlerine hasar verir"
+"Kaleye yakýn düþman birimlerine hasar verir \n Yakýndaki birimleri iyileþtirir"
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerFireArrows
@@ -29925,7 +29886,7 @@ CONTROLBAR:PurchaseUpgradeIsengardFortressBurningForges
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressBurningForges
-"Isengard birim geliþtirmelerinin maliyetini azaltýr \n Çalýþan Demirhaneli 1 kale = %10 ucuzluk \n Çalýþan Demirhaneli 2 kale = %20 ucuzluk \n Çalýþan Demirhaneli 3 kale = %25 ucuzluk \n Çalýþan Demirhaneli 4 kale = %30 ucuzluk \n Çalýþan Demirhaneli 5 kale = %35 ucuzluk"
+"Isengard birim geliþtirmelerinin maliyetini azaltýr \n Çalýþan Demirhaneli 1 kale = %10 ucuzluk \n Çalýþan Demirhaneli 2 kale = %20 ucuzluk \n Çalýþan Demirhaneli 3 kale = %30 ucuzluk \n Çalýþan Demirhaneli 4 kale = %40 ucuzluk \n Çalýþan Demirhaneli 5 kale = %50 ucuzluk"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressExcavations
@@ -29933,7 +29894,7 @@ CONTROLBAR:PurchaseUpgradeIsengardFortressExcavations
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressExcavations
-"Isengard bina ve sur maliyetini azaltýr \n Kazý Ýþleri olan 1 kale = %10 ucuzluk \n Kazý Ýþleri olan 2 kale = %20 ucuzluk \n Kazý Ýþleri olan 3 kale = %25 ucuzluk \n Kazý Ýþleri olan 4 kale = %30 ucuzluk \n Kazý Ýþleri olan 5 kale = %35 ucuzluk"
+"Yakýndaki müttefikleri iyileþtirir \n Her 10 sn'de bir birimi diriltir \n Isengard bina ve sur maliyetlerini azaltýr \n Kazý Ýþleri olan 1 kale = %10 ucuzluk \n Kazý Ýþleri olan 2 kale = %20 ucuzluk \n Kazý Ýþleri olan 3 kale = %25 ucuzluk \n Kazý Ýþleri olan 4 kale = %30 ucuzluk \n Kazý Ýþleri olan 5 kale = %35 ucuzluk"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressMurderOfCrows
@@ -30090,7 +30051,7 @@ CONTROLBAR:PurchaseUpgradeMordorFortressLavaMoat
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressLavaMoat
-"Kaleyi yakýn menzilli silahlara karþý güçlendirir"
+"Kaleyi yakýn menzilli silahlara karþý güçlendirir \n Yakýndaki birimleri iyileþtirir"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressGorgorothSpire
@@ -30203,7 +30164,7 @@ CONTROLBAR:Citadel
 END
 
 CONTROLBAR:TooltipCitadel
-"Savaþ alanýna hisar yerleþtirir \n Önce simgeye sonra uygun yere sol týklayýn"
+"Savaþ alanýna hisar yerleþtirir \n Tünel aðýna eriþim saðlar \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 
@@ -30238,7 +30199,7 @@ CONTROLBAR:DreadVisage
 END
 
 CONTROLBAR:ToolTipDreadVisage
-"Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Pasif yetenek"
+"Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Düþmanýn liderlik bonusu sýfýrlanýr \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade
@@ -30246,7 +30207,7 @@ CONTROLBAR:ToolTipBlackRiderMorgulBlade
 END
 
 CONTROLBAR:ToolTipBackstab
-"Gereken Seviye: 6 \n Hedeflenen düþmaný zehirler ve yüksek derecede hasar verir \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 6 \n Hedeflenen düþmaný zehirler ve yüksek derecede hasar verir \n Uçan birimlere karþý da kullanýlabilir \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipCorrodeAllegiance
@@ -30254,7 +30215,7 @@ CONTROLBAR:ToolTipCorrodeAllegiance
 END
 
 CONTROLBAR:ToolTipTameTheBeast
-"Gereken Seviye: 2 \n Hedeflenen warglar ve warg binicileri Sharku'nun kontrolüne girer \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 9 \n Hedeflenen warglar ve warg binicileri Sharku'nun kontrolüne girer \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:BloodHunt
@@ -30262,7 +30223,7 @@ CONTROLBAR:BloodHunt
 END
 
 CONTROLBAR:ToolTipGlorfindelWindRider
-"Gereken Seviye: 6 \n Glorfindel at üstündeyken +%60 Hýz ve Ýki Kat Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 6 \n Glorfindel at üstündeyken +%40 Hýz ve Ýki Kat Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:WildWalk
@@ -30274,7 +30235,7 @@ CONTROLBAR:ToolTipThornofVengeance
 END
 
 CONTROLBAR:ToolTipDainStubbornPride
-"Gereken Seviye: 7 \n Yakýndaki tüm birimler korkusuz olurlar \n Pasif yetenek"
+"Gereken Seviye: 7 \n Yakýndaki tüm birimler korkusuz olurlar \n Bu etki engellenemez \n Dáin gizlenenleri ortaya çýkarýr \n Pasif yetenek     Yýðýlabilir"
 END
 
 CONTROLBAR:ToolTipSummonRoyalGuard
@@ -30294,7 +30255,7 @@ CONTROLBAR:ToolTipGloinSmash
 END
 
 CONTROLBAR:ToolTipGoblinKingPoisonedStinger
-"Gereken Seviye: 6 \n Sadece akrep üstündeyken kullanýlabilir \n Hedeflenen birimler sersemler ve zamanla zehirlenirler \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 6 \n Sadece akrep üstündeyken kullanýlabilir \n Hedeflenen düþman 25 saniye boyunca zehirlenir \n Hedeflenen kahramanlar 6 saniyeliðine felç olur\n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 
@@ -30307,7 +30268,7 @@ CONTROLBAR:TooltipWildShelobInstillTerror
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWildShelobTunnel
-"Gereken Seviye: 10 \n Shelob yer altý tüneline kaçar ve haritanýn açýk herhangi bir yerine çýkabilir \n Önce simgeye sonra hedeflenen yere sol týklayýn"
+"Gereken Seviye: 7 \n Shelob yer altý tüneline kaçar ve haritanýn açýk herhangi bir yerine çýkabilir \n Önce simgeye sonra hedeflenen yere sol týklayýn"
 END
 
 CONTROLBAR:SpecialAbilityFireDrakeInferno
@@ -30351,7 +30312,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireflight
 END
 
 CONTROLBAR:ToolTipHourOfTheWitchKing
-"Gereken Seviye: 10 \n Hedeflenen düþmanýn özel yetenek süreleri donar \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 10 \n Etki alanýndaki hedeflenen kahramanýn özel yetenek süreleri %60 oranýnda donar \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipThunderBolt
@@ -30600,9 +30561,7 @@ CONTROLBAR:HeroToggleHorse
 "Karaman ata biner"
 End
 
-CONTROLBAR:Leadership
-"Liderlik"
-End
+
 
 CONTROLBAR:Invulnerability_Level1
 "Dokunulmazlýk Seviye I"
@@ -30769,7 +30728,7 @@ CONTROLBAR:ToolTipActivateFireShip
 End
 
 CONTROLBAR:ToolTipBarbedArrows
-"Verilen hasarý arttýrýr"
+"Gereken Seviye: 3 \n Verilen hasarý arttýrýr \n Önce simgeye sonra hedefe sol týklayýn"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
@@ -30931,7 +30890,7 @@ CONTROLBAR:ToolTipSharkuWargMount
 End
 
 CONTROLBAR:ToolTipShelobWebbing
-"Düþman birimleri aðlarýn içinde sakatlanýrlar"
+"Gereken Seviye: 10 \n Düþman birimleri aðlarýn içinde sakatlanýrlar \n Shelob, verdiði hasar kadar iyileþir"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityBatCloud
@@ -30963,7 +30922,7 @@ CONTROLBAR:ToolTipToggleThranduilWeapons
 End
 
 CONTROLBAR:ToolTipToggleTowerGuardLineToPorcupineFormation
-"Birimler, mýzrak uçlarý dýþarý gelecek þekilde toplanýrlar"
+"Birimler, mýzrak uçlarý dýþarý gelecek þekilde toplanýrlar \n +%60 Zýrh kazanýrlar \n Düþman süvarileri ezme saldýrýsý yaparken yavaþlar"
 End
 
 CONTROLBAR:ToolTipToggleTowerGuardPorcupineToLineFormation
@@ -30979,7 +30938,7 @@ CONTROLBAR:ToolTipWildMountainGiantStomp
 End
 
 CONTROLBAR:ToolTipWildShelobPoisonedStinger
-"Gereken Seviye: 6 \n Düþman zamanla zehirlenir"
+"Gereken Seviye: 6 \n Düþman 30 saniye boyunca zehirlenir \n Hedeflenen kahramanlar 6 saniyeliðine felç olur"
 End
 
 CONTROLBAR:ToolTipWitchKingDismount
@@ -30987,7 +30946,7 @@ CONTROLBAR:ToolTipWitchKingDismount
 End
 
 CONTROLBAR:ToolTipWitchKingDreadVisage
-"Gereken Seviye: 2 \n Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Pasif yetenek"
+"Gereken Seviye: 2 \n Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Düþmanýn liderlik bonusu sýfýrlanýr \n Pasif yetenek"
 End
 
 CONTROLBAR:ToolTipWitchKingMount
@@ -31008,7 +30967,7 @@ End
 
 
 CONTROLBAR:TooltipIvoryTowerVision
-"Tüm haritayý 30 saniyeliðine açar"
+"Tüm haritayý 30 saniyeliðine açar \n Haritadaki birimler +%10 Hýz kazanýr"
 End
 
 CONTROLBAR:TooltipRoar
@@ -31018,7 +30977,7 @@ End
 
 
 CONTROLBAR:TooltipSpecialAbilityDwarvenDemolisherDeploy
-"Zýrhý arttýrýr ancak Yok Edici hareket edemez"
+"Zýrhý iki kat arttýrýr ancak Yok Edici hareket edemez"
 End
 
 CONTROLBAR:TooltipSpecialAbilityOilBarrels
@@ -31502,7 +31461,7 @@ OBJECT:DwarvenLoneTower
 End
 
 OBJECT:DwarvenLoneTowerDescription
-"Yakýndaki düþmanlara balta fýrlatýr"
+"Yakýndaki düþmanlara saldýrýr \n Gizlenen düþmanlarý ortaya çýkarýr \n Kaledeki çeþitli geliþtirmeler uygulanabilir"
 End
 
 OBJECT:DwarvenMagicDoor
@@ -31619,10 +31578,6 @@ End
 
 OBJECT:ElvenTransportShip
 "Elf Taþýma Gemisi"
-End
-
-OBJECT:ElvenBombardShip
-"Elf Bombardýman Gemisi"
 End
 
 OBJECT:ElvenBattleShip
@@ -32645,7 +32600,7 @@ OBJECT:ShireWorkPit
 End
 
 OBJECT:SignalFireDescription
-"Güç dolum sürelerini hýzlandýrmak için ele geçirin"
+"Güç dolum sürelerini hýzlandýrmak için ele geçirin \n Yakýndaki Kahramanlarý ve uçan birimleri iyileþtirir"
 End
 
 OBJECT:SkullTotem
@@ -34060,7 +34015,7 @@ CONTROLBAR:Trollfindgoblintothrow
 END
 
 CONTROLBAR:ToolTipTrollfindgoblintothrow
-"Düþmanlara fýrlatmak için bir Goblin bulur"
+"Düþmanlara fýrlatmak için bir Goblin bulur \n Hasar verir ve korku saçar"
 END
 
 OBJECT:NaturesWrath
@@ -38107,10 +38062,6 @@ DIALOGEVENT:MTrBas_OffT012subtitle
 "*Birden fazla taburu hýzlý bir þekilde seçmek için, boþ alana sol fare tuþunu basýlý tutun ve farenizi sürükleyin. Bir seçim kutusu görünecek ve bu kutuda bulunan birimler sizin için seçilecektir."
 END
 
-DIALOGEVENT:MTrBas_OffT013subtitle
-"*Seçim kutusu yöntemini kullanarak sahne ýþýklarýndaki taburlarý seçin."
-END
-
 DIALOGEVENT:MTrBas_OffT014subtitle
 "*Aferin! Þimdi, bu birimleri seçili durumdayken yere sað týklayarak ilerideki spot ýþýðýna taþýyýn."
 END
@@ -38359,10 +38310,6 @@ DIALOGEVENT:MTrBas_OffT072subtitle
 "*And lastly, we’ll need a Hero to lead our troops. Heroes can be purchased from the Fortress. And if your Hero should fall in battle, they can be revived from the fortress as well."
 END
 
-DIALOGEVENT:MTrBas_OffT073subtitle
-"*Bir Kahraman çaðýrmak için kalenizi seçin ve Kahramanlar düðmesine týklayýn. Bu, oluþturmanýza izin verilen tüm mevcut Kahramanlarýn seçeneklerini getirecektir. Þu anda Boromir kalemizde ikamet ediyor."
-END
-
 DIALOGEVENT:MTrBas_OffT074subtitle
 "*Onu çaðýrmak için portresine týklayýn."
 END
@@ -38515,10 +38462,6 @@ DIALOGEVENT:MTrAdv_OffT027subtitle
 "*\"Attack Move\" emri vermek için ordunuzu seçin ve klavyenizdeki A tuþuna basýn. Bu, imlecinizi bir Saldýrý Hareketi imlecine dönüþtürecektir."
 END
 
-DIALOGEVENT:MTrAdv_OffT028subtitle
-"*Daha sonra kampýn arkasýndaki spot ýþýðýnda yere sað týklayýn. Bu, ordunuzu o noktaya kadar yýkým yoluna gönderecek ve karþýlaþtýklarý her düþmaný öldürecektir."
-END
-
 DIALOGEVENT:MTrAdv_OffT029subtitle
 "*Görünüþe göre bazý Goblinler o duvarýn üzerinden çekilmiþ. Ne yazýk ki Goblinler duvarlara týrmanarak týrmanabiliyor ama biz bunu yapamýyoruz. O duvarlarý hýzla yýkacak kuþatma silahlarýmýz da yok."
 END
@@ -38527,60 +38470,12 @@ DIALOGEVENT:MTrAdv_OffT030subtitle
 "*Daha fazla ilerlememize yardýmcý olmak için daha büyük güçlere baþvurmamýz gerekecek."
 END
 
-DIALOGEVENT:MTrAdv_OffT031subtitle
-"*Palantir'de bulunan Evenstar simgesinden satýn alýnabilecek güçlerin bir listesi emrinizdedir. Þimdi Evenstar simgesine týklayýn."
-END
-
-DIALOGEVENT:MTrAdv_OffT032subtitle
-"*Gördüðünüz gibi tüm güçler kademelidir, bu da daha pahalý olanlara eriþmek için daha düþük maliyetli güçleri satýn almanýz gerektiði anlamýna gelir."
-END
-
-DIALOGEVENT:MTrAdv_OffT033subtitle
-"*Bir güç satýn alabilmeniz için, o güce iliþkin sayýya eþit veya daha fazla güç puanýna sahip olmanýz gerekir."
-END
-
-DIALOGEVENT:MTrAdv_OffT034subtitle
-"*Devam edin ve Ok Yaylýmý ve Deprem gücünü satýn alýn. Þu anda satýn alýnabilecek tek kiþiler bunlar."
-END
-
 DIALOGEVENT:MTrAdv_OffT035subtitle
 "*Çýkmak için ekranýn alt kýsmýndaki Kabul Et düðmesine týklayýn."
 END
 
-DIALOGEVENT:MTrAdv_OffT036subtitle
-"*Her yeni güç satýn aldýðýnýzda, ekranýnýzýn sol tarafýnda, Palantir'in hemen üzerinde görünecektir."
-END
-
-DIALOGEVENT:MTrAdv_OffT037subtitle
-"*Þimdi savaþa dönelim. Öncelikle duvarýn diðer tarafýndan bizimle alay eden Goblinleri alt edelim. Arrow Volley gücüne sol týklayýn ve imlecinizi goblinlerin üzerine getirin."
-END
-
-DIALOGEVENT:MTrAdv_OffT038subtitle
-"*Gücü kullanmak için yere sol týklayýn."
-END
-
-DIALOGEVENT:MTrAdv_OffT039subtitle
-"*To cast the power, left click on the ground."
-END
-
-DIALOGEVENT:MTrAdv_OffT040subtitle
-"*Bu onlara iyi geldi! Ok Yaylýmý gibi belirli güçlerin yalnýzca sizin görebileceðiniz alanlarda kullanýlabileceðini unutmayýn."
-END
-
 DIALOGEVENT:MTrAdv_OffT041subtitle
 "*Þimdi bu duvarý aþmamýz gerekiyor. Ne yazýk ki kapý bakýma muhtaç ve açýlamýyor, bu yüzden bu duvarlarý yýkmamýz gerekecek."
-END
-
-DIALOGEVENT:MTrAdv_OffT042subtitle
-"*Depremin gücü bu duvarlara önemli miktarda hasar verecek ve yolumuzu açmaya yetecek."
-END
-
-DIALOGEVENT:MTrAdv_OffT043subtitle
-"*Þimdi Deprem gücüne sol týklayýn ve onu kullanmak için o duvarlarýn altýna sol týklayýn."
-END
-
-DIALOGEVENT:MTrAdv_OffT044subtitle
-"*Þimdi Deprem gücüne sol týklayýn ve bu duvarlarýn altýna sað týklayarak onu kullanýn."
 END
 
 DIALOGEVENT:MTrAdv_OffT045subtitle
@@ -38637,10 +38532,6 @@ END
 
 DIALOGEVENT:MTrAdv_OffT057subtitle
 "*Planýnýz hazýrlandýðýnda, yürütme düðmesine basýn; ordunuz emirleriyle birlikte ilerleyecektir."
-END
-
-DIALOGEVENT:MTrAdv_OffT058subtitle
-"*Biz kazanýyoruz Efendim ama onlarýn kalesi ordumuzu öldürüyor. Deprem gücünüzü Kalelerinde tekrar kullanýn, böylece savunmalarý çökertilir!"
 END
 
 DIALOGEVENT:MTrAdv_OffT059subtitle
@@ -39146,7 +39037,7 @@ OBJECT:DwarvenWallHub
 END
 
 ///Debuff
-///"Düþman birimleri %75 Zýrh ve %75 Hasar Verme kaybederler"
+///"Düþman birimleri -%25 Zýrh ve -%25 Hasar Verme kaybederler"
 ///END
 
 ///Buff
@@ -42012,10 +41903,6 @@ CONTROLBAR:ToolTipCAH_ShieldCrush_L3
 "Kahraman düþmanlarý ezebilir ve orta süre oklardan etkilenmez"
 End
 
-CONTROLBAR:HeroToggleHorse
-"Kahramanýn ata binebilmesini saðlar"
-End
-
 CONTROLBAR:ToolTipCAH_Starlight
 "Yakýndaki müttefiklerin saðlýklarý artar ve \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar"
 End
@@ -43253,7 +43140,7 @@ CONTROLBAR:CAHBladeMaster
 END
 
 CONTROLBAR:CAHElendil
-"&Elendil"
+"Elendil [&V]"
 END
 
 CONTROLBAR:CAHKingsFavor
@@ -44101,7 +43988,6 @@ GUI:NATNotReady
 "Baðlantý devam ediyor veya baðlantý sorunu tespit edildi. Lütfen her oyuncunun baðlantýsýný kontrol edip yeniden deneyebileceðiniz Baðlantýlar düðmesine týklayýn."
 END
 
-
 /////////////////////////////////////
 /// Last minute campaign updates  ///
 /////////////////////////////////////
@@ -44172,7 +44058,7 @@ OBJECT:ArgonathStatues
 END
 
 OBJECT:HearthWellDescription
-"Saldýrý olmadýðýnda yakýndaki müttefiklerin saðlýðý artar"
+"Saldýrý olmadýðýnda yakýndaki müttefiklerin saðlýðý artar \n Her 10 sn'de bir birimi diriltir \n Gizlenenleri ortaya çýkarýr"
 END
 
 CONTROLBAR:FireWeaponMightyCatapult
@@ -45089,10 +44975,6 @@ CREDITS:MPEGNotice
 "MPEG Layer-3 audio coding technology licensed from \n Fraunhofer IIS and THOMSON multimedia."
 END
 
-CREDITS:Miles
-"Miles Ses Sistemini kullanýr."
-END
-
 
 CREDITS:DevelopmentTitle2
 "The Battle for Middle-earth(tm) II"
@@ -45751,7 +45633,7 @@ CONTROLBAR:ToolTipBuildGondorFighterHorde
 "Mýzrakçýlara ve Kaynak Binalarýna karþý güçlü"
 END
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
-"Kaynak Binalarýna karþý güçlü"
+"Kaynak Binalarýna karþý güçlü \n Birlik Bonusu: \n Orklarýn sayýsý 70'i geçince +33% Hasar Verme ve +%20 Hýz kazanýrlar, -%10 Delinme Direnci kaybederler"
 END
 CONTROLBAR:ToolTipBuildMordorCorsairHorde
 "Mýzrakçýlara ve Binalara karþý güçlü"
@@ -45764,7 +45646,7 @@ CONTROLBAR:ToolTipBuildIsengardUrukHai
 "Mýzrakçýlara ve Binalara karþý güçlü"
 END
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
-"Piyadelere karþý güçlü\n Oklara karþý dirençli"
+"Piyadelere karþý güçlü"
 END
 CONTROLBAR:ToolTipBuildIsengardWildmanHorde
 "Piyadelere ve Binalara karþý güçlü"
@@ -45785,7 +45667,7 @@ CONTROLBAR:ToolTipBuildElvenLorienArcherHordeWithNoPrerequisites
 "Piyadelere karþý güçlü \n Aðaçlarýn yanýnda gizlenirler"
 END
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde
-"Piyadelere karþý güçlü"
+"Piyadelere karþý güçlü \n Birlik Bonusu: \n Orklarýn sayýsý 70'i geçince +%33 Hasar Verme ve +%20 Hýz kazanýrlar, -%10 Delinme Direnci kaybederler"
 END
 CONTROLBAR:ToolTipBuildMordorHaradrimHorde
 "Piyadelere ve Canavarlara karþý güçlü"
@@ -45930,19 +45812,15 @@ CONTROLBAR:ToolTipHeal
 END
 
 CONTROLBAR:TooltipRallyingCall
-"Hedeflenen müttefikler +%50 Hasar Verme kazanýr \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
+"Hedeflenen müttefikler +%50 Hasar Verme ve +%50 daha hýzlý tecrübe kazanýrlar \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
 END
 
 CONTROLBAR:TooltipDwarvenRiches
 "Seçilen binanýn kaynak geliri geçici olarak %300 artar \n Önce simgeye sonra hedeflenen kaynak binasýna sol týklayýn"
 END
 
-CONTROLBAR:ToolTipTaint
-"Arazinin belli bir alanýný kirletir \n Tüm müttefiklere +%50 Zýrh kazandýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
-END
-
 CONTROLBAR:TooltipPalantirVision
-"Düþman kuvvetleri arasýnda casusluk yapmayý saðlar\n\n Hedeflenen alandaki birimlere geçici olarak Hýz kazandýrýr"
+"Düþman kuvvetleri arasýnda casusluk yapmayý saðlar \n Hedeflenen alandaki birimler geçici olarak +15% Hýz kazanýrlar \n Yýðýlabilir \n\n Hedeflenen alandaki birimlere geçici olarak Hýz kazandýrýr"
 END
 
 CONTROLBAR:TooltipFarSeeing
@@ -45950,44 +45828,29 @@ CONTROLBAR:TooltipFarSeeing
 END
 
 CONTROLBAR:TooltipFarSight
-"Düþman kuvvetleri arasýnda casusluk yapmayý saðlar\n\n Hedeflenen alandaki birimlere geçici olarak Menzil kazandýrýr\n\n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Düþman kuvvetleri arasýnda casusluk yapmayý saðlar\n\n Hedeflenen alandaki birimlere geçici olarak +%35 Menzil kazandýrýr \n Yýðýlabilir \n\n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 // +++++++++++++++++++++++++++++++++++++++++++MEN OF THE WEST+++++++++++++++++++++++++++++++++++++++++++
 
 //Powers
 
-CONTROLBAR:ToolTipBoromirLeadership
-"Gereken Seviye: 5 \n Boromir'in yanýndaki müttefikler \n +%50 Hasar Verme kazanýrlar"
-END
-
-CONTROLBAR:ToolTipAragornLeadership
-"Gereken Seviye: 4 \n Aragorn'un yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek    Yýðýlabilir"
-END
-
-CONTROLBAR:ToolTipEomerLeadership
-"Éomer'in yanýndaki süvariler +%50 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
-END
-
 CONTROLBAR:ToolTipGandalfLeadership
-"Gandalf'ýn yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlabilir"
+"Gandalf'ýn yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
+
 
 //Fortress upgrades
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
-"Kalenin yanýndaki müttefikler +%25 Zýrh ve \n %25 daha hýzlý tecrübe kazanýrlar \n Kahraman maliyetlerini 10% azaltýr \n Kahraman çaðrýlma sürelerini 10% azaltýr \n Ýþçi maliyetlerini 20% azaltýr"
+"Kalenin yanýndaki müttefikler +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n Yýðýlabilir \n Kahraman maliyetlerini %10 azaltýr \n Kahraman çaðrýlma sürelerini %10 azaltýr \n Ýþçi maliyetlerini %20 azaltýr \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Yakýndaki müttefikleri iyileþtirir \n Kahraman maliyetlerini %20 azaltýr \n Kahraman çaðrýlma sürelerini 20% azaltýr"
+"Yakýndaki müttefikleri iyileþtirir \n Her 6.5 sn'de bir birimi diriltir \n Kahraman diriltme maliyetini %5 azaltýr \n Kahraman çaðrýlma maliyetini 5% azaltýr \n Kahraman dirilme sürelerini 15% azaltýr \n Kaleye ek saðlýk ekler \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 //Buildings
-
-OBJECT:HeroicStatueDescription
-"Heykelin yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n \n Yönetme puaný sýnýrýný 10 arttýrýr"
-END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGondorBasicTraining
 "Birliklerde Sancaktar geliþtirmesinin satýn alýnmasýna izin verir \n Erler için Kalkan Duvarý düzenine izin verir"
@@ -46034,7 +45897,7 @@ CONTROLBAR:ToolTipHornofGondor
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
-"Gereken Seviye: 5 \n Boromir'in yanýndaki müttefikler \n +%50 Hasar Verme kazanýrlar \n \n Pasif yetenek"
+"Gereken Seviye: 5 \n Boromir'in yanýndaki müttefikler \n +%50 Hasar Verme ve +%25 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:CaptainofGondorBoromir
@@ -46057,11 +45920,11 @@ CONTROLBAR:GloriousCharge
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
-"Théoden'in yanýndaki müttefikler \n +%50 Hasar Verme kazanýr \n \n Pasif yetenek"
+"Théoden'in yanýndaki müttefikler \n +%50 Hasar Verme ve +%25 daha hýzlý tecrübe kazanýr \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipGloriousCharge
-"Gereken Seviye: 5 \n Théoden ve yanýndaki süvariler sadece %10 hasar alýrlar \n Théoden at üstünde olmalýdýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 7 \n Théoden ve yanýndaki süvariler +%80 Zýrh ve +%25 Hasar Verme kazanýr, düþmaný ezerken yavaþlamazlar \n Théoden at üstünde olmalýdýr \n Bu etkiler engellenemez ve yýðýlabilir \n Etkinleþtirmek için sol týklayýn"
 END
 
 //Eowyin
@@ -46083,7 +45946,7 @@ CONTROLBAR:ToolTipEowynMount
 END
 
 CONTROLBAR:ToolTipSmite
-"Tek bir hedefe karþý güçlü uzun menzilli saldýrý \n Özellikle uçan canavarlara karþý etkilidir\n\nÖnce simgeye sonra hedefe sol týklayýn"
+"Güçlü uzun menzilli saldýrý \n Kötü ýrklarýn kahramanlarýna karþý daha etkilidir \n Özellikle Kanatlý Tayflara karþý etkilidir\n\nÖnce simgeye sonra hedefe sol týklayýn"
 END
 
 //Faramir
@@ -46116,11 +45979,11 @@ CONTROLBAR:ThrowSpear
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Gereken Seviye: 3 \n Éomer'in yanýndaki süvariler \n +%50 Zýrh kazanýrlar \n \n Pasif yetenek"
+"Gereken Seviye: 3 \n Éomer'in yanýndaki süvariler \n iki kat Zýrh kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipThrowSpear
-"Güçlü uzun menzilli saldýrý \n Önce simgeye sonra hedefe sol týklayýn"
+"Güçlü uzun menzilli saldýrý \n Mûmakile karþý etkilidir \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 //Aragorn
@@ -46142,11 +46005,11 @@ CONTROLBAR:Oathbreakers
 END
 
 CONTROLBAR:TooltipBladeMaster
-"Gereken Seviye: 2 \n Aragorn +%100 Hasar Verme ve +%50 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 2 \n Aragorn +%100 Hasar Verme ve iki kat Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipAragornLeadership
-"Gereken Seviye: 4 \n Aragorn'un yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
+"Gereken Seviye: 4 \n Aragorn'un yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n Yýðýlabilir \n \n Pasif yetenek"
 END
 
 //Gandalf
@@ -46186,43 +46049,20 @@ CONTROLBAR:ToolTipMenLongShotAbility
 End
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"Bu eklentinin uygulanabilmesi için Kýþlada Sancaktar geliþtirmesinin araþtýrýlmasý gerekir \n \n +%25 Zýrh, -%40 Hýz"
+"Bu eklentinin uygulanabilmesi için Kýþlada Sancaktar geliþtirmesinin araþtýrýlmasý gerekir \n \n +%20 Zýrh, +%25 Oklara karþý direnç, -30% Hýz"
 END
 
 // +++++++++++++++++++++++++++++++++++++++++++ELVES+++++++++++++++++++++++++++++++++++++++++++
 
 //Powers
 
-CONTROLBAR:ToolTipElrondFarsight
-"Haritanýn bir bölgesini ortaya çýkartýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
-END
-
-CONTROLBAR:ToolTipElrondRestoration
-"Gereken Seviye: 7 \n Yakýndaki müttefiklerin saðlýðýný yeniler ve özel yetenek sürelerini sýfýrlar \n Etkinleþtirmek için sol týklayýn"
-END
-
-CONTROLBAR:TooltipElrondWhirlwind
-"Gereken Seviye: 10 \n Savaþ alanýna yýkýcý bir hortum çaðýrýr  \n Önce simgeye sonra hedeflenen alana sol týklayýn"
-End
-
-CONTROLBAR:ToolTipPersonalFlood
-"Gereken Seviye: 4 \n Düþmanlara hasar veren ve yangýnlarý söndüren bir sel çaðýrýr \n Özellikle süvarilere karþý etkilidir \n\nÖnce simgeye sonra hedefe sol týklayýn"
-END
-
-CONTROLBAR:ToolTipHaldirGoldenArrow
-"Gereken Seviye: 9 \n Iþýktan korkan birimleri sersemleten ve yüksek derecede hasar veren saldýrý \n Önce simgeye sonra hedefe sol týklayýn" 
-END
 
 CONTROLBAR:ToolTipGlorfindelStarlight
-"Gereken Seviye: 10 \n Yakýndaki müttefiklerin saðlýðý artar, \n +%50 Hasar Verme ve +%50 Zýrh kazanýrlar \n \n Etkinleþtirmek için sol týklayýn" 
+"Gereken Seviye: 10 \n Yakýndaki müttefiklerin saðlýðý artar, \n +%50 Hasar Verme ve iki kat Zýrh kazanýrlar \n Liderlik bonusu saðlar \n Diðer Zýrh kazandýran liderliklerle yýðýlamaz \n Iþýktan etkilenen birimleri sersemletir \n Etkinleþtirmek için sol týklayýn" 
 END
 
 CONTROLBAR:ToolTipGlorfindelBladeOfPurity
-"Gereken Seviye: 3 \n Glorfindel +%100 Hasar Verme ve yayayken 10 saniyeliðine dokunulmazlýk kazanýr \n\n Etkinleþtirmek için sol týklayýn"
-END
-
-CONTROLBAR:TooltipElrondLeadership
-"Gereken Seviye: 3 \n Elrond'un yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlabilir"
+"Gereken Seviye: 3 \n Glorfindel +%50 Hasar Verme ve yayayken 10 saniyeliðine dokunulmazlýk kazanýr \n\n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipArrowWind
@@ -46234,7 +46074,7 @@ CONTROLBAR:ToolTipElvenCloakThranduil
 END
 
 CONTROLBAR:ToolTipDeadEye
-"Gereken Seviye: 4 \n Geçici olarak verdiði hasar ve atýþ sýklýðý artar \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 4 \n Geçici olarak verdiði hasar ve atýþ sýklýðý artar \n -15% Zýrh kaybeder \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipThranduilWildWalk
@@ -46264,7 +46104,7 @@ CONTROLBAR:ToolTipBuildElvenBarracksLevel3
 END
 
 OBJECT:ElvenHeroicStatueDescription
-"Heykelin yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n \n Yönetme puaný sýnýrýný 10 arttýrýr"
+"Heykelin yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n Yýðýlabilir \n \n Yönetme puaný sýnýrýný 10 arttýrýr"
 END
 
 //Arwen
@@ -46274,7 +46114,7 @@ CONTROLBAR:TooltipElvenGrace
 END
 
 CONTROLBAR:ToolTipPersonalFlood
-"Gereken Seviye: 4 \n Düþmanlara hasar veren ve yangýnlarý söndüren bir sel çaðýrýr \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 4 \n Düþmanlara hasar veren ve yangýnlarý söndüren bir sel çaðýrýr \n Özellikle süvarilere karþý etkilidir \n Kara Süvarilere karþý daha etkilidir \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 //Haldir
@@ -46288,12 +46128,14 @@ CONTROLBAR:HaldirGoldenArrow
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
-"Gereken Seviye: 7 \n Iþýktan korkan birimleri sersemleten ve yüksek derecede hasar veren saldýrý \n Önce simgeye sonra hedefe sol týklayýn" 
+"Gereken Seviye: 10 \n Yüksek oranda hasar verir \n Düþman birimlerini sersemletir \n Hayvan üzerindeki kahramanlara daha fazla hasar verir \n Sadece elinde yay varken kullanýlabilir \n Önce simgeye sonra hedefe sol týklayýn" 
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
-"Gereken Seviye: 4 \n Haldir'in yanýndaki müttefikler \n +%50 Hasar Verme kazanýr \n \n Pasif yetenek"
+"Gereken Seviye: 4 \n Haldir'in yanýndaki müttefikler \n +%50 Hasar Verme ve +%25 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
+
+
 
 // Glorfindel
 
@@ -46328,7 +46170,7 @@ CONTROLBAR:ArrowWind
 END
 
 CONTROLBAR:ToolTipKnifeFighter
-"Gereken Seviye: 6 \n Alternatif yakýn mesafe saldýrýsý \n +%20 Zýrh kazandýrýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 4 \n Alternatif yakýn mesafe saldýrýsý \n +%20 Zýrh kazandýrýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 
@@ -46346,7 +46188,7 @@ END
 // Elrond
 
 CONTROLBAR:ElrondFarsight
-"Uzak Gö&rüþ"
+"Uzak Görüþ [&T]"
 END
 
 CONTROLBAR:TooltipElrondLeadership
@@ -46362,7 +46204,7 @@ CONTROLBAR:ElrondRestoration
 END
 
 CONTROLBAR:ToolTipElrondRestoration
-"Gereken Seviye: 7 \n Yakýndaki müttefiklerin saðlýðýný yeniler ve özel yetenek sürelerini sýfýrlar \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 10 \n Yakýndaki müttefiklerin saðlýðýný %20 yeniler ve özel yetenek sürelerini sýfýrlar \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ElrondWhirlwind
@@ -46370,13 +46212,13 @@ CONTROLBAR:ElrondWhirlwind
 End
 
 CONTROLBAR:TooltipElrondWhirlwind
-"Gereken Seviye: 10 \n Savaþ alanýna yýkýcý bir kasýrga çaðýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Gereken Seviye: 5 \n Savaþ alanýna yýkýcý bir kasýrga çaðýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 End
 
 // Treebeard
 
 CONTROLBAR:ToolTipTreeBeardLeadership
-"Aðaçsakal'ýn yanýndaki müttefik Entler \n +%50 Zýrh, +%15 Hýz ve +%20 Menzil kazanýrlar \n \n Pasif yetenek"
+"Aðaçsakal'ýn yanýndaki müttefik Entler \n +%25 Zýrh, +%10 Hýz, \n +%20 Menzil ve +%25 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipBuildTreebeard
@@ -46389,19 +46231,19 @@ END
 
 
 OBJECT:DwarvenStatueDescription
-"Heykelin yanýndaki müttefikler \n +%50 Zýrh kazanýr \n Yönetme puaný sýnýrýný 10 arttýrýr"
+"Heykelin yanýndaki müttefikler \n iki kat Zýrh kazanýr \n Yönetme puaný sýnýrýný 10 arttýrýr"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
-"Heykelin yanýndaki müttefikler \n +%50 Zýrh kazanýr \n Kahraman maliyetlerini %10 azaltýr \n Kahraman çaðrýlma sürelerini 10% azaltýr \n Ýþçi maliyetlerini 20% azaltýr"
+"Heykelin yanýndaki müttefikler \n +%50 Zýrh ve +%25 daha hýzlý tecrübe kazanýrlar \n Kahraman maliyetlerini %10 azaltýr \n Kahraman çaðrýlma sürelerini %10 azaltýr \n Ýþçi maliyetlerini %20 azaltýr \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
-"+10% Daha Hýzlý Üretim \n Kuþatma Çekiçleri geliþtirmesini araþtýrmaya izin verir"
+"+%10 Daha Hýzlý Üretim \n Kuþatma Çekiçleri geliþtirmesini araþtýrmaya izin verir"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
-"+%25 Daha Hýzlý Üretim \n Mithril Zýrhý, Dövülmüþ Baltalar ve Alevli Atýþ geliþtirmelerini araþtýrmaya izin verir \n Savunucu Balta Kulesi ekler"
+"+%25 Daha Hýzlý Üretim \n Mithril Zýrhý, Dövülmüþ Baltalar ve Alevli Atýþ geliþtirmelerini araþtýrmaya izin verir \n Savunucu Balta Kulesi ekler \n Demirhane, kahramanlara, mýzrakçýlara ve süvarilere karþý +%20 Zýrh kazanýr"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
@@ -46413,15 +46255,15 @@ CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel3Upgrade
 End
 
 CONTROLBAR:ToolTipBlackArrows
-"Gereken Seviye: 2\n Hedeflenen düþmaný korkutur \n 3 kat hasar verir \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 2\n Hedeflenen düþmanlarý korkutur \n Mûmakile karþý daha etkilidir \n Kahramanlara daha fazla hasar verir \n Önce simgeye sonra hedefe sol týklayýn"
 End
 
 OBJECT:DwarvenHeroicStatueDescription
-"Heykelin yanýndaki müttefikler \n +%50 Zýrh kazanýr \n \n Yönetme puaný sýnýrýný 10 arttýrýr"
+"Heykelin yanýndaki müttefikler \n iki kat Zýrh kazanýr \n \n Yönetme puaný sýnýrýný 10 arttýrýr"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
-"+10% Daha Hýzlý Üretim \n Vadi Halkýný eðitmeye izin verir"
+"+%10 Daha Hýzlý Üretim \n Vadi Halkýný eðitmeye izin verir"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel3Upgrade
@@ -46461,11 +46303,11 @@ CONTROLBAR:SummonRoyalGuard
 END
 
 CONTROLBAR:ToolTipDainLeadership
-"Kral Dáin'in yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n 50% daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
+"Kral Dáin'in yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipMightyRage
-"Gereken Seviye: 4 \n Hedeflenen dost birimler \n+%20 Hýz ve +%25 Hasar Verme kazanýr\n Düþman birimlerin özellik bonuslarý geçersiz olur \n\n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
+"Gereken Seviye: 4 \n Hedeflenen dost birimler \n+%20 Hýz ve +%25 Hasar Verme kazanýr\n Bu bonuslar engellenemez ve yýðýlabilir\n Düþman birimlerin özellik bonuslarý geçersiz olur \n\n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
 END
 
 // Gimli
@@ -46483,15 +46325,15 @@ CONTROLBAR:Slayer
 END
 
 CONTROLBAR:ToolTipGimliLeadership
-"Gimli'nin yanýndaki müttefikler \n +%50 Zýrh kazanýr\n \n Pasif yetenek"
+"Gimli'nin yanýndaki müttefikler \n iki kat Zýrh kazanýr\n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipAxeThrow
-"Sýçratma hasarý veren güçlü uzun menzilli saldýrý \nÖzellikle süvarilere karþý etkilidir\n Önce simgeye sonra hedefe sol týklayýn"
+"Sýçratma hasarý veren güçlü uzun menzilli saldýrý \nÖzellikle süvarilere ve uçan yaratýklara karþý etkilidir\n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSlayer
-"Gereken Seviye: 5 \n Gimli iki kat Hasar Verme ve Hýz kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 5 \n Gimli +%50 Hasar Verme ve iki kat Hýz kazanýr, -%15 Yapýsal Zýrh kaybeder \n Etkinleþtirmek için sol týklayýn"
 END
 
 //====== Units
@@ -46505,11 +46347,11 @@ CONTROLBAR:ToolTipBuildDwarvenBattleWagon
 END
 
 CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier
-"Sancaðýn yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n Savaþta olmadýðýnda Savaþ Vagonunu yavaþça iyileþtirir \n Savaþ Vagonuna birkaç Falanks ekler"
+"Sancaðýn yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar \n Yýðýlabilir \n Savaþta olmadýðýnda Savaþ Vagonunu yavaþça iyileþtirir \n Savaþ Vagonuna birkaç Falanks ekler \n Gizlenen"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeHearth
-"Yakýndaki müttefikleri iyileþtirir \n Gizlenenleri ortaya çýkarýr"
+"Saldýrý altýnda olmadýklarýnda yakýndaki müttefikler iyileþir \n Gizlenenleri ortaya çýkarýr"
 End
 
 CONTROLBAR:ToolTipBuildDwarvenDemolisher
@@ -46529,7 +46371,7 @@ CONTROLBAR:ToolTipBuildIsengardExplosiveMine
 END
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
-"Ok Mancýnýðý üretmeye izin verir \n +10% Daha Hýzlý Üretim"
+"Ok Mancýnýðý üretmeye izin verir \n +%10 Daha Hýzlý Üretim"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel3
@@ -46539,7 +46381,7 @@ End
 //Powers
 
 CONTROLBAR:ToolTipWarChant
-"Hedeflenen müttefikler +%50 Hasar Verme kazanýr \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
+"Hedeflenen müttefikler +%40 Hasar Verme, +%10 Hýz ve +%50 daha hýzlý tecrübe kazanýrlar \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
 End
 
 CONTROLBAR:ToolTipIndustry
@@ -46551,27 +46393,27 @@ CONTROLBAR:ToolTipDevastation
 END
 
 CONTROLBAR:ToolTipTaint
-"Arazinin belli bir alanýný kirletir \n Tüm müttefiklere +%50 Zýrh kazandýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Arazinin belli bir alanýný kirletir \n Tüm müttefiklere iki kat Zýrh kazandýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:ToolTipEyeofSauron
-"Sauron'un Gözünü çaðýrýr \n Gizlenen birimleri ortaya çýkarýr \n Hedeflenen müttefikler +%25 Hasar Verme ve %25 daha hýzlý tecrübe kazanýrlar \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Sauron'un Gözünü çaðýrýr \n Gizlenen birimleri ortaya çýkarýr \n Hedeflenen müttefikler +%25 Hasar Verme, Zýrh ve %50 daha hýzlý tecrübe kazanýrlar \n Liderlik bonusu saðlar \n Yýðýlabilir \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:ToolTipDarkness
-"Geçici olarak tüm harita karanlýða bürünür \n Tüm müttefikler +%25 Hasar Verme, +%25 Zýrh ve %50 daha hýzlý tecrübe kazanýrlar \n Etkinleþtirmek için sol týklayýn"
+"Geçici olarak tüm harita karanlýða bürünür \n Müttefik birlikler +%50 Hasar Verme, +%33 Zýrh ve %50 daha hýzlý tecrübe kazanýrlar \n Canavarlar +%25 Hasar Verme, +33% Zýrh ve %50 daha hýzlý tecrübe kazanýrlar \n Yýðýlabilir \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSummonCrebain
-"Yakýndaki gizlenmiþ birimleri ortaya çýkarýr\n Tüm düþman birimleri %25 Hasar Verme ve %25 Zýrh kaybederler \n Önce simgeye sonra uygun yere sol týklayýn"
+"Yakýndaki gizlenmiþ birimleri ortaya çýkarýr\n Düþman birimleri %25 Hasar Verme ve %25 Zýrh kaybederler \n Düþmanýn liderlik bonusu sýfýrlanýr \n Önce simgeye sonra uygun yere sol týklayýn"
 END
 
 CONTROLBAR:ToolTipLurtzLeadership
-"Gereken Seviye: 5 \n Lurtz'un yanýndaki müttefikler \n +%50 Hasar Verme kazanýr \n \n Pasif yetenek"
+"Gereken Seviye: 5 \n Lurtz'un yanýndaki müttefikler \n +%50 Hasar Verme ve +%25 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
-"Gereken Seviye: 4 \n Düþman Kahramanýný olduðu yere çiviler \n Sadece elinde yay varken kullanýlabilir \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 4 \n Düþman Kahramanýný olduðu yere çiviler \n Uçan birimlere de hasar verebilir \n Sadece elinde yay varken kullanýlabilir \n Önce simgeye sonra hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
@@ -46579,15 +46421,15 @@ CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
 END
 
 CONTROLBAR:ToolTipGBloodHunt
-"Gereken Seviye: 4 \n Yakýndaki müttefik süvariler +%25 Hasar Verme, +%25 Zýrh ve %50 daha hýzlý tecrübe kazanýrlar\n Düþmanlarý ezerken daha az hýz kaybederler \n Pasif yetenek"
+"Gereken Seviye: 4 \n Yakýndaki müttefik süvariler +%25 Hasar Verme, +%25 Zýrh ve %50 daha hýzlý tecrübe kazanýrlar\n Müttefik süvarilerin düþmaný ezerken yaþadýklarý hýz kaybý azalýr\n Düþmanlarý ezerken daha az hýz kaybederler \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipDominate
-"Gereken Seviye: 8 \n Hedeflenen düþmaný geçici olarak kontrolünüze verir \n Önce simgeye sonra hedeflenen düþmanlara sol týklayýn"
+"Gereken Seviye: 7 \n Hedeflenen düþmaný geçici olarak kontrolünüze verir \n Önce simgeye sonra hedeflenen düþmanlara sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSharkuManEater
-"Gereken Seviye: 8 \n Hedeflenen düþman öldürüldüðünde Sharku'nun saðlýðý artar ve geçici olarak +%50 Hasar Verme ve +%50 Zýrh kazanýr \n Önce simgeye sonra hedeflenen düþmana sol týklayýn"
+"Gereken Seviye: 8 \n Hedeflenen düþman öldürüldüðünde Sharku'nun saðlýðý artar ve geçici olarak +%50 Hasar Verme ve iki kat Zýrh kazanýr \n Önce simgeye sonra hedeflenen düþmana sol týklayýn"
 END
 
 //=== Heroes
@@ -46640,7 +46482,7 @@ CONTROLBAR:TooltipEscape
 END
 
 CONTROLBAR:ToolTipVenomousWords
-"Düþman Zýrhýný ve Hasar Vermesini önemli ölçüde azaltýr \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
+"Düþman Hýzýný ve atýþ oranýný önemli ölçüde azaltýr\n Düþmanýn liderlik bonusu sýfýrlanýr \n Diðer bonus azaltan büyülerle yýðýlabilir \n Önce simgeye sonra hedeflenen birimlere sol týklayýn"
 END
 
 
@@ -46683,7 +46525,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyMordorBarbedArrows
 END
 
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
-"Davulcu Trolün yanýndaki müttefikler +%50 Zýrh kazanýr \n \n Pasif yetenek"
+"Davulcu Trolün yanýndaki müttefikler iki kat Zýrh ve +%25 daha hýzlý tecrübe kazanýrlar \n Maðara Trolleri, Dað Trolleri ve Saldýrý Trolleri +15% Zýrh, +15% daha hýzlý tecrübe kazanýrlar ve daha hýzlý iyileþirler \n Pasif yetenek"
 END
 
 //Structures
@@ -46745,11 +46587,11 @@ END
 
 
 CONTROLBAR:ToolTipBuildGoblinArcherHorde
-"Piyadelere karþý güçlü\nEzilmeye karþý dirençli"
+"Piyadelere karþý güçlü\nEzilmeye karþý dirençli \n Birlik Bonusu: \n Goblinlerin sayýsý 100'ü geçince +33% Hasar Verme ve +%25 Hýz kazanýrlar"
 END
 
 CONTROLBAR:ToolTipPoisonArrows
-"Düþmana zamanla hasar veren zehir uçlu oklar \nSüvarilere karþý güçlü\n\n Önce simgeye sonra hedefe sol týklayýn"
+"Düþmana zamanla hasar veren zehir uçlu oklar \n\n Önce simgeye sonra hedefe sol týklayýn"
 End
 
 CONTROLBAR:ToolTipBuildGoblinCaveTroll
@@ -46757,19 +46599,19 @@ CONTROLBAR:ToolTipBuildGoblinCaveTroll
 END
 
 CONTROLBAR:ToolTipGoblinKingBattleFrenzy
-"Gereken Seviye: 4 \n Goblin Kralý'nýn yanýndaki müttefikler \n +%25 Zýrh ve %25 daha fazla tecrübe kazanýrlar \n  \n Pasif yetenek"
+"Gereken Seviye: 4 \n Kahraman'ýn yanýndaki müttefikler \n +%25 Zýrh ve %25 daha fazla tecrübe kazanýrlar \n Yýðýlabilir \n Pasif yetenek"
 End
 
 CONTROLBAR:TooltipGoblinKingSkullTotem
-"Gereken Seviye: 2 \n Haritanýn yerleþtirilen yerini gösteren kafatasý totemi \n Yakýnda gizlenenleri ortaya çýkarýr ve yakýndaki müttefiklere +%50 Zýrh kazandýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Gereken Seviye: 2 \n Haritanýn yerleþtirilen yerini gösteren kafatasý totemi \n Yakýnda gizlenenleri ortaya çýkarýr ve yakýndaki müttefiklere iki kat Zýrh ve +%25 daha hýzlý tecrübe kazandýrýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderHorde
-"Seviye 2 Çatlak gerekir \n Süvarilere karþý güçlü"
+"Seviye 2 Çatlak gerekir \n Süvarilere ve Eðitim binalarýna karþý güçlü"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
-"Seviye 2: +10% Daha Hýzlý Üretim \n Yaðmacý Yarý-Trolleri eðitmeye izin verir"
+"Seviye 2: +%10 Daha Hýzlý Üretim \n Yaðmacý Yarý-Trolleri eðitmeye izin verir"
 END
 
 //------------------------------- Heroes
@@ -46869,7 +46711,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressFlamingMunitions
 END
 
 CONTROLBAR:TooltipWargRiderHowl
-"Warglar +%60 Hasar Verme kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Warglar +%65 Hasar Verme kazanýrlar, yapýlara ve mýzrakçýlara karþý -%15 Zýrh kaybederler \n Bu bonus etkisizleþtirilemez ve yýðýlabilir \n Etkinleþtirmek için sol týklayýn"
 END
 
 //========== Release Candidate 4 fixes
@@ -46879,7 +46721,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenForgedBlades
 END
 
 CONTROLBAR:DwarvenGuardianChargeAttack
-"Hücum [&E]"
+"Hücum [&R]"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
@@ -46887,7 +46729,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework
-"Kale ve surlarýn Zýrhýný arttýrýr \n Alevli Cephane için gereklidir"
+"Kale ve surlarýn Zýrhýný arttýrýr \n Ak Kule için gereklidir \n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
 
 CONTROLBAR:ToolTipOutlawLeadership
@@ -46895,11 +46737,11 @@ CONTROLBAR:ToolTipOutlawLeadership
 END
 
 CONTROLBAR:ElvenCloak
-"&Elf Pelerini"
+"Elf Pelerini [&C]"
 END
 
 CONTROLBAR:ChargeAttack
-"Hücum [&E]"
+"Hücum [&R]"
 END
 
 CONTROLBAR:ConstructRohanPeasant
@@ -46919,9 +46761,101 @@ CONTROLBAR:PersonalFlood
 END
 
 CONTROLBAR:ElvenGrace
-"Athelas [&C]"
+"Athelas [&R]"
 END
 
 GUI:PleaseSelectBuddy
 "Sohbet mesajý gönderilemedi. En az bir arkadaþ seçilmelidir."
+END
+
+// String lines for Patch 1.08
+
+CONTROLBAR:GrabPassengerTB
+"Merry veya Pippin'i Yakala"
+END
+
+CONTROLBAR:SpecialAbility_ShieldBubble
+"Büy&u Kalkaný"
+END
+
+CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
+"Büyücü tüm gücünü, ona hasar verebilecek tüm enerjileri emen Kalkana aktarýr \n Gandalf ayrýca geri püskürtülemez. \n 5 saniye sürer \n Etkinleþtirmek için sol týklayýn"
+END
+
+CONTROLBAR:Fire_pit
+"Ateþ Çukuru [&V]"
+END
+
+CONTROLBAR:TooltipFire_pit
+"Yakýndaki müttefikleri iyileþtiren kamp ateþi \n Her 5 sn'de bir birimi diriltir \n +5% Zýrh yýðýlma bonusu verir \n Gizlenenleri ortaya çýkarýr"
+END
+
+CONTROLBAR:FireWorks
+"Ha&vai Fiþeði Yak [&V]"
+END
+
+CONTROLBAR:ToolTipFireWorks
+"Merry yere bir Havai Fiþek koyup fitilini ateþler \n Etkinleþtirmek için sol týklayýn"
+End
+
+CONTROLBAR:FireWorks2
+"Havai Fiþeði Yak [&B]"
+END
+
+CONTROLBAR:ToolTipFireWorks2
+"Havai Fiþek geniþçe bir alandaki birimlere hasar verir \n Etkinleþtirmek için sol týklayýn"
+End
+
+CONTROLBAR:FireWorksObj
+"Havai Fiþek"
+END
+
+CONTROLBAR:HobbitFireCracker
+"Çatapat [&R]"
+END
+
+CONTROLBAR:ToolTipHobbitFireCracker
+"Kahraman küçük bir Çatapat fýrlatýr \n Önce simgeye sonra hedefe sol týklayýn"
+End
+
+CONTROLBAR:ToolTipHobbitFireCrackerMerry
+"Kahraman küçük bir Çatapat fýrlatýr \n Mûmakile karþý etkili \n Binalara karþý daha etkili \n Önce simgeye sonra hedefe sol týklayýn"
+End
+
+CONTROLBAR:ToolTipHobbitFireCrackerSam
+"Kahraman küçük bir Çatapat fýrlatýr \n Shelob'a karþý etkili \n Önce simgeye sonra hedefe sol týklayýn"
+End
+
+// String lines for Patch 1.09
+
+CONTROLBAR:GaladHealBTP
+"Galadrie&l'in Iþýðý"
+END
+
+CONTROLBAR:ToolTipGaladHeal
+"Galadriel'in etrafýndaki geniþçe bir alandaki tüm müttefikleri iyileþtirir \n Etkinleþtirmek için sol týklayýn"
+END
+
+CONTROLBAR:LadyOfLight
+"&Valar'ýn Iþýðý"
+END
+
+CONTROLBAR:TooltipLadyOfLight
+"Düþmanlarýn üzerine Valar'ýn ýþýðýný çaðýrýr"
+END
+
+CONTROLBAR:SpecialAbilityFiresOfDoom2
+"Kýyametin Üç Ateþini Çaðý&r"
+END
+
+CONTROLBAR:LoneTowerLeadershipUpgradeIcon
+"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Yakýndaki müttefiklere +%25 Hasar Verme ve +%25 daha hýzlý tecrübe kazandýrýr \n Yýðýlabilir"
+END
+
+CONTROLBAR:LoneTowerHealingUpgradeIcon
+"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Yakýndaki müttefikleri iyileþtirir \n Her 10 sn'de bir birimi diriltir"
+END
+
+CONTROLBAR:LoneTowerArmorUpgradeIcon
+"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Alýnan hasarý önemli ölçüde azaltýr"
 END

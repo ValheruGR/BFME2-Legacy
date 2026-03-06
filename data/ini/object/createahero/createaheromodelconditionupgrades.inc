@@ -138,7 +138,7 @@
 
 	//------------------------------------------------------------------------------------------------------
 	Behavior = ModelConditionUpgrade ModuleTag_AllFactionModelCondition
-		TriggeredBy					= Upgrade_AllFactionUpgrade
+	TriggeredBy					= Upgrade_MordorFaction Upgrade_GoblinFaction Upgrade_IsengardFaction ; ;  Upgrade_AllFactionUpgrade
 		AddConditionFlags			= PREORDER
 	End
 	

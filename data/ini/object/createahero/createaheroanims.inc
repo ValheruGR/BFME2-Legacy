@@ -285,6 +285,14 @@ AnimationState        = MOUNTED LEVELED	// This state clears itself in 3 of your
 	End
 End
 
+AnimationState        = MOUNTED RAISING_FLAG	// This state clears itself in 3 of your Earth seconds
+	Animation
+		AnimationName           = #(MODEL)_M_CHRA
+		AnimationMode		=	ONCE
+	End
+	Flags					=	RESTART_ANIM_WHEN_COMPLETE
+End
+
 // --- Attacking Anims		
 AnimationState				= FIRING_OR_PREATTACK_A MOUNTED	// Melee attack.
 	Animation
@@ -681,20 +689,20 @@ End
 		End
 		//---------------------End New style firing
 
-		//AnimationState					=	CONTINUOUS_FIRE_MEAN WEAPONSET_TOGGLE_1
-		//	Animation					=	HangFrameWhileCoasting
-		//		AnimationName			=	#(MODEL)_B_ATKA2
-		//		AnimationMode			=	MANUAL
-		//	End
-		//End
+		AnimationState					=	CONTINUOUS_FIRE_MEAN WEAPONSET_TOGGLE_1 ;;.;; uncommented
+			Animation					=	HangFrameWhileCoasting
+				AnimationName			=	#(MODEL)_B_ATKA2
+				AnimationMode			=	MANUAL
+			End
+		End
 		
-		//AnimationState						= CONTINUOUS_FIRE_SLOW WEAPONSET_TOGGLE_1
-		//	//StateName						= STATE_Idle_Bow
-		//	Animation						= PutAwayArrow
-		//		AnimationName				= #(MODEL)_U_ATKA3
-		//		AnimationMode				= ONCE
-		//	End
-		//End
+		AnimationState						= CONTINUOUS_FIRE_SLOW WEAPONSET_TOGGLE_1 ;;.;; uncommented
+			//StateName						= STATE_Idle_Bow
+			Animation						= PutAwayArrow
+				AnimationName				= #(MODEL)_U_ATKA3
+				AnimationMode				= ONCE
+			End
+		End
 				
 		//End New style firing
 		//---------------------------------------------------
@@ -757,6 +765,20 @@ End
 		End
 
 //------------ SPECIAL POWERS ------------------------------------------------------------------		
+
+		AnimationState		  =	THROWN_PROJECTILE
+			Animation
+				AnimationName =	#(MODEL)_U_LEP2
+				AnimationMode =	LOOP
+			End
+		End
+
+		AnimationState		  =	ABOUT_TO_HIT
+			Animation
+				AnimationName =	#(MODEL)_U_LEP3
+				AnimationMode =	ONCE
+			End
+		End
 
 		AnimationState				= SPECIAL_POWER_1							; Aragorn shouting Elendil anim
 			StateName				= STATE_ready
@@ -1095,6 +1117,28 @@ End
 			Flags					=	RESTART_ANIM_WHEN_COMPLETE
 		End
 		
+		// raise flag, w/ bow on foot
+		AnimationState				=	RAISING_FLAG WEAPONSET_TOGGLE_1
+			Animation 
+				AnimationName		=	#(MODEL)_B_CHRA
+				AnimationMode		=	ONCE
+			End
+			Flags					=	RESTART_ANIM_WHEN_COMPLETE
+		End
+
+		// cheer, on foot
+		AnimationState				=	RAISING_FLAG
+			Animation CHRA
+				AnimationName		=	#(MODEL)_U_CHRA #(MODEL)_U_TNTA
+				AnimationMode		=	ONCE
+			End
+			Animation CHRB
+				AnimationName		=	#(MODEL)_U_CHRB #(MODEL)_U_CHRA #(MODEL)_U_TNTA
+				AnimationMode		=	ONCE
+			End
+			Flags					=	RESTART_ANIM_WHEN_COMPLETE
+		End
+		
 		// taunt, mounted
 		AnimationState				=	EMOTION_TAUNTING MOUNTED
 			Animation 
@@ -1162,7 +1206,28 @@ End
 
 
 //====== ENGAGED
+		AnimationState				= ENGAGED WEAPONSET_TOGGLE_1
+			StateName				= STATE_ready
+			Animation
+				AnimationName		= #(MODEL)_B_IDLA
+				AnimationMode		= ONCE
+			End
+		End
 		AnimationState				= ENGAGED
+			StateName				= STATE_ready
+			Animation
+				AnimationName		= #(MODEL)_U_IDLA
+				AnimationMode		= ONCE
+			End
+		End
+		AnimationState				= BETWEEN_FIRING_SHOTS_A WEAPONSET_TOGGLE_1
+			StateName				= STATE_ready
+			Animation
+				AnimationName		= #(MODEL)_B_IDLA
+				AnimationMode		= ONCE
+			End
+		End
+		AnimationState				= BETWEEN_FIRING_SHOTS_A
 			StateName				= STATE_ready
 			Animation
 				AnimationName		= #(MODEL)_U_IDLA
@@ -1171,13 +1236,43 @@ End
 		End
 		
 // --- Idle Toggled
+
+		AnimationState = SELECTED WEAPONSET_TOGGLE_1
+			StateName				= STATE_Selected_Bow
+			Animation				= Selected_Loop
+				AnimationName		= #(MODEL)_B_ATNB
+				AnimationMode		= LOOP
+				AnimationBlendTime	= 10
+			End
+			BeginScript
+				Prev = CurDrawablePrevAnimationState()
+				if Prev == "STATE_Idle_Bow" then CurDrawableSetTransitionAnimState("TRANS_BoredToSelectedBow") end
+			EndScript
+			Flags = RESTART_ANIM_WHEN_COMPLETE
+		End
+
+		AnimationState = SELECTED
+			StateName				= STATE_Selected_Sword
+			Animation				= Selected_Loop
+				AnimationName		= #(MODEL)_U_ATNB
+				AnimationMode		= LOOP
+				AnimationBlendTime	= 10
+			End
+			BeginScript
+				Prev = CurDrawablePrevAnimationState()
+				if Prev == "STATE_Idle_Sword" then CurDrawableSetTransitionAnimState("TRANS_BoredToSelectedSword") end
+			EndScript
+			Flags = RESTART_ANIM_WHEN_COMPLETE
+		End
+
+
 		AnimationState				= WEAPONSET_TOGGLE_1
 			StateName				= STATE_Idle_Bow
 			Animation
 				AnimationName		=	#(MODEL)_B_IDLA
 				AnimationPriority	=	20
 				AnimationMode		=	ONCE
-				AnimationBlendTime	=	15
+				AnimationBlendTime	=	15s
 			End
 			Flags				=	RESTART_ANIM_WHEN_COMPLETE
 			BeginScript
