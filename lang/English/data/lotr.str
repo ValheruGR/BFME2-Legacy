@@ -5182,7 +5182,7 @@ END
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
 //-"Version %d.%02d"
-"BattleTest Patch v2.2 based on patch %d.%02d \n Patch by MaDDoX Tooltips by Rainmaker"
+"BattleTest2 DC v2.4 based on patch 1.06 \n Patch by MaDDoX Tooltips by Rainmaker"
 END
 
 Version:BuildTime
