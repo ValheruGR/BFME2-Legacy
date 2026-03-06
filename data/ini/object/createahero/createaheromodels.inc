@@ -15,6 +15,7 @@ ModelConditionState	= MOUNTED CREATE_A_HERO_00
 	ModelAnimationPrefix = CHHW_MW
 	PortraitImageName	 = CPCaptainofGondor
 	ButtonImageName		 = HICAHCaptainGondor
+	WeaponLaunchBone	 = PRIMARY ARROW
 End
 // CAPTAIN OF GONDOR -	Upgrade_CreateAHero_ClassHeroOfTheWest/Upgrade_CreateAHero_SubClass_2 (MOUNTED)
 ModelConditionState	= CREATE_A_HERO_00
@@ -23,6 +24,7 @@ ModelConditionState	= CREATE_A_HERO_00
 	ModelAnimationPrefix = CHHW_CG
 	PortraitImageName	 = CPCaptainofGondor
 	ButtonImageName		 = HICAHCaptainGondor
+	WeaponLaunchBone	 = PRIMARY SPEAR
 End
 // CAPTAIN OF GONDOR -	Upgrade_CreateAHero_ClassHeroOfTheWest/Upgrade_CreateAHero_SubClass_2 (Hero Creation Screen)
 ModelConditionState	= CREATE_A_HERO_01
@@ -41,6 +43,7 @@ ModelConditionState	= MOUNTED CREATE_A_HERO_02
 	ModelAnimationPrefix = CHHW_SM
 	PortraitImageName	 = CPShieldMaiden
 	ButtonImageName		 = HICAHShieldMaiden
+	WeaponLaunchBone	 = PRIMARY SPEAR
 End
 // Shield Maiden Upgrade_CreateAHero_ClassHeroOfTheWest_SubClass_1
 ModelConditionState	= CREATE_A_HERO_02
@@ -49,6 +52,7 @@ ModelConditionState	= CREATE_A_HERO_02
 	ModelAnimationPrefix = CHHW_SM
 	PortraitImageName	 = CPShieldMaiden
 	ButtonImageName		 = HICAHShieldMaiden
+	WeaponLaunchBone	 = PRIMARY SPEAR
 End
 // Shield Maiden Upgrade_CreateAHero_ClassHeroOfTheWest_SubClass_1 + Upgrade_CreateAHeroMapMode
 ModelConditionState	= CREATE_A_HERO_03
@@ -328,6 +332,7 @@ ModelConditionState	= CREATE_A_HERO_20
 	ModelAnimationPrefix = CHDW_DW
 	PortraitImageName	 = CPDwarfTaskmaster
 	ButtonImageName		 = HICAHDwarfTaskmaster
+	WeaponLaunchBone	= PRIMARY Axe02				; Needed for the WeaponFireSpecialAbility version as primary slot is used.
 	WeaponLaunchBone	= TERTIARY Axe02
 End
 // DWARF Taskmaster Upgrade_CreateAHeroMapMode Upgrade_CreateAHero_ClassDwarf_SubClass_0
@@ -337,6 +342,7 @@ ModelConditionState	= CREATE_A_HERO_21
 	ModelAnimationPrefix = CHDW_DW
 	PortraitImageName	 = CPDwarfTaskmaster
 	ButtonImageName		 = HICAHDwarfTaskmaster
+	WeaponLaunchBone	= PRIMARY Axe02				; Needed for the WeaponFireSpecialAbility version as primary slot is used.
 	WeaponLaunchBone	= TERTIARY Axe02
 End
 //--------------------------------------------------------------------------------------------------------------------------------------
@@ -347,6 +353,7 @@ ModelConditionState	= CREATE_A_HERO_22
 	ModelAnimationPrefix = CHDW_DW
 	PortraitImageName	 = CPDwarfSage
 	ButtonImageName		 = HICAHDwarfSage
+	WeaponLaunchBone	= PRIMARY Axe02				; Needed for the WeaponFireSpecialAbility version as primary slot is used.
 	WeaponLaunchBone	= TERTIARY Axe02
 End
 // DWARF Sage Upgrade_CreateAHeroMapMode Upgrade_CreateAHero_ClassDwarf_SubClass_1
@@ -356,6 +363,7 @@ ModelConditionState	= CREATE_A_HERO_23
 	ModelAnimationPrefix = CHDW_DW
 	PortraitImageName	 = CPDwarfSage
 	ButtonImageName		 = HICAHDwarfSage
+	WeaponLaunchBone	= PRIMARY Axe02				; Needed for the WeaponFireSpecialAbility version as primary slot is used.
 	WeaponLaunchBone	= TERTIARY Axe02
 End
 

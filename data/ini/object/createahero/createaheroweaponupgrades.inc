@@ -14,6 +14,7 @@ WeaponSet
 	Weapon				   = PRIMARY CreateAHeroBasicMeleeWeapon
 	Weapon				   = TERTIARY CreateAHeroAxeThrow
 	AutoChooseSources	   = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+	AutoChooseSources	   = TERTIARY NONE
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon1
 	TriggeredBy			   = Upgrade_CHW01
@@ -713,6 +714,7 @@ WeaponSet
 	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
 	Weapon			  = TERTIARY CreateAHeroAxeThrow
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
+	AutoChooseSources = TERTIARY NONE
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon31
 	TriggeredBy		= Upgrade_CHW31
@@ -733,6 +735,7 @@ WeaponSet
 	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
 	Weapon			  = TERTIARY CreateAHeroAxeThrow
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
+	AutoChooseSources = TERTIARY NONE
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon32
 	TriggeredBy		= Upgrade_CHW32

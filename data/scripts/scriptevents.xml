@@ -376,7 +376,6 @@
     <EventList Name="AragornFunctions" Inherit="BaseScriptFunctions">
 		<!-- This contains events specific to Boromir -->
         <EventHandler EventName="OnCreated"				ScriptFunctionName="OnAragornCreated" DebugSingleStep="false"/>
-        <EventHandler EventName="UsingSpecialOne"		ScriptFunctionName="RadiateTerror"	DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="FrodoFunctions" Inherit="BaseScriptFunctions">
@@ -418,7 +417,6 @@
         <EventHandler EventName="OnCreated"				ScriptFunctionName="OnCreateAHeroFunctions" DebugSingleStep="false"/>
         <EventHandler EventName="OnGenericEvent"		ScriptFunctionName="CreateAHeroHideEverything" DebugSingleStep="false"/>
         <EventHandler EventName="BeScary"				ScriptFunctionName="RadiateTerrorEx" DebugSingleStep="false"/>
-        <EventHandler EventName="UsingSpecialOne"		ScriptFunctionName="RadiateTerror"	DebugSingleStep="false"/>
     </EventList> 
     
 	<EventList Name="EvilShipFunctions" Inherit="BaseScriptFunctions">

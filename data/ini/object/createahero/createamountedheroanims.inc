@@ -72,6 +72,25 @@ AnimationState				=	MOUNTED STUNNED
 	End
 End
 
+// spear throw
+AnimationState		  =	MOUNTED SPECIAL_WEAPON_ONE
+	StateName		  =	Attacking
+	Animation
+		AnimationName =	#(MODEL)_M_SPCA
+		AnimationMode =	ONCE
+	End
+End
+
+// elendil
+AnimationState		  =	MOUNTED SPECIAL_POWER_1
+	Animation
+		AnimationName =	#(MODEL)_M_LVLA
+		AnimationMode =	LOOP
+	End
+	ParticleSysBone = B_HAND_R ElendilFlare FollowBone:yes
+	ParticleSysBone = B_HAND_R ElendilSwordFlare FollowBone:yes
+End
+
 
 AnimationState        = MOUNTED MOVING FIRING_OR_PREATTACK_A
 	ShareAnimation		= Yes

@@ -115,6 +115,7 @@
 			Animation						= Die
 				AnimationName				= GURanger_DIEA
 				AnimationMode				= ONCE
+
 			End
 		End
 
@@ -195,8 +196,8 @@
 			Animation						= ReadyToDrawn
 				AnimationName				= GURanger_ATKD1
 				AnimationMode				= ONCE
-//				UseWeaponTiming				= Yes			// UseWeaponTiming plus random weapon field equals desync.  Leaving as warning
-				AnimationSpeedFactorRange	= 1.5 1.5		// Therefore, this is all you get.  A slight speed up so that the animation can always finish before any possible random value Design sets the range for
+				UseWeaponTiming				= Yes			; ;// UseWeaponTiming plus random weapon field equals desync.  Leaving as warning
+				; ; AnimationSpeedFactorRange	= 1.5 1.5		// Therefore, this is all you get.  A slight speed up so that the animation can always finish before any possible random value Design sets the range for
 				AnimationBlendTime			= 10			
 			End
 			BeginScript
@@ -205,14 +206,15 @@
 			EndScript
 		End
 
+
 		AnimationState						= FIRING_OR_RELOADING_A
 			StateName						= STATE_Firing
 			Animation						= OneFrameOfShooting
 				AnimationName				= GURanger_ATKD2
 				AnimationMode				= ONCE
-//				UseWeaponTiming				= Yes			// UseWeaponTiming plus random weapon field equals desync.  Leaving as warning
-				AnimationSpeedFactorRange	= 1.0 1.0		// Therefore, this is all you get.  A slight speed up so that the animation can always finish before any possible random value Design sets the range for
-				AnimationBlendTime			= 0				// Must be 0 blend time otherwise the arrow will linger for the duration of the blend!
+				UseWeaponTiming				= Yes			; ;// UseWeaponTiming plus random weapon field equals desync.  Leaving as warning
+				; ; AnimationSpeedFactorRange	= 1.0 1.0	// Therefore, this is all you get.  A slight speed up so that the animation can always finish before any possible random value Design sets the range for
+				AnimationBlendTime			= 0			// Must be 0 blend time otherwise the arrow will linger for the duration of the blend!
 			End
 			BeginScript
 				CurDrawableShowSubObject("arrow")
@@ -299,6 +301,7 @@
 
 //-------- Persistant firing (keep bow drawn ) ------------
 		AnimationState					= CONTINUOUS_FIRE_MEAN
+
 			StateName					=	STATE_Firing
 			Animation					=	HangFrameWhileCoasting
 				AnimationName			=	GURanger_ATKD2
@@ -544,6 +547,7 @@
 		TransitionState       = TRANS_IdleToAttention
 			Animation           = ATNA
 				AnimationName     = GURanger_ATNC
+
 				AnimationMode     = ONCE
 			End
 		End

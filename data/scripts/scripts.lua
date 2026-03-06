@@ -680,6 +680,7 @@ end
 
 function OnFortressCreated(self)
 	ObjectHideSubObjectPermanently( self, "DBFBANNER", true )	
+	ObjectSetGeometryActive( self, "HighTowerGeom", false )
 end
 
 function OnGateWatcherBuilt(self)

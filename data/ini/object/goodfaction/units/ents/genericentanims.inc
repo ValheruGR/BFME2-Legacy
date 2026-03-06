@@ -71,6 +71,7 @@
 		AnimationState   = JUST_BUILT
 			StateName		= STATE_JustBuilt
 			Animation = Sprout
+
 				AnimationName = RUTreeberd_MOTC  ;sprout animation
 				AnimationMode = ONCE    ;MANUAL ;; hold first frame
 				AnimationBlendTime = 0
@@ -175,7 +176,41 @@
 
 			FrameForPristineBonePositions = 40
 		End
+; ;
+		AnimationState = RELOADING_B WEAPONSET_TOGGLE_1
+			Animation
+				AnimationName		= RUTreeberd_GRBA
+				AnimationMode		= ONCE
+				AnimationBlendTime	= 0													; Need this so the rock doesn't blend and slide.
+			End
+			FXEvent	= Frame:20	Name: FX_EntRockGrab
+			FXEvent	= Frame:24	Name: FX_EntRockYank			
+			BeginScript
+				CurDrawableShowSubObjectPermanently("ROCK")
+			EndScript
+		End
+		
+		AnimationState = FIRING_OR_PREATTACK_B AIM_NEAR WEAPONSET_TOGGLE_1				; Throw rock at feet
+			Animation = CloseRock
+				AnimationName		= RUTreeberd_THRC
+				AnimationMode		= ONCE
+				UseWeaponTiming		= Yes
+				;AnimationBlendTime = 0
+			End
 
+			FrameForPristineBonePositions = 39
+		End
+
+		AnimationState = FIRING_OR_PREATTACK_B WEAPONSET_TOGGLE_1						; Throw rock at far target
+			Animation = FarRock
+				AnimationName		= RUTreeberd_THRB
+				AnimationMode		= ONCE
+				UseWeaponTiming		= Yes
+				;AnimationBlendTime = 0
+			End
+
+			FrameForPristineBonePositions = 40
+		End
 
 		;--------------------------------------------------
 		;
@@ -256,6 +291,7 @@
 
 		AnimationState				= INITIAL_ENRAGED
 			StateName				= Enraged
+
 			Animation				= RUTreeBerd_MADA
 				AnimationName		= RUTreeBerd_MADA 
 				AnimationMode		= ONCE
@@ -401,6 +437,7 @@
 				AnimationMode				= LOOP
 				AnimationSpeedFactorRange	= 0.5 0.5
 				AnimationBlendTime			= 5
+
 				Distance					= 50
 			End
 			BeginScript

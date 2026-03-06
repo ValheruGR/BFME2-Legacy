@@ -28,6 +28,11 @@
       		Model = None
     	End
 		
+		; Higher version for tall towers.
+		ModelConditionState = ONE_RING BUILD_VARIATION_TWO
+			Model = EXOneRing_CR
+		End
+
 		ModelConditionState = ONE_RING
 			Model = EXOneRing
 		End

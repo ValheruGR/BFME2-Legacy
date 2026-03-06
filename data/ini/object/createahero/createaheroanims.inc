@@ -681,12 +681,12 @@ End
 		End
 		//---------------------End New style firing
 
-		AnimationState					=	CONTINUOUS_FIRE_MEAN WEAPONSET_TOGGLE_1
-			Animation					=	HangFrameWhileCoasting
-				AnimationName			=	#(MODEL)_B_ATKA2
-				AnimationMode			=	MANUAL
-			End
-		End
+		//AnimationState					=	CONTINUOUS_FIRE_MEAN WEAPONSET_TOGGLE_1
+		//	Animation					=	HangFrameWhileCoasting
+		//		AnimationName			=	#(MODEL)_B_ATKA2
+		//		AnimationMode			=	MANUAL
+		//	End
+		//End
 		
 		//AnimationState						= CONTINUOUS_FIRE_SLOW WEAPONSET_TOGGLE_1
 		//	//StateName						= STATE_Idle_Bow
@@ -698,6 +698,15 @@ End
 				
 		//End New style firing
 		//---------------------------------------------------
+
+		AnimationState				= FIRING_OR_PREATTACK_A WEAPONSET_TOGGLE_1
+			StateName				= STATE_Firing
+			Animation
+				AnimationName		= #(MODEL)_B_ATKA1
+				AnimationMode		= ONCE
+				UseWeaponTiming		= No			// UseWeaponTiming plus random weapon field equals desync.  Leaving as warning
+			End
+		End
 
 		AnimationState				= FIRING_OR_PREATTACK_A // Melee attack.
 			Animation
@@ -727,10 +736,24 @@ End
 		End
 
 		AnimationState = HIT_REACTION
-			Animation
+			Animation = Sword_HITA
 				AnimationName = #(MODEL)_U_HITA
 				AnimationMode = ONCE
 			End
+			Animation = Sword_HITB
+				AnimationName = #(MODEL)_U_HITB
+				AnimationMode = ONCE
+			End
+
+			BeginScript
+				PrevAnim = CurDrawablePrevAnimation()
+				if PrevAnim == "Foot_IDLB"
+				then
+					return "Sword_HITB"
+				else
+					return "Swort_HITA"
+				end
+			EndScript
 		End
 
 //------------ SPECIAL POWERS ------------------------------------------------------------------		
@@ -845,6 +868,14 @@ End
 			Animation		  =	LightningSwordPutAway
 				AnimationName =	#(MODEL)_U_SPCB #(MODEL)_U_ATKA
 				AnimationMode =	ONCE
+			End
+		End
+
+		// (specific) dwarf train allies.
+		AnimationState		  =	PACKING_TYPE_2 CREATE_A_HERO_20 CREATE_A_HERO_21
+			Animation
+				AnimationName =	#(MODEL)_U_SPCC
+				AnimationMode =	LOOP
 			End
 		End
 

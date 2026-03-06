@@ -549,8 +549,10 @@ Behavior = ModelConditionSpecialAbilityUpdate ModuleTag_ElendilUpdate
 	PersistentPrepTime      = 500							// Blowing
 	PackTime                = 2000							// Putting horn away
 	AwardXPForTriggering    = 0
-	//GenerateTerror			= Yes
-	//EmotionPulseRadius		= 100
+	
+	GenerateTerror			= Yes
+	EmotionPulseRadius		= 180
+	ObjectFilter			= ELENDIL_OBJECT_FILTER
 End
 
 
@@ -1913,7 +1915,7 @@ Behavior = AttributeModifierAuraUpdate ModuleTag_CreateAHeroInspireFearUpdate_Le
 	TargetEnemy		= Yes
 	AntiCategory	= LEADERSHIP BUFF; This means cancel all previous leadership bonuses
 	//AntiFX			= FX_AntiLeadership ; FX for anti category
-	ObjectFilter	= ANY +INFANTRY +CAVALRY -STRUCTURE -BASE_FOUNDATION -HERO -HORDE
+	ObjectFilter	= GENERIC_BUFF_RECIPIENT_OBJECT_FILTER
 End
 Behavior = ModelConditionUpgrade ModuleTag_CreateAHeroInspireFearModelCondition_Level1
 	TriggeredBy			= Upgrade_CreateAHeroInspireFear_Level1
@@ -1963,7 +1965,7 @@ Behavior = SpecialPowerModule ModuleTag_CreateAHeroHowlOfRageStarter_Level1
 	SpecialPowerTemplate	 = SpecialAbilityCreateAHeroHowlOfRage_Level1
 	AttributeModifier		 = GenericBuff20
 	AttributeModifierRange	 = CREATE_A_HERO_HOWL_OF_RAGE_RADIUS_L1
-	AttributeModifierAffects = ANY +INFANTRY +CAVALRY +MONSTER -HERO
+	AttributeModifierAffects = GENERIC_BUFF_RECIPIENT_OBJECT_FILTER
 	TriggerFX				 = FX_HowlofRage1
 	UpdateModuleStartsAttack = No
 	StartsPaused			 = Yes
@@ -3465,12 +3467,34 @@ Behavior = UnpauseSpecialPowerUpgrade ModuleTag_CreateAHeroBombard_Level1
 	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level1
 	TriggeredBy = Upgrade_CreateAHeroBombard_Level1
 End
-Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level1
-	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level1
-	OCL                  = OCL_CreateAHeroBombardSeed_Level1
-	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
-	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
-	StartsPaused		 = Yes
+//Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level1
+//	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level1
+//	OCL                  = OCL_CreateAHeroBombardSeed_Level1
+//	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
+//	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
+//	StartsPaused		 = Yes
+//End
+Behavior = SpecialPowerModule ModuleTag_CreateAHeroBombardStarter_Level1
+	SpecialPowerTemplate		= SpecialAbilityCreateAHeroBombard_Level1
+	UpdateModuleStartsAttack	= Yes
+	StartsPaused			= Yes
+End
+Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_CreateAHeroBombardUpdate_Level1
+	SpecialPowerTemplate    = SpecialAbilityCreateAHeroBombard_Level1
+	WhichSpecialWeapon		= 4							; use MODELCONDITION_SPECIAL_WEAPON_FOUR
+	SkipContinue			= Yes
+
+	UnpackTime              = 900
+	PreparationTime         = 1   
+	PersistentPrepTime      = 1500 
+	PackTime                = 1100
+	
+	FreezeAfterTriggerDuration	= 2500					; make sure we can't move immediately after.
+
+	AwardXPForTriggering    = 0		
+	StartAbilityRange		= 300.0
+	MustFinishAbility		= Yes
+	SpecialWeapon			= CreateAHeroBombardWeapon
 End
 
 //--------------------------------------------------------------------------
@@ -3480,12 +3504,34 @@ Behavior = UnpauseSpecialPowerUpgrade ModuleTag_CreateAHeroBombard_Level2
 	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level2
 	TriggeredBy = Upgrade_CreateAHeroBombard_Level2
 End
-Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level2
-	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level2
-	OCL                  = OCL_CreateAHeroBombardSeed_Level2
-	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
-	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
-	StartsPaused		 = Yes
+//Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level2
+//	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level2
+//	OCL                  = OCL_CreateAHeroBombardSeed_Level2
+//	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
+//	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
+//	StartsPaused		 = Yes
+//End
+Behavior = SpecialPowerModule ModuleTag_CreateAHeroBombardStarter_Level2
+	SpecialPowerTemplate		= SpecialAbilityCreateAHeroBombard_Level2
+	UpdateModuleStartsAttack	= Yes
+	StartsPaused			= Yes
+End
+Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_CreateAHeroBombardUpdate_Level2
+	SpecialPowerTemplate    = SpecialAbilityCreateAHeroBombard_Level2
+	WhichSpecialWeapon		= 4							; use MODELCONDITION_SPECIAL_WEAPON_FOUR
+	SkipContinue			= Yes
+
+	UnpackTime              = 900
+	PreparationTime         = 1   
+	PersistentPrepTime      = 1500 
+	PackTime                = 1100
+	
+	FreezeAfterTriggerDuration	= 2500					; make sure we can't move immediately after.
+
+	AwardXPForTriggering    = 0		
+	StartAbilityRange		= 300.0
+	MustFinishAbility		= Yes
+	SpecialWeapon			= CreateAHeroBombardWeapon
 End
 
 //--------------------------------------------------------------------------
@@ -3495,12 +3541,34 @@ Behavior = UnpauseSpecialPowerUpgrade ModuleTag_CreateAHeroBombard_Level3
 	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level3
 	TriggeredBy = Upgrade_CreateAHeroBombard_Level3
 End
-Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level3
-	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level3
-	OCL                  = OCL_CreateAHeroBombardSeed_Level3
-	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
-	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
-	StartsPaused		 = Yes
+//Behavior = OCLSpecialPower ModuleTag_CreateAHeroBombardPower_Level3
+//	SpecialPowerTemplate = SpecialAbilityCreateAHeroBombard_Level3
+//	OCL                  = OCL_CreateAHeroBombardSeed_Level3
+//	CreateLocation       = USE_SECONDARY_OBJECT_LOCATION
+//	NearestSecondaryObjectFilter = NONE SAME_PLAYER +CASTLE_KEEP 
+//	StartsPaused		 = Yes
+//End
+Behavior = SpecialPowerModule ModuleTag_CreateAHeroBombardStarter_Level3
+	SpecialPowerTemplate		= SpecialAbilityCreateAHeroBombard_Level3
+	UpdateModuleStartsAttack	= Yes
+	StartsPaused			= Yes
+End
+Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_CreateAHeroBombardUpdate_Level3
+	SpecialPowerTemplate    = SpecialAbilityCreateAHeroBombard_Level3
+	WhichSpecialWeapon		= 4							; use MODELCONDITION_SPECIAL_WEAPON_FOUR
+	SkipContinue			= Yes
+
+	UnpackTime              = 900
+	PreparationTime         = 1   
+	PersistentPrepTime      = 1500 
+	PackTime                = 1100
+	
+	FreezeAfterTriggerDuration	= 2500					; make sure we can't move immediately after.
+
+	AwardXPForTriggering    = 0		
+	StartAbilityRange		= 300.0
+	MustFinishAbility		= Yes
+	SpecialWeapon			= CreateAHeroBombardWeapon
 End
 
 //--------------------------------------------------------------------------	
