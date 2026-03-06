@@ -24,42 +24,74 @@ CONTROLBAR:nothingDesc09v2
 "nothing"
 END
 //----------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
+"Réduit la vulnérabilité de la forteresse au corps-à-corps\nRestaure une unité de la horde la plus proche toutes les 7,5 secondes.\nRéduction aquatique : diminue le coût des Ents.\n1 forteresse avec douve = Ents 12,5 % moins chers\n2 forteresses : 25 % moins chers\n3 forteresses : 37,5 % moins chers\n4 forteresses : 50 % moins chers\n5 forteresses : 62,5 % moins chers"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines09v301
+"Empoisonne les unités ennemies attaquant la forteresse et réduit leur vitesse totale à 85 %.\nSoigne les alliés à proximité.\nCombiné au Nid de dragon, peut soigner toute unité volante alliée."
+END
+CONTROLBAR:ToolTipGloriousCharge09v3
+"Nécessite le niveau 5\nThéoden et la cavalerie proche gagnent +60 % d’armure et deviennent immunisés au ralentissement par piétinement.\nNiveau 8 : Charge glorieuse gagne +40 % d’armure supplémentaires, +35 % de dégâts et une immunité à la peur et à la terreur.\nThéoden doit être à cheval pour utiliser cette capacité\nDure 20 secondes.\nClic gauche pour activer"
+END
+CONTROLBAR:EvacuateHobbits09v301
+"Éva&cuez Merry & Pippin"
+End
+CONTROLBAR:EvacuateHobbitsDesc09v301
+"Ordonnez à Merry & Pippin de descendre de Sylvebarbe"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressExcavations09v301
+"Soigne les alliés à proximité.\nRestaure une unité de la horde la plus proche toutes les 5 secondes.\nRéduit le coût des structures et murs d’Isengard\n1 forteresse avec excavation = 7,5 % moins cher\n2 forteresses avec excavation = 15 % moins cher\n3 forteresses avec excavation = 20 % moins cher\n4 forteresses avec excavation = 25 % moins cher\n5 forteresses avec excavation = 33 % moins cher"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressLavaMoat09v301
+"Réduit la vulnérabilité de la forteresse au corps-à-corps\nSoigne les unités proches\nRéduit le coût des améliorations du Mordor\n1 forteresse avec douve de lave = 10 % moins cher\n2 forteresses : 20 % moins cher\n3 forteresses : 30 % moins cher\n4 forteresses : 40 % moins cher\n5 forteresses : 50 % moins cher"
+END
+CONTROLBAR:ToolTipDwarvenGloinShakeFoundation09v301
+"Nécessite le niveau 4\nDésactive le bâtiment ciblé.\nRéduit sa production à 10 % pendant 10 secondes.\nOuvre automatiquement la porte ciblée\n Level 4: 2000 damage. \n Level 6: 2400 damage. \n Level 8: 2800 damage. \nClic gauche sur l’icône, puis clic gauche sur la cible"
+END
+//----------------------------------
+CONTROLBAR:SpecialAbilityHumanHeads09v301
+"Têtes humaines [&C]"
+End
+CONTROLBAR:SpecialAbilityHumanHeadsDesc09v301
+"Lance des têtes humaines pour faire fuir les ennemis.\nClic gauche sur l’icône, puis clic gauche sur la zone ciblée"
+End
+//----------------------------------
 CONTROLBAR:WitchKingBlackRiderMorgulBlade09v3
-"Lame Morgul [&V]"
+"Lame de Morgul (&V)"
 END
 //----------------------------------
 OBJECT:HaradCamp_New
-"Tente Haradrim"
-END
+"Tente haradrim"
+End
 OBJECT:HaradCampDesc_New
-"Permet l'entraînement des guerriers Haradrim"
-END
+"Permet l'entraînement des guerriers haradrims"
+End
 OBJECT:LF_New
 "Entrée secrète"
-END
+End
 OBJECT:LF_Disc_New
-"Capturez-la pour réduire les temps de recharge des pouvoirs inutilisés \n Soigne les héros et les volants à proximité. \n\n -25% de réduction du temps de rechargement du livre de sorts"
-END
+"Capturez-le pour réduire les temps de recharge des pouvoirs inutilisés \n Soigne les héros et les volants à proximité. \n\n Réduction de -25% du temps de recharge du grimoire"
+End
 OBJECT:MercenaryCamp_New
 "Camp de mercenaires"
 END
 OBJECT:DunlandHallTooltip_New
 "Maison de Dunland"
-END
+End
 TOOLTIP:DunlandHallDesc_New
 "Permet l'entraînement des hommes de Dunland"
-END
+End
 //------------------------------------------------------------
 CONTROLBAR:WildWalk09v3
-"Marche sauvage"
+"Marche Sauvage"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipThranduilDescription09v3
-"Roi de la Forêt Noire : \n Les archers de la Forêt Noire à proximité gagnent : \n +25% de dégâts, +25% d'armure, \n et gagnent de l'expérience 50% plus rapidement. \n «Amélioration pour héros de haut niveau» \n Compétence passive"
+"Roi de la Forêt Noire : \n Les archers de la Forêt Noire à proximité gagnent : \n +25% de dégâts, +25% d'armure, \n et gagnent de l'expérience 50% plus rapidement. \n «HighTierHero BUFF» \n Capacité passive"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipThranduilWildWalk09v3
-"Requiert le niveau 6 \n Permet à Thranduil de se déplacer furtivement \n Compétence passive."
+"Requiert le niveau 6 \n Permet à Thranduil de se déplacer tout en étant furtif \n Capacité passive."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde09v3
@@ -71,99 +103,99 @@ CONTROLBAR:ToolTipEvilHeal09v3
 END
 //------------------------------------------------------------
 TOOLTIP:GandalfTheWhite09v3
-"Gandalf le Blanc : \n Requiert le niveau 5 \n Les capacités magiques de Gandalf infligent +70% de dégâts et les temps de recharge sont réduits de -20%. \n Compétence passive."
+"Gandalf le Blanc : \n Requiert le niveau 5 \n Les capacités magiques de Gandalf infligent +70% de dégâts et les temps de recharge sont réduits de -20%. \n Capacité passive."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirGoldenArrow09v3
-"Requiert le niveau 7 \n Un projectile magique à fort impact. \n Niveau 7 : Provoque un impact métaphysique et inflige des dégâts modérés. \n Niveau 10 : Inflige des dégâts plus importants et étourdit les unités sensibles à la lumière à proximité. \n Efficace contre la cavalerie et les héros de bas niveau. \n Peut seulement être utilisé avec un arc équipé. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
+"Requiert le niveau 7 \n Un projectile magique à haut dégât. \n Niveau 7 : Cause un impact métaphysique et des dégâts modérés. \n Niveau 10 : Inflige des dégâts supérieurs et étourdit les unités sensibles à la lumière à proximité. \n Fort contre la cavalerie et les héros de bas niveau. \n Peut seulement être utilisé avec un arc équipé. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
 END
 CONTROLBAR:TooltipElrondWhirlwind09v3
-"Requiert le niveau 5 \n Invoque un tourbillon destructeur sur le champ de bataille. \n Niveau 5 : Inflige des dégâts minimes, balaie uniquement les héros de bas niveau. Dure 16 secondes. \n Niveau 7 : Dure 19 secondes. \n Niveau 10 : Inflige des dégâts doubles, balaie tous les héros. Dure 22 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible."
+"Requiert le niveau 5 \n Invoque un tourbillon destructeur sur le champ de bataille. \n Niveau 5 : Inflige des dégâts minimes, balaye seulement les héros de bas niveau. Dure 16 secondes. \n Niveau 7 : Dure 19 secondes. \n Niveau 10 : Inflige le double de dégâts, balaye tous les héros. Dure 22 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur un emplacement praticable."
 END
 CONTROLBAR:ToolTipElrondRestoration09v3
-"Requiert le niveau 10 \n Elrond régénère +20% des points de vie aux alliés à proximité et réinitialise complètement les compteurs de leurs compétences spéciales. \n Reconstitue 1 unité tombée par bataillon dans la zone d'effet. \n Cliquez gauche pour activer."
+"Requiert le niveau 10 \n Elrond régénère +20% des points de vie aux alliés à proximité et réinitialise complètement leurs chronomètres de compétences spéciales. \n Reconstitue 1 unité tombée par bataillon dans la zone d'effet. \n Cliquez pour activer."
 END
 CONTROLBAR:ArwenElvenGrace09v3
-"Athelas [&V]"
+"Athelas (&V)"
 END
 CONTROLBAR:ArwenElvenGraceDesc09v3
-"Requiert le niveau 6 \n Arwen régénère 750 points de vie aux alliés ciblés sur une durée de 2 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles."
+"Requiert le niveau 6 \n Arwen régénère 750 points de vie aux alliés ciblés sur une durée de 2 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées."
 END
 CONTROLBAR:GoblinKingBattleFrenzy09v3
-"Fureur de combat"
-END
+"Furie de Combat"
+End
 CONTROLBAR:ToolTipFueltheFires09v3
 "Les scieries du joueur gagnent +65% de production \n et +20% d'armure. \n Les scieries alliées gagnent +65% de production. \n Pouvoir passif. \n La forteresse doit être présente."
-END
+End
 UPGRADE:BarbedArrowUpgrade09v3
-"Flèches barbelées"
+"Flèches Barbelées"
 END
 CONTROLBAR:TooltipUndermine09v3
-"Invoque un puits de mine sur le champ de bataille. \n Ne peut pas être lancé à proximité d'une forteresse ennemie. \n Peut être lancé sur la brume de guerre. \n Le puits de mine est connecté au réseau de tunnels. \n Inflige des dégâts plus importants au point d'apparition et des dégâts moindres dans le périmètre. \n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible."
+"Invoque un Puits de Mine sur le champ de bataille. \n Ne peut pas être lancé à proximité immédiate d'une forteresse ennemie. \n Peut être lancé dans le brouillard de guerre. \n Le Puits de Mine est connecté au réseau de tunnels. \n Inflige plus de dégâts au point d'apparition et moins de dégâts en périphérie. \n Cliquez gauche sur l'icône, puis cliquez gauche sur un emplacement praticable."
 END
 CONTROLBAR:ToolTipPersonalFlood09v3
-"Requiert : niveau 4 \n Invoque une inondation qui endommagera les ennemis et éteindra les feux. \n Particulièrement efficace contre la cavalerie et les Cavaliers Noirs. \n Au niveau 4, Arwen invoque 3 chevaux d'inondation. \n Au niveau 7, Arwen invoque 5 chevaux d'inondation. \n Au niveau 10, Arwen invoque 7 chevaux d'inondation. \nCliquez gauche sur l'icône, puis cliquez gauche sur la cible."
+"Requiert : niveau 4 \n Invoque une inondation qui endommagera les ennemis et éteindra les feux. \n Particulièrement efficace contre la cavalerie et les Cavaliers Noirs. \n Arwen de niveau 4 invoque 3 Chevaux d'Inondation. \n Arwen de niveau 7 invoque 5 Chevaux d'Inondation. \n Arwen de niveau 10 invoque 7 Chevaux d'Inondation. \nCliquez gauche sur l'icône puis cliquez gauche sur la cible."
 END
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains09v3
-"Soigne les alliés à proximité. \n Ressuscite une unité tombée de chaque bataillon toutes les 6,5 secondes. \n Le temps de résurrection des héros est réduit de -20%. \n En combinaison avec le nid d'aigle, peut soigner n'importe quelle unité volante alliée."
+"Soigne les alliés à proximité. \n Ravive une unité tombée de chaque bataillon toutes les 6,5 secondes. \n Le temps de renaissance des héros est réduit de -20%. \n Associé au Nid d'Aigles, peut soigner n'importe quelle unité volante alliée."
 END
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEaglesNest09v3
 "Permet l'invocation d'un Aigle Géant. \n Permet aux Fontaines Mystiques de soigner les unités volantes."
 END
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines09v3
-"Inflige des dégâts aux unités ennemies adjacentes à la forteresse. \n Soigne les alliés à proximité. \n En combinaison avec le nid de dragon, peut soigner n'importe quelle unité volante alliée."
+"Inflige des dégâts aux unités ennemies adjacentes à la forteresse. \n Soigne les alliés à proximité. \n Associé au Nid de Dragon, peut soigner n'importe quelle unité aérienne alliée."
 END
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest09v3
-"Permet l'invocation d'un Dragon de Feu. \n Le temps de résurrection de Drogoth est réduit de -10%. \n Permet aux Pointes Tranchantes de soigner les unités volantes."
+"Permet l'invocation d'un Drake de Feu. \n Le temps de résurection de Drogoth est réduit de -10%. \n Permet aux Pointes de Rasoir de soigner les unités volantes."
 END
 //------------------------------
 CONTROLBAR:ToolTipWildShelobPoisonedStinger09v3
 "Requiert le niveau 6 \n Inflige des dégâts empoisonnés à l'ennemi ciblé pendant 30 secondes, \n réduit sa vitesse de -50% pendant 15 secondes, \n et le paralyse pendant 6 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
-END
+End
 CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
-"Requiert le niveau 6 \n Peut seulement être utilisé en montant \n Inflige des dégâts empoisonnés à l'ennemi ciblé pendant 25 secondes, \n réduit sa vitesse de -50% pendant 12 secondes, \n et le paralyse pendant 5 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
+"Requiert le niveau 6 \n Peut seulement être utilisé lorsque monté \n Inflige des dégâts empoisonnés à l'ennemi ciblé pendant 25 secondes, \n réduit sa vitesse de -50% pendant 12 secondes, \n et le paralyse pendant 5 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
 END
 TOOLTIP:ToolTipBoromir09v3
 "Boromir gagne +7% de vitesse au niveau 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
-"Fort contre les épéistes et les structures \n Le Troll de la caverne gagne +4% de vitesse aux niveaux 3, 6 et 9"
+"Fort contre les épéistes et les structures \n Le Troll des Cavernes gagne +4% de vitesse aux niveaux 3, 6 et 9"
 END
 TOOLTIP:ToolTipBuildDwarvenCatapult09v3
-"Fort contre les structures et les unités de siège \n La catapulte gagne +10% de vitesse au niveau 5"
+"Fort contre les structures et les unités de siège \n La Catapulte gagne +10% de vitesse au niveau 5"
 END
 CONTROLBAR:ToolTipBuildDwarvenCatapult09v3
-"Requiert : niveau 2 Atelier de siège \n Fort contre les structures et les unités de siège \n Tire deux projectiles à la fois \n La catapulte gagne +10% de vitesse au niveau 5"
+"Requiert : niveau 2 Atelier de siège \n Fort contre les structures et les unités de siège \n Tire deux projectiles à la fois \n La Catapulte gagne +10% de vitesse au niveau 5"
 END
 CONTROLBAR:ToolTipBuildMordorMumakil09v3
-"Fort contre les structures et la cavalerie \n Monté par des Lanciers Haradrim \n 30 points de commandement supplémentaires \n Les Mumakils gagnent +6% de vitesse aux niveaux 5 et 8."
+"Fort contre les structures et la cavalerie \n Est monté par des Lanciers Haradrim \n 30 points de commandement supplémentaires \n Les Mumakils gagnent +6% de vitesse aux niveaux 5 et 8."
 END
 CONTROLBAR:TooltipDragonStrike09v3
-"Invoque un dragon cracheur de feu pour survoler et brûler le champ de bataille. \n Toute unité ennemie dans une grande zone sous le dragon subira -15% de vitesse. \n *Extrêmement dangereux sur les bords de la carte.* \n Cliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
+"Invoque un Dragon cracheur de feu pour survoler et brûler le champ de bataille. \n Tous types d'unités ennemies dans une grande zone sous le Dragon subiront -15% de vitesse. \n Extrêmement dangereux sur les bords de la carte. \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 TOOLTIP:ToolTipFellbeast09v3
-"Le rayon d'attaque de la monture ailée contre les unités est amélioré au niveau 6."
+"Le rayon d'attaque du Fellbeast contre les unités est amélioré au niveau 6."
 END
 CONTROLBAR:ToolTipDominate09v3
-"Requiert : niveau 10 \n Prend le contrôle permanent des ennemis ciblés. \n Cliquez gauche sur l'icône, puis cliquez gauche sur les ennemis cibles"
+"Requiert : niveau 10 \n Prend le contrôle des ennemis ciblés de manière permanente. \n Cliquez gauche sur l'icône puis cliquez gauche sur les ennemis ciblés"
 END
 CONTROLBAR:TooltipSummonTomBombadil09v3
-"Invoque Tom Bombadil, un vieux bonhomme corpulent avec un chapeau, qui aime chanter. On raconte qu'il est la personnification humaine d'Eru, qui a créé Ëa. \n Les alliés près de Tom Bombadil gagnent +25% d'armure et gagnent de l'expérience 25% plus rapidement. \n «Amélioration d'armure» \n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Invoque Tom Bombadil, un puissant vieux bonhomme avec un chapeau, qui aime chanter. On dit qu'il est la personnification humaine d'Eru, qui a créé Ëa. \n Les alliés près de Tom Bombadil gagnent +25% d'armure et gagnent de l'expérience 25% plus rapidement. \n « BUFF d'armure » \n Cliquez gauche sur l'icône puis cliquez gauche sur un emplacement praticable"
 END
 CONTROLBAR:Draft09v3
 "&Résister"
 End
 CONTROLBAR:ToolTipDraft09v3
-"Arme ce bataillon de paysans. \n Lorsqu'il est équipé, augmente les dégâts infligés par les armes de mêlée \n et réduit la quantité de dégâts subis."
+"Arme ce bataillon de paysans. \n Lorsqu'équipé, augmente les dégâts infligés par les armes de mêlée \n et réduit la quantité de dégâts subis."
 END
 CONTROLBAR:Command_CreateAHero_SpecialAbilityDisguise_Name
 "Camouflage (&V)"
 END
 CONTROLBAR:SummonWargAllies09v3
-"Invoquer des Alliés Wargs (&C)"
-End
+"Appel des Alliés Wargs (&C)"
+END
 CONTROLBAR:SummonWargAlliesDesc09v3
-"Requiert : niveau 10 \n Invoque un groupe de Cavaliers de Wargs d'Isengard aux côtés de Sharku \n Cliquez gauche sur l'icône, puis cliquez gauche sur une zone praticable"
+"Requiert : niveau 10 \n Invoque un groupe de Cavaliers Wargs d'Isengard aux côtés de Sharku \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 //------------------------------------------------------------
 
@@ -181,46 +213,46 @@ END
 
 //------------------------------------------------------------
 CONTROLBAR:PrinceofIthilien09v2
-"Prince de l'Ithilien [&V]"
+"Prince d’Ithilien [&V]"
 END
 CONTROLBAR:PrinceofIthilienDesc09v2
-"Requiert : niveau 5 \n Les archers ciblés gagnent de l'expérience. \n Cliquez gauche sur l'icône, puis cliquez gauche sur les archers ciblés."
+"Requiert : niveau 5\nLes archers ciblés gagnent de l’expérience.\nClic gauche sur l’icône, puis clic gauche sur les archers ciblés."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower09v2
-"Augmente la portée de vision de la forteresse et fournit une détection de furtivité. \n Débloque l'utilisation de la Vision Palantir sur les alliés"
+"Augmente la portée de vision de la forteresse et permet la détection des unités furtives.\nDébloque l’utilisation de la Vision du Palantír sur les alliés"
 END
 CONTROLBAR:TooltipIvoryTowerVision09v2
-"Révèle l'ensemble du brouillard de guerre \n Les unités du joueur sur la carte gagnent +10% de vitesse \n «Amélioration d'IvoryTower» \n Dure 30 secondes"
+"Révèle tout le brouillard de guerre\nLes unités du joueur gagnent +10 % de vitesse\n« IvoryTower BUFF »\nDure 30 secondes"
 End
 CONTROLBAR:ToolTipGainSpiderVenomSacks09v2
-"Requiert : niveau 3 \n Améliore cette horde avec les poches à venin \nEmpoisonne les ennemis et inflige des dégâts progressivement"
+"Requiert : niveau 3\nAméliore cette horde avec des poches à venin\nEmpoisonne les ennemis et inflige des dégâts progressifs"
 END
 //------------------------------------------------------------
 Color:Cyan09v2
 "Cyan"
 END
 Color:DarkGreen09v1
-"Vert foncé"
+"Dark Green"
 END
 Color:GreenLime09v2
-"Vert citron"
+"Green Lime"
 END
 Color:DarkPink09v1
-"Vin"
+"Wine"
 END
 Color:White
-"Blanc"
+"White"
 END
 Color:Grey
-"Gris"
+"Grey"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAxeThrow09v2
-"Puissante attaque de jet avec dégâts de zone\nParticulièrement efficace contre la cavalerie et les unités volantes\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Puissante attaque à distance avec dégâts de zone.\nParticulièrement efficace contre la cavalerie et les unités volantes.\nLa hache de jet est améliorée aux niveaux 4 et 8.\nClic gauche sur l’icône, puis clic gauche sur la cible."
 END
 CONTROLBAR:ToolTipLeap09v2
-"Requiert : niveau 2\nGimli saute vers un endroit et inflige des dégâts de zone \n Zone de dégat amélioré aux niveaux 4 et 7 \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2\nGimli saute vers un endroit et inflige des dégâts de zone \n Zone de dégat amélioré aux niveaux 4 et 8 \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 TOOLTIP:ToolTipWitchKing09v2
 "La zone de dégat de la mace est amélioré aux niveaux 5 et 8."
@@ -246,10 +278,10 @@ CONTROLBAR:SummonEagleAlliesGaladriel09v2
 End
 //------------------------------------------------------------
 UPGRADE:FarmLevel2Tooltip09v2
-"Niveau 2: +50 Points de commandement."
+"Niveau 2: 100 Points de commandement."
 END
 UPGRADE:FarmLevel3Tooltip09v2
-"Niveau 3: +75 Points de commandement."
+"Niveau 3: 150 Points de commandement."
 END
 CONTROLBAR:ThunderBolt09v2
 "Coup de tonnerre [&B]"
@@ -600,10 +632,10 @@ OBJECT:SignalFireDescription09v2
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde09v2
-"Fort contre cavalerie et bâtiments de production d'unités.\nLes gardes de la tour gagnent +5% de vitesse au niveau 3, 5 et 7."
+"Fort contre cavalerie et bâtiments de production d'unités.\nLes gardes de la tour gagnent +5% de vitesse au niveau 5 et 8."
 END
 CONTROLBAR:ToolTipBuildDwarvenGuardianHorde09v2
-"Fort contre piquier et bâtiments de production de ressource.\nLes gardiens gagnent +5% de vitesse au niveau 3, 5, 7 et 10."
+"Fort contre piquier et bâtiments de production de ressource.\nLes gardiens gagnent +5% de vitesse au niveau 5, 7 et 10."
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGloinSmash09v2
@@ -936,7 +968,7 @@ Map:map_pk_rhudel_steppe
 "Rhudel Steppe"
 End
 Map:map_pk_rhudel_steppe/Desc
-"Rhudel is a plain land beyond the sea of Rhun, whose name implies horror in the east, possibly due the existance of dragons. Despite not being fertile enough to support permanent habitation, there is a significant amount of ruins of unknown origin. \n Map remade by Powerkartoffel. \n Original autor unknown."
+"Rhudel is a plain land beyond the sea of Rhun, whose name implies horror in the east, possibly due the existance of dragons. Despite not being fertile enough to support permanent habitation, there is a significant amount of ruins of unknown origin. \n Map remade by Powerkartoffel. \n Map by Gnomi."
 End
 //------------------------------------------------------------
 Map:map_PK_Forlond
@@ -1730,14 +1762,14 @@ Map:GreenfrogPass
 "Greenfrog Pass"
 END
 Map:GreenfrogPass/Desc
-"A green lushful land divided by a central river."
+"A green lushful land divided by a central river. \n Map by Gnomi."
 END
 //------------------------------------------------------------
 Map:Himling
 "Himling"
 END
 Map:Himling/Desc
-"An icy land with a central mountain."
+"An icy land with a central mountain. \n Map by Gnomi."
 END
 //------------------------------------------------------------
 //	Map:LanthirLamath
@@ -1786,7 +1818,7 @@ Map:TheIvyBush
 "The Ivy Bush"
 END
 Map:TheIvyBush/Desc
-"Map named in honor of The Ivy Bush. A small inn on the Bywater road in the Shire. Here Gaffer Gamgee recounted to the visitors his stories about Bilbo and Frodo Baggins."
+"Map named in honor of The Ivy Bush. A small inn on the Bywater road in the Shire. Here Gaffer Gamgee recounted to the visitors his stories about Bilbo and Frodo Baggins. \n Map by Gnomi."
 END
 //------------------------------------------------------------
 Map:RohanII
@@ -6241,15 +6273,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:Format3
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:Format2
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:BuildTime
@@ -30245,7 +30277,7 @@ CONTROLBAR:SpecialAbilityGoblinFighterPoisonedBlades
 END
 
 CONTROLBAR:SpecialAbilityOilBarrels
-"Tonneau&x d'huile"
+"Tonneaux d'huile (&C)"
 END
 
 CONTROLBAR:SpecialAbilitySummonedDragonReposition
@@ -41113,7 +41145,7 @@ CONTROLBAR:ToolTipCAHAthelas
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership
-"Les alliés proches du héros gagnent \n+50% armure, +50% dégâts, \nexpérience gagnée deux fois plus rapidement \n \n Capacité passive Ne peut pas s'utiliser avec d'autres bonus"
+"Les alliés proches du héros gagnent \n+25% d'armures, +25% de dégâts et gagnent +50% d'expériences plus rapidement.\n «HighTierHero BUFF» \nCapacité passive."
 END
 
 CONTROLBAR:ToolTipInvulnerability_Level1
@@ -41673,7 +41705,7 @@ CONTROLBAR:ToolTipCAH_Elendil_Palantir
 END
 
 CONTROLBAR:ToolTipCAH_BladeMaster_Palantir
-"Le héros gagne temporairement +100% dégâts et +100% armure \n Clic gauche pour activer"
+"Le héros gagne temporairement +50% dégâts et +50% armure \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipCAHAthelas_Palantir
@@ -41681,7 +41713,7 @@ CONTROLBAR:ToolTipCAHAthelas_Palantir
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership_Palantir
-"Les alliés proches du héros gagnent \n+50% armure, +50% dégâts, \n et gagnent de l'expérience deux fois plus rapidement \n \n Capacité passive Ne peut pas s'utiliser avec d'autres bonus"
+"Les alliés proches du héros gagnent \n+25% d'armures, +25% de dégâts et gagnent +50% d'expériences plus rapidement.\n «HighTierHero BUFF» \nCapacité passive."
 END
 
 CONTROLBAR:ToolTipInvulnerability_Level1_Palantir

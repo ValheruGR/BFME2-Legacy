@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// Yeni Yama için dize satýrlarý 1.09v3 TR Yama Sinelyin-----	2025
+// Yeni Yama için dize satýrlarý 1.09v3.1 TR Yama Sinelyin-----	2025
 
 //------------------------------------------------------------
 
@@ -23,6 +23,38 @@ END
 CONTROLBAR:nothingDesc09v2
 "nothing"
 END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
+"Kalenin yakýn dövüþ savunmasýzlýðýný azaltýr \n Her 7,5 saniyede en yakýn ordudan bir birim yeniler. \n Su indirimi: Entlerin maliyetini azaltýr. \n 1 Hendekli Kale = Entler %12,5 daha ucuz \n 2 Kale: %25 daha ucuz \n 3 Kale: %37,5 daha ucuz \n 4 Kale: %50 daha ucuz \n 5 Kale: %62,5 daha ucuz"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines09v301
+"Kaleye saldýran düþman birliklerini zehirler ve toplam hýzlarýný %85'e düþürür. \n Yakýndaki Müttefikleri iyileþtirir. \n Ejderha Yuvasý ile birlikte kullanýldýðýnda, herhangi bir müttefik uçan birliðini iyileþtirebilir."
+END
+CONTROLBAR:ToolTipGloriousCharge09v3
+"Seviye 5 gerektirir \n Theoden ve yakýndaki süvariler +%60 Zýrh kazanýr ve çiðneme yoluyla yavaþlatýlmaya karþý baðýþýklýk kazanýr. \n Seviye 8: Muhteþem hücum +%40 zýrh, +%35 hasar ve korku ve dehþete karþý baðýþýklýk kazanýr. \n Bu yeteneði kullanmak için Theoden'in üzerine binilmesi gerekir \n 20 saniye sürer. \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:EvacuateHobbits09v301
+"Merry ve Pippin'i Tahliye e&t"
+End
+CONTROLBAR:EvacuateHobbitsDesc09v301
+"Merry ve Pippin'e Aðaçsakal'dan inmelerini Emret"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressExcavations09v301
+"Yakýndaki Müttefikleri iyileþtirir. \n Her 5 saniyede bir en yakýn ordudan bir birim yeniler. \n Isengard yapý ve duvarlarýnýn maliyetini düþürür \n 1 Kazý Alaný Olan Kale = %7,5 daha ucuz \n 2 Kazý Alaný Olan Kale = %15 daha ucuz \n 3 Kazý Alaný Olan Kale = %20 daha ucuz \n 4 Kazý Alaný Olan Kale = %25 daha ucuz \n 5 Kazý Alaný Olan Kale = %33 daha ucuz"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressLavaMoat09v301
+"Kalenin yakýn dövüþ savunmasýzlýðýný azaltýr \n Yakýndaki Birimleri Ýyileþtirir \n Mordor yükseltmelerinin maliyetini azaltýr \n Lav Hendeði olan 1 Kale = %10 daha ucuz \n 2 Kale: %20 daha ucuz \n 3 Kale: %30 daha ucuz \n 4 Kale: %40 daha ucuz \n 5 Kale: %50 daha ucuz"
+END
+CONTROLBAR:ToolTipDwarvenGloinShakeFoundation09v301
+"Seviye 4 gerektirir ve hedef binayý devre dýþý býrakýr. Yapýnýn üretimini 10 saniye boyunca %10'a düþürür. Hedeflenen kapýyý otomatik olarak açar \n Seviye 4: 2000 hasar. \Seviye 6: 2400 hasar. \Seviye 8: 2800 hasar. \n Sol týk ikonuna týklayýn, ardýndan hedefe sol týklayýn"
+END
+//----------------------------------
+CONTROLBAR:SpecialAbilityHumanHeads09v301
+"Ýnsan Kafalarý [&C]"
+End
+CONTROLBAR:SpecialAbilityHumanHeadsDesc09v301
+"Düþmanlarý korkutmak için insan kafalarý fýrlatýr. \n Sol simgeye týklayýn, ardýndan hedef alana sol týklayýn"
+End
 //----------------------------------
 CONTROLBAR:WitchKingBlackRiderMorgulBlade09v3
 "Morgul Býçaðý [&V]"
@@ -217,10 +249,10 @@ Color:Grey
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAxeThrow09v2
-"Alanda hasar veren güçlü menzilli saldýrý. \n Süvarilere ve uçan birimlere karþý güçlüdür. \n Balta Fýrlatma yeteneði 4. ve 7. seviyelerde artar. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+"Alanda hasar veren güçlü menzilli saldýrý. \n Süvarilere ve uçan birimlere karþý güçlüdür. \n Balta Fýrlatma yeteneði 4. ve 8. seviyelerde artar. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
 END
 CONTROLBAR:ToolTipLeap09v2
-"Gereken Seviye: 2 \n Gimli seçilen bir konuma sýçrayarak alan etkili hasara neden olur. \n Etki alaný 4. ve 7. seviyelerde artar. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn."
+"Gereken Seviye: 2 \n Gimli seçilen bir konuma sýçrayarak alan etkili hasara neden olur. \n Etki alaný 4. ve 8. seviyelerde artar. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn."
 END
 TOOLTIP:ToolTipWitchKing09v2
 "Topuz'un saldýrý etki yarýçapý 5. ve 8. seviyelerde artar."
@@ -246,10 +278,10 @@ CONTROLBAR:SummonEagleAlliesGaladriel09v2
 End
 //------------------------------------------------------------
 UPGRADE:FarmLevel2Tooltip09v2
-"Seviye 2: +50 Yönetme Puaný"
+"Seviye 2: +100 Yönetme Puaný"
 END
 UPGRADE:FarmLevel3Tooltip09v2
-"Seviye 3: +75 Yönetme Puaný"
+"Seviye 3: +150 Yönetme Puaný"
 END
 CONTROLBAR:ThunderBolt09v2
 "Thunderbolt Storm [&B]"
@@ -599,10 +631,10 @@ OBJECT:SignalFireDescription09v2
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde09v2
-"Süvarilere karþý Güçlü ve \n Birim Üretim Binalarýna \n Kule Muhafýzlarý 3, 5 ve 7. seviyelerde +%5 hýz kazanýr."
+"Süvarilere karþý Güçlü ve \n Birim Üretim Binalarýna \n Kule Muhafýzlarý 5. ve 8. seviyelerde %5 hýz kazanýr."
 END
 CONTROLBAR:ToolTipBuildDwarvenGuardianHorde09v2
-"Mýzraklýlara karþý Güçlü \n ve Kaynak Binalarýna \n Muhafýzlar 3, 5, 7 ve 10. seviyelerde +%5 hýz kazanýr."
+"Mýzraklýlara karþý Güçlü \n ve Kaynak Binalarýna \n Muhafýzlar 5, 7 ve 10. seviyelerde +%5 hýz kazanýrlar."
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGloinSmash09v2
@@ -725,7 +757,7 @@ CONTROLBAR:GaladHealBTP
 "Galad&riel'in Iþýðý"
 END
 CONTROLBAR:ToolTipGaladHeal
-"Galadriel'in etrafýnda geniþ bir daire içinde bulunan tüm müttefik birimleri ve kahramanlarý iyileþtirir \n Etkinleþtirmek için sol týklayýn"
+"Galadriel'in etrafýnda geniþ bir daire içinde bulunan tüm müttefik birimleri ve kahramanlarý iyileþtirir \n Sol týk ikonuna týklayýn, ardýndan hedef alana sol týklayýn"
 END
 CONTROLBAR:LadyOfLight
 "&Valar'in Iþýðý"
@@ -2229,7 +2261,7 @@ Color:Pink
 "Pembe"
 END
 
-// context: Team names. They are used in a drop list where the player can select his team for a multiplayer game
+// context: Team names.  They are used in a drop list where the player can select his team for a multiplayer game
 Team:0
 "-"
 END
@@ -2381,23 +2413,23 @@ APT:VeterencyTutorial
 END
 
 APT:BattleFought
-// Context Veterancy screen header.
+// Context Verterancy screen header.
 "Yapýlan Savaþlar"
 END
 
 APT:RenameInstructions
-// If we rename units on Veterancy, this will be instructions.
+// If we rename units on Verterancy, this will be instructions.
 " "
 END
 
 APT:EnemiesThisBattle
-// Context Veterancy screen header.
+// Context Verterancy screen header.
 "Bu Savaþta Yenilen Düþmanlar"
 END
 
 APT:TotalEnemiesDefeated
-// Context Veterancy screen header.
-"Toplam\nYenilen\nDüþmanlar"
+// Context Verterancy screen header.
+"Toplam Yenilen Düþman"
 END
 
 APT:Bases&UnitsTitle
@@ -2536,7 +2568,7 @@ APT:ReplaySelectorTab
 END
 
 APT:Replays
-// context: Replay selection button on the Main Menu
+// context:  Replay selection button on the Main Menu
 "TEKRARLAR"
 END
 
@@ -3283,13 +3315,13 @@ GUI:AdvancedOptionsToggleOnOff
 END
 
 GUI:PerformanceTestingMessage
-// context: Shown at main menu the first time the game is run. We run a test to determine best settings for the system.
+// context: Shown at main menu the first time the game is run.  We run a test to determine best settings for the system.
 // For future usage.
 "Lütfen en uygun ayarlarý belirlemek için yaptýðýmýz testin sonuçlanmasýný bekleyin."
 END
 
 GUI:PerformanceTestingTitle
-// context: Shown at main menu the first time the game is run. We run a test to determine best settings for the system.
+// context: Shown at main menu the first time the game is run.  We run a test to determine best settings for the system.
 // For future usage.
 "Sistem Performansý Test Ediliyor"
 END
@@ -3451,22 +3483,22 @@ TOOLTIP:UserMadeMap
 END
  
 TOOLTIP:Mission1
-// context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
+// context: Tooltip to display what missions are in which campaigns.  These are shown when mousing over the campaing buttons on the main menu
 ""
 END
  
 TOOLTIP:Mission2_8
-// context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
+// context: Tooltip to display what missions are in which campaigns.  These are shown when mousing over the campaing buttons on the main menu
 "Birinci Sefer"
 END
  
 TOOLTIP:Mission9_16
-// context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
+// context: Tooltip to display what missions are in which campaigns.  These are shown when mousing over the campaing buttons on the main menu
 "Ýkinci Sefer"
 END
  
 TOOLTIP:Mission17_23
-// context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
+// context: Tooltip to display what missions are in which campaigns.  These are shown when mousing over the campaing buttons on the main menu
 "Üçüncü Sefer"
 END
 
@@ -4540,7 +4572,7 @@ GUI:FullGameName
 END
 
 GUI:SinglePlayer
-// context: Button in the main menu to go to the single player and Skirmish missions
+// context: Button in the main menu to go to the single player & Skirmish missions
 "TEK OYUNCULU"
 END
 
@@ -5072,17 +5104,17 @@ TOOLTIP:ExperienceToLevel
 END
 
 KEYBOARD:Shift+
-// context: Tooltip to indicate the player to press Shift and another key simultaneously
+// context: Tooltip to indicate the player to pres Shift and another key simultaneously
 "Shift+"
 END
 
 KEYBOARD:Alt+
-// context: Tooltip to indicate the player to press Alt and another key simultaneously
+// context: Tooltip to indicate the player to pres Alt and another key simultaneously
 "Alt+"
 END
 
 KEYBOARD:Ctrl+
-// context: Tooltip to indicate the player to press Ctrl and another key simultaneously
+// context: Tooltip to indicate the player to pres Ctrl and another key simultaneously
 "Ctrl+"
 END
 
@@ -5092,7 +5124,7 @@ TOOLTIP:Brightness
 END
 
 TOOLTIP:ScrollSpeed
-// context: Located on the Options menu, Adjusts the scroll speed when you move the mouse to the side of the map.
+// context: Located on the Options menu, Adjusts the scroll speed when you move the mouse to teh side of the map.
 "Harita kaydýrma hýzýný ayarlayýn"
 END
 
@@ -5122,13 +5154,13 @@ TOOLTIP:OptionsDefaults
 END
 
 TOOLTIP:ScienceCost
-// context: Tooltip part that's used to make up the command bar build tooltips cost for the science
+// context: Tooltip part that's used to makeup the command bar build tooltips cost for the science
 "Maliyet: %d"
 END
 
 
 TOOLTIP:AbilityCost
-// context: Tooltip part that's used to make up the command bar build tooltips rank required for a hero to use a power
+// context: Tooltip part that's used to makeup the command bar build tooltips rank required for a hero to use a power
 "Güç için gereken Seviye: %d"
 END
 
@@ -5148,7 +5180,7 @@ TOOLTIP:BuildDisabled
 END
 
 TOOLTIP:Cost
-// context: Tooltip part that's used to make up the command bar build tooltips
+// context: Tooltip part that's used to makeup the command bar build tooltips
 "Maliyet: %d"
 END
 
@@ -5158,7 +5190,7 @@ TOOLTIP:CostFree
 END
 
 TOOLTIP:CommandPoints
-// context: Tooltip part that's used to make up the command bar build tooltips
+// context: Tooltip part that's used to makeup the command bar build tooltips
 "Yönetme Puaný: %d"
 END
 
@@ -5193,7 +5225,7 @@ TOOLTIP:RangedDamage
 END
 
 TOOLTIP:BattlesFought
-// Used to display the unit's number of battles fought in the in-game help text
+// Used to display the unit's number of battle's fought in the in-game help text
 "Yaptýðý Savaþ: %d"
 END
 
@@ -5786,7 +5818,7 @@ GUI:PlayerNoMap
 END
 
 GUI:LocalPlayerNoMap
-// context: %ls will be replaced by the player name. As there is only one variable in the string the %ls can be placed anywhere in the translated string. This message is displayed in the chat window of the multiplayer lobby.
+// context: %ls will be replaced by the player name. As there is only one variable in the string the %ls can be placed  anywhere in the translated string. This message is displayed in the chat window of the multiplayer lobby.
 "Haritaya sahip deðilsiniz (%ls)."
 END
 
@@ -6391,7 +6423,7 @@ GUI:GSDisconReason5
 END
 
 GUI:GSDisconReason6
-// context: player name is not registered. Player names must be registered and it must have a valid email address associated to them. 
+// context: player name is not registered. Player names must be registered  and it must have a valid email address associated to them. 
 "Bu takma ad/e-posta birleþimi mevcut deðil. Bir hesap oluþturmak istiyorsanýz Hesap Oluþtur'a týklayýn."
 END
 
@@ -7255,17 +7287,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3"
+"1.09v3.1"
 END
 
 Version:BuildTime
@@ -10287,12 +10319,12 @@ CONTROLBAR:ToolTipSpecialAbilityPrinceOfDolArmoth
 END
 
 CONTROLBAR:SiegeDeploy
-// context: deploy the siege ramp from the siege tower
+// context: deploy the seige ramp from the siege tower
 "Geri Çek"
 END
 
 CONTROLBAR:ToolTipSiegeDeploy
-// context: deploy the siege ramp from the siege tower
+// context: deploy the seige ramp from the siege tower
 "Surdar geri çek"
 END
 
@@ -10559,7 +10591,7 @@ CONTROLBAR:ToolTipRaiseShield
 "Kalkaný normal konumuna getirir."
 END
 
-// context: Units and Structures Names. Please consult the UNITS and Structures Document for more information.
+// context: Units and Structures Names. Please consult the UNITS & Structures Document for more information.
 
 CONTROLBAR:Evacuate
 "Tahliye E&t"
@@ -10749,7 +10781,7 @@ END
 // Printable names of the upgrades
 //------------------------------------------------------------------------------
 
-// comment: Units, Structures and Objects names. They are displayed when the player mouse over the object and pasuses a bit on it.For the Units and Side specific structures you'll find information in the documentation we supplied you. However there is some notes for the ones we thought were unclear.
+// comment: Units, Structures & Objects names. They are displayed when the player mouse over the object and pasuses a bit on it.For the Units and Side specific structures you'll find information in the documentation we supplied you. However there is some notes for the ones we thought were unclear.
 
 
 UPGRADE:FireArrowUpgrade
@@ -11820,7 +11852,7 @@ END
 OBJECT:GenericCaveTroll
 "Maðara Trolü"
 END
-
+  
 OBJECT:GenericWargRider
 "Warg Binicisi"
 END
@@ -15306,6 +15338,8 @@ SCRIPT:SUBTITLE_MELorie_MouthOfSauron018
 "SAURON'UN AÐZI: Elf-Cadýsý Galadriel ve onun aptal eþi bizi varlýklarýyla kutsuyorlar \n onlarýn ölümlerini hazýrlamak büyük zevk verecek!"
 END
 
+
+
 SCRIPT:SUBTITLE_MELorie_Galadriel004
 "GALADRIEL HANIM: Sauron'un ahmak uþaðý, gazabýmý hissedeceksin!"
 END
@@ -15779,6 +15813,7 @@ END
 SCRIPT:Complete_MEMirkwood_MissionObjective01
 "Kuvvetlerimiz Eski Orman Yolu'na ulaþtý."
 END
+ 
 
 SCRIPT:MEMirkwood_MissionObjective02
 "Nehri aþmak için farklý bir yol bulun."
@@ -15857,6 +15892,7 @@ SCRIPT:MEOldForestRoad_MissionHint05
 END
 
 SCRIPT:MEOldForestRoad_MissionHint06
+
 "ORK SUBAYI: Elfler aðaçlarýn arasýnda saklanýyorlar. Korumalarýný kaldýrmak için Tahribatý kullanýn!"
 End
 
@@ -15931,6 +15967,8 @@ END
 SCRIPT:MEWitheredHeath_MissionObjective04A
 "Ejderha Efendisi'ni bulun."
 END
+
+
 
 SCRIPT:MEWitheredHeath_MissionObjective05
 "Tüm Cüce madenlerini yok edin."
@@ -17760,7 +17798,7 @@ END
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel3Upgrade
 "Seviye 3: +%25 Daha Hýzlý Üretim"
 END
-
+// "\n Allows research of Venom Sacs"
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
 "Hazine Yýðýnýný Seviye 2'ye Y&ukselt"
 END
@@ -17768,6 +17806,7 @@ END
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel2Upgrade
 "Seviye 2: Dövülmüþ Kýlýçlar geliþtirmesini araþtýrmaya izin verir"
 END
+// \n The structure gain armor: \n +10% against heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
 "Hazine Yýðýnýný Seviye 3'e Y&ukselt"
@@ -17776,6 +17815,7 @@ END
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel3Upgrade
 "Seviye 3: Ateþ Oklarý geliþtirmesini araþtýrmaya izin verir"
 END
+// \n The structure gain armor: \n +10% against heroes \n +20% against Pikes \n +25% against Cavalry"
 
 CONTROLBAR:ConstructWildSpiderlingHorde
 "Örümcek&ler"
@@ -17917,16 +17957,16 @@ END
 CONTROLBAR:MordorGothmogHotkey
 "Gothmog"
 END
-CONTROLBAR:ToolTipBuildNazgulOnFellBeast		
+CONTROLBAR:ToolTipBuildNazgulOnFellBeast
 "Kanatlý yaratýða binen bir Nazgûl çaðýr"					
 END
-CONTROLBAR:MordorFellBeastRecruit			
+CONTROLBAR:MordorFellBeastRecruit
 "Kanatlý yaratýða binen bir Nazgûl çaðýr"					
 END
-CONTROLBAR:MordorFellBeastRevive			
+CONTROLBAR:MordorFellBeastRevive
 "Ölü Nazgûl'ü dirilt"						
 END
-CONTROLBAR:MordorFellBeastHotkey			
+CONTROLBAR:MordorFellBeastHotkey
 "Kanatlý Tay&f"						
 END
 CONTROLBAR:MordorMouthofSauronHotkey
@@ -18425,7 +18465,7 @@ CONTROLBAR:ToolTipSpecialAbilityShieldWall
 END
 
 CONTROLBAR:ToolTipDamrodLeadership
-"Damrod'un yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Damrod'un yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
@@ -18437,11 +18477,11 @@ CONTROLBAR:HorseLordLeadership
 END
 
 CONTROLBAR:ToolTipWitchKingLeadership
-"Cadý-Kral'ýn yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Cadý-Kral'ýn yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipInspiringPresence
-"Tom Bombadil'in yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n +%50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlabilir"
+"Tom Bombadil'in yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n +%50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:DwarvenGrudge
@@ -18473,11 +18513,11 @@ CONTROLBAR:ForGondor
 END
 
 CONTROLBAR:ToolTipForGondor
-"Gereken Seviye: 4 \n Boromir'in yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Gereken Seviye: 4 \n Boromir'in yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:ToolTipWarSpeech
-"Théoden'in yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Théoden'in yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 END
 
 CONTROLBAR:LastStand
@@ -18651,7 +18691,6 @@ END
 CONTROLBAR:ToolTipWordofPower
 "Gereken Seviye: 10 \n Etraftaki düþmanlarý öldüren bir þok dalgasý oluþturur \n Etkinleþtirmek için sol týklayýn"
 END
-
 CONTROLBAR:Shadowfax
 "Bindir / Ýndir [&M]"
 END
@@ -19896,6 +19935,8 @@ END
 APT:2v2RankLabel
 "2v2 Derece"
 END
+
+
 
 APT:HeroRank
 // Context: Used to not display a string until code desides to use HeroRankLabel.
@@ -23916,22 +23957,22 @@ End
 ////////////////////////////////
 
 BANNERUI:ElvenLorienWarrior
-// Singluar name of the Elven Lórien Warrior category displayed in the army summary for WotR
+// Singluar name of the Elven Lorien Warrior category displayed in the army summary for WotR
 "Elf Lórien Savaþçýsý"
 End
 
 BANNERUI:ElvenLorienWarriors
-// Plural name of the Elven Lórien Warrior category displayed in the army summary for WotR
+// Plural name of the Elven Lorien Warrior category displayed in the army summary for WotR
 "Elf Lórien Savaþçýsý"
 End
 
 BANNERUI:ElvenLorienArcher
-// Singluar name of the Elven Lórien Archer category displayed in the army summary for WotR
+// Singluar name of the Elven Lorien Archer category displayed in the army summary for WotR
 "Elf Lórien Okçusu"
 End
 
 BANNERUI:ElvenLorienArchers
-// Plural name of the Elven Lórien Archer category displayed in the army summary for WotR
+// Plural name of the Elven Lorien Archer category displayed in the army summary for WotR
 "Elf Lórien Okçusu"
 End
 
@@ -25494,7 +25535,6 @@ END
 LWA:MtDoom
 "Hüküm Daðý"
 END
-
 LWA:Fangorn
 "Fangorn Ormaný"
 END
@@ -28021,7 +28061,7 @@ WIZARD:CahPowersSelectSecondPower
 END
 
 WIZARD:CahPowersSelectNextPower_1
-// User can select Level 1 or Level 3 power.
+// User can select level 1 or level 3 power.
 "Kahramanýnýzýn Mevcut Güçlerinin %d. yerine eklemek için Seviye 1 veya 3 güçlerinden birini seçin."
 END
 
@@ -29134,6 +29174,7 @@ END
 CONTROLBAR:ToolTipBuildEregionForgeLevel2
 "Dövülmüþ Kýlýçlar geliþtirmesini araþtýrmaya izin verir"
 END
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
 "Eregion Demirhanesini Seviye 3'e Y&ukselt"
@@ -29142,6 +29183,7 @@ END
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
 "Gümüþ Uçlu Oklarý araþtýrmaya izin verir"
 END
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipGreenPasture
 "Elf süvarilerini eðitir"
@@ -29622,6 +29664,8 @@ END
 CONTROLBAR:LW_Hero_Gandalf
 "Gandalf"
 END
+
+
 
 CONTROLBAR:LW_ToolTipBuild_Gandalf
 "Birim Türü: Kahraman\n"
@@ -32479,7 +32523,7 @@ CONTROLBAR:BattleWagonUpgradeMenOfDale
 End
 
 CONTROLBAR:BlackArrows
-"&Kara Oklar"
+"Kara Oklar (&T)"
 End
 
 CONTROLBAR:BlackRiderMount
@@ -32528,7 +32572,7 @@ CONTROLBAR:ConstructElvenGrove
 End
 
 CONTROLBAR:ConstructElvenHobbitShirrif
-"Hobbitler"
+"Hobbitler (&R)"
 End
 
 CONTROLBAR:ConstructElvenWallHub
@@ -32660,17 +32704,17 @@ CONTROLBAR:IvoryTowerVision
 End
 
 CONTROLBAR:Knife
-"Býçak"
+"Býçak [&W]"
 End
 
 //	CONTROLBAR:LightBlast_Level1
 //	"Iþýk Patlamasý Seviye I"
 //	End
-
+//	
 //	CONTROLBAR:LightBlast_Level2
 //	"Iþýk Patlamasý Seviye II"
 //	End
-
+//	
 //	CONTROLBAR:LightBlast_Level3
 //	"Iþýk Patlamasý Seviye III"
 //	End
@@ -32708,7 +32752,7 @@ CONTROLBAR:PlanningModeDescription
 End
 
 CONTROLBAR:PoisonArrows
-"Zehirli Oklar [&P]"
+"Zehirli Oklar (&T)"
 End
 
 CONTROLBAR:PurchaseIsengardWargSentry
@@ -32744,7 +32788,7 @@ End
 
 
 CONTROLBAR:SpecialAbilityBatCloud
-"Yarasa Bulutu [&C]"
+"Yarasa Bulutu (&C)"
 End
 
 CONTROLBAR:Command_CreateAHero_ArcherToggleWeapon
@@ -32758,17 +32802,17 @@ End
 
 
 CONTROLBAR:SpecialAbilityDwarvenDemolisherDeploy
-"Sabitle [&Y]"
+"Sabitle (&Y)"
 End
 
 CONTROLBAR:SpecialAbilityGoblinFighterPoisonedBlades
-"Zehirli Kýlýçlar [&P]"
+"Zehirli Kýlýçlar &W)"
 End
 
 
 
 CONTROLBAR:SpecialAbilityOilBarrels
-"Yað F&içýlarý"
+"Yað Fi&cýlarý"
 End
 
 
@@ -32846,10 +32890,12 @@ End
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
 "Aðýr Zýrhý araþtýrmaya izin verir"
 End
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipBuildGondorForgeLevel3Upgrade
 "Demir Cevherini araþtýrmaya izin verir"
 End
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipBuildGoodBombardShip
 "Uzun menzilli ok mancýnýðý olan Elf gemisi \n Binalara karþý güçlü"
@@ -32870,10 +32916,12 @@ End
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel2
 "Dövülmüþ Kýlýçlar ve Aðýr Zýrhý araþtýrmaya izin verir"
 End
+// \n The structure gain armor: \n +10% against Heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel3
 "Ateþ Oklarýný araþtýrmaya izin verir"
 End
+// \n The structure gain armor: \n +10% against Heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ToolTipBuildMordorAttackTroll
 "Seviye 3 Trol Kafesi gerekir \n Kýlýççýlara, Süvarilere ve Kahramanlara karþý güçlü"
@@ -33539,7 +33587,7 @@ End
 OBJECT:DwarvenLoneTowerDescription
 "Yakýndaki düþmanlara saldýrýr \n Gizlenen düþmanlarý ortaya çýkarýr \n Kaledeki çeþitli geliþtirmeler uygulanabilir"
 End
-
+// Note it simply says "fires", because this tooltip is being used by both lone towers.
 OBJECT:DwarvenMagicDoor
 "Maden Kuyusu"
 End
@@ -35236,7 +35284,7 @@ End
 
 
 //////////////
-// Muhafýz Kýz Donanýmý
+// Shield Maiden Gear
 ///////////////
 
 CreateAHero:BlingName_SM_CHBOD01
@@ -36403,7 +36451,7 @@ CONTROLBAR:ShelobHotkey
 "&Shelob"
 END
 
-CONTROLBAR:BlackRiderRecruit		
+CONTROLBAR:BlackRiderRecruit	
 "Nazgûl Çaðýrýn"
 END
 
@@ -41227,7 +41275,7 @@ END
 
 
 ////////////////////////////////////
-/////// UPGRADES //////////////////
+///////  UPGRADES //////////////////
 ////////////////////////////////////
 
 CONTROLBAR:PurchaseTechnologyDwarvenBasicTraining
@@ -42004,7 +42052,7 @@ TOOLTIP:WildVenomSacs
 "Zehir Keseleri"
 END
 
-TOOLTIP:WildBasicTraining
+TOOLTIP:WildBasicTraining 
 "Sancaktar"
 END
 
@@ -43980,7 +44028,7 @@ CONTROLBAR:ToolTipCAHAthelas
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership
-"Kahramanýn yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Kahramanýn yanýndaki müttefikler \n +%25 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 End
 
 CONTROLBAR:ToolTipInvulnerability_Level1
@@ -44587,7 +44635,7 @@ CONTROLBAR:ToolTipCAH_Elendil_Palantir
 END
 
 CONTROLBAR:ToolTipCAH_BladeMaster_Palantir
-"Kahraman geçici bir süre +%100 Hasar Verme ve +%100 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
+"Kahraman geçici bir süre +%50 Hasar Verme ve +%50 Zýrh kazanýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipCAHAthelas_Palantir
@@ -44595,7 +44643,7 @@ CONTROLBAR:ToolTipCAHAthelas_Palantir
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership_Palantir
-"Kahramanýn yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek       Yýðýlamaz"
+"Kahramanýn yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n +%50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
 End
 
 CONTROLBAR:ToolTipInvulnerability_Level1_Palantir
@@ -45455,43 +45503,43 @@ CONTROLBAR:CAH_AxeThrow_Level3
 END
 
 CONTROLBAR:CAH_BattleRage_Level1
-"Savaþçý Öfkesi [&R]"
+"Savaþçý Öfkesi (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level2
-"Geliþmiþ Savaþçý Öfkesi [&R]"
+"Geliþmiþ Savaþçý Öfkesi (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level3
-"Mükemmel Savaþçý Öfkesi [&R]"
+"Mükemmel Savaþçý Öfkesi (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level4
-"Ýnanýlmaz Savaþçý Öfkesi [&R]"
+"Ýnanýlmaz Savaþçý Öfkesi (&R)"
 END
 
 CONTROLBAR:CAH_Bombard_Level1
-"Bombardýman [&V]"
+"Bombardýman (&V)"
 END
 
 CONTROLBAR:CAH_Bombard_Level2
-"Geliþmiþ Bombardýman [&V]"
+"Geliþmiþ Bombardýman (&V)"
 END
 
 CONTROLBAR:CAH_Bombard_Level3
-"Mükemmel Bombardýman [&V]"
+"Mükemmel Bombardýman (&V)"
 END
 
 CONTROLBAR:CAH_Charge_Level1
-"Hücum [&W]"
+"Hücum (&W)"
 END
 
 CONTROLBAR:CAH_Charge_Level2
-"Geliþmiþ Hücum [&W]"
+"Geliþmiþ Hücum (&W)"
 END
 
 CONTROLBAR:CAH_Charge_Level3
-"Muazzam Hücum [&W]"
+"Muazzam Hücum (&W)"
 END
 
 CONTROLBAR:CAH_ClearGarrisoned
@@ -45499,15 +45547,15 @@ CONTROLBAR:CAH_ClearGarrisoned
 END
 
 CONTROLBAR:CAH_EarthShaker_Level1
-"Yer Sarsýntýsý [&B]"
+"Yer Sarsýntýsý (&B)"
 END
 
 CONTROLBAR:CAH_EarthShaker_Level2
-"Geliþmiþ Yer Sarsýntýsý [&B]"
+"Geliþmiþ Yer Sarsýntýsý (&B)"
 END
 
 CONTROLBAR:CAH_EarthShaker_Level3
-"Muazzam Yer Sarsýntýsý [&B]"
+"Muazzam Yer Sarsýntýsý (&B)"
 END
 
 CONTROLBAR:CAH_Leap_Level1
@@ -45519,11 +45567,11 @@ CONTROLBAR:CAH_Leap_Level2
 END
 
 CONTROLBAR:CAH_Sapper_Level1
-"Laðýmcý [&U]"
+"Laðýmcý (&U)"
 END
 
 CONTROLBAR:CAH_Sapper_Level2
-"Geliþmiþ Laðýmcý [&U]"
+"Geliþmiþ Laðýmcý (&U)"
 END
 
 CONTROLBAR:CAH_Sapper_Level3
@@ -45538,11 +45586,11 @@ CONTROLBAR:CAH_WillPower_Level1
 "Ýrade [&W]"
 END
 
-CONTROLBAR:CAH_WillPower_Level2
+CONTROLBAR:CAH_WillPower_Level1
 "Geliþmiþ Ýrade [&W]"
 END
 
-CONTROLBAR:CAH_WillPower_Level3
+CONTROLBAR:CAH_WillPower_Level1
 "Mükemmel Ýrade [&W]"
 END
 
@@ -48480,7 +48528,7 @@ END
 CONTROLBAR:ToolTipGBloodHunt
 "Gereken Seviye: 4 \n Yakýndaki müttefik süvariler +%25 Hasar Verme, +%25 Zýrh ve %50 daha hýzlý tecrübe kazanýrlar\n Müttefik süvarilerin düþmaný ezerken yaþadýklarý hýz kaybý azalýr\n Düþmanlarý ezerken daha az hýz kaybederler \n Pasif yetenek"
 END
-
+//patch105: Friendly cavalry trample deceleration reduced.
 CONTROLBAR:ToolTipDominate
 "Gereken Seviye: 8 \n Hedeflenen düþmaný geçici olarak kontrolünüze verir \n Önce simgeye sonra hedeflenen düþmanlara sol týklayýn"
 END
