@@ -33,11 +33,21 @@
 			End
 		End
 
+		;;-;;
+		AnimationState = DYING DEATH_2 WEAPONSET_TOGGLE_1				; fading out.
+			Flags =	START_FRAME_LAST
+			Animation = Die
+				AnimationName = RUTreeberd_MOTC ;;-;; RUTreeberd_IDLA
+				AnimationMode = ONCE_BACKWARDS
+			End
+		End
+		;;-;;
 		AnimationState = DYING DEATH_2				; fading out.
 			Animation = Die
-				AnimationName = RUTreeberd_IDLA
-				AnimationMode = ONCE
+				AnimationName = RUTreeberd_MOTA ;;-;; RUTreeberd_IDLA
+				AnimationMode = ONCE_BACKWARDS
 			End
+			Flags =	START_FRAME_LAST
 		End
 
 		AnimationState = DYING WEAPONSET_TOGGLE_1
@@ -68,14 +78,30 @@
 		End
 
 		; -------- DEBATE ANIMS ---------------
+		AnimationState   = USER_2
+			StateName		= STATE_JustBuilt
+			Animation = Sprout
+
+				AnimationName = RUTreeberd_MOTA ;;MOTA IS NO ROCK;; C  ;sprout 
+				AnimationMode = ONCE    ;MANUAL ;; hold first frame
+				AnimationBlendTime = 0
+				AnimationSpeedFactorRange = #DIVIDE( 9666.66 SUMMONED_ENT_SPAWN_DURATION ) #DIVIDE( 9666.66 SUMMONED_ENT_SPAWN_DURATION )
+			End
+			;BeginScript
+			;	CurDrawableShowSubObjectPermanently("ROCK")
+			;EndScript
+			FXEvent	= Frame:25 Name:FX_EntSprout	
+			FXEvent = Frame:25 Name:FX_EntSproutButterflies
+		End
+
+		; -------- DEBATE ANIMS ---------------
 		AnimationState   = JUST_BUILT
 			StateName		= STATE_JustBuilt
 			Animation = Sprout
 
-				AnimationName = RUTreeberd_MOTC  ;sprout animation
+				AnimationName = RUTreeberd_MOTA
 				AnimationMode = ONCE    ;MANUAL ;; hold first frame
 				AnimationBlendTime = 0
-				AnimationSpeedFactorRange = 1 1 ; ; 0.5 0.5
 			End
 			BeginScript
 				CurDrawableShowSubObjectPermanently("ROCK")
@@ -111,6 +137,26 @@
 
 		
 		;-------------------------------------- AFLAME states
+;;-;;
+ 		AnimationState        =  AFLAME WADING
+			Animation           = Splash
+				AnimationName     = RUTreeberd_SPLA  ; Splashing water on himself
+				AnimationMode      = LOOP
+				AnimationBlendTime  = 5
+			End
+			BeginScript
+				CurDrawableHideSubObjectPermanently("ROCK")
+			EndScript
+ 			ParticleSysBone     = BAT_HEAD TreebeardSteam FollowBone:yes
+			ParticleSysBone     = BAT_SPINE1 TreebeardSteam FollowBone:yes
+			ParticleSysBone     = BAT_PELVIS TreebeardSteam1 FollowBone:yes
+			ParticleSysBone     = BAT_CALFR TreebeardSteam FollowBone:yes
+			ParticleSysBone     = B_POINT1L TrBrdWaterDrips FollowBone:yes
+			ParticleSysBone     = B_POINT1R TrBrdWaterDrips FollowBone:yes
+			ParticleSysBone     = B_THUMB1L TrBrdWaterDrips FollowBone:yes
+			ParticleSysBone     = B_THUMB1R TrBrdWaterDrips FollowBone:yes
+		End	
+
 		AnimationState = AFLAME DYING SPLATTED
 			Animation = DieSplat
 				AnimationName = RUTreeberd_LNDA

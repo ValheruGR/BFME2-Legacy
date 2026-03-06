@@ -1,6 +1,1653 @@
 // String file for Lord of the Rings
 
 // comment: DO NOT TRANSLATE
+
+//------------------------------------------------------------
+
+// Yeni Yama için dize satýrlarý 1.09v2 TR Yama ortadunya.com-----	2024
+
+//------------------------------------------------------------
+
+
+
+
+
+
+
+
+//------------------------------------------------------------
+CONTROLBAR:nothing09v2
+"nothing"
+END
+//------------------------------------------------------------
+CONTROLBAR:nothingDesc09v2
+"nothing"
+END
+//------------------------------------------------------------
+CONTROLBAR:PrinceofIthilien09v2
+"Ithilien Prensi [&B]"
+END
+CONTROLBAR:PrinceofIthilienDesc09v2
+"Gereken Seviye 5 \n Hedeflenen okçular deneyim kazanýr \n Hedef okçulara sol týklayýn ve ardýndan sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower09v2
+"Kalenin görüþ aralýðýný artýrýr ve gizli tespit saðlar. \n Oyuncu birimlerinde Palantir Görüþü kullanýmýnýn kilidini açar"
+END
+CONTROLBAR:TooltipIvoryTowerVision09v2
+"Haritanýn tamamýný görünür yapar \n Haritadaki oyuncu birimleri +%10 hýz kazanýr \n 30 saniye sürer"
+End
+CONTROLBAR:ToolTipGainSpiderVenomSacks09v2
+"Seviye 3 gerektirir \n Bu sürüyü Zehir Keseleri ile yükseltir \n Düþmanlara zehir vererek zamanla hasara neden olur"
+END
+//------------------------------------------------------------
+Color:Cyan09v2
+"Camgöbeði"
+END
+Color:DarkGreen09v2
+"Koyu Yeþil"
+END
+Color:GreenLime09v2
+"Yeþil Kireç"
+END
+Color:DarkPink09v1
+"Þarap"
+END
+Color:White
+"Beyaz"
+END
+Color:Grey
+"Gri"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAxeThrow09v2
+"Sýçrama hasarýna sahip güçlü menzilli saldýrý \n Süvariler ve uçanlar için özellikle etkilidir \n Yetenek hasarý 4. ve 7. seviyelerde artýrýlýr. \n Sol týklama simgesine, ardýndan hedefe sol týklayýn"
+END
+CONTROLBAR:ToolTipLeap09v2
+"Seviye 2 gerektirir \n Gimli, alan etkili hasara neden olacak bir konuma atlar. \n Yeteneðin etki yarýçapý 4. ve 7. seviyelerde artýrýldý. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+TOOLTIP:ToolTipWitchKing09v2
+"Topuzun saldýrý etki yarýçapý 5. ve 8. seviyelerde iyileþtirildi."
+END
+//------------------------------------------------------------
+CONTROLBAR:GenericMountTooltipDain09v2
+"Seviye 8 gerektirir \n Atlý ve yaya arasýnda geçiþ yapmak için \n sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ShelobWebbing09v2
+"Ungoliant Aðý (&B)"
+End
+CONTROLBAR:ToolTipShelobWebbing09v2
+"Seviye 10 gerektirir \n Düþman birimlerini 4,5 saniye boyunca örümcek aðlarýyla sakatlar ve bu süre boyunca canlarýný tüketir. \n Shelob, kahramanlara verilen toplam hasara göre iyileþir. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+End
+//------------------------------------------------------------
+CONTROLBAR:SummonBalrogSauron09v2
+"Balroglarý Çaðýr (&W)"
+End
+//------------------------------------------------------------
+CONTROLBAR:SummonEagleAlliesGaladriel09v2
+"Kartal Mü&ttefiklerini Çaðýr"
+End
+//------------------------------------------------------------
+UPGRADE:FarmLevel2Tooltip09v2
+"Seviye 2: +50 Komuta Puaný"
+END
+UPGRADE:FarmLevel3Tooltip09v2
+"Seviye 3: +75 Komuta Puaný"
+END
+//------------------------------------------------------------
+CONTROLBAR:ThunderBolt09v2
+"Yýldýrým Fýrtýnasý [&B]"
+END
+CONTROLBAR:ToolTipThunderBolt09v2
+"Gereken Seviye 10 \n Saruman, hedeflenen konuma güçlü yýldýrýmlar düþüren bir dizi bulut yaratýr. \n Simgeye sol týklayýn, ardýndan konuma sol týklayýn"
+END
+CONTROLBAR:ToolTipPersonalFlood09v2
+"Gereken Seviye 5 \n Düþmanlara zarar verecek ve yangýnlarý söndürecek bir sel çaðýrýr. \n Süvarilere karþý özellikle etkilidir. \n Kara Süvariler'r karþý bonus. \n Sel atlarý 10. seviyede iyileþtirilir. \n\n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+CONTROLBAR:ToolTipSlayer09v2
+"Gereken Seviye 5 \n Gimli +%50 Hasar ve Ýki Kat Hýz kazanýr, ancak Yapýsal oklara karþý -%15 zýrh kaybeder. \n Kahramanlarý geri itmek için %80 þansa sahiptir \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:TooltipElrondWhirlwind09v2
+"Gereken Seviye 6 \n Savaþ alanýna yýkýcý bir kasýrga çaðýrýr \n 17 saniye sürer \n Tüm birimlere minimum hasar verir \n Sol týklama simgesine, ardýndan hedef alana sol týklayýn"
+End
+CONTROLBAR:TooltipScreechWitchKing09v2
+"Gereken Seviye 4 \n Düþman birimlerinin dehþet içinde kaçmasýna neden olur \n Atýndan indiðinde, düþman ordularýna karþý 5. seviye korku baðýþýklýðýný delebilir \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildIronOreUpgrade09v2
+"Dövme Býçaklar, Aðýr Zýrh ve Ateþli Ok yükseltmelerinin maliyetini %33 azaltýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGlorfindelBladeOfPurity09v2
+"Gereken Seviye 3 \n Glorfindel 10 saniye boyunca +%50 Hasar ve Hasar Görmezlik kazanýr \n Yalnýzca bineðinden inildiðinde kullanýlabilir \n\n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:TooltipBladeMaster09v2
+"Gereken Seviye 2 \n Aragorn +%50 Hasar ve +%50 zýrh kazanýr. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+UPGRADE:AutohealUpgradeAdvanced09v2
+"Geliþtirilmiþ Otomatik iyileþtirme"
+END
+UPGRADE:AutohealUpgradeBasic09v2
+"Temel Otomatik iyileþtirme"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHourOfTheWitchKing09v2
+"Gereken Seviye 10 \n Bir AOE'deki Hedef Kahramanlarýn özel yetenek zamanlayýcýlarý %80'e sýfýrlanýr. \n Witch King'in etrafýndaki düþman kahramanlar -%25 hasar alýr. \n Simgeye sol týklayýn, ardýndan alana sol týklayýn"
+END
+CONTROLBAR:TooltipDwarvenRiches09v2
+"Seçilen yapýnýn kaynak çýkýþý geçici olarak %350'ye yükseltildi. \n Simgeye sol týklayýn, ardýndan hedef kaynak yapýsýna sol týklayýn"
+END
+CONTROLBAR:Command_CreateAHero_ShieldCrush_Level1_Name
+"Kalkan Ezmesi"
+END
+CONTROLBAR:Command_CreateAHero_ShieldCrush_Level3_Name
+"Geliþtirilmiþ Kalkan Ezmesi"
+END
+TOOLTIP:ToolTipPurchasedUpgradeFortressBanners09v2
+"Satýn alýnan kale liderliði yükseltmesi: \n Yakýndaki birimler +%25 Hasar kazanýr \n ve +%25 daha hýzlý deneyim kazanýr"
+END
+CONTROLBAR:ToolTipBuildGoblinFighterHorde09v2
+"Güçlü, Mýzraklýlara Karþý \n Sürü Bonusu: \n En az 100 adet toplanmýþ goblinler \n +%33 hasar +%25 hýz kazanýr."
+END
+CONTROLBAR:ToolTipBuildElvenRivendellLancers09v2
+"Güçlü Okçulara Karþý ve \n Birim Üretim Binalarý. \n Ayrýkvadi Mýzraklý Süvarileri 5. seviyede +%7 hýz kazanýr."
+END
+CONTROLBAR:ToolTipGloriousCharge09v2
+"Gereken Seviye 7 \n Theoden ve yakýndaki süvariler +%99 zýrh, +%25 hasar kazanýr ve ayaklar altýna alýnarak hýz kesmeye karþý baðýþýklýk kazanýr. \n Süvariler de bu süre boyunca korkusuz hale gelir. \n Yeteneði kullanabilmek için Theoden'in binici olmasý gerekir \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:ToolTipBuildGoblinArcherHorde09v2
+"Piyadelere Karþý Güçlü \n Ezilmeye Dayanýklý \n Sürü Bonusu: \n En az 100 \n sayýda toplanan goblinler +%33 hasar +%20 hýz kazanýr."
+END
+CONTROLBAR:ToolTipBuildMordorOrcArcherHorde09v2
+"Güçlü Piyadelere Karþý \n Sürü Bonusu: \n En az 70 \n kiþilik toplanan orklar +%33 hasar +%15 hýz kazanýr."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenCitadelDwarvenStonework09v2
+"Hisar'a, geniþletmelerine ve çevresindeki duvarlara ek zýrh saðlar. \n\n Yükseltmeler Yalnýz Kuleler'i çaðýrdý"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMordorTavern09v2
+"Umbar Korsanlarý Trenleri \n Mordor birim yükseltmelerinin araþtýrýlmasýna izin verir. \n Taverna bonusu: \n 2 taverna = korsanlar %10 daha ucuz \n 3 taverna = 15% daha ucuz \n 4 tavernalar = %20 daha ucuz"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDainStubbornPride09v2
+"Gereken Seviye 7 \n Yakýndaki tüm müttefiklere korku ve teröre karþý direnç kazandýrýr \n Dain gizliliði ortaya çýkarabilir hale gelir.\n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTreeBeardLeadership09v2
+"Aðaçsakal yakýnýndaki Müttefik Varlýklar \n +%25 Zýrh, +%10 Hýz \n +%20 Menzil ve +%25 Deneyim kazanýr \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipLurtzLeadership09v2
+"Gereken Seviye 5 \n Lurtz yakýnýndaki müttefikler +%50 Hasar \n kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipPalantirVision09v2
+"Düþman kuvvetlerini gözetleyin \n Hedef bölgesindeki \n birime geçici olarak +%15 hýz bonusu verir \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipFarSight09v2
+"Düþman kuvvetlerini gözetleyin \n Hedef bölgedeki \n orduya +%35'lik geçici menzil bonusu verir \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipElvenWood09v2
+"Merkezi, Lekeli Topraklara veya Ýnsan Ormanýna karþý düþmandan koruyucu bir kalkan oluþturan yemyeþil bir arazi oluþturur. \n Müttefik birimler +%35 zýrh, \n +%25 hasar kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Müttefiklerden gelen LÝDERLÝK etkilerini geçersiz kýlar. \n Düþman süvarilerinin yavaþlama oraný +%250 artýrýldý. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+CONTROLBAR:MenWood09v2
+"Ýnsan Ormaný"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipCloudBreak09v2
+"Dondurucu Yaðmuru, Karanlýðý ve Bulutkýrýmý iyileþtirmesini iptal eder. \n Düþman birimlerini 10 saniye boyunca sersemletir \n Müttefik birimleri 15 saniye boyunca iyileþtirir ve canlandýrýr \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDarkness09v2
+"Dondurucu Yaðmuru, Karanlýðý ve Bulutkýrýmý iyileþtirmesini iptal eder. \n Geçici olarak tüm haritayý karanlýkta kaplar\n Müttefik sürüleri +%50 Hasar, +%33 Zýrh kazanýr ve %50 kat daha hýzlý deneyim kazanýr. \n Canavarlar +%25 Hasar, +%33 Zýrh ve +%50 deneyim kazanýr \n 180 saniye sürer. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipFreezingRain09v2
+"Dondurucu Yaðmuru, Karanlýðý ve Bulutkýrýmý iyileþtirmesini iptal eder. \n Haritayý geçici olarak yaðmur altýnda kaplar \n Haritadaki tüm düþman sürüleri ve canavarlar \n -%25 zýrh ve -%25 hasara maruz kalýr. \n LÝDERLÝK, GÜÇLENDÝRME ve DÝRENÇ deðiþtiricilerini düþmandan etkisiz hale getirir. \n 150 saniye sürer. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMightyRage09v2
+"Gereken Seviye 4 \n Hedeflenen dost birimler \n +%20 Hýz, +%25 Hasar ve +%25 örtü açýða çýkarma kazanýr. \n Ayný konumdaki düþman ordularý \n -%25 zýrh ve -%25 hasara maruz kalýr \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+CONTROLBAR:ToolTipMordorDreadVisage09v2
+"Gereken Seviye 2 \n Yakýndaki düþman ordularý -%25 zýrh ve -%25 hasara maruz kalýr.  \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Pasif yetenek"
+End
+CONTROLBAR:TooltipCaveBats09v2
+"Örtüyü ortaya çýkarýr ve gizli birimleri tespit eder \n Düþman ordularý -%25 zýrh ve -%25 hasara maruz kalýr. \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+CONTROLBAR:TooltipCrebain09v2
+"Örtüyü ortaya çýkarýr ve gizli birimleri tespit eder \n Düþman ordularý -%25 zýrh ve -%25 hasara maruz kalýr. \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGBloodHunt09v2
+"Gereken Seviye 3 \n Yakýndaki müttefik süvariler +%25 Hasar, +%25 Zýrh kazanýr ve %50 daha hýzlý deneyim kazanýr\n Dost süvarilerin yavaþlama oranýný yarýya indirir \n Pasif yetenek"
+END
+CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack09v2
+"Gereken Seviye 2 \n Muhafýzlara düþmana saldýrmalarýný emredin \n Muhafýzlar +%25 Hýz ve +%25 Zýrh kazanýr. \n Meta etkiye neden olur \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+CONTROLBAR:ToolTipBarbedArrows09v2
+"Gereken Seviye 2\n Meta etkisine ve artan hasara neden olur \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+End
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework09v2
+"Kale ve Duvar zýrhýný artýrýr \n Ecthelion'un Ak Kulesi için gerekli \n Yükseltme Kulelere de Uygulanýr"
+END
+CONTROLBAR:ToolTipSharkuManEater09v2
+"Gereken Seviye 6 \n Sharku'nun saðlýðýný yenileyen ve geçici olarak +%35 Hasar, +%35 zýrh ve -%50 ezici yavaþlama saðlayan hedef düþmaný öldürün.\n Simgeye sol týklayýn, ardýndan hedef düþmana sol týklayýn"
+END
+CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel309v2
+"+%30 Daha Yüksek Ýnþa Hýzý \n Mithril Zýrh, Dövme Býçaklar ve Alevli Atýþ yükseltmelerinin araþtýrýlmasýna olanak tanýr \n Savunma Balta Kulesi ekler \n Forge Works, Mýzraklýlara ve Süvarilere karþý %20 zýrh kazanýr"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing09v2
+"Yakýndaki müttefikleri iyileþtirir. \n Her 6,5 saniyede bir sürülerden birimleri yenileyin. \n Kahramanýn canlanma maliyetini %5 azaltýr \n Kahramanýn canlanma süresini %15 azaltýr \n\n Yükseltme Kulelere de Uygulanýr"
+END
+CONTROLBAR:ToolTipBuildMordorOrcFighterHorde09v2
+"Güçlü Kaynak Binalarýna Karþý\n Sürü Bonusu: \n En az 70 adet toplanan orklar\n +%33 hasar +%20 hýz kazanýr."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs09v2
+"Yakýndaki Müttefikleri iyileþtirir. \n Her 6,5 saniyede bir sürülerden birimleri yenileyin. \n Kahramanýn canlanma süresini %25 azaltýr \n Kaleye ek can puaný ekler\n\n Yükseltme Kulelere de Uygulanýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework09v2
+"Kaleye ve duvarlara ek zýrh saðlar \n Kudretli Mancýnýk için ön koþul\n\n Yükseltmeler Kuleleri çaðýrdý"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipElvenCloakThranduil09v2
+"Elf Pelerini: \n Hareketsiz durduðunda görünmez olur \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipGoblinKingSkullTotem09v2
+"Gereken Seviye 2 \n Yok edilene kadar haritada kalacak bir kafatasý totemi yerleþtirir \n Yakýndaki örtüyü ortaya çýkarýr, gizliliði tespit eder ve yakýndaki müttefiklere +%35 zýrh ve +%25 deneyim bonusu saðlar. \n Deðiþtirici Türü: 'Armor BUFF' \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:DescriptionConstructMordorDrummerTrolls09v2
+"Davulcu Trolün yakýnýndaki müttefikler +%35 zýrh ve +%25 deneyim kazanýr. \n Yakýndaki troller +%15 Zýrh, %15 Deneyim kazanýr ve kendilerini daha hýzlý iyileþtirir. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipWarChant09v2
+"Hedef müttefikler +%40 Hasar, %50 deneyim ve +%10 hýz kazanýr. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+End
+//------------------------------------------------------------
+CONTROLBAR:TooltipRallyingCall09v2
+"Hedeflenen müttefikler +%50 Hasar ve +%50 deneyim kazanýr. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipRallyingCallDwarven09v2
+"Hedeflenen müttefikler +%50 Hasar ve +%50 deneyim kazanýr. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTaint09v2
+"Bir arazi alanýný kirletir \n Müttefik ordularý +%35 zýrh kazanýr. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+CONTROLBAR:ToolTipMenWood09v2
+"Yemyeþil araziler yaratýr. \n Müttefik birimler +%35 zýrh kazanýr. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+OBJECT:ElvenHeroicStatueDescription09v2
+"Heykelin yakýnýndaki müttefikler \n +%25 Hasar kazanýr, \n ve %25 daha hýzlý deneyim kazanýr. \n Terör ve korku direnci kazanýrlar. \n Komuta puaný sýnýrýný 10 artýrýr"
+END
+//------------------------------------------------------------
+OBJECT:HeroicStatueDescription09v2
+"Heykelin yakýnýndaki müttefikler \n +%25 Zýrh kazanýr, \n ve %25 daha hýzlý deneyim kazanýr. \n Komuta puaný sýnýrýný 10 artýrýr"
+END
+//------------------------------------------------------------
+OBJECT:DwarvenHeroicStatueDescription09v2
+"Heykelin yakýnýndaki müttefikler %35 Zýrh kazanýr. \n Müttefikler terör ve korku direnci kazanýr. \n Komuta puaný sýnýrýný 10 artýrýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v2
+"Kalenin yakýn dövüþ zayýflýðýný azaltýr \n Yakýndaki müttefik birimler þunlarý alýr: \n +%25 hasar ve +%25 daha hýzlý deneyim kazanýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressDoomPyres09v2
+"Yakýndaki birliklere %25 hasar ve %25 deneyim saðlar \n Kahraman maliyetini %10 azaltýr \n Kahraman yetiþtirme süresini %10 azaltýr \n Ýnþaatçýlarýn maliyetini %20 azaltýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners09v2
+"Kalenin yakýnýndaki müttefikler \n +%25 Hasar \n kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Kahraman maliyetini %10 azaltýr \n Kahraman yetiþtirme süresini %10 azaltýr \n Ýnþaatçýlarýn maliyetini %20 azaltýr \n\n Yükseltme Kulelere de Uygulanýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners09v2
+"Kalenin yakýnýndaki müttefikler +%25 Hasar ve %25 deneyim kazanýr \n Kahraman maliyetini %10 azaltýr \n Kahraman yetiþtirme süresini %10 azaltýr \n Ýnþaatçýlarýn maliyetini %20 azaltýr \n\n Yükseltme Kulelere de Uygulanýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipWargRiderHowl09v2
+"Warglar +%55 Hasar kazanýr ancak mýzrak ve yapýsal hasara karþý -%10 zýrh kaybeder \n Warglarýn LÝDERLÝK etkilerini geçersiz kýlar. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEyeofSauron09v2
+"Sauron'un Gözünü Çaðýrýr Gizli düþmanlarý ortaya çýkarýr ve Müttefikler +%25 Hasar, +%25 Zýrh kazanýr ve \n %50 daha hýzlý deneyim kazanýr. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGlorfindelStarlight09v2
+"Gereken Seviye 8 \n Aktifken, Glorfindel'in çevresindeki geniþ bir alandaki müttefik birimler, yaratýklar ve kahramanlar iyileþir. \n Müttefik ordu birimlerini yeniler. \n Müttefik birimler +%33 zýrh ve +%50 hasar kazanýr. \n Düþman birimleri korkar. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGimliLeadership09v2
+"Gimli'nin yakýnýndaki müttefikler +%35 zýrh kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDainLeadership09v2
+"Kral Dain yakýnýndaki müttefikler +%25 Hasar, +%25 Zýrh kazanýr ve %50 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier09v2
+"Sancak yakýnýndaki müttefikler \n +%25 Hasar \n kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Savaþta deðilken Battlewagon'u yavaþça iyileþtirir \n Battlewagon'a birkaç Phalanx ekler \n Gizli düþmanlarý ortaya çýkarýr"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGoblinKingBattleFrenzy09v2
+"Gereken Seviye 4 \n Goblin Kralýnýn yakýnýndaki müttefikler +%25 Zýrh kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Yakýndaki Troller %25 daha hýzlý deneyim kazanýr ve +50 saðlýk puaný otomatik iyileþtirme saðlar. \n Pasif yetenek"
+End
+//------------------------------------------------------------
+CONTROLBAR:TooltipElrondLeadership09v2
+"Gereken Seviye 3 \n Elrond'un yakýnýndaki müttefikler \n +%25 Hasar, +%25 Zýrh \n kazanýr ve %50 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipArwenLeadership09v2
+"Gereken Seviye 3 \n Arwen yakýnýndaki süvariler +%25 Zýrh kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirLeadership09v2
+"Gereken Seviye 4 \n Haldir'in yakýnýndaki müttefikler \n +%50 Hasar kazanýr ve +%25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipInspiringPresence09v2
+"Tom Bombadil'in yakýnýndaki müttefikler \n +%25 Zýrh kazanýr, \n ve +%25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAragornLeadership09v2
+"Gereken Seviye 4 \n Aragorn yakýnýndaki müttefikler +%25 Hasar, +%25 Zýrh kazanýr ve %50 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEomerLeadership09v2
+"Gereken Seviye 3 \n Eomer yakýnýndaki süvariler %35 Zýrh kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipFaramirLeadership09v2
+"Gereken Seviye 7 \n Faramir yakýnýndaki müttefikler +%35 Zýrh kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBoromirLeadership09v2
+"Gereken Seviye 5 \n Boromir yakýnýndaki müttefikler +%50 Hasar \n kazanýr ve +%25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTheodenLeadership09v2
+"Gereken Seviye 2 \n Theoden yakýnýndaki müttefikler +%25 Hasar \n kazanýr ve +%25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+TOOLTIP:ToolTipSarumanLeadership09v2
+"Saruman'ýn yakýnýndaki müttefikler +%25 Zýrh kazanýr ve %25 daha hýzlý deneyim kazanýr. \n Pasif yetenek"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirGoldenArrow09v2
+"Gereken Seviye 10 \n Meta darbeye neden olan yüksek hasarlý bir saldýrý. \n Süvarilere ve zayýf kahramanlara karþý etkilidir. \n Iþýða duyarlý düþman birimlerini sersemletir. \n Yalnýzca yay donanýmlý olarak kullanýlabilir \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn" 
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThornofVengeance09v2
+"Gereken Seviye 9 \n 15 saniye boyunca hasara neden olan son derece güçlü, tek atýþlý bir saldýrý. \n Hedef yalnýzca %70 hýza düþürülür. \n Güçlü kahramanlara karþý etkilidir. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
+"Gereken Seviye 2 \n Mumakil'e düþmaný ezmesini emret. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipVenomousWords09v2
+"Hedef konumdaki düþman sürüleri ve kahramanlar -%40 hýza ve -%50 ateþ oranýna maruz kalýr. \n 19 saniye sürer. \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMouthOfSauronDoubt09v2
+"Gereken Seviye 4 \n Hedef konumdaki düþman sürüleri ve kahramanlar -%25 zýrh, -%25 hasar ve -%5 hýza maruz kalýr. \n 30 saniye sürer. \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n Simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipEnshroudingMist09v2
+"Sisin içindeki dost birimler gizlenir. \n Ayný bölgedeki düþman ordularý, kahramanlar ve canavarlar \n -%25 zýrh ve -%25 hasara maruz kalýr. \n 60 saniye sürer. \n Düþmanýn LÝDERLÝK ve GÜÇLENDÝRME etkilerini etkisiz hale getirir. \n\n Simgeye sol týklayýn ve hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+TOOLTIP:ToolTipToggleGFighterLineToBlockFormation09v2
+"Bu ekipmaný etkinleþtirmek için Kýþlada Sancak Taþýyýcý yükseltmesini araþtýrýn. \n +%25 Zýrh, -%30 Hýz ve +%33 ekstra ok direnci"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation09v2
+"+%25 Zýrh, -%30 Hýz ve +%33 ekstra ok direnci"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation09v2
+"+%20 Zýrh, -%30 Hýz ve +%25 ekstra ok direnci. \n -%7 hasar kaybeder."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDisguise09v2
+"Gereken Seviye 3 \n Rohirrim kýlýðýna girin, silahlarýný giyin ve onlardan biri gibi savaþýn. \n Eowyn bölgede hasar verir \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:ToolTipSmite09v2
+"Güçlü menzilli saldýrý \n ve kahramanlara karþý bonus \n Özellikle güçlü ve Düþmüþ Canavarlar \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+CONTROLBAR:ToolTipShieldMaiden09v2
+"Gereken Seviye 5 \n Eowyn %35 Zýrh kazanýr \n Dost Rohirrim'in ayaklar altýna alýnýrken yavaþlama oranýný yarýya indirir \n Etkinleþtirmek için sol týklayýn"
+END
+//	\n Cancels Shield Maiden bonus.
+//	\n Cancels the disguise
+//------------------------------------------------------------
+CONTROLBAR:TooltipSunflare09v2
+"Savaþ alanýný kavurmak ve ayrým gözetmeksizin düþmanlarý ve müttefikleri yakmak için ateþli bir güneþ ýþýðý huzmesi çaðýrýr. \n Zayýf kahramanlara karþý etkilidir \n Karanlýðý Ýptal Eder & Dondurucu Yaðmur \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipCitadel09v2
+"Savaþ alanýnýn herhangi bir yerine bir Hisar Kalesi yerleþtirir \n Tünel aðýna baðlanýr \n Zaman içinde kaynak saðlar \n Simgeye sol týklayýn, ardýndan ulaþýlabilir konuma sol týklayýn"
+END
+//------------------------------------------------------------
+OBJECT:SignalFireDescription09v2
+"Kullanýlmayan güçlerin ve Kahramanlarýn ve Uçanlarýn yakýnýndaki Topuklarýn yeniden þarj olma sürelerini azaltmak için onu yakalayýn. \n\n 1 sinyal ateþi = Büyü kitabý yeniden yükleme süresinde -%25 azalma \n 2 sinyal ateþi = %-35 azalma \n 3 sinyal ateþi = -%50 azalma"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildGondorShieldGuardHorde09v2
+"Süvarilere karþý Güçlü ve \n Birim Üretim Binalarýna \n Kule Muhafýzlarý 3, 5 ve 7. seviyelerde +%5 hýz kazanýr."
+END
+CONTROLBAR:ToolTipBuildDwarvenGuardianHorde09v2
+"Mýzraklýlara karþý Güçlü \n ve Kaynak Binalarýna \n Muhafýzlar 3, 5, 7 ve 10. seviyelerde +%5 hýz kazanýr."
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGloinSmash09v2
+"Gereken Seviye 10 \n Gloin'in bulunduðu bölgede büyük bir depreme neden olur \n Ölülerin Ordusu 5 saniyeliðine sersemletir ama öldürmez \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSpecialAbilityFiresOfDoom09v2
+"Seçilen bölgedeki düþman veya müttefik birimlerine hasar verecek bir erimiþ kaya yaðmuru yaðdýrýr \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:Command_ConstructMordorCastleWallHub09v2
+"Duvar &W"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipFlood09v2
+"Düþmanýnýzý ezmek için güçlü bir Tufan çaðýrýr \n Süvarilere ve binalara karþý etkilidir \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipRebuild09v2
+"Herhangi bir yapýdan 3000 saðlýk puaný iyileþtirir. \n Hedef yapýlar 15 saniye boyunca %15 ilave zýrh kazanýr. \n Simgeye sol týklayýn, ardýndan hedef yapýlara sol týklayýn"
+End
+//------------------------------------------------------------
+CONTROLBAR:DwarvenCaptainofDale09v2
+"Prens Brand, Dale Kaptaný"
+END
+CONTROLBAR:DwarvenCaptainofDaleRecruit09v2
+"Prens Brand'ý Çaðýr, Dale Kaptaný"
+END
+CONTROLBAR:DwarvenCaptainofDaleRevive09v2
+"Prens Brand'ý Canlandýr, Dale Kaptaný"
+END
+CONTROLBAR:DwarvenCaptainofDaleHotkey09v2
+"Prens Brand, Dale Ka&ptaný"
+END
+OBJECT:DwarvenCaptainofDale09v2
+"Prens Brand, Dale Kaptaný"
+END
+//------------------------------------------------------------
+UPGRADE:Anduril09v2
+"Anduril"
+End
+TOOLTIP:AndurilDesc09v2
+"Anduril: Aragorn +%10 Hasar ve +%7 Hýz kazanýr \n Gereken Seviye 5 \n Pasif yetenek"
+END
+//------------------------------------------------------------
+GUI:SpellBookRefreshReduction09v2
+"Bonus: \n Büyükitabý \n beklemesüresi: \n %d%%"
+End
+//------------------------------------------------------------
+OBJECT:TheForsakenInn09v2
+"Terkedilmiþ Han" 
+End
+//------------------------------------------------------------
+UPGRADE:ElvenStructuralSilverthornArrows09v2
+"Gümüþdiken Mühimmatý"
+END
+//------------------------------------------------------------
+CONTROLBAR:PurchaseUpgradeElvenFortressSilverthorn09v2
+"Gümü&sdiken Mühimmatý"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressSilverthorn09v2
+"Kaleye ve ona baðlý tüm kulelere Gümüþdiken Mühimmatý verir \n Oklarýn verdiði hasarý artýrýr"
+END
+//------------------------------------------------------------
+CONTROLBAR:WordofPowerSauron09v2
+"Hüküm Sözleri [&B]"
+END
+CONTROLBAR:ToolTipWordofPowerSauron09v2
+"Çevredeki düþmanlarý öldüren bir þok dalgasý gönderir \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:GaladrielWordOfPower09v2
+"Nenya [&B]"
+END
+CONTROLBAR:ToolTipGaladrielWordOfPower09v2
+"Gereken Seviye 10 \n Nenya \Çevredeki düþmanlarý yok eden bir þok dalgasý gönderir \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:RingOfPower09v2
+"Güç Yüzüðü (&V)"
+END
+CONTROLBAR:ToolTipRingOfPower09v2
+"Sauron bir gölge ve alev akýþý yaratýr, çevredeki düþmanlara sürekli hasar verir \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAthelasAragorn09v2
+"Yakýndaki Kahramanlardan 1000 saðlýk puaný iyileþtirin. \n Etkinleþtirmek için sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipAthelasElrond09v2
+"Yakýndaki Hordes ve Heroes'lardan 750 saðlýk puaný iyileþtirir. \n Yakýndaki Sürüler ve Canavarlar, \n +%15 Saðlýk Puaný ve +%25 kazanma deneyimi kazanýr \n Korku ve teröre karþý direnç saðlar \n 12 saniye sürer \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:ToolTipElrondFarsight09v2
+"Haritanýn bir alanýný ortaya çýkarýr \n Herhangi bir müttefik birime 25 saniye boyunca +%27,5 görüþ açýða çýkma menzili saðlar. \n Kahramanlarý etkilemez. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:KingsFavorDain09v2
+"Kralýn Lütfu [&C]"
+END
+CONTROLBAR:ToolTipKingsFavorDain09v2
+"Gereken Seviye 6 \n Hedeflenen birimler deneyim kazanýr ve simgeye sol týklayýn, ardýndan hedef birimlere sol týklayýn"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSauronsFiresOfDoom09v2
+"Sauron çevresindeki bir bölgedeki birçok erimiþ kayayý çaðýrýr, \n Sol týklama simgesi yönlendirmeyi baþlatýr \n Müttefiklere zarar vermez"
+END
+//------------------------------------------------------------
+
+
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.09v1
+
+//------------------------------------------------------------
+
+
+CONTROLBAR:GaladHealBTP
+"Galad&riel'in Iþýðý"
+END
+CONTROLBAR:ToolTipGaladHeal
+"Galadriel'in etrafýnda geniþ bir daire içinde bulunan tüm müttefik birimleri ve kahramanlarý iyileþtirir \n Etkinleþtirmek için sol týklayýn"
+END
+CONTROLBAR:LadyOfLight
+"&Valar'in Iþýðý"
+END
+CONTROLBAR:TooltipLadyOfLight
+"Valar'ýn Iþýðýný düþmanlarýnýzýn üzerine çaðýrýn. \n Geniþ bir alanda büyük hasar verir"
+END
+CONTROLBAR:SpecialAbilityFiresOfDoom2
+"Sauron'un etrafýnda daire þeklinde Üç Kýyamet Ateþi çaðýrýn"
+END
+CONTROLBAR:LoneTowerLeadershipUpgradeIcon
+"Kaledeki yükseltmenin araþtýrýlmasýný gerektirir. \n\n Yakýndaki müttefiklere +%25 hasar saðlar ve %25 daha hýzlý deneyim kazanýr. \n Deðiþtirici Türü: RESISTANT 'Damage Inspiring'"
+END
+CONTROLBAR:LoneTowerHealingUpgradeIcon
+"Kaledeki yükseltmenin araþtýrýlmasýný gerektirir. \n\n Yakýndaki müttefikleri etkiler. \n Her 10 saniyede bir sürü baþýna bir birim yenileyin"
+END
+CONTROLBAR:LoneTowerArmorUpgradeIcon
+"Kaledeki yükseltmenin araþtýrýlmasýný gerektirir. \n\n Alýnan hasar miktarýný önemli ölçüde azaltýr."
+END
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.08
+
+//------------------------------------------------------------
+
+CONTROLBAR:GrabPassengerTB
+"Merry veya Pippin'i al"
+END
+CONTROLBAR:SpecialAbility_ShieldBubble
+"Kalkan Balonu (&W)"
+END
+CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
+"Büyücü, Gücünün tamamýný, kendisine verilen her türlü hasarý emecek bir Kalkana aktarýr. \n Gandalf ayrýca geri itmeye karþý baðýþýklýk kazanýr. \n 5 saniye sürer. \n \n Etkinleþtirmek için simgeye sol týklayýn"
+END
+CONTROLBAR:Fire_pit
+"Ateþ çukuru (&V)"
+END
+CONTROLBAR:TooltipFire_pit
+"Yakýndaki Müttefikleri iyileþtiren kamp ateþi \n Her 5 saniyede bir sürü baþýna 1 birim yenileyin. \n Gizliliði tespit edin \n Yakýndaki müttefikler +%5 zýrh kazanýr."
+END
+CONTROLBAR:FireWorks
+"HavaiFiþekler / Daðýt [&V]"
+END
+CONTROLBAR:ToolTipFireWorks
+"Merry, HavaiFiþekler \n yere düþürüp ateþleyebilir \n \n Etkinleþtirmek için sol týklayýn"
+End
+CONTROLBAR:FireWorks2
+"HavaiFiþekler / Tutuþtur [&B]"
+END
+CONTROLBAR:ToolTipFireWorks2
+"HavaiFiþekler geniþ yarýçap içindeki birimlere zarar verir \n \n Etkinleþtirmek için sol týklayýn"
+End
+CONTROLBAR:FireWorksObj
+"HavaiFiþekler"
+END
+CONTROLBAR:HobbitFireCracker
+"HavaiFiþek &r"
+END
+CONTROLBAR:ToolTipHobbitFireCracker
+"Kahraman küçük bir Havai Fiþek fýrlatabilir \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+End
+CONTROLBAR:ToolTipHobbitFireCrackerMerry
+"Kahraman küçük bir Havai Fiþek fýrlatabilir \n Mumakillere karþý etkilidir \n Yapýlara karþý özel bonus. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+End
+CONTROLBAR:ToolTipHobbitFireCrackerSam
+"Kahraman küçük bir Havai Fiþek fýrlatabilir \n Shelob'a karþý özel bonus. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
+End
+//------------------------------------------------------------
+
+
+
+// Maps.Strings	-----	2019
+
+ 
+
+
+//------------------------------------------------------------
+Map:mapmpnothing
+"nothing"
+END
+Map:mapmpnothing/Desc
+"nothing"
+END
+//------------------------------------------------------------
+Map:mapttfiriendale
+"Firien Dale"
+END
+Map:mapTTfiriendale/Desc
+"Halifirien tepesini Ak Daðlar'ýn mahmuzundan ayýran derin bir yarýk; Mering Çayý'nýn kaynaðý. \n Temptation ve Ecthelion'un Haritasý"
+END
+//------------------------------------------------------------
+Map:mapetdruadanforestIII
+"Druadan Forest III"
+End
+Map:mapetdruadanforestIII/Desc
+"Minas Tirith'in kuzeybatýsýnda, Ak Daðlar'ýn eteklerinde eski bir orman. \n BFME1'den harita, Ecthelion tarafýndan yeniden tasarlandý."
+End
+//------------------------------------------------------------
+Map:mapETlebenninIV
+"Lebennin IV"
+End
+Map:mapETlebenninIV/Desc
+"Gondor'un güneyindeki bu yemyeþil arazi, Anduin Nehri'nin Belfalas Körfezi'ne olan yolculuðunu tamamladýðý yerde yer alýr. \n BFME1'den harita, Ecthelion tarafýndan yeniden tasarlandý."
+End
+//------------------------------------------------------------
+Map:mapETlossarnach
+"Lossarnach" 
+End
+Map:mapETlossarnach/Desc
+"Çiçek Vadisi olarak da adlandýrýlan Lossarnach, Güney Gondor'da verimli bir bölge ve derebeylikti. Minas Tirith'in güneybatýsýnda ve Lebennin'in hemen doðusunda yer alan bu bölgede Ithilien ve Osgiliath'tan gelen birçok mülteci yaþýyordu. \n Ecthelion'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapETgrassland
+"Grasslands"
+END
+Map:mapETgrassland/Desc
+"Favnor Þehri'nin daðlarda bulunduðu eski bir yer. Bu antik kent, yüzyýllar önce yýkýlmýþ ve artýk sadece kalýntýlarýyla tanýnmaktadýr. \n Orijinal olarak JBV3737 tarafýndan oluþturulan Ecthelion haritasý."
+END
+//------------------------------------------------------------
+Map:TheGreenDragon
+"Yeþil Ejderha"
+END
+Map:TheGreenDragon/Desc
+"Yeþil Ejderha onuruna yapýlmýþ büyük bir 2v2 haritasý. Subaþý'nýn popüler bir haný olan Yeþil Ejderha Haný, hem Subaþý'ndan hem de komþu yerleþim yeri Hobbiton'dan gelen Hobbitlerin uðrak yeriydi. \n RotWK'dan harita."
+END
+//------------------------------------------------------------
+Map:ThePrancingPony
+"Sýçrayan Midilli"
+END
+Map:ThePrancingPony/Desc
+"Sýçrayan Midilli onuruna yapýlmýþ 8 kiþilik büyük harita. \n RotWK'dan harita."
+END
+//------------------------------------------------------------
+Map:mapMOblackrootVale
+"Karakök Vadisi"
+END
+Map:mapMOblackrootVale/Desc
+"Sindarin'de Mornan olarak bilinen Karakök Vadisi, içinden Karakök Nehri'nin aktýðý zengin otlaklardan oluþan bir vadiydi. \n Motoma'nýn haritasý"
+END
+//------------------------------------------------------------
+Map:mapETgapofrohanII
+"Rohan Açýklýðý II" 
+End
+Map:mapETgapofrohanII/Desc
+"Dumanlý Daðlar ile Ak Daðlar arasýndaki tek büyük ve kolayca geçilebilen geçit. \n Harita, orijinal olarak BFME1'den Ecthelion tarafýndan yeniden düzenlendi."
+End
+//------------------------------------------------------------
+Map:mapTTsouthhollin
+"Güney Hollin"
+end
+Map:mapTTsouthhollin/desc
+"Hollin, Ýkinci Çað'da Eriador'da, Moria Duvarlarý yakýnýnda, Dumanlý Daðlar'ýn gölgesinde yer alan bir Noldor diyarýydý. Lindon dýþýnda kalýcý olan tek Noldorin diyarýydý. \n Temptation ve Ecthelion'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapTTfordofbruinen
+"Ford of Bruinen" 
+End
+Map:mapTTfordofbruinen/Desc
+"Çoðunlukla kayýn aðaçlarýndan oluþan yayla ormanlarý, Bruinen Nehri'nin aktýðý Ayrýkvadi'nin batýsýnda yer alýyordu; bu, Büyük Batý karayolu üzerindeki yolculara saldýrmak için daðlardan inen trollerin favori avlanma alanýydý. \n Temptation'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapTTosgiliathII
+"Osgiliath II" 
+End
+Map:mapTTosgiliathII/Desc
+"Gondor Krallýðý'nýn ilk baþkenti. Sindarin dilinden tercüme edilen þehrin adý "Yýldýzlarýn Kalesi" anlamýna geliyor. \n Temptation tarafýndan düzenlenen harita"
+End
+//------------------------------------------------------------
+Map:mapTTpelennorfields
+"Pelennor Çayýrlarý" 
+End
+Map:mapTTpelennorfields/Desc
+"Pelennor Çayýrlarý, Minas Tirith þehrinin hemen dýþýnda, Anduin nehrinin batý yakasýnda uzanýyordu. Arazi yamaçlar ve teraslar halinde nehre doðru uzanýyordu. Pelennor Çayýrlarý, Pelennor'da bulunan ahýrlar, aðýllar, çiftlik hayvanlarý, tahýl ambarlarý ve þerbetçiotu ve malt kurutmak için fýrýnlarý olan çiftçilere ve çobanlara ev sahipliði yapýyordu. \n Temptation'un haritasý"
+End
+//------------------------------------------------------------
+Map:mapTTsmallwold
+"Small Wold" 
+End
+Map:mapTTsmallwold/Desc
+"Rohan Bozkýrý veya Bozkýr olarak da bilinen Bozkýr, Rohan'ýn yüksek çayýrlarýydý. Burasý Rohan'ýn kuzeydoðu bölgesiydi. Fangorn Ormaný ile Anduin Nehri arasýnda yer alýyordu.\n Temptation'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapSBmigration
+"Migration"
+END
+Map:mapSBmigration/Desc
+"Bu harita, efsanevi AoE II haritasý "Göç"e bir saygý duruþu niteliðindedir. Gemiler tamamen yenilendi ve umarým dengelenir (oynadýktan sonra oyunu yeniden baþlatýn). Kale, oyuncu baþýna iki adetle sýnýrlýdýr ve tünel aðý devre dýþýdýr (Undermine hariç) \n SilverBane Haritasý, Ecthelion tarafýndan düzenlenmiþtir"
+END
+//------------------------------------------------------------
+Map:mapSOsouthfarthing
+"Southfarthing"
+END
+Map:mapSOsouthfarthing/Desc
+"Shire'ýn kýrsal, verimli ve biraz daha sýcak bir bölgesi olan Güneydirhem, Pipo otu üretiminin çoðunun yapýldýðý yerdi. \n Harita, Solas'ýn RotWK'sýndan."
+END
+//------------------------------------------------------------
+Map:mapETvalleysofrhun
+"Rhün Vadileri"
+END
+Map:mapETvalleysofrhun/Desc
+//"A series of partially fertile valleys, feeded by water sinks from the nearby mountain chains at the far east of the Middle-Earth, around the Sea of Rhun. \n Ecthelion'un Haritasý."
+"Orta Dünya'nýn doðusu, kuraklýðýn ve mütevazi Piedmont vahasýnýn hüküm sürdüðü, benzersiz güzellikteki akarsular ve vadilerle dönüþümlü olarak cennet gibi zenginliðe sahip bir manzara yaratan çok sayýda ortam oluþturur. \n Ecthelion'un Haritasý"
+//Sierras Pampeanas, Argentina.
+END
+//------------------------------------------------------------
+Map:mapHAforlindon
+"Ýnek Labirenti"
+End
+Map:mapHAforlindon/Desc
+"Ýnek Labirenti'nin hikayesi:\nOzan bize bir zamanlar bu bölgede gerçekleþen Büyük Ýnek Labirenti'nden bahsetti...\n Büyük duvarlarýn içinde, Mighty-Bunito ve Glute-Master gibi antik çaðlardan kalma birçok güçlü kahraman, 109 gün 109 gece süren bir savaþta ateþ ve kuþatmayla mücadele ederek taþ duvarlarý aþtý. Kahramanlar inek bokunun içinden geçtiler ama iþe yaramadý; çýlgýn Ýnek Lordu gece gündüz onun ýslak ve þehvetli memelerini okþarken (ya da saðarken), kimse hayatta kalamadý. Süt ve kan sýçradý ama yine de kimse Kudretli Ýnek'in gazabýna karþý koyamadý. \n Yine de Labirent ve taþ duvarlarý Son Büyük Savaþ'ýn þiddeti nedeniyle yýkýldý. Artýk orta dünyanýn kuzeybatýsýný koruyacak yalnýzca harabeler kaldý ve Kudretli Ýnek, insanlarýn savaþ zamanlarýnda dua ettiði bir Tanrý haline geldi. \n Forlindon ülkesi kuzeyde Lhun Körfezi'ne ve Elf limaný Forlond'a kadar uzanýr.\n\n Harita orijinal olarak Haldir tarafýndan BFME1'den alýnmýþtýr, Ecthelion tarafýndan düzenlenmiþtir."
+End
+//The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\nMap from BFME1 by Haldir, edited by Ecthelion."
+//------------------------------------------------------------
+Map:mapnewfordsofrohan
+"Rohan Sýðlýklarý"
+END
+Map:mapnewfordsofrohan/Desc
+"Rohan ve Isengard topraklarý arasýnda yer alan, Isen nehri ile ayrýlmýþ barýþçýl bir savaþ alaný. \n RotWK by Gladyr'den harita, Ecthelion tarafýndan düzenlendi"
+END
+//------------------------------------------------------------
+Map:mapETerynrhun
+"Eryn Rhün" 
+End
+Map:mapETerynrhun/Desc
+"Eryn Rhün, Kýzýl Daðlardan gelen nehirlerin aðýzlarýyla sulanan, Rhün denizinin doðusundaki gizemli ormanlýk bölgeye referans olarak kullanýlan Doðu Ormaný anlamýna gelir. \n Ecthelion'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapETlebennin
+"Lebennin" 
+End
+Map:mapETlebennin/Desc
+"Lebennin, Beyaz Daðlar'ýn güneyi ile Anduin deltasý arasýnda kalan bir bölgedir. Beþ nehrin ülkesi olarak bilinen bu bölge, geniþ yeþil çayýrlarý uzun otlar ve çiçeklerle dolu olan Gondor'un en sadýk týmarlarýndan biridir. \n Ecthelion'un Haritasý"
+End
+//------------------------------------------------------------
+Map:mapETfirienforest
+"Firien Ormaný" 
+End
+Map:mapETfirienforest/Desc
+"Firien ormaný, Ak Daðlar'ýn eteklerinde, Mering Çayý ve Doðuaðýl sýnýrýnda yer alan bir meþe ormanýdýr. \n Yaratýklar: 4x Warg \n Ecthelion'un Haritasý."
+End
+//------------------------------------------------------------
+Map:mapSBagarnaith
+"Agarnaith"
+END
+Map:mapSBagarnaith/Desc
+"Orodruin yamaçlarýnýn ötesinde ve Mordor'un derinliklerinde Kanlý Kan Agarnaith yatýyor. Bu lanetli yerden çok az kiþi geri dönebilir. \n Yaratýklar: 2x Troll \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBtumladen
+"Tumladen"
+END
+Map:mapSBtumladen/Desc
+"Tumladen, Celos ve Sirith nehirleri arasýnda derin bir vadidir. Yüzük Savaþý sýrasýnda Minas Tirith'ten gelen birçok sivilin sýðýnaðýydý. \n Tarafsýz Yapýlar: 2x Han \n Yaratýklar: 2x Warg\n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBchetwood
+"Chetwood"
+END
+Map:mapSBchetwood/Desc
+"Bree'nin doðusunda yer alan bu orman, doðuda Midgewater bataklýklarý ve güneyde Büyük Doðu Yolu ile sýnýrlanýyordu. Aragorn hobbitleri Ayrýkvadi'ye giderken bu ormandan geçirdi. \n Yuvalar: 2x Troll, 2x Warg \n Tarafsýz Yapýlar: 2x Terkedilmiþ Han \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBeredlithui
+"Ered Lithui"
+END
+Map:mapSBeredlithui/Desc
+"Ered Lithui veya Kül Daðlarý, Mordor'un kuzey sýnýrýný oluþturur. Doðuya uzanan yol yalnýzca Büyük Göz'e sadýk Doðulular tarafýndan kullanýlýyor. \n Yuvalar: 2x Goblin Yuvasý, 1x AteþEjderi Yuvasý. \nSilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBbarrowdowns
+"The Barrow Downs"
+END
+Map:mapSBbarrowdowns/Desc
+"Barrow Yaylalarý veya Tyrn Gorthad, Shire'ýn doðusundaki bir dizi tepedir. Bir zamanlar kutsal olan bu tepelerde pek çok hayalet dolaþýyor. \n Yuvalar: 3x Hayalet Höyüðü \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBdimrilldale
+"Dimrill Vadisi"
+END
+Map:mapSBdimrilldale/Desc
+"Moria'nýn doðusundaki bu vadi, Cüceler ve Orklar Savaþý'nýn son savaþ alaný olmuþtur. \n Yuvalar: 2x Goblin Yuvasý \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBsirayn
+"Sirayn"
+END
+Map:mapSBsirayn/Desc
+"Bu yýkýk þehir, Uzak Harad ormanlarýnýn derinliklerinde yer alýyor. Ýkinci Çað'dan kalma bir Numenor kalýntýsýdýr. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBtrollshaws
+"Trollshaws"
+END
+Map:mapSBtrollshaws/Desc
+"Geçilmesi zor olan evcilleþtirilmemiþ topraklar. Son Ev Sahibi Ev bu topraklarýn doðusunda bulunabilir. \n Yuvalar: Troll x2 \n Tarafsýz Yapýlar: Ýþaret Kulesi x2, Han x1 \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:mapSBplateauofgorgoroth
+"Gorgoroth Platosu"
+END
+Map:mapSBplateauofgorgoroth/Desc
+"Gorgoroth Platosu kül, duman ve sayýsýz orkun kol gezdiði ölümcül, çorak bir bölgedir. \n Mevcut iki su sarnýcýnýn ele geçirilmesi yararlý olabilir. \n Tarafsýz Yapýlar: 2x Su sarnýcý. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+//MAP:mapTESTBucklandIII
+//"Buckland III"
+//END
+//MAP:mapTESTBucklandIII/Desc
+//"Erdiyarý, Shire'ýn doðu sýnýrý Merry Brandybuck'ýn eviydi. \n RotWK'dan Harita, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapMAeastmarch
+"Doðu Yürüyüþü"
+END
+Map:mapMAeastmarch/Desc
+"Hobbitlerin yaþadýðý, Yaþlý Orman ile Brendibadesi nehrinin doðu kýyýsý arasýndaki küçük ama yoðun nüfuslu bir kara parçasý. \n RotWK'dan Harita, by Mako."
+END
+//------------------------------------------------------------
+//Map:mapTESTFordsOfGlanduin
+//"Glanduin Sýðlýklarý"
+//END
+//Map:mapTESTFordsOfGlanduin/Desc
+//"Khazad-dum'un güneyindeki Hithaeglir'den baþlayarak Glanduin, Eregion'un Dunland'a olan güney sýnýrýný oluþturdu. \n RotWK'dan Harita, by Solas."
+//END
+//------------------------------------------------------------
+Map:mapSOgondoroutpost
+"Gondor Karakolu"
+END
+Map:mapSOgondoroutpost/Desc
+"Harondor sýnýrýnda güney yollarýný gözetlemeye yarayan bir karakol. \n RotWK'dan Harita, by Solas, Mako & TheRanger."
+END
+//------------------------------------------------------------
+Map:mapSOplainsoflindon
+"Lindon Ovalarý"
+END
+Map:mapSOplainsoflindon/Desc
+"Lune'un ötesinde yeþil ve sessiz bir Elf ülkesi. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOwoodyend
+"Woody End"
+End
+Map:mapSOwoodyend/desc
+"Woody End, batýda Yeþil Tepe Ülkesi ile doðuda Marish arasýnda uzanan, Shire'ýn Doðudirhemi'n daðlýk ormanlýk bir bölgesiydi. \n RotWK'dan Harita, by Solas."
+End
+//------------------------------------------------------------
+//	Map:mapTESTriveroforodruin
+//	"River of Orodruin"
+//	End
+//	Map:mapTESTriveroforodruin/desc
+//	"Orodruin, also known as Mount Doom, is a towering volcano in the land of Mordor. Around it, there is an arid plateau that is separated by rivers of lava.\n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+//Map:mapTESTrhunshore
+//"Rhun Shore"
+//End
+//Map:mapTESTrhunshore/Desc
+//"Sea of Rhun is a large inland sea located in the arid domain of Esterling. After the downfall of Sauron, Aragorn and Eomer rode there to flush out the last remnants of the enemy forces.\n Size: 380 x 350\n Yuvalar: 4x Warg Lair, 2x Troll Yuvasý\n Tarafsýz Yapýlar: 1x Outpost, 1x Inn. \n RotWK'dan Harita, by Mako."
+//End
+//------------------------------------------------------------
+//Map:mapTESTpathsofthedead
+//"Path of the dead"
+//End
+//Map:mapTESTpathsofthedead/desc
+//"A cavernous passageway through the White Mountains running from Dwimorberg in the north to the Morthond Vale in the south.\n Size: 230 x 390. \n Map by RotWK"
+//End
+//------------------------------------------------------------
+//	Map:mapTESTmithlondvalley
+//	"Mithlond Valley" // MAP REMOVED
+//	End
+//	Map:mapTESTmithlondvalley/desc
+//	"A periphery settlement of the Grey Havens, constructed in a great valley that originates in Ered Lindon. \n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+//MAP:MapTESTMirkwoodForest
+//"Mirkwood Forest"
+//END
+//MAP:MapTESTMirkwoodForest/Desc
+//"The term Mirkwood is taken from William Morris, influenced by the forest Myrkvior of Norse mythology. Projected into Old English, it appears as Myrcwudu in Tolkien's The Lost Road, as a poem sung by AElfwine.\n Boyut: 380 x 380\n Yuvalar: 4x Warg Lair, 2x Troll Yuvasý\n Tarafsýz Yapýlar: 2x Ýþaret Kulesi. \n RotWK'dan Harita, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapNEWmidgewater
+"Midgewater"
+End
+Map:mapNEWmidgewater/desc
+"Midgewater Bataklýklarý, güneydoðu bölgesindeki Bree topraklarýndaki bir alandýr. Hava Tepeleri'ne kadar uzanan tehlikeli bataklýklarýyla tanýnýr. \n Mako'nun haritasý, Ecthelion tarafýndan düzenlendi."
+End
+//------------------------------------------------------------
+//Map:mapTESTironhillsiv
+//"Iron Hills IV"
+//End
+//Map:mapTESTironhillsiv/desc
+//" A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water.\n Size: 550 x 550\n Yuvalar: 4x Örümcek Yuvasý, 2x Fire Drake Lair, 10x Destructible Environment\n Tarafsýz Yapýlar: 4x Outpost, 2x Inn, 2x Ýþaret Kulesi. \n RotWK'dan Harita, by Mako."
+//End
+//------------------------------------------------------------
+//	Map:mapTESTironhillsiii
+//	"Iron Hills III" // MAP REMOVED
+//	End
+//	Map:mapTESTironhillsiii/desc
+//	"A range of mountains located in northern Middle-earth. It is the realm of the Dwarves of Durin's Folk.\n Size: 498 x 398\n Yuvalar: 8x Örümcek Yuvasý, 2x Fire Drake Lair, 4x Destructible Environment\n Tarafsýz Yapýlar: 2x Outpost, 2x Inn, 2x Ýþaret Kulesi. \n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+Map:mapTESTfordsofharnen
+"Harnen Sýðlýklarý"
+End
+Map:MAPTESTFordsOfHarnen/Desc
+"Harnen Nehri Gondor'un güneyinde bir nehirdi. Harnen'in güneyinde Yakýn Harad ülkesi uzanýyordu. \n Boyut: 560 x 450\n Yuvalar: 4x Troll Yuvasý\n Tarafsýz Yapýlar: 4x Ýþaret Kulesi. \n RotWK'dan Harita, by lrdkcki, edited by Mako."
+END
+//------------------------------------------------------------
+//	Map:mapTESTeredmithrin
+//	"Ered Mithrin" // MAP REMOVED
+//	End
+//	Map:mapTESTeredmithrin/Desc
+//	"Of old the Ered Mithrin had been mined and inhabited by Dwarves of Durin's Folk, but by the Third Age only one Dwarven stronghold remained, standing strong against raiding Dragons from the nearby Withered Heath.\n Size: 600 x 500\n Yuvalar: 4x Warg Lair, 1x Troll Yuvasý, 3x Fire Drake Lair, 1x Destructible Environment\n Tarafsýz Yapýlar: 1x Outpost, 1x Inn, 1x Ýþaret Kulesi, 2x Tower. \n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+//Map:mapTESTerechii
+//"Erech II"
+//End
+//Map:mapTESTerechii/desc
+//" A hill west of Minas Tirith, where in ages past the faithless King of the Mountains swore an oath of fealty to Isildur.\n Size: 320 x 320\n Yuvalar: 2x Troll Yuvasý, 2x Hayalet Höyüðü Lair\n Tarafsýz Yapýlar: 2x Inn. \n RotWK'dan Harita, by Dogi9696, edited by Ecthelion. Originally created by Thoon."
+//End
+//------------------------------------------------------------
+//	Map:mapTESTdwarrowdelf
+//	"Dwarrowdelf " // MAP REMOVED
+//	End
+//	Map:mapTESTdwarrowdelf/Desc
+//	"Khazad-dûm, also known as Hadhodrond, Casarrondo and Phurunargian, which translates to Dwarrowdelf, latterly known as Moria.\n Size: 600 x 500\n Yuvalar: 8x Goblin Yuvasý, 4x Troll Yuvasý\n Tarafsýz Yapýlar: 4x Outpost, 4x Inn, 2x Ýþaret Kulesi. \n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+//	Map:maptestdungeonsoferebor
+//	"Dungeons of Erebor" // MAP REMOVED
+//	End
+//	Map:maptestdungeonsoferebor/Desc
+//	"A vast cavern within the Lonely Mountain where the Dwarves mine their riches and trade with the Men of Dale.\n Size: 500 x 500\n Yuvalar: 2x Goblin Yuvasý, 4x Troll Yuvasý\n Tarafsýz Yapýlar: 2x Inn. \n RotWK'dan Harita"
+//	End
+//------------------------------------------------------------
+//Map:maptestdruwaithreef
+//"Druwait Reef"
+//End
+//Map:maptestdruwaithreef/desc
+//" This coastal region, once inhabited by the Druedain, has been the site of sacrificial offerings to Ulmo in order to set the heavy floods at rest. Now only the ruins of this cult remain as the waters are still restless.\n Size: 410 x 350\n Yuvalar: 2x Örümcek Yuvasý, 2x Troll Yuvasý\n Tarafsýz Yapýlar: 2x Inn. \n RotWK'dan Harita, by Solas."
+//End
+//------------------------------------------------------------
+//	Map:maptestbrownlands8p
+//	"Brown Lands [8p]" // MAP REMOVED
+//	END
+//	Map:maptestbrownlands8p/Desc
+//	"Lands to the east of the River Anduin scorched by Sauron at the end of the Second Age. Once the lush home of the Entwives, this area has been desolate since the battles of the Last Alliance.\n Size: 500 x 500\n Yuvalar: 10x Goblin Yuvasý. \n RotWK'dan Harita"
+//	END
+//------------------------------------------------------------
+Map:mapNEWwestmarch
+"Westmarch"
+END
+Map:mapNEWwestmarch/Desc
+"Tower Tepeleri ile Shire arasýnda çayýrlar ve yükseltilerle dolu bir ülke. \n Boyut: 500 x 350\n Yuvalar: 4x Troll Yuvasý \n Tarafsýz Yapýlar: 4x Inn, 1x Ýþaret Kulesi. \n RotWK'dan Harita, edited neutral buildings."
+END
+//------------------------------------------------------------
+Map:mapNEWwildsofforochel
+"Forochel Yabaný"
+END
+Map:mapNEWwildsofforochel/Desc
+"Küçük kuzeyli kabilelerin neredeyse hiç yaþamadýðý vahþi ve tehlikeli Forochel bölgesi. \n RotWK'dan Harita, by TheDestroyer001."
+END
+//------------------------------------------------------------
+Map:mapSOreddesertofkhand
+"Khand'ýn Kýzýl Çölü"
+END
+Map:mapSOreddesertofkhand/Desc
+"Mordor'un güney doðusunda ve Yakýn Harad'ýn doðusunda yer alan kýrmýzý bir çöl ülkesi. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWnanmarillion
+"Nan Marillion"
+END
+Map:mapNEWnanmarillion/Desc
+"Çiçeklerin ve nehirlerin bulunduðu bu tropikal ülke, kutsal yerlerdeki büyük vadiye yayýlan üç kristalin mistik gücüyle korunmaktadýr. \n RotWK'dan Harita, by Dogi96."
+END
+//------------------------------------------------------------
+Map:mapRAmoongladevale
+"Moonglade Vadisi"
+END
+Map:mapRAmoongladevale/Desc
+"Orta Dünya'nýn Elfleri, Elbereth dedikleri yýldýz ýþýðýnýn yaratýcýsý Varda'ya hayranlýkla ay ormanlarýna saygý duyarlar. \n Boyut: 480 x 480 \n Yuvalar: 2x Troll Yuvasý, 2x Goblin Yuvasý. \n RotWK'dan Harita, by TheRanger. \n Günün saati, baþlangýçta Gece olan Sabah olarak deðiþtirildi"
+END
+//------------------------------------------------------------
+//Map:mapNEWanfalasii
+//"Anfalas II"
+//END
+//Map:mapNEWanfalasii/Desc
+//"The western coastal section of Gondor populated by small villages of herdsmen and fishermen.\n Size: 360 x 390\n Yuvalar: 2x Troll Yuvasý, 2x Hayalet Höyüðü Lair\n Tarafsýz Yapýlar: 1x Inn, 1x Ýþaret Kulesi. \n RotWK'dan Harita, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapRAgreenleafforest
+"YeþilYaprak Ormaný"
+END
+Map:mapRAgreenleafforest/Desc
+"Üçüncü Çað'da Sauron'un düþüþünden sonra Kuyutorman temizlendi ve yeniden güzel bir orman olan Eryn Lasgalen'e dönüþtü. \n Boyut: 425 x 410 \n Yuvalar: 5x Örümcek Yuvasý \n Tarafsýz Yapýlar: 2x Han, 1x Ýþaret Kulesi. \n RotWK'dan Harita, by TheRanger."
+END
+//------------------------------------------------------------
+Map:mapRAhitherlandsofkhand2v2
+"Hither Khand Topraklarý"
+END
+Map:mapRAhitherlandsofkhand2v2/Desc
+"Çöl atýklarý, tatlý su havuzlarýnda rahatlama ve sýðýnak saðlýyor. \n Boyut: 465 x 430 \n Yuvalar: 2x Goblin Yuvasý, 4x Troll Yuvasý \n Tarafsýz Yapýlar: 2x Han. \n RotWK'dan Harita, by TheRanger."
+END
+//------------------------------------------------------------
+Map:mapSOjunglesoffarharad
+"Uzak Harad Ormanlarý"
+END
+Map:mapSOjunglesoffarharad/Desc
+"Uzak Harad'ýn en güneyindeki bu bölge tropik aðaçlar ve çalýlarla yoðun ormanlarla kaplýdýr ve Büyük Deniz'e akan nehirler tarafýndan su ile beslenir. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapJKtowerhillsiii
+"Kule Tepeleri II"
+End
+Map:mapJKtowerhillsiii/desc
+"Bu tepeler, Kuzeydeki Palantiri'nin sonuncusu Elendil Taþý'ný barýndýran antik Elf kulelerinin evidir. \n RotWK'dan Harita, by Mako."
+End
+//------------------------------------------------------------
+//	Map:mapNEWdesertofrhun
+//	"Rhun Çölü" //removed
+//	End
+//	Map:mapNEWdesertofrhun/desc
+//	"Rhun'un güneydoðusunda uzanan geniþ bir çöl. Pek çok hazýrlýksýz gezgin bu engebeli bölgeyi geçmeye çalýþýrken yollarýný kaybediyor. \n Size: 550 x 550\n Yuvalar: 6x Goblin Yuvasý\n Tarafsýz Yapýlar: 2x Outpost, 2x Inn, 2x Ýþaret Kulesi. \n RotWK'dan Harita, by Solas."
+//	End
+//------------------------------------------------------------
+Map:mapMOamonhen
+"Amon Hen"
+END
+Map:mapMOamonhen/Desc
+"Amon Hen, Nen Hithoel'in güney ucundaki üç zirvenin en batýdakisiydi. \n Map by Motoma, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapNEWtournamentemynarnen
+"Emyn Arnen II"
+END
+Map:mapNEWtournamentemynarnen/Desc
+"Emyn Arnen, Sindarin dilinde Büyük Anduin nehrine atýfta bulunarak "Suyun Yanýndaki Tepeler" anlamýna gelir. \n Osgiliath'ýn güneyinde, Gölge Daðlarý'nýn sýnýrýndaki Ithilien'de yer alýr. \n Ecthelion'un Haritasý."
+END
+//------------------------------------------------------------
+Map:mapJKforlindonhills
+"Forlindon Tepeleri"
+END
+Map:mapJKforlindonhills/Desc
+"Forlindon bölgesinde Elfler yaþýyordu ve Mavi Daðlar ve Büyük Deniz ile çevrili Gil-galad'ýn krallýðýnýn baþlýca kýsmýydý. \n Map by Jokuc`."
+END
+//------------------------------------------------------------
+Map:mapJKtowerhills
+"Kule Tepeleri"
+END
+Map:mapJKtowerhills/Desc
+"Fords of Isen'e ve Tower Hills görünümüne benzer bir düzene sahip bu 1v1 harita, eðlenceli unsurlarýn ve dengeli oynanýþýn bir karýþýmýný saðlamak için yapýldý. \n Turnuva modu için yüzük kahramanlarýný kapatýn. \n Map by Jokuc`."
+END
+//------------------------------------------------------------
+Map:mapMAudunii
+"Udun [6p]"
+END
+Map:mapMAudunii/Desc
+"Udun olarak bilinen Kara Kapý'nýn arkasýndaki topraklar, üzerlerini kaplayan volkanik kül ve zararlý dumanlardan dolayý yeraltý dünyasý adýný alýyor. \n RotWK'dan Harita, by Mako."
+END
+//------------------------------------------------------------
+Map:mapMAmountgram
+"Gram Daðý"
+End
+Map:mapMAmountgram/desc
+"Daðda uzun süre Golfimbul liderliðindeki bir grup Ork yaþýyordu. Shire'dakiler de dahil olmak üzere doðu Eriador sakinlerinin bir kýsmýný terörize ettiler. \n Mako'nun hazýrladýðý harita, Ecthelion tarafýndan düzenlendi."
+End
+//------------------------------------------------------------
+Map:mapMOeastfold
+"Doðu Aðýl"
+END
+Map:mapMOeastfold/Desc
+"Doðu Aðýl, batýda Snowbourn Nehri üzerinden Batýaðýl'la, doðuda ise Gondor'daki Anorien ile sýnýr komþusu olan Rohan'ýn bir bölgesiydi. \n Map by Motoma."
+END
+//------------------------------------------------------------
+Map:mapSOsakuraforestII
+"Sakura Ormaný II"
+END
+Map:mapSOsakuraforestII/Desc
+"Rhun Denizi'nin kuzeyindeki bu kutsal ormanlar, nadir Sakura aðaçlarýna ev sahipliði yapar. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWriverlangwell
+"Langwell Nehri"
+END
+Map:mapNEWriverlangwell/Desc
+"Langwell, Dumanlý Daðlar'dan doðuya, Anduin'e akan Rhovanion nehirlerinden biriydi. Nehrin yüksekliði yýlýn mevsimine baðlýdýr. Zamanla su seviyesi yükselir ve düþer. \n RotWK'dan Harita, by lrdkcki, edited by Mako."
+END
+//------------------------------------------------------------
+Map:MapSBBrithombar
+"Brithombar"
+END
+Map:MapSBBrithombar/Desc
+"Batý Beleriand'da verimli bir koy. Beleriand'ýn Ered Luin ve Lindon dýþýndaki diðer bölgeleri gibi burasý da Birinci Çað'ýn sonunda battý. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBColdfells
+"Coldfells"
+END
+Map:MapSBColdfells/Desc
+"Bir zamanlar Rhudaur krallýðýnýn bir parçasý olan bu tepeler artýk vahþi ve tehlikeli. Bir zamanlar Dunedain'in Þefi Arador'u öldüren bu yerlerde pek çok trol gizleniyor. \n Yuvalar: Troll x5 \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBCrossroads
+"Karýþýk Yollar"
+END
+Map:MapSBCrossroads/Desc
+"Ithilien Kavþaðý, Kara Kapý'ya giden yolun Minas Tirith'e giden yolla buluþtuðu noktadýr. Frodo ve Sam, Cirith Ungol'a giderken Kavþak'tan geçtiler.\n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBDagorladMirkwoodSkin
+"Dagorlad - Kuyutorman izleri"
+END
+Map:MapSBDagorladMirkwoodSkin/Desc
+"Dagorlad ile ayný harita ancak Kuyutorman görünümüne sahip, nehir eklendi ve ejder inlerinin yerini trol inleri aldý. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBFordsofCalenduin
+"Calenduin Sýðlýklarý"
+END
+Map:MapSBFordsofCalenduin/Desc
+"Güneyde, Uzak Harad ormanlarýnda Yeþil Nehir Büyük Deniz'e doðru yol alýyor. n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBFrozenRift
+"Donmuþ Yarýk" // The
+End
+Map:MapSBFrozenRift/Desc
+"Bu nefes kesici soðuk yarýk, Forochel Buz Körfezi yakýnýnda, Kuzey'in donmuþ çorak arazilerinde bulunabilir. Lossothlar bu donmuþ topraklara meydan okumaya cesaret eden birkaç kiþi arasýnda yer alýyor. \n SilverBane'in Haritasý \n Tarafsýz Yapýlar: Ýþaret Kulesi x1 \n Yuvalar: Troll x2, Goblin x2"
+END
+//------------------------------------------------------------
+Map:MapSBLune
+"Lune"
+END
+Map:MapSBLune/Desc
+"Lune Nehri, kuzeybatý Eriador'un bir nehridir. Gri Limanlar bu nehrin aðzýnda yer alýr. \n Yaratýklar: Warg x2, Troll x2 \n Tarafsýz Yapýlar: Han x2 \n SilverBane'in Haritasý"
+End
+//------------------------------------------------------------
+Map:MapSBSeaofnurnen
+"Nurnen Denizi"
+End
+Map:MapSBSeaofnurnen/Desc
+"Nurnen Denizi çevresindeki topraklar bereketli ve bereketlidir. Sayýsýz adamýn Karanlýk Lord'un ordularý için tarlalarda çalýþtýðý yer burasý, Orodruin'in dumanlarýndan uzakta. \n Yuvalar: Warg x2, Hayalet x2 \n Tarafsýz Yapýlar: Ýþaret Kulesi x2, Han x2 \n SilverBane'in Haritasý"
+End
+//------------------------------------------------------------
+Map:MapSBSeaofNurnenII
+"Nurnen Denizi II"
+END
+Map:MapSBSeaofNurnenII/Desc
+"Nurnen Denizi çevresindeki topraklar bereketli ve bereketlidir. Sayýsýz adamýn Karanlýk Lord'un ordularý için tarlalarda çalýþtýðý yer burasý, Orodruin'in dumanlarýndan uzakta. \n Yuvalar: Warg x2 \n Tarafsýz Yapýlar: Han x2 \n SilverBane'in Haritasý"
+End
+//------------------------------------------------------------
+Map:MapSBSirannon
+"Sirannon"
+End
+Map:MapSBSirannon/Desc
+"Bir zamanlar çalkantýlý olan bu nehir, Durin Kapýlarý'ndan yýkýk elf þehri Eregion'a, Ost-in-Edhil'e akýyor. \n Artýk geriye sadece pis bir göl ve bir zamanlarýn zengin Merdiven Þelalesinden gelen bir su birikintisi kaldý. \n Yuvalar:2x Warg, 2x Troll \n Tarafsýz Yapýlar: 1x Han \n SilverBane'in Haritasý "
+END
+//------------------------------------------------------------
+Map:MapSBTournamentBree
+"Turnuva Bree'si"
+END
+Map:MapSBTournamentBree/Desc
+"Þahlanan midilli haný ele geçirildiðinde para üretecek ve benzersiz birimlerin oluþturulmasýna olanak saðlayacak. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBTournamentUdunIV
+"Udun: 4. Çað" //A. IV
+END
+Map:MapSBTournamentUdunIV/Desc
+"Sauron'un yenilgisinden sonra Udun bir kez daha verimli bir vadiye dönüþtü. \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBTournamentWeatherHills
+"Turnuva Hava Tepeleri"
+END
+Map:MapSBTournamentWeatherHills/Desc
+"Orta oyuncular artýk savaþabilir. \n Silverbane'in haritasý, Val tarafýndan düzenlendi."
+END
+//------------------------------------------------------------
+Map:MapSBTrollshaws
+"Trollshaws"
+END
+Map:MapSBTrollshaws/Desc
+"Geçilmesi zor olan evcilleþtirilmemiþ topraklar. Son Sýcak Yuva bu topraklarýn doðusunda bulunabilir. \n Yuvalar: Troll x2 \n Tarafsýz Yapýlar: Ýþaret Kulesi x2, Inn x1 \n SilverBane'in Haritasý"
+END
+//------------------------------------------------------------
+Map:MapSBUpperAnduin
+"Yukarý Anduin"
+END
+Map:MapSBUpperAnduin/Desc
+"Anduin, Orta Dünya'nýn kuzey kesimlerinden güneydeki Belfalas Körfezi'ne kadar akar. Rohirrimlerin atalarý Büyük Nehir'in kaynaklarýnýn yakýnýnda yaþýyordu. \n Yaraktýklar: 4x Warg, 1x Troll \n Tarafsýz Yapýlar: 1x Inn \n SilverBane'in Haritasý"
+End
+//------------------------------------------------------------
+Map:mapMPAdornRiver
+"Adorn Nehri"
+END
+Map:mapMPAdornRiver/Desc
+"Adorn Nehri, Orta Dünya'da Beyaz Daðlar (Ered Nimrais) ile Rohan'ýn batý kýsmý arasýnda bulunur. \n RotWK'dan Harita."
+END
+//------------------------------------------------------------
+Map:Forochel
+"Forochel II"
+END
+Map:Forochel/Desc
+"Orta Dünya'nýn kuzeyindeki donmuþ çorak araziler. Morgoth'un antik kalesi Utumno burada bulunuyordu. \n Lazarus'un RotWK'dan haritasý."
+END
+//------------------------------------------------------------
+Map:GoldenGrove
+"Altýn Koru"
+END
+Map:GoldenGrove/Desc
+"Bilbo'nun eski kamp alanlarý"
+END
+//------------------------------------------------------------
+Map:GreenfrogPass
+"Yeþil Kurbaða Geçidi"
+END
+Map:GreenfrogPass/Desc
+"Merkezi bir nehirle bölünmüþ yemyeþil, yemyeþil bir arazi."
+END
+//------------------------------------------------------------
+Map:Himling
+"Himling"
+END
+Map:Himling/Desc
+"Merkezi bir daðýn bulunduðu buzlu bir ülke."
+END
+//------------------------------------------------------------
+//	Map:LanthirLamath
+//	"Lanthir Lamath"
+//	END
+//	Map:LanthirLamath/Desc
+//	"Lanthir Lamath was a sparkling and beautiful waterfall in Ossiriand at the foot of the southern range of the Blue Mountains (Ered Luin).\n It was part of a stream of the river Adurant. \n RotWK'dan Harita, by Pegular, edited by Mako"
+//	END
+//------------------------------------------------------------
+//	Map:mapmpamonamarth
+//	"Amon Amarth" //Removed
+//	END
+//	Map:mapmpamonamarth/Desc
+//	"Amon Amarth, the mountain of fate, is located deep within Mordor. It is also known as Mount Doom. \n RotWK'dan Harita, by Mako."
+//	END
+//------------------------------------------------------------
+//	Map:mapmpazanulbizarvalley
+//	"Azanulbizar Valley" //Removed
+//	END
+//	Map:mapmpazanulbizarvalley/Desc
+//	"Kheled-zaram Gölü çevresindeki daðlarýn etekleri arasýnda uzanan büyük bir vadi. Cüceler ve Orklar Savaþý'nýn son savaþý burada gerçekleþti. \n Mako'nun RotWK'dan haritasý."
+//	END
+//------------------------------------------------------------
+Map:MAPMPBrandybuck
+"BrandyBuck"
+END
+Map:MAPMPBrandybuck/Desc
+"J. R. R. Tolkien'in kurgusal Orta Dünya evreninde Brandybuck klaný güçlü bir Hobbit ailesiydi. Aile, kendilerine görünüþe göre Marish'li Bucca'nýn adýný veren Oldbuck klaný olarak baþladý. \n Val'in Haritasý."
+END
+//------------------------------------------------------------
+Map:mapETwestemnetII
+"Batý Emnet II"
+END
+Map:mapETwestemnetII/Desc
+"Entsuyu ve Isen Nehri arasýnda uzanan Rohan'ýn çimenli topraklarý \n Ecthelion'un Haritasý."
+END
+//------------------------------------------------------------
+Map:mapmpWestfoldII
+"Batýaðýl II"
+END
+Map:mapmpWestfoldII/Desc
+"Rohan'ýn batý bölgesinde kayalýk, hafif ormanlýk bir arazi. \n Ecthelion tarafýndan düzenlenen BFME1 haritasý"
+END
+//------------------------------------------------------------
+Map:TheIvyBush
+"The Ivy Bush"
+END
+Map:TheIvyBush/Desc
+"Harita Ivy Bush'un onuruna adlandýrýlmýþtýr. Shire'daki Bywater yolunda küçük bir han. Gaffer Gamgee burada ziyaretçilere Bilbo ve Frodo Baggins hakkýndaki hikayelerini anlattý."
+END
+//------------------------------------------------------------
+Map:RohanII
+"Rohan II"
+END
+Map:RohanII/Desc
+"Orta Dünya'da Kral Theoden tarafýndan yönetilen büyük bir krallýk. Orta Dünya'nýn en iyi atlýlarý olan Rohirrim'in evidir. \n Ecthelion tarafýndan düzenlenen BfME1'den harita."
+END
+//------------------------------------------------------------
+Map:OsgiliathII
+"Osgiliath III"
+END
+Map:OsgiliathII/Desc
+"Bu Gondor þehri, Mordor ile Minas Tirith arasýndaki son savunma hattýdýr. Anduin Nehri þehrin ortasýndan geçiyor. \n Ecthelion Sürümü, BfME1 ve BfME2 sürümlerinin dengeli bir birleþimi."
+END
+//------------------------------------------------------------
+Map:oldforestII
+"Yaþlý Orman II"
+END
+Map:oldforestII/Desc
+"Aðaçsakal'ýn doðduðu yer"
+END
+//------------------------------------------------------------
+Map:MountDoomII
+"Hüküm Daðý II"
+END
+Map:MountDoomII/Desc
+"Bu yanardaðda Tek Yüzük Sauron tarafýndan dövüldü. Burada Tek Yüzük sonunda hobbit Frodo Baggins tarafýndan yok edildi."
+END
+//------------------------------------------------------------
+Map:mapmpwesterngondor
+"Batý Gondor"
+END
+Map:mapmpwesterngondor/Desc
+"Gondor'un batý kesiminde bir kýyý bölgesi. \n RotWK'dan Harita, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmptyrngorthad
+"Tyrn Gorthad"
+END
+Map:mapmptyrngorthad/Desc
+"Daha çok Höyük Yaylalarý olarak bilinen Arnor krallarýnýn kadim mezarlýklarý, Cadý Kral tarafýndan kötü ruhlar tarafýndan kirletildi. \n RotWK'dan Harita, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapmptournamentudunII
+"Udun II - Mordor'un Gölgesi" // - Val's
+END
+Map:mapmptournamentudunII/Desc
+"Mordor'un Gölgesi'ndeki Kara Toprak'ýn bereketli tasarýmýndan ilham alarak yeniden renklendirin. \n Turnuva modu için yüzük kahramanlarýný kapatýn. \n Map by Val."
+END
+//------------------------------------------------------------
+Map:mapmptournamentrohan
+"Rohan Ovalarý"
+END
+Map:mapmptournamentrohan/Desc
+"Rohan Geçidi ile Gondor sýnýrlarý arasýnda, Orta Dünya'nýn büyük at efendilerine ev sahipliði yapan Atçantaþý'nýn uçsuz bucaksýz ovalarý uzanýr. \n RotWK'dan Harita, by Thoon. \n BfME2 için Ecthelion tarafýndan düzenlendi."
+END
+//------------------------------------------------------------
+Map:mapmptournamentbt2dc
+"Turnuva Anorien"
+END
+Map:mapmptournamentbt2dc/Desc
+"Gondor'un Rohan sýnýrýna yakýn küçük ama açýk bir orman savaþ alaný. \n RotWK'dan Harita, Ecthelion tarafýndan düzenlendi."
+END
+//------------------------------------------------------------
+Map:mapmpthewold
+"Wold"
+END
+Map:mapmpthewold/Desc
+"Wold, Rohan'ýn en kuzeydeki ve en az nüfuslu bölgesiydi. Fangorn Ormaný ile Anduin arasýnda uzanan, kuzeyde Limlight ile sýnýrlanan çimenlik bir yüksek ovadýr. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOstaddle
+"Staddle"
+END
+Map:mapSOstaddle/Desc
+"Staddle, Bree Tepesi'nin güneydoðu tarafýnda yer alan Bree Diyarý'nda bir köydü. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOsouthdowns
+"Güney Yaylalarý"
+END
+Map:mapSOsouthdowns/Desc
+"Bree'den Hava Tepeleri'ne doðru Doðu-Batý Yolu boyunca yürürken güneydeki Yaylalar görülebilirdi. Andrath'ýn içinden geçen Yeþil Yol, Güney Yaylalarý'ný Höyük Yaylalarý'ndan ayýrýyordu. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOdruadanforest
+"Druadan Ormaný"
+END
+Map:mapSOdruadanforest/Desc
+"Druadan Ormaný, Minas Tirith'in kuzeyindeki Anorien'de bulunan Gondor'da bir çam ormanýdýr. Orman, Ormanýn Vahþi Adamlarý, Druedain olarak bilinen gizemli halkýn evidir. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmpshire4p
+"Shire"
+END
+Map:mapmpshire4p/Desc
+"Yeþil, huzur dolu bir ülke. Orta Dünya'nýn Hobbitlerinin Evi. \n Ecthelion'un Haritasý."
+END
+//------------------------------------------------------------
+Map:mapmpringloriver
+"Ringlo Nehri"
+END
+Map:mapmpringloriver/Desc
+"Gondor'un orta bölgelerinde, batýda Anfalas ile doðuda Belfalas arasýnda sýnýr görevi gören dolambaçlý bir nehir. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmppelennorfields
+"Pelennor Çayýrlarý"
+END
+Map:mapmppelennorfields/Desc
+"Pelennor Çayýrlarý Savaþý, Minas Tirith þehri ve nihayetinde Gondor için yapýlan bir savaþtý. Bu, Yüzük Savaþý'nýn en büyük savaþýydý ve aslýnda tüm Üçüncü Çað'ýn en büyüðüydü. \n RotWK'dan Harita, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmpoldforest
+"Yaþlý Orman"
+END
+Map:mapmpoldforest/Desc
+"Erdiyarý ve Breediyarý sýnýrlarý arasýnda yer alan Yaþlý Orman, karanlýk gölgesinin altýnda büyük bir gizem ve tehlike saklýyor. \n RotWK'dan Harita."
+END
+//------------------------------------------------------------
+Map:mapmpnevrast4p
+"Nevrast"
+END
+Map:mapmpnevrast4p/Desc
+"Orta Dünya'nýn batý kýyýsýnda, kuzeydoðuda Hithlum ile güneyde Batý Beleriand arasýnda yer alan korunaklý bir arazi."
+END
+//------------------------------------------------------------
+Map:mapmpnevrast8p
+"Nevrast II"
+END
+Map:mapmpnevrast8p/Desc
+"Orta Dünya'nýn batý kýyýsýnda, kuzeydoðuda Hithlum ile güneyde Batý Beleriand arasýnda yer alan korunaklý bir arazi."
+END
+//------------------------------------------------------------
+Map:mapmpnearharad
+"Harad II"
+END
+Map:mapmpnearharad/Desc
+"Mordor'un güneyinde yer alan çorak ve çöl ülkesi. Haradrim savaþçýlarýnýn anavatanýdýr. \n Ecthelion tarafýndan düzenlenen BfME1'den harita sürümü."
+END
+//------------------------------------------------------------
+Map:mapSOmorthondvalleyii
+"Morthond Vadisi II"
+END
+Map:mapSOmorthondvalleyii/Desc
+"Morthond, Gondor'un yedi nehrinden biriydi. Aragorn, Gimli, Legolas, Gri Bölük ve Ölüler Ordusu da onunla birlikte Ölülerin Yollarý'ndan çýktýlar. \n RotWK'dan Harita Solas, Ecthelion tarafýndan düzenlenmiþtir."
+END
+//------------------------------------------------------------
+Map:mapmpmithrilhillsii
+"Mithril Tepeleri" // aka Iron Hills II
+END
+Map:mapmpmithrilhillsii/Desc
+"Suyunda bulunan kýrmýzýmsý demir parçacýklarý nedeniyle nehre verilen isim olan Kýzýlsu Nehri'nin kaynaðý olan mineral bakýmýndan zengin bir bölge.\n Boyut: 600 x 535 \n Yuvalar: 7x Örümcek Yuvasý \n Tarafsýz Yapýlar: 1x Karakol , 1x Han, 1x Ýþaret Kulesi, 2x Kale. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmplorienplateau
+"Lorien Yaylasý"
+END
+Map:mapmplorienplateau/Desc
+"Elflerin Orta Dünya'da kalan en güzel orman bölgesi olan Lothlorien Ormanlarý'ndaki daðlýk bir bölge. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmpithilienhills
+"Ithilien Tepeleri"
+END
+Map:mapmpithilienhills/Desc
+"Gondor'un en doðusundaki eyalet olan Ithilien'in merkezinde küçük bir tepe sýrasý. \n RotWK'dan Harita, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWhollinII
+"Hollin II"
+END
+Map:mapNEWhollinII/Desc
+"Hollin bir zamanlar büyük güç yüzüklerinin demircileri olan Eregion'un ünlü Elf kuyumcularýna ev sahipliði yapýyordu. Ama þimdi büyük þehirlerinin kalýntýlarý taþlarýn arasýnda sessizce duruyor. \n RotWK'dan Harita, Dogi9696, Ecthelion tarafýndan düzenlenmiþtir. Orijinal olarak Thoon tarafýndan yapýlmýþtýr."
+END
+//------------------------------------------------------------
+Map:mapmphobbiton
+"Hobbiton"
+END
+Map:mapmphobbiton/Desc
+"Shire'ýn orta kesiminde eski bir köy. Pek çok ünlü Hobbit'in evidir. \n RotWK'dan Harita, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmpharadoasis
+"Harad Oasis"
+END
+Map:mapmpharadoasis/Desc
+"Harad'ýn derinliklerinde deðerli su havuzlarýnýn bulunduðu bir bölge. \n RotWK'dan Harita, by Mako."
+END
+//------------------------------------------------------------
+Map:mapmpfarharad
+"Uzak Harad"
+END
+Map:mapmpfarharad/Desc
+"Orta Dünya'nýn güneyinin derinliklerinde, Uzak Harad bölgesi, Sauron'un sadýk hizmetkarlarý olan vahþi Haradrim'in anavatanýdýr. \n RotWK'dan Harita."
+END
+//------------------------------------------------------------
+Map:mapmperynlaer
+"Lothlorien: Eryn Laer"
+END
+Map:mapmperynlaer/Desc
+"Þarký Ormaný Eryn Laer'in uzun aðaçlarý, Orta Dünya'daki Elf Krallýðý'nýn kalbi olan Lothlorien diyarýnýn derinliklerinde yer alýr. \n RotWK'dan Harita."
+END
+//------------------------------------------------------------
+Map:mapmperegion
+"Eregion"
+END
+Map:mapmperegion/Desc
+"Hollin olarak da bilinen Eregion, Ýkinci Çað'da Eriador'da, Hithaeglir'in (Dumanlý Daðlar) gölgesinde, Moria'nýn Batý Kapýsý yakýnýnda bulunan Noldorin Elflerinin bir krallýðýydý. \n RotWK'dan Harita, by Mako."
+END
+//------------------------------------------------------------
+Map:mapmperech
+"Erech Taþý"
+END
+Map:mapmperech/Desc
+"Gondor'daki Beyaz Daðlarýn eteklerinde antik bir alan. Erech en çok gökten düþtüðü söylenen ama aslýnda Orta Dünya'ya Isildur tarafýndan getirilen devasa bir Taþ ile ünlüydü.\n RotWK'dan Harita."
+END
+//------------------------------------------------------------
+Map:mapmpbuckland6p
+"Erdiyarý II"
+END
+Map:mapmpbuckland6p/Desc
+"Erdiyarý, Shire'ýn doðu sýnýrý Merry Brandybuck'ýn eviydi. \n Size: 330 x 360\n Yuvalar: 4x Hayalet Höyüðü, 2x Troll Yuvasý\n Tarafsýz Yapýlar: 2x Karakol, 2x Ýþaret Kulesi. \n RotWK'dan Harita, by Lazarus."
+END
+//------------------------------------------------------------
+//	Map:Ankh-Morpork
+//	"Ankh Morpork" // removed
+//	END
+//	Map:Ankh-Morpork/Desc
+//	"Yüzyýllar önce rezil bir þekilde yanan, oldukça hedonistik bir þehir olan Ankh-Morpork'un için için yanan harabeleri, artýk Wye nehrinin kuzeybatýsýndan gelen Dað Trolleri topraklarýnýn bir uzantýsýdýr."
+//	END
+//------------------------------------------------------------
+Map:BlackGateII
+"Kara Kapý II"
+END
+Map:BlackGateII/Desc
+"Mordor topraklarýnýn kuzey giriþi ve iyi ile kötü arasýndaki son mücadelenin yeri.\n BfME1'den harita."
+END
+//------------------------------------------------------------
+Map:DeadMarshesII
+"Ölü Bataklýklar II"
+END
+Map:DeadMarshesII/Desc
+"Mordor'un hemen dýþýnda uzanan perili bir bataklýk alaný. Gollum, Frodo ve Sam'i bu topraklardan Hüküm Daðý'na giderken yönlendirdi. \n BfME1'den harita."
+END
+//------------------------------------------------------------
+Map:EnedwaithII
+"Enedwaith II"
+END
+Map:EnedwaithII/Desc
+"Rohan'ýn batýsýnda yer alan geniþ ve açýk bir arazi. \n BfME1'den harita."
+END
+//------------------------------------------------------------
+//	Map:mapmptwilitshores
+//	"Twilit Shores"
+//	END
+//	Map:mapmptwilitshores/Desc
+//	"Tol Eressea denizlerinde kaybolan Alacakaranlýk adalarýnýn ölümlü insanlar tarafýndan neredeyse gidilemez olduðu söyleniyor. \n RotWK'dan Harita."
+//	END
+//------------------------------------------------------------
+Map:RhunII
+"Rhun II"
+END
+Map:RhunII/Desc
+"Orta Dünya'nýn Rhun Denizi çevresindeki gizemli doðu topraklarý. \n BfME1'den harita."
+END
+//------------------------------------------------------------
+// There's a typo in name actually, should be Lebennin
+Map:MAPMPLebenin
+"Lebennin III"
+END
+Map:MAPMPLebenin/Desc
+"Gondor'un güneyindeki bu yemyeþil arazi, Anduin Nehri'nin Belfalas Körfezi'ne olan yolculuðunu tamamladýðý yerde yer alýr. \n Val tarafýndan düzenlenen BfME1 haritasý`" //Lebennin III, kýrmýzý yapý grafiklerini düzeltmek için düzenlenmiþ bir sürümdür. Ýþaret Kuleleri doðu/batý eklendi. \n Edited by Val`
+END
+//------------------------------------------------------------
+// This one does get translated in at least one more lenguage
+Map:mapmpfordsoflimlight
+"Fords of Limlight"
+END
+Map:mapmpfordsoflimlight/Desc
+"Ünlü adil eþleþtirme haritasý olan popüler Isen Sýðlýklarý'nýn yeniden renklendirilmesi olarak buradaki tema, bir zamanlar Orta Dünya'nýn tamamýný kaplayan büyük ve devasa ormanlarý konu alýyor. \n Val'den sevgilerle 1.09 için yapýldý"
+END
+//------------------------------------------------------------
+// This one does get translated in at least one more lenguage
+Map:mapETfordsofanduin
+"Anduin Sýðlýklarý"
+END
+Map:mapETfordsofanduin/Desc
+"Popüler 1v1 haritasýnýn yeniden görünümü, Isen Sýðlýklarý II. Tasarým Amon Hen, Argonath ve Anduin'in çevre bölgelerine dayanmaktadýr. \n Ecthelion'un Haritasý and SilverBane."
+END
+
+//------------------------------------------------------------
+
+// String file for Lord of the Rings
+
+// comment: DO NOT TRANSLATE
 LETTER:G
 "G"
 END
@@ -5171,17 +6818,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09"
+"1.09v2"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09"
+"1.09v2"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09"
+"1.09v2"
 END
 
 Version:BuildTime
@@ -8078,7 +9725,7 @@ CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"+%20 Zýrh, +%25 Ok Direnci, -%30 Hýz"
+"+%25 Zýrh, -%40 Hýz"
 END
 
 CONTROLBAR:ToolTipToggleGFighterBlockToLineFormation
@@ -22861,7 +24508,7 @@ Map:MAPMPNurn/Desc
 END
 
 Map:MAPMPBrownLands/Desc
-"Kuyutorman'ýn güneyinde uzanan, kayalýklý, virane bölge. \n ortadunya.com ile Gerçek Dünyadan Daha Fazlasý."
+"Kuyutorman'ýn güneyinde uzanan, kayalýklý, virane bölge." // MAP REMOVED
 END
 
 Map:MAPMPOsgiliath/Desc
@@ -23213,7 +24860,7 @@ OBJECT:GondorMarketPlaceDescription
 END
 
 OBJECT:GondorStatueDescription
-"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n Yýðýlamaz"
+"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar \n Yýðýlamaz" // obsolete
 END
 
 OBJECT:GondorWellDescription
@@ -26166,7 +27813,7 @@ CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower
-"Palantír Görüþ Gücü saðlar \n Haritadaki birimlerin hýzý artar \n Kalenin görüþ menzilini arttýrýr"
+"Palantír Görüþ Gücü saðlar \n Haritadaki birimlerin hýzý artar \n Kalenin görüþ menzilini arttýrýr \n Yýðýlabilir"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressBoilingOil
@@ -27236,7 +28883,7 @@ OBJECT:ElvenStatue
 END
 
 OBJECT:ElvenStatueDescription
-"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar"
+"Heykelin yanýndaki müttefikler \n +%50 Hasar Verme, +%50 Zýrh ve \n iki kat daha hýzlý tecrübe kazanýrlar" // obsolete
 END
 
 OBJECT:ElvenMirrorofGaladriel
@@ -27923,6 +29570,7 @@ END
 
 CONTROLBAR:LW_ToolTip_DwarvenAxeThrowerHorde
 "\nBirim Türü: Basit Okçu\nPiyadelere karþý güçlü"
+//"\nUnit Type: Basic Archer\nStrong vs. Infantry"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleHorde
@@ -30312,7 +31960,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireflight
 END
 
 CONTROLBAR:ToolTipHourOfTheWitchKing
-"Gereken Seviye: 10 \n Etki alanýndaki hedeflenen kahramanýn özel yetenek süreleri %60 oranýnda donar \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 10 \n Hedef düþmanýn özel yetenek zamanlayýcýlarý yeni kullanýlacak þekilde sýfýrlanýr \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
 END
 
 CONTROLBAR:ToolTipThunderBolt
@@ -30728,7 +32376,7 @@ CONTROLBAR:ToolTipActivateFireShip
 End
 
 CONTROLBAR:ToolTipBarbedArrows
-"Gereken Seviye: 3 \n Verilen hasarý arttýrýr \n Önce simgeye sonra hedefe sol týklayýn"
+"Gereken Seviye: 2 \n Verilen hasarý arttýrýr \n Önce simgeye sonra hedefe sol týklayýn"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
@@ -30800,7 +32448,7 @@ CONTROLBAR:ToolTipBuildIsengardArmoryLevel3
 End
 
 CONTROLBAR:ToolTipBuildMordorAttackTroll
-"Seviye 3 Trol Kafesi gerekir \n Kýlýççýlara, Süvarilere ve Binalara karþý güçlü"
+"Seviye 3 Trol Kafesi gerekir \n Kýlýççýlara, Süvarilere ve Kahramanlara karþý güçlü"
 End
 
 CONTROLBAR:ToolTipCitadelCatapultUpgrade
@@ -30856,13 +32504,12 @@ End
 CONTROLBAR:ToolTipGlorfindelMount
 "Glorfindel'i zýrhlý atýna bindirin veya attan indirin"
 End
-
-CONTROLBAR:ToolTipGoblinKingMount
-"Gereken Seviye: 3 \n Goblin Kralý'ný akrebine bindirin veya akrepten indirin"
-End
-
+//	This String is repeated, don't translate it.
+//	CONTROLBAR:ToolTipGoblinKingMount
+//	"Gereken Seviye 3 \n Mount and unmount the Goblin King's scorpion"
+//	End
 CONTROLBAR:ToolTipIsengardWargSentryUnleash
-"Serbestçe saldýrmasý için Wargý özgür býrakýn"
+"Serbestçe saldýrmasý için vargý özgür býrakýn"
 End
 
 CONTROLBAR:ToolTipKnife
@@ -32688,7 +34335,7 @@ OBJECT:VictimWebs
 End
 
 OBJECT:WargSentry
-"Isengard Warg Nöbetçisi"
+"Isengard Varg Nöbetçisi"
 End
 
 OBJECT:WeathertopColumn01
@@ -32780,7 +34427,7 @@ OBJECT:WildFortressBurrowsExpansionDescription
 End
 
 OBJECT:WildLaborer
-"Amele Ork"
+"Ýþçi Ork"
 End
 
 OBJECT:WildLumberMillDescription
@@ -33308,31 +34955,31 @@ END
 ////////////////////////////////////////////////////
 
 CreateAHero:BlingName_Wizard_CHH01
-"Büyücü Kaský 1"
+"Büyücü Kask 1"
 END
 
 CreateAHero:BlingName_Wizard_CHH02
-"Büyücü Kaský 2"
+"Büyücü Kask 2"
 END
 
 CreateAHero:BlingName_Wizard_CHH03
-"Büyücü Kaský 3"
+"Büyücü Kask 3"
 END
 
 CreateAHero:BlingName_Wizard_CHH04
-"Büyücü Kaský 4"
+"Büyücü Kask 4"
 END
 
 CreateAHero:BlingName_Wizard_CHH05
-"Büyücü Kaský 5"
+"Büyücü Kask 5"
 END
 
 CreateAHero:BlingName_Wizard_CHH06
-"Büyücü Kaský 6"
+"Büyücü Kask 6"
 END
 
 CreateAHero:BlingName_Wizard_CHH07
-"Büyücü Kaský 7"
+"Büyücü Kask 7"
 END
 
 CreateAHero:BlingName_Wizard_CHSP01
@@ -33344,15 +34991,15 @@ CreateAHero:BlingName_Wizard_CHSP02
 END
 
 CreateAHero:BlingName_WIZ_CHBOD01
-"Büyücü Pelerini 1"
+"Büyücü Pelerin 1"
 END
 
 CreateAHero:BlingName_WIZ_CHBOD02
-"Büyücü Pelerini 2"
+"Büyücü Pelerin 2"
 END
 
 CreateAHero:BlingName_WIZ_CHBOD03
-"Büyücü Pelerini 3"
+"Büyücü Pelerin 3"
 END
 
 CreateAHero:BlingName_WizardStaff01
@@ -33360,7 +35007,7 @@ CreateAHero:BlingName_WizardStaff01
 End
 
 CreateAHero:BlingName_WizardStaff02
-"Büyücü Asa 2"
+"WBüyücü Asa 2"
 End
 
 CreateAHero:BlingName_WizardStaff03
@@ -33376,7 +35023,7 @@ End
 ///////////////////////
 
 CreateAHero:BlingName_DwarfAxe_01
-"Cüce Balta"
+"Cüce Baltasý"
 End
 
 CreateAHero:BlingName_Dwarf_CHH01
@@ -33392,15 +35039,15 @@ CreateAHero:BlingName_Dwarf_CHH03
 End
 
 CreateAHero:BlingName_Dwarf_CHSP01
-"Omuzluk 1"
+"Omuz Plakalarý 1"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP02
-"Omuzluk 2"
+"Omuz Plakalarý 2"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP03
-"Omuzluk 3"
+"Omuz Plakalarý 3"
 End
 
 
@@ -33411,23 +35058,23 @@ End
 
 
 CreateAHero:BlingName_DwarfSage_CHH01
-"Bilge Kaský 1"
+"Sage Miðfer 1"
 END
 
 CreateAHero:BlingName_DwarfSage_CHH02
-"Bilge Kaský 2"
+"Sage Miðfer 2"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP01
-"Bilge Omuzluk 1"
+"Sage Omuzluk 1"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP02
-"Bilge Omuzluk 2"
+"Sage Omuzluk 2"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP03
-"Bilge Omuzluk 3"
+"Sage Omuzluk 3"
 END
 
 
@@ -33461,35 +35108,35 @@ End
 /////////////////////
 
 CreateAHero:BlingName_Uruk_CHB01
-"Bot 1"
+"Botlar 1"
 End
 
 CreateAHero:BlingName_Uruk_CHB02
-"Bot 2"
+"Botlar 2"
 End
 
 CreateAHero:BlingName_Uruk_CHB03
-"Bot 3"
+"Botlar 3"
 End
 
 CreateAHero:BlingName_Uruk_CHG03
-"Eldiven 1"
+"Eldivenler 1"
 End
 
 CreateAHero:BlingName_Uruk_CHH01
-"Kask 1"
+"Miðfer  1"
 End
 
 CreateAHero:BlingName_Uruk_CHH02
-"Kask 2"
+"Miðfer  2"
 End
 
 CreateAHero:BlingName_Uruk_CHH03
-"Kask 3"
+"Miðfer  3"
 End
 
 CreateAHero:BlingName_Uruk_CHHAIR01
-"Kask 4"
+"Miðfer  4"
 End
 
 CreateAHero:BlingName_Uruk_CHS01
@@ -33509,15 +35156,15 @@ CreateAHero:BlingName_Uruk_CHS04
 End
 
 CreateAHero:BlingName_Uruk_CHSP01
-"Omuzluk 1"
+"Omuzlar 1"
 End
 
 CreateAHero:BlingName_Uruk_CHSP02
-"Omuzluk 2"
+"Omuzlar 2"
 End
 
 CreateAHero:BlingName_Uruk_CHSP03
-"Omuzluk 3"
+"Omuzlar 3"
 End
 
 CreateAHero:BlingName_Uruk_Sword_01
@@ -33581,7 +35228,7 @@ CreateAHero:BlingName_UK_CHBOD01
 END
 
 CreateAHero:BlingName_UK_CHBOD02
-"Obsidyen Göðüslük"
+"Obsidiyen Göðüslük"
 END
 
 CreateAHero:BlingName_UK_CHBOD03
@@ -33593,39 +35240,39 @@ END
 ///////////////////////
 
 CreateAHero:BlingName_CorruptedMan_1_CHB01
-"Bot 1"
+"Botlar 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHB02
-"Bot 2"
+"Botlar 2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHG01
-"Eldiven 1"
+"Eldivenler 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHG02
-"Eldiven 2"
+"Eldivenler 2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH01
-"Kask 1"
+"Miðfer  1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH02
-"Kask 2"
+"Miðfer  2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH03
-"Kask 3"
+"Miðfer  3"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH04
-"Kask 4"
+"Miðfer  4"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHSP01
-"Omuz Plakalarý 1"
+"Shoulder Plates 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHSP02
@@ -33719,15 +35366,15 @@ CreateAHero:BlingName_NoHelmet
 End
 
 CreateAHero:BlingName_NoShoulderPlates
-"Omuzluk Yok"
+"Omuz Plakasý Yok"
 End
 
 CreateAHero:BlingName_TrollBane
-"Troll Felaketi"
+"TrolFelaketi"
 End
 
 CreateAHero:BlingName_TrollMace
-"Troll Topuzu"
+"Troll Topuz"
 End
 
 CreateAHero:BlingName_TrollSword
@@ -34300,7 +35947,7 @@ CONTROLBAR:IsengardSharkuHotkey
 END
 
 CONTROLBAR:IsengardSharkuRecruit
-"Warg binicilerinin efendisini çaðýr"
+"Varg binicilerinin efendisini çaðýr"
 END
 
 CONTROLBAR:IsengardWormtongueRecruit
@@ -34327,8 +35974,8 @@ CONTROLBAR:ShelobHotkey
 "&Shelob"
 END
 
-CONTROLBAR:BlackRiderRecruit	
-"Nazgûl çaðýrýn"
+CONTROLBAR:BlackRiderRecruit		
+"Nazgûl Çaðýrýn"
 END
 
 CONTROLBAR:BlackRiderRevive	
@@ -45836,7 +47483,7 @@ END
 //Powers
 
 CONTROLBAR:ToolTipGandalfLeadership
-"Gandalf'ýn yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek"
+"Gandalf'ýn yanýndaki müttefikler \n +%25 Hasar Verme, +%25 Zýrh ve \n %50 daha hýzlý tecrübe kazanýrlar \n \n Pasif yetenek" // Obsolete
 END
 
 
@@ -45849,6 +47496,7 @@ END
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
 "Yakýndaki müttefikleri iyileþtirir \n Her 6.5 sn'de bir birimi diriltir \n Kahraman diriltme maliyetini %5 azaltýr \n Kahraman çaðrýlma maliyetini 5% azaltýr \n Kahraman dirilme sürelerini 15% azaltýr \n Kaleye ek saðlýk ekler \n\n Çaðrýlan Yalnýz Kuleleri geliþtirir"
 END
+// \n Reduces hero purchase cost by 5%
 
 //Buildings
 
@@ -46035,7 +47683,7 @@ CONTROLBAR:WordofPower
 END
 
 CONTROLBAR:ToolTipShadowfax
-"Gereken Seviye: 4 \n Ata bindirmek veya attan indirmek için sol týklayýn"
+"Gereken Seviye: 3 \n Ata bindirmek veya attan indirmek için sol týklayýn"
 END
 
 //Units
@@ -46049,7 +47697,7 @@ CONTROLBAR:ToolTipMenLongShotAbility
 End
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"Bu eklentinin uygulanabilmesi için Kýþlada Sancaktar geliþtirmesinin araþtýrýlmasý gerekir \n \n +%20 Zýrh, +%25 Oklara karþý direnç, -30% Hýz"
+"Bu eklentinin uygulanabilmesi için Kýþlada Sancaktar geliþtirmesinin araþtýrýlmasý gerekir \n \n +%20 Zýrh, +%25 Oklara karþý direnç, -%30 Hýz"
 END
 
 // +++++++++++++++++++++++++++++++++++++++++++ELVES+++++++++++++++++++++++++++++++++++++++++++
@@ -46066,7 +47714,7 @@ CONTROLBAR:ToolTipGlorfindelBladeOfPurity
 END
 
 CONTROLBAR:ToolTipArrowWind
-"Gereken Seviye: 10 \n Sürekli bir ok yaðmuru baþlatýr \n Önce simgeye sonra hedeflenen alana sol týklayýn"
+"Gereken Seviye: 10 \n Sürekli bir ok yaðmuru baþlatýr \n Kalabalýklara karþý etkili \n Önce simgeye sonra hedeflenen alana sol týklayýn"
 END
 
 CONTROLBAR:ToolTipElvenCloakThranduil
@@ -46088,7 +47736,7 @@ END
 //Buildings
 
 CONTROLBAR:ToolTipElvenStatue
-"Heykelin yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar"
+"Heykelin yanýndaki müttefikler \n +%25 Hasar Verme ve \n %25 daha hýzlý tecrübe kazanýrlar" // obsolete
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
@@ -46170,7 +47818,7 @@ CONTROLBAR:ArrowWind
 END
 
 CONTROLBAR:ToolTipKnifeFighter
-"Gereken Seviye: 4 \n Alternatif yakýn mesafe saldýrýsý \n +%20 Zýrh kazandýrýr \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 5 \n Alternatif yakýn mesafe saldýrýsý \n +%20 Zýrh kazandýrýr \n Etkinleþtirmek için sol týklayýn"
 END
 
 
@@ -46231,7 +47879,7 @@ END
 
 
 OBJECT:DwarvenStatueDescription
-"Heykelin yanýndaki müttefikler \n iki kat Zýrh kazanýr \n Yönetme puaný sýnýrýný 10 arttýrýr"
+"Heykelin yanýndaki müttefikler \n iki kat Zýrh kazanýr \n Yönetme puaný sýnýrýný 10 arttýrýr" // obsolete
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
@@ -46243,7 +47891,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
-"+%25 Daha Hýzlý Üretim \n Mithril Zýrhý, Dövülmüþ Baltalar ve Alevli Atýþ geliþtirmelerini araþtýrmaya izin verir \n Savunucu Balta Kulesi ekler \n Demirhane, kahramanlara, mýzrakçýlara ve süvarilere karþý +%20 Zýrh kazanýr"
+"+%30 Daha Hýzlý Üretim \n Mithril Zýrhý, Dövülmüþ Baltalar ve Alevli Atýþ geliþtirmelerini araþtýrmaya izin verir \n Savunucu Balta Kulesi ekler \n Demirhane, kahramanlara, mýzrakçýlara ve süvarilere karþý +%20 Zýrh kazanýr"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
@@ -46417,7 +48065,7 @@ CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Lurtz +%100 Hasar Verme ve +%10 Zýrh kazanýr \n Sadece elinde kýlýç varken kullanýlabilir \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye 2 \n Lurtz +%100 Hasar Verme ve +%20 Zýrh kazanýr \n Sadece elinde kýlýç varken kullanýlabilir \n Etkinleþtirmek için sol týklayýn"
 END
 
 CONTROLBAR:ToolTipGBloodHunt
@@ -46425,7 +48073,7 @@ CONTROLBAR:ToolTipGBloodHunt
 END
 
 CONTROLBAR:ToolTipDominate
-"Gereken Seviye: 7 \n Hedeflenen düþmaný geçici olarak kontrolünüze verir \n Önce simgeye sonra hedeflenen düþmanlara sol týklayýn"
+"Gereken Seviye: 8 \n Hedeflenen düþmaný geçici olarak kontrolünüze verir \n Önce simgeye sonra hedeflenen düþmanlara sol týklayýn"
 END
 
 CONTROLBAR:ToolTipSharkuManEater
@@ -46766,96 +48414,4 @@ END
 
 GUI:PleaseSelectBuddy
 "Sohbet mesajý gönderilemedi. En az bir arkadaþ seçilmelidir."
-END
-
-// String lines for Patch 1.08
-
-CONTROLBAR:GrabPassengerTB
-"Merry veya Pippin'i Yakala"
-END
-
-CONTROLBAR:SpecialAbility_ShieldBubble
-"Büy&u Kalkaný"
-END
-
-CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
-"Büyücü tüm gücünü, ona hasar verebilecek tüm enerjileri emen Kalkana aktarýr \n Gandalf ayrýca geri püskürtülemez. \n 5 saniye sürer \n Etkinleþtirmek için sol týklayýn"
-END
-
-CONTROLBAR:Fire_pit
-"Ateþ Çukuru [&V]"
-END
-
-CONTROLBAR:TooltipFire_pit
-"Yakýndaki müttefikleri iyileþtiren kamp ateþi \n Her 5 sn'de bir birimi diriltir \n +5% Zýrh yýðýlma bonusu verir \n Gizlenenleri ortaya çýkarýr"
-END
-
-CONTROLBAR:FireWorks
-"Ha&vai Fiþeði Yak [&V]"
-END
-
-CONTROLBAR:ToolTipFireWorks
-"Merry yere bir Havai Fiþek koyup fitilini ateþler \n Etkinleþtirmek için sol týklayýn"
-End
-
-CONTROLBAR:FireWorks2
-"Havai Fiþeði Yak [&B]"
-END
-
-CONTROLBAR:ToolTipFireWorks2
-"Havai Fiþek geniþçe bir alandaki birimlere hasar verir \n Etkinleþtirmek için sol týklayýn"
-End
-
-CONTROLBAR:FireWorksObj
-"Havai Fiþek"
-END
-
-CONTROLBAR:HobbitFireCracker
-"Çatapat [&R]"
-END
-
-CONTROLBAR:ToolTipHobbitFireCracker
-"Kahraman küçük bir Çatapat fýrlatýr \n Önce simgeye sonra hedefe sol týklayýn"
-End
-
-CONTROLBAR:ToolTipHobbitFireCrackerMerry
-"Kahraman küçük bir Çatapat fýrlatýr \n Mûmakile karþý etkili \n Binalara karþý daha etkili \n Önce simgeye sonra hedefe sol týklayýn"
-End
-
-CONTROLBAR:ToolTipHobbitFireCrackerSam
-"Kahraman küçük bir Çatapat fýrlatýr \n Shelob'a karþý etkili \n Önce simgeye sonra hedefe sol týklayýn"
-End
-
-// String lines for Patch 1.09
-
-CONTROLBAR:GaladHealBTP
-"Galadrie&l'in Iþýðý"
-END
-
-CONTROLBAR:ToolTipGaladHeal
-"Galadriel'in etrafýndaki geniþçe bir alandaki tüm müttefikleri iyileþtirir \n Etkinleþtirmek için sol týklayýn"
-END
-
-CONTROLBAR:LadyOfLight
-"&Valar'ýn Iþýðý"
-END
-
-CONTROLBAR:TooltipLadyOfLight
-"Düþmanlarýn üzerine Valar'ýn ýþýðýný çaðýrýr"
-END
-
-CONTROLBAR:SpecialAbilityFiresOfDoom2
-"Kýyametin Üç Ateþini Çaðý&r"
-END
-
-CONTROLBAR:LoneTowerLeadershipUpgradeIcon
-"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Yakýndaki müttefiklere +%25 Hasar Verme ve +%25 daha hýzlý tecrübe kazandýrýr \n Yýðýlabilir"
-END
-
-CONTROLBAR:LoneTowerHealingUpgradeIcon
-"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Yakýndaki müttefikleri iyileþtirir \n Her 10 sn'de bir birimi diriltir"
-END
-
-CONTROLBAR:LoneTowerArmorUpgradeIcon
-"Kalede geliþtirmenin araþtýrýlmasý gerekir \n Alýnan hasarý önemli ölçüde azaltýr"
 END

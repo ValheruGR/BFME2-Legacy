@@ -1,3 +1,1654 @@
+// String file for Lord of the Rings
+
+// comment: DO NOT TRANSLATE
+
+//------------------------------------------------------------
+
+// String lines for new Patch 1.09v2	-----	2019
+
+//------------------------------------------------------------
+
+
+
+
+
+
+
+
+//------------------------------------------------------------
+CONTROLBAR:nothing09v2
+"nothing"
+END
+//------------------------------------------------------------
+CONTROLBAR:nothingDesc09v2
+"nothing"
+END
+//------------------------------------------------------------
+CONTROLBAR:PrinceofIthilien09v2
+"Prince of Ithilien [&B]"
+END
+CONTROLBAR:PrinceofIthilienDesc09v2
+"Requires Level 5 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower09v2
+"Increases the vision range of the Fortress and provides stealth detection. \n Unlocks the use of Palantir Vision on allies"
+END
+CONTROLBAR:TooltipIvoryTowerVision09v2
+"Reveals the entire shroud \n Player units in the map gain +10% speed \n Modifier Type: RESISTANT IvoryTowerBonus' \n Lasts 30 seconds"
+End
+CONTROLBAR:ToolTipGainSpiderVenomSacks09v2
+"Richiede Livello 3 \n Potenzia quest'orda con Sacche di veleno.\nInfligge danno da veleno ai nemici e provoca danni aggiuntivi nel tempo."
+END
+//------------------------------------------------------------
+Color:Cyan09v2
+"Cyan"
+END
+Color:DarkGreen09v2
+"Dark Green"
+END
+Color:GreenLime09v2
+"Green Lime"
+END
+Color:DarkPink09v1
+"Wine"
+END
+Color:White
+"White"
+END
+Color:Grey
+"Grey"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAxeThrow09v2
+"Potente attacco a distanza con danno da impatto.\nMolto efficace contro la cavalleria e le unità volanti. \n Ability damage is improved at level 4 and 7. \nClicca con il pulsante sinistro sull'icona e poi sul bersaglio."
+END
+CONTROLBAR:ToolTipLeap09v2
+"Richiede livello 2.\nDanno a effetto d'area. \n Ability radius of effect is improved at level 4 and 7. \nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+TOOLTIP:ToolTipWitchKing09v2
+"Mace attack radius of effect is improved is improved at level 5 and 8."
+END
+//------------------------------------------------------------
+CONTROLBAR:GenericMountTooltipDain09v2
+"Richiede Livello 8 \n Clicca con il pulsante sinistro per\nmontare e smontare."
+END
+//------------------------------------------------------------
+CONTROLBAR:ShelobWebbing09v2
+"We&b Of Ungoliant"
+End
+CONTROLBAR:ToolTipShelobWebbing09v2
+"Richiede Livello 10 \n Cripples enemy units in spider webs for 4.5 seconds and drains their life for the duration. \n Shelob is healed based on total damage caused to heroes. \n Left click icon then left click on target area"
+End
+//------------------------------------------------------------
+CONTROLBAR:SummonBalrogSauron09v2
+"Summon Balrogs (&W)"
+End
+//------------------------------------------------------------
+CONTROLBAR:SummonEagleAlliesGaladriel09v2
+"Summon Eagle Allies (&T)"
+End
+//------------------------------------------------------------
+UPGRADE:FarmLevel2Tooltip09v2
+"Level 2: +50 Command Points"
+END
+UPGRADE:FarmLevel3Tooltip09v2
+"Level 3: +75 Command Points"
+END
+CONTROLBAR:ThunderBolt09v2
+"Thunderbolt Storm [&B]"
+END
+CONTROLBAR:ToolTipThunderBolt09v2
+"Richiede Livello 10 \n Saruman creates a series of clouds that strike powerful lightning bolts against targeted location. \n Left click icon then left click on location"
+END
+CONTROLBAR:ToolTipPersonalFlood09v2
+"Richiede livello 5.\nEvoca un'alluvione che danneggia i nemici e spegne gli incendi.\n Bonus contro i cavalieri neri. \n Bonus against Black Riders. \n The flood horses are improved at level 10.\nClicca con il pulsante sinistro sull'icona e poi sul bersaglio."
+END
+CONTROLBAR:ToolTipSlayer09v2
+"Richiede livello 5.\nGimli ottiene danno +50% e velocità doppia ma perde -15% di resistenza al danno strutturale.\n Has an 80% chance to knockback heroes\nClicca con il pulsante sinistro per attivare"
+END
+CONTROLBAR:TooltipElrondWhirlwind09v2
+"Richiede livello 6.\nEvoca un turbine distruttore sul campo di battaglia.\nClicca con il pulsante sinistro sull'icona e poi sulla zona bersaglio."
+END
+CONTROLBAR:TooltipScreechWitchKing09v2
+"Richiede livello 4.\nFa fuggire le unità nemiche in preda al terrore.\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes\nClicca con il pulsante sinistro per attivare."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildIronOreUpgrade09v2
+"Reduces the cost of Forged Blades, Heavy Armor and Fire Arrows upgrades by 33%"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGlorfindelBladeOfPurity09v2
+"Richiede livello 3.\nGlorfindel ottiene +50% danno e invulnerabilità per 10 secondi a terra.\n\nClicca con il pulsante sinistro per attivare."
+END
+CONTROLBAR:TooltipBladeMaster09v2
+"Richiede livello 2.\nAragorn ottiene +50% danno, +50% corazza. \nClicca con il pulsante sinistro per attivare."
+END
+//------------------------------------------------------------
+UPGRADE:AutohealUpgradeAdvanced09v2
+"Improved Auto heal"
+END
+UPGRADE:AutohealUpgradeBasic09v2
+"Basic Auto heal"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHourOfTheWitchKing09v2
+"Richiede livello 10.\nI contatori delle abilità speciali del nemico vengono ridotte al 80% della carica.\n Enemy heroes around Witch King suffer -25% damage. \n Modifier Type: 'STUN WitchKingCurse' \nClicca con il pulsante sinistro sull'icona e poi sull'area bersaglio."
+END
+CONTROLBAR:TooltipDwarvenRiches09v2
+"Selected structure's resource output is temporarily raised to 350%. \n Left click icon then left click on target resource structure"
+END
+CONTROLBAR:Command_CreateAHero_ShieldCrush_Level1_Name
+"Shield Crush"
+END
+CONTROLBAR:Command_CreateAHero_ShieldCrush_Level3_Name
+"Improved Shield Crush"
+END
+TOOLTIP:ToolTipPurchasedUpgradeFortressBanners09v2
+"Fortress leadership upgrade purchased: \n Nearby units gain +25% Damage \n and gain experience +25% faster \n Modifier Type: RESISTANT 'Damage Inspiring'"
+END
+CONTROLBAR:ToolTipBuildGoblinFighterHorde09v2
+"Strong vs. Pikemen\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% damage +25% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+END
+CONTROLBAR:ToolTipBuildElvenRivendellLancers09v2
+"Strong vs. Archers and \n Unit Production Buildings. \n Rivendell Lancers gain +7% speed at level 5."
+END
+CONTROLBAR:ToolTipGloriousCharge09v2
+"Richiede Livello 7 \n Theoden and nearby cavalry gain +99% armor, \n +25% damage and become immune to desacelerate by trampling. \n Cavalry also become fearless for its duration. \n Modifier Type: 'DEBUFF_PROOF GloriousCharge'. \n Theoden must be mounted to use ability \n Left click to activate"
+END
+CONTROLBAR:ToolTipBuildGoblinArcherHorde09v2
+"Strong vs. Infantry\nRESISTANT to trample\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% damage +20% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+END
+CONTROLBAR:ToolTipBuildMordorOrcArcherHorde09v2
+"Strong vs. Infantry\n Horde Bonus: \n Gathered orcs in numbers of at least 70\n gain +33% damage +15% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenCitadelDwarvenStonework09v2
+"Provides additional armor to the Citadel, its expansions and surrounding walls. \n\n Upgrades summoned Lone Towers"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMordorTavern09v2
+"Trains Corsairs of Umbar \n Allows research of Mordor unit upgrades. \n Tavern bonus: \n 2 tavern = corsairs 10% cheaper \n 3 tavern = 15% cheaper \n 4 taverns = 20% cheaper"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDainStubbornPride09v2
+"Richiede Livello 7 \n Grants all nearby allies resistance to fear and terror \n Modifier Type: 'DEBUFF_PROOF StubbornPride' \n Dain becomes able to reveal stealth.\n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTreeBeardLeadership09v2
+"Allied Ents near Treebeard gain \n +25% Armor, +10% Speed \n +20% Range and +25% experience \n Modifier Type: TreeBeard LEADERSHIP'\n \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipLurtzLeadership09v2
+"Richiede Livello 5 \n Allies near Lurtz gain \n +50% Damage \n and earn experience 25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipPalantirVision09v2
+"Spy on the enemy forces\n\n Gives a temporary +15% speed bonus to \n units at its target area \n Modifier Type: RESISTANT PalantirBonus'. \n \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipFarSight09v2
+"Spy on the enemy forces\n Gives a temporary range bonus of +35% to \n hordes at its target area\n Modifier Type: RESISTANT FarsightBonus'. \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipElvenWood09v2
+"Creates lush terrain. \n Allied units gain +35% armor, \n +25% damage and earn experience 25% faster. \n Enemy cavalry deceleration rate is raised by +250%. \n Modifier Type: RESISTANT 'ElvenWood' \n Overrides LEADERSHIP effects from the allies.  \n Left click icon then left click on target area"
+END
+CONTROLBAR:MenWood09v2
+"Human Wood"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipCloudBreak09v2
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Stuns enemy units for 10 seconds \n Heals and revives allied units during 15 seconds \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDarkness09v2
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the entire map in darkness\n Allied hordes gain +50% Damage, +33% Armor and earn experience 50% times faster \n Monsters gain +25% Damage, +33% Armor and +50% experience \n Modifier Type: RESISTANT 'Darkness' \n Lasts 180 seconds. \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipFreezingRain09v2
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the map in rain \n All enemy hordes and monsters in the map suffer \n -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP, BUFF and RESISTANT modifiers from the enemy. \n Lasts 150 seconds. \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMightyRage09v2
+"Richiede Livello 4 \n Targeted friendly units gain \n+20% Speed, +25% Damage and +25% shroud revealing. \n Modifier Type: 'DEBUFF_PROOF MightyRage' \n Enemy hordes in the same location suffer \n -25% armor and -25% damage \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+END
+CONTROLBAR:ToolTipMordorDreadVisage09v2
+"Richiede Livello 2 \n Nearby enemy hordes suffer -25% armor and -25% damage.  \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Passive ability"
+End
+CONTROLBAR:TooltipCaveBats09v2
+"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target area"
+END
+CONTROLBAR:TooltipCrebain09v2
+"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGBloodHunt09v2
+"Richiede livello 3.\nLa cavalleria alleata vicina ottiene +25% danno, +25% corazza e +50% accumulo esperienza.\nRidotto il rallentamento da calpestamento della cavalleria alleata. \n Modifier Type: RESISTANT 'High-Tier Hero' \nAbilità passiva."
+END
+CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack09v2
+"Richiede livello 2.\nOrdina ai guardiani di caricare il nemico.\nI guardiani ottengono +25% velocità e +25% corazza. \n Modifier Type: 'Armor BUFF'   \nCausa danno da impatto.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+CONTROLBAR:ToolTipBarbedArrows09v2
+"Richiede Livello 2 \nCausa ferite da impatto e danni più gravi. \n Click sinistro sull'icona e click sinistro sul bersaglio."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework09v2
+"Fornisce corazza aggiuntiva alle mura e alla fortezza.\nPrerequisito per Torre D'Avorio. \n\nAggiorna le Torri Solitarie evocate."
+END
+CONTROLBAR:ToolTipSharkuManEater09v2
+"Richiede livello 6.\nUccidi il nemico bersaglio, ripristinando l'energia di Sharku e fornendo temporaneamente +35% danno, corazza and -35% crushing deceleration.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel309v2
+"+30% velocità di costruzione.\nConsente la ricerca dei potenziamenti Cotta di mithril, Lame temprate e Colpo fiammeggiante.\nAggiunge torre difensiva con lanciatori d'ascia. \nGuadagna armatura: +20% verso gli eroi, picchieri e la cavalleria."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing09v2
+"Cura tutti gli alleati nelle vicinanze. \n Riforma unità nelle orde ogni 6.5 secondi.\nRiduce del 5% il costo di rianimazione dell'Eroe.\nRiduce del 15% il tempo di rianimazione dell'Eroe. \n\nAggiorna le Torri Solitarie evocate."
+END
+CONTROLBAR:ToolTipBuildMordorOrcFighterHorde09v2
+"Efficace contro le strutture di raccolta risorse. \nBonus Orda: \nOrchi raccolti in numero superiore a 70. \nottengono +33% danno +20% velocità.\n Modifier Type: RESISTANT 'HordeBonus' "
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs09v2
+"Cura gli alleati vicino alla fortezza. \nRiforma unità nelle orde ogni 6.5 secondi. \nRiduce il tempo di rianimazione degli eroi del 25% \nAggiunge punti ferita alla fortezza. \n\nAggiorna le Torri Solitarie evocate."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework09v2
+"Fornisce corazza e punti ferita aggiuntivi a fortezza e mura.\nPrerequisito per catapulta possente. \n\nAggiorna le Torri Solitarie evocate."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipElvenCloakThranduil09v2
+"Elven Cloack: \n Diventa invisibile quando è immobile.\nAbilità passiva."
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipGoblinKingSkullTotem09v2
+"Richiede livello 2.\nCrea un totem del teschio, che permane fino alla sua distruzione.\nDirada la nebbia nelle vicinanze, rivela le unità mimetizzate, fornisce +35% corazza alle unità alleate vicine e +25% esperienza. \n Modifier Type: 'Armor BUFF' \nClicca con il pulsante sinistro sull'icona e quindi sulla zona bersaglio."
+END
+//------------------------------------------------------------
+CONTROLBAR:DescriptionConstructMordorDrummerTrolls09v2
+"Gli alleati vicino al Troll con tamburi ottengono +35% corazza e +25% esperienza. \n Gli Trolls vicino guadagnano +15% corazza, +15% esperienza e guariscono più velocemente. \n Modifier Type: 'Armor BUFF' \n\nAbilità passiva."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipWarChant09v2
+"Le unità alleate bersaglio ottengono +40% danno, +50% esperienza e +10% velocità. \n Modifier Type: 'Damage LEADERSHIP' \nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+End
+CONTROLBAR:TooltipRallyingCall09v2
+"Gli alleati bersaglio ottengono +50% danno e +50% esperienza. \n Modifier Type: 'Damage LEADERSHIP' \nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+CONTROLBAR:TooltipRallyingCallDwarven09v2
+"Gli alleati bersaglio ottengono +50% danno e +25% esperienza. \n Modifier Type: 'Damage LEADERSHIP' \nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTaint09v2
+"Contamina una porzione di terreno.\nTutte le unità alleate guadagnano +35% corazza. \n Modifier Type: 'Armor BUFF' \nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMenWood09v2
+"Crea bosco\nTutte le unità alleate guadagnano +35% corazza.\n Non ha effetto sugli Eroi. \n Modifier Type: 'Armor BUFF' \nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+//------------------------------------------------------------
+OBJECT:ElvenHeroicStatueDescription09v2
+"Gli alleati vicino alla statua ottengono\n+25% danno\ne +25% accumulo esperienza\n Modifier Type: RESISTANT 'Damage Inspiring' \n Allies gain terror and fear resistance. \n Modifier Type: 'LEADERSHIP AntiFear'\n\nAumenta di 10 il limite di punti comando."
+END
+//------------------------------------------------------------
+OBJECT:HeroicStatueDescription09v2
+"Gli alleati vicino alla statua ottengono\n+25% corazza\ne +25% accumulo esperienza.\n Modifier Type: RESISTANT 'Armor Inspiring' \n\nAumenta di 10 il limite di punti comando."
+END
+//------------------------------------------------------------
+OBJECT:DwarvenHeroicStatueDescription09v2
+"Gli alleati vicino alla statua ottengono\n+35% corazza. \n Modifier Type: 'Armor BUFF' \n Allies gain terror and fear resistance. \n Modifier Type: RESISTANT AntiFear'\n\nAumenta di 10 il limite di punti comando."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v2
+"Riduce la vulnerabilità in mischia della fortezza. \n Gli alleati vicini ottengono +25% danno e +25% accumulo esperienza. \n Modifier Type: RESISTANT 'Damage Inspiring'"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressDoomPyres09v2
+"Fornisce 25% danno e 25% esperienza aggiuntiva alle truppe vicine. \n Modifier Type: RESISTANT 'Damage Inspiring' \nRiduce del 10% il costo dell'Eroe.\nRiduce del 10% il tempo di reclutamento dell'Eroe.\nRiduce del 20% il costo dei costruttori."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners09v2
+"Gli alleati vicino alla fortezza ottengono\n+25% danno e\n+25% accumulo esperienza. \n Modifier Type: RESISTANT 'Damage Inspiring'\nRiduce del 10% il costo dell'Eroe.\nRiduce il tempo di reclutamento dell'Eroe del 10%.\nRiduce il costo dei costruttori del 20%. \n\nAggiorna le Torri Solitarie evocate."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners09v2
+"Allies near Fortress gain \n +25% Damage and 25% experience \n Modifier Type: RESISTANT 'Damage Inspiring' \nRiduce del 10% il costo dell'Eroe.\nRiduce il tempo di reclutamento dell'Eroe del 10%.\nRiduce il costo dei costruttori del 20%. \n\nAggiorna le Torri Solitarie evocate."
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipWargRiderHowl09v2
+"+55% danno agli Warg. \nPerdono 10% armatura verso le picche e le strutture.\n Modifier Type: 'DEBUFF_PROOF WargHowl' \n Neutralizes previous any LEADERSHIP bonus. \n Clicca con il pulsante sinistro per attivare."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEyeofSauron09v2
+"Evoca l'Occhio di Sauron.\nRivela i nemici mimetizzati.\nGli alleati ottengono +25% danno, +25% corazza e accumulano esperienza il 50% più velocemente.\n Modifier Type: RESISTANT 'High-Tier Hero' \nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGlorfindelStarlight09v2
+"Richiede Livello 8 \n Allied units, monsters and heroes in a large area around Glorfindel are healed while active. \n Allied hordes replenish its units while active. \n Allied units gain +33% armor and +50% damage while active. \n Enemy units are scared while active. \n Modifier Type: 'Armor BUFF' \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGimliLeadership09v2
+"Gli alleati vicino a Gimli ottengono\n+35% corazza. \n Modifier Type: 'Armor BUFF' \n\nAbilità passiva."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDainLeadership09v2
+"Allies near King Dain gain \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier09v2
+"Allies near the banner gain \n +25% Damage \n and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Slowly heals the Battlewagon when not in combat \n Adds several Phalanxes to the Battlewagon \n Reveals stealthed enemies"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGoblinKingBattleFrenzy09v2
+"Richiede livello 4.\nGli alleati vicino al eroe ottengono +25% corazza e +25% accumulo esperienza. \n Nearby Trolls gain experience 25% faster \n and autoheal +50 health points. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Abilità passiva."
+End
+//------------------------------------------------------------
+CONTROLBAR:TooltipElrondLeadership09v2
+"Richiede Livello 3 \n Allies near Elrond gain \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipArwenLeadership09v2
+"Richiede Livello 3 \n Cavalry near Arwen gain +25% Armor and earn experience 25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Passive ability"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirLeadership09v2
+"Richiede Livello 4 \n Allies near Haldir gain \n +50% Damage and earn experience +25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipInspiringPresence09v2
+"Gli alleati vicini a Tom Bombadil ottengono +25% corazza e\naccumulano esperienza con +25% velocità. \n Modifier Type: RESISTANT 'Armor Inspiring' \n\nAbilità passiva."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAragornLeadership09v2
+"Richiede Livello 4 \n Allies near Aragorn gain +25% Damage, +25% Armor, and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEomerLeadership09v2
+"Richiede Livello 3 \n Cavalry near Eomer gain 35% Armor. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipFaramirLeadership09v2
+"Richiede Livello 7 \n Allies near Faramir gain \n +35% Armor. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBoromirLeadership09v2
+"Richiede Livello 5 \n Allies near Boromir gain \n +50% Damage and earn experience +25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipTheodenLeadership09v2
+"Richiede Livello 2 \n Allies near Theoden gain \n +25% damage and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Passive ability"
+END
+//------------------------------------------------------------
+TOOLTIP:ToolTipSarumanLeadership09v2
+"Allies near Saruman gain +25% Armor and earn experience 25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBloodthirsty09v2
+//Not used yet
+"Richiede Livello 2 \n Order this unit to kill a friendly unit \n to gain combat experience \n Left click icon then left click on target units"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirGoldenArrow09v2
+"Richiede Livello 10 \n A high damage attack that causes metaimpact. \n Effective against cavalry and weak heroes. \n Stuns light sensitive enemy units. \n Can only use with bow equipped \n Left click icon then left click on target" 
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThornofVengeance09v2
+"Richiede Livello 9 \n An extremely powerful single shot attack that causes damage for 15 seconds. \n The target is reduced to only 70% speed. \n Effective against strong heroes. \n Left click icon then left click on target"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
+"Richiede Livello 2 \n Ordina all'Olifante di schiacciare il nemico.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipVenomousWords09v2
+"Enemy hordes and heroes in the target location suffer \n -40% speed and -50% rate of fire. \n Lasts 19 seconds. \n Modifier Type: 'STUN' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipMouthOfSauronDoubt09v2
+"Richiede Livello 4 \n Enemy hordes and heroes in the target location suffer \n -25% armor, -25% damage and -5% speed. \n Lasts 30 seconds. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipEnshroudingMist09v2
+"Friendly units within the mist become stealthed. \n Enemy hordes, heroes and monsters in the same area suffer \n -25% armor and -25% damage. \n Lasts 60 seconds. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n\n Left click icon and left click on target area"
+END
+//------------------------------------------------------------
+TOOLTIP:ToolTipToggleGFighterLineToBlockFormation09v2
+"Research Banner Carrier upgrade at Barracks to enable this equipment. \n +25% Armor, -30% Speed and +33% extra arrow resistance"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation09v2
+"+25% Armor, -30% Speed and +33% extra arrow resistance"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation09v2
+"+20% Armor, -30% Speed and +25% extra arrow resistance. \n Loses -7% damage."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipDisguise09v2
+"Requires Level 3 \n Disguise as a normal Rohirrim, wearing it's armament and fighting like one of them. \n Eowyn deals damage in area \n Left click to activate"
+END
+CONTROLBAR:ToolTipSmite09v2
+"Powerful ranged attack \n Bonus against heroes \n Specialy powerful vs Fellbeasts \n Left click icon then left click on target"
+END
+CONTROLBAR:ToolTipShieldMaiden09v2
+"Richiede Livello 5 \n Eowyn gains 35% Armor \n Halves the deceleration rate of friendly Rohirrim when trampling \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipSunflare09v2
+"Calls a fiery beam of sunlight to scorch the battlefield and indiscriminately burn enemies and allies. \n Effective against weak heros \n Cancels Darkness & Frezzing Rain \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipCitadel09v2
+"Places a Citadel Fortress anywhere on the battlefield \n Connected to the tunnel network \n Provides resources over time\n Left click icon then left click on pathable location"
+END
+//------------------------------------------------------------
+OBJECT:SignalFireDescription09v2
+"Capture it to decrease recharge times for unused powers \n Heals nearby Heros and Flyers. \n\n 1 signal fire = -25% reduction of spellbook reload time \n 2 signal fires = -35% reduction \n 3 signal fires = -50% reduction"
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildGondorShieldGuardHorde09v2
+"Strong vs. Cavalry and \n Unit Production Buildings \n Tower Guards gain +5% speed at level 3, 5 and 7."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildDwarvenGuardianHorde09v2
+"Strong vs. Pikemen\n and Resource Buildings \n Guardians gain +5% speed at level 3, 5, 7 and 10."
+End
+//------------------------------------------------------------
+CONTROLBAR:ToolTipGloinSmash09v2
+"Richiede Livello 10 \n Causes a large earthquake around Gloin's location \n Can stun the Army of the Dead for 5 seconds, but does not kill them \n Left click icon then left click on target"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSpecialAbilityFiresOfDoom09v2
+"Calls down a hail of molten rock that will damage any enemies or allies units on selected area \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:Command_ConstructMordorCastleWallHub09v2
+"&Wall Hub"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipFlood09v2
+"Summons a powerful Flood to crush your enemy \n Effective against cavalry and buildings \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipRebuild09v2
+"Heals 3000 health-points from any structure. \n Target structures gain 15% bonus armor for 15s. \n Left click icon then left click on target structures"
+End
+//------------------------------------------------------------
+CONTROLBAR:DwarvenCaptainofDale09v2
+"Prince Brand, the Captain of Dale"
+END
+CONTROLBAR:DwarvenCaptainofDaleRecruit09v2
+"Recruit Prince Brand, the Captain of Dale"
+END
+CONTROLBAR:DwarvenCaptainofDaleRevive09v2
+"Revive Prince Brand, the Captain of Dale"
+END
+CONTROLBAR:DwarvenCaptainofDaleHotkey09v2
+"Prince Brand, Ca&ptain of Dale"
+END
+OBJECT:DwarvenCaptainofDale09v2
+"Prince Brand, Captain of Dale"
+END
+//------------------------------------------------------------
+UPGRADE:Anduril09v2
+"Anduril"
+End
+TOOLTIP:AndurilDesc09v2
+"Anduril: Aragorn gains +10% Damage and +7% speed \n Richiede Livello 5 \n Passive ability"
+END
+//------------------------------------------------------------
+GUI:SpellBookRefreshReduction09v2
+"Bonus: \n Spellbook cooldowns: %d%%"
+End
+//------------------------------------------------------------
+OBJECT:TheForsakenInn09v2
+"The Forsaken Inn" 
+End
+//------------------------------------------------------------
+UPGRADE:ElvenStructuralSilverthornArrows09v2
+"Silverthorn Munitions"
+END
+//------------------------------------------------------------
+CONTROLBAR:PurchaseUpgradeElvenFortressSilverthorn09v2
+"&Silverthorn Munitions"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressSilverthorn09v2
+"Grants Silverthorn Munitions to fortress and all attached towers \n Increases the damage caused by arrows"
+END
+//------------------------------------------------------------
+CONTROLBAR:WordofPowerSauron09v2
+"Word of Power [&B]"
+END
+CONTROLBAR:ToolTipWordofPowerSauron09v2
+"Sends out a shockwave that kills surrounding enemies \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:GaladrielWordOfPower09v2
+"Nenya [&B]"
+END
+CONTROLBAR:ToolTipGaladrielWordOfPower09v2
+"Richiede Livello 10 \n Nenya \Sends out a shockwave that destroys surrounding enemies \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:RingOfPower09v2
+"Ring Of Power (&V)"
+END
+CONTROLBAR:ToolTipRingOfPower09v2
+"Sauron creates an influx of shadow and flame, constantly damages surrounding enemies \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipAthelasAragorn09v2
+"Heal 1000 health points from nearby Heroes. \n Left click to activate"
+END
+//------------------------------------------------------------
+CONTROLBAR:TooltipAthelasElrond09v2
+"Heals 750 health points from nearby Hordes and Heroes. \n Nearby Hordes and Monsters receive a increment of \n +15% to Health Points and +25% to experience gaining \n Provides resistance to fear and terror \n Modifier Type: 'DEBUFF_PROOF ElvenGrace' \n Lasts 12 seconds \n Left click to activate"
+END
+CONTROLBAR:ToolTipElrondFarsight09v2
+"Reveals an area of the map \n Provides +27.5% vision reveal range to any allied unit for 25 second. \n Doesn't affect heroes. \n Modifier Type: 'DEBUFF_PROOF ElrondFarseeing' \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+CONTROLBAR:KingsFavorDain09v2
+"King's Favor [&C]"
+END
+CONTROLBAR:ToolTipKingsFavorDain09v2
+"Richiede Livello 6 \n Targeted units gain experience \n Left click icon then left click on target units"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipSauronsFiresOfDoom09v2
+"Calls down many molten rocks in an area around Sauron, \n Left click icon starts the channeling \n Does not hurt allies"
+END
+//------------------------------------------------------------
+
+
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.09v1
+
+//------------------------------------------------------------
+
+
+CONTROLBAR:GaladHealBTP
+"Luce Di Galad&riel"
+END
+CONTROLBAR:ToolTipGaladHeal
+"Guarisce tutte le unità e gli eroi in una grande area intorno a Galadriel \nClick sinistro per attivare."
+END
+CONTROLBAR:LadyOfLight
+"Luce di &Vallar"
+END
+CONTROLBAR:TooltipLadyOfLight
+"Fa calare la luyce dei Valar sul nemico. \n Deals massive damage in a large area"
+END
+CONTROLBAR:SpecialAbilityFiresOfDoom2
+"Evoca tre Piogge Infuocate intorno a Sauron in cerchio."
+END
+CONTROLBAR:LoneTowerLeadershipUpgradeIcon
+"Richiede Fortezza aggiornare \cn\n Fornisce +25% danno +25% esperienza. \n Modifier Type: RESISTANT 'Damage Inspiring'"
+END
+CONTROLBAR:LoneTowerHealingUpgradeIcon
+"Richiede fortezza aggiornare. \n\n Guarisce le unità alleate nelle vicinanze. \n Riforma 1 unità per orda ogni 10 secondi."
+END
+CONTROLBAR:LoneTowerArmorUpgradeIcon
+"Richiede Fortezza aggiornare. \n\n Riduce notevolmente il danno subito."
+END
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.08
+
+//------------------------------------------------------------
+
+CONTROLBAR:GrabPassengerTB
+"Pickup Merry or Pippin"
+END
+CONTROLBAR:SpecialAbility_ShieldBubble
+"Scudo Sfera (&W)"
+END
+CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
+"Lo stregone trasferisce tutto il suo potere in uno scudo per difendersi \n Gandalf guadagna 99% Armatura e resiste ai contraccolpi per 5 secondi. \n Click sinistro sull'icona per attivare."
+END
+CONTROLBAR:Fire_pit
+"Fuoco da campo (&C)"
+END
+CONTROLBAR:TooltipFire_pit
+"Fuoco da campo che guarisce le unità alleate nelle vicinanze. \nRiforma 1 unità per orda ogni 5 secondi. \n Garantisce +5% bonus armatura. \n Modifier Type: RESISTANT 'HobbitCampfire' \nRivela unità mimetizzate."
+END
+CONTROLBAR:FireWorks
+"Fuochi D'Artificio / Accendi (&V)"
+END
+CONTROLBAR:ToolTipFireWorks
+"Merry può mettere un fuoco d'artificio sul terreno ed accenderlo \n \n Click sinistro per attivare "
+END
+CONTROLBAR:FireWorks2
+"Accendi Fuochi D'Artificio(&B)"
+END
+CONTROLBAR:ToolTipFireWorks2
+"Fuochi d'artificio danneggiano le unità in una grande area \n \n Click sinistro per attivare "
+END
+CONTROLBAR:FireWorksObj
+"Fuochi artificiali"
+END
+CONTROLBAR:HobbitFireCracker
+"Petardi (&R)"
+END
+CONTROLBAR:ToolTipHobbitFireCracker
+"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio"
+END
+CONTROLBAR:ToolTipHobbitFireCrackerMerry
+"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio \nBonus contro gli Olifanti \nEfficace contro le strutture"
+END
+CONTROLBAR:ToolTipHobbitFireCrackerSam
+"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio \nEfficace contro Shelob "
+End
+//------------------------------------------------------------
+
+
+
+// Maps.Strings	-----	2019
+
+ 
+
+
+
+//------------------------------------------------------------
+Map:mapmpnothing
+"nothing"
+END
+Map:mapmpnothing/Desc
+"nothing"
+END
+//------------------------------------------------------------
+Map:mapttfiriendale
+"Firien Dale"
+END
+Map:mapTTfiriendale/Desc
+"A deep cleft separating the Halifirien hill from its spur of the White Mountains; the source of the Mering Stream. \n Map by Temptation and Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapetdruadanforestIII
+"Druadan Forest III"
+End
+Map:mapetdruadanforestIII/Desc
+"An old forest at the foot of the White Mountains, to the northwest of Minas Tirith. \n Map from BFME1, remade by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapETlebenninIV
+"Lebennin IV"
+End
+Map:mapETlebenninIV/Desc
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Map from BFME1, remade by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapETlossarnach
+"Lossarnach" 
+End
+Map:mapETlossarnach/Desc
+"Lossarnach, also named Vale of Flowers, was a fertile region and fiefdom in the Southern Gondor. Located southwest of Minas Tirith and directly east of Lebennin, it was populated by many refugees from Ithilien and Osgiliath. \n Map by Ecthelion"
+End
+//------------------------------------------------------------
+Map:mapETgrassland
+"Grasslands"
+END
+Map:mapETgrassland/Desc
+"An ancient place where the City of Favnor stood in the mountains. This ancient city was destroyed many ages ago and now it is only recognized by its ruins. \n Map by Ecthelion, originally created by JBV3737."
+END
+//------------------------------------------------------------
+Map:TheGreenDragon
+"The Green Dragon"
+END
+Map:TheGreenDragon/Desc
+"A large 2v2 map made in honor of The Green Dragon. A popular inn of Bywater, the Green Dragon Inn was frequented by Hobbits from both Bywater itself and the neighboring settlement of Hobbiton. \n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:ThePrancingPony
+"The Prancing Pony"
+END
+Map:ThePrancingPony/Desc
+"A large 8 player map made in honor of The Prancing Pony"
+END
+//------------------------------------------------------------
+Map:mapMOblackrootVale
+"Blackroot Vale"
+END
+Map:mapMOblackrootVale/Desc
+"The Blackroot Vale, known as Mornan in Sindarin, was a valley of rich grassland through which the River Blackroot flowed. \n Map by Motoma"
+END
+//------------------------------------------------------------
+Map:mapETgapofrohanII
+"Gap of Rohan II " 
+End
+Map:mapETgapofrohanII/Desc
+"The only large and easily traversable pass between the Misty Mountains and the White Mountains. \n Map reworked by Ecthelion, originally from BFME1."
+End
+//------------------------------------------------------------
+Map:mapTTsouthhollin
+"South Hollin"
+end
+Map:mapTTsouthhollin/desc
+"Hollin was a realm of the Noldor in Eriador during the Second Age, located near the Walls of Moria, under the shadow of the Misty Mountains. It was the only lasting Noldorin realm outside Lindon. \n Map by Temptation and Ecthelion"
+End
+//------------------------------------------------------------
+Map:mapTTfordofbruinen
+"Ford of Bruinen" 
+End
+Map:mapTTfordofbruinen/Desc
+"The upland forests, mostly made up of beeches, lay to the West of Rivendell where the Bruinen river flows, a favorite hunting ground for trolls who descended from the mountains to attack travelers on the Great Western highway.\n Map by Temptation"
+End
+//------------------------------------------------------------
+Map:mapTTosgiliathII
+"Osgiliath II" 
+End
+Map:mapTTosgiliathII/Desc
+"The first capital of the Kingdom of Gondor. Translated from Sindarin, the name of the city means "Citadel of the Stars".\n Map edited by Temptation"
+End
+//------------------------------------------------------------
+Map:mapTTpelennorfields
+"Pelennor Fields" 
+End
+Map:mapTTpelennorfields/Desc
+"The Pelennor Fields lay just outside the city of Minas Tirith, on the west bank of the river Anduin. The land ran down toward the river in slopes and terraces. The Pelennor Fields were home to farmers and herdsmen who had barns, pens, livestock, granaries, and kilns for drying hops and malt which were located on the Pelennor.\n Map by Temptation"
+End
+//------------------------------------------------------------
+Map:mapTTsmallwold
+"Small Wold" 
+End
+Map:mapTTsmallwold/Desc
+"The Wold, also known as the Wold of Rohan or Wold, were the upland grasslands of Rohan. This was the northeastern area of Rohan. It was located between Fangorn Forest and River Anduin.\n Map by Temptation"
+End
+//------------------------------------------------------------
+Map:mapSBmigration
+"Migration"
+END
+Map:mapSBmigration/Desc
+"This map is a tribute to the legendary AoE II map "Migration". Ships are completly revamped and hopefully balanced (restart the game after playing). Fortress are limited to two per player and tunnel network is disabled (except Undermine) \n Map by SilverBane, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapSOsouthfarthing
+"Southfarthing"
+END
+Map:mapSOsouthfarthing/Desc
+"As a rural, fertile, and slightly warmer area of the Shire, the Southfarthing was the site of much of the Pipe-weed production. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapETvalleysofrhun
+"Valleys of Rhün"
+END
+Map:mapETvalleysofrhun/Desc
+//"A series of partially fertile valleys, feeded by water sinks from the nearby mountain chains at the far east of the Middle-Earth, around the Sea of Rhun. \n Map by Ecthelion."
+"The east of the Middle-Earth form a multiplicity of enviroments where aridity and humble piedmont oasis reign, alternating with streams and valleys of singular beauty, creating a landscape with certain paradisiacal opulence. \n Map by Ecthelion"
+//Sierras Pampeanas, Argentina.
+END
+//------------------------------------------------------------
+Map:mapHAforlindon
+"The Cow Maze"
+End
+Map:mapHAforlindon/Desc
+"The tale of The Cow Maze:\nThe Bard has told us of the Great Cow Maze that once took place in this territory...\n Within it's great walls, many strong heroes from ancient ages, like the Mighty-Bunito and the Glute-Master have struggled with fire and siege, breaking through the walls of stone in a battle that lasted 109 days and 109 nights. The heros trudged through cow shit but to no avail, as the mad Cow Lord stroked (or milked) his wet and voluptuous udders night and day, noone did survive. Milk and blood was splatered, but still, noone could stand against the wrath of the Mighty Cow. \nEven so, the Maze and it's stoned walls were destroyed due the violence from the Last Great Battle. Now only ruins remain to watch over the north-west of the middle-earth, and the Mighty Cow has became a God who people pray in times of war. \n \n The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\n\n Map originally from BFME1 by Haldir, edited by Ecthelion."
+End
+//The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\nMap from BFME1 by Haldir, edited by Ecthelion."
+//------------------------------------------------------------
+Map:mapnewfordsofrohan
+"Fords of Rohan"
+END
+Map:mapnewfordsofrohan/Desc
+"A peaceful battleground situated between the lands of Rohan and Isengard, separated by the river Isen. \n Map from RotWK by Gladyr, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapETerynrhun
+"Eryn Rhün" 
+End
+Map:mapETerynrhun/Desc
+"Eryn Rhün means Eastern Forest, used as reference to the mysterious woody region at the east of the sea of Rhün, irrigated by the mouths of the rivers from the Red Mountains. \n Map by Ecthelion"
+End
+//------------------------------------------------------------
+Map:mapETlebennin
+"Lebennin" 
+End
+Map:mapETlebennin/Desc
+"Lebennin is a region between the south of White Mountains and the Anduin delta. Known as the land of the five rivers, it is one of the most faithful fiefs of Gondor, whose wide green meadows are filled with tall grasses and flowers. \n Map by Ecthelion"
+End
+//------------------------------------------------------------
+Map:mapETfirienforest
+"Firien Forest" 
+End
+Map:mapETfirienforest/Desc
+"The Firien wood is an oak forest located at the foot of the White Mountains, bordering the Mering Stream and Eastfold. \n Lairs: 4x Warg \n Map by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapSBagarnaith
+"Agarnaith"
+END
+Map:mapSBagarnaith/Desc
+"Beyond the slopes of Orodruin and deep into Mordor lies Agarnaith, the Bloody Gore. Few ever return from this accursed place. \n Creeps: 2x Troll \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBtumladen
+"Tumladen"
+END
+Map:mapSBtumladen/Desc
+"Tumladen is a deep valley between the rivers Celos and Sirith. It was the refuge of many civilians from Minas Tirith during the War of the Ring. \n Neutral Structures: 2x Inn \n Creeps: 2x Warg\n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBchetwood
+"Chetwood"
+END
+Map:mapSBchetwood/Desc
+"This forest situated east of Bree was bordered by the Midgewater marshes to the east, and the Great Eastern Road to the south. Aragorn led the hobbits through this forest on their way to Rivendell. \n Lairs: 2x Troll, 2x Warg \n Neutral structures: 2x Forsaken Inn \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBeredlithui
+"Ered Lithui"
+END
+Map:mapSBeredlithui/Desc
+"Ered Lithui or the Mountains of Ash form the northern border of Mordor. The road that runs east along them is used exclusively by Easterlings loyal to the Great Eye. \n Lairs: 2x Goblin Lair, 1x Firedrake Lair. \nMap by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBbarrowdowns
+"The Barrow Downs"
+END
+Map:mapSBbarrowdowns/Desc
+"The Barrow Downs or Tyrn Gorthad are a series of hills east of the Shire. Many wights roam these once sacred hills. \n Lairs: 3x Barrow Wight \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBdimrilldale
+"Dimrill Dale"
+END
+Map:mapSBdimrilldale/Desc
+"This valley east of Moria has been the final battleground of the War of the Dwarves and Orcs. \n Lairs: 2x Goblins \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBsirayn
+"Sirayn"
+END
+Map:mapSBsirayn/Desc
+"This ruined city lies deep in the forests of Far Harad. It is a Numenorean relic of the Second Age. \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBtrollshaws
+"Trollshaws"
+END
+Map:mapSBtrollshaws/Desc
+"Untamed lands that are difficult to pass through. The Last Homely House can be found east of these lands. \n Lairs: Troll x2 \n Neutral Structures: Signal fire x2, Inn x1 \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:mapSBplateauofgorgoroth
+"Plateau of Gorgoroth"
+END
+Map:mapSBplateauofgorgoroth/Desc
+"The Plateau of Gorgoroth is a deadly, barren region plagued by ash, fumes and countless orcs. \n Capturing the existing two water cisterns may prove useful. \n Neutral structures: 2x Water cistern. \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+//MAP:mapTESTBucklandIII
+//"Buckland III"
+//END
+//MAP:mapTESTBucklandIII/Desc
+//"The Eastern border of the Shire was the . \n Map from RotWK, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapMAeastmarch
+"East March"
+END
+Map:mapMAeastmarch/Desc
+"A small but densely populated sliver of land between the Old Forest and the east bank of the Brandywine river, inhabited by Hobbits. \n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+//Map:mapTESTFordsOfGlanduin
+//"Fords of Glanduin"
+//END
+//Map:mapTESTFordsOfGlanduin/Desc
+//"Beginning in the Hithaeglir south of Khazad-dum, the Glanduin formed Eregion's southern boundary to Dunland \n Map from RotWK, by Solas."
+//END
+//------------------------------------------------------------
+Map:mapSOgondoroutpost
+"Gondor Outpost"
+END
+Map:mapSOgondoroutpost/Desc
+"An outpost on the border of Harondor which served to keep watch of the southern roads. \n Map from RotWK, by Solas, Mako & TheRanger."
+END
+//------------------------------------------------------------
+Map:mapSOplainsoflindon
+"Plains of Lindon"
+END
+Map:mapSOplainsoflindon/Desc
+"A green and quiet Elvish country beyond the Lune. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOwoodyend
+"Woody End"
+End
+Map:mapSOwoodyend/desc
+"Woody End was an upland wooded region of the Eastfarthing of the Shire, lying between the Green Hill Country on the west and the Marish on the east. \n Map from RotWK, by Solas."
+End
+//------------------------------------------------------------
+//	Map:mapTESTriveroforodruin
+//	"River of Orodruin"
+//	End
+//	Map:mapTESTriveroforodruin/desc
+//	"Orodruin, also known as Mount Doom, is a towering volcano in the land of Mordor. Around it, there is an arid plateau that is separated by rivers of lava.\n Map from RotWK"
+//	End
+//------------------------------------------------------------
+//Map:mapTESTrhunshore
+//"Rhun Shore"
+//End
+//Map:mapTESTrhunshore/Desc
+//"Sea of Rhun is a large inland sea located in the arid domain of Esterling. After the downfall of Sauron, Aragorn and Eomer rode there to flush out the last remnants of the enemy forces.\n Size: 380 x 350\n Lairs: 4x Warg Lair, 2x Troll Lair\n Neutral Structures: 1x Outpost, 1x Inn. \n Map from RotWK, by Mako."
+//End
+//------------------------------------------------------------
+//Map:mapTESTpathsofthedead
+//"Path of the dead"
+//End
+//Map:mapTESTpathsofthedead/desc
+//"A cavernous passageway through the White Mountains running from Dwimorberg in the north to the Morthond Vale in the south.\n Size: 230 x 390. \n Map by RotWK"
+//End
+//------------------------------------------------------------
+//	Map:mapTESTmithlondvalley
+//	"Mithlond Valley" // MAP REMOVED
+//	End
+//	Map:mapTESTmithlondvalley/desc
+//	"A periphery settlement of the Grey Havens, constructed in a great valley that originates in Ered Lindon. \n Map from RotWK"
+//	End
+//------------------------------------------------------------
+//MAP:MapTESTMirkwoodForest
+//"Mirkwood Forest"
+//END
+//MAP:MapTESTMirkwoodForest/Desc
+//"The term Mirkwood is taken from William Morris, influenced by the forest Myrkvior of Norse mythology. Projected into Old English, it appears as Myrcwudu in Tolkien's The Lost Road, as a poem sung by AElfwine.\n Size: 380 x 380\n Lairs: 4x Warg Lair, 2x Troll Lair\n Neutral Structures: 2x Signal Fire. \n Map from RotWK, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapNEWmidgewater
+"Midgewater"
+End
+Map:mapNEWmidgewater/desc
+"The Midgewater Marshes is an area within Bree-land in the south-eastern region. It is known for its treacherous bogs that extend as far as the Weather Hills. \n Map by Mako, edited by Ecthelion."
+End
+//------------------------------------------------------------
+//Map:mapTESTironhillsiv
+//"Iron Hills IV"
+//End
+//Map:mapTESTironhillsiv/desc
+//" A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water.\n Size: 550 x 550\n Lairs: 4x Spider Lair, 2x Fire Drake Lair, 10x Destructible Environment\n Neutral Structures: 4x Outpost, 2x Inn, 2x Signal Fire. \n Map from RotWK, by Mako."
+//End
+//------------------------------------------------------------
+//	Map:mapTESTironhillsiii
+//	"Iron Hills III" // MAP REMOVED
+//	End
+//	Map:mapTESTironhillsiii/desc
+//	"A range of mountains located in northern Middle-earth. It is the realm of the Dwarves of Durin's Folk.\n Size: 498 x 398\n Lairs: 8x Spider Lair, 2x Fire Drake Lair, 4x Destructible Environment\n Neutral Structures: 2x Outpost, 2x Inn, 2x Signal Fire. \n Map from RotWK"
+//	End
+//------------------------------------------------------------
+Map:mapTESTfordsofharnen
+"Fords of Harnen"
+End
+Map:MAPTESTFordsOfHarnen/Desc
+" The river Harnen was a river south of Gondor. South of the Harnen lay the land of Near Harad.\n Size: 560 x 450\n Lairs: 4x Troll Lair\n Neutral Structures: 4x Signal Fire. \n Map from RotWK, by lrdkcki, edited by Mako."
+END
+//------------------------------------------------------------
+//	Map:mapTESTeredmithrin
+//	"Ered Mithrin" // MAP REMOVED
+//	End
+//	Map:mapTESTeredmithrin/Desc
+//	"Of old the Ered Mithrin had been mined and inhabited by Dwarves of Durin's Folk, but by the Third Age only one Dwarven stronghold remained, standing strong against raiding Dragons from the nearby Withered Heath.\n Size: 600 x 500\n Lairs: 4x Warg Lair, 1x Troll Lair, 3x Fire Drake Lair, 1x Destructible Environment\n Neutral Structures: 1x Outpost, 1x Inn, 1x Signal Fire, 2x Tower. \n Map from RotWK"
+//	End
+//------------------------------------------------------------
+//Map:mapTESTerechii
+//"Erech II"
+//End
+//Map:mapTESTerechii/desc
+//" A hill west of Minas Tirith, where in ages past the faithless King of the Mountains swore an oath of fealty to Isildur.\n Size: 320 x 320\n Lairs: 2x Troll Lair, 2x Barrow Wight Lair\n Neutral Structures: 2x Inn. \n Map from RotWK, by Dogi9696, edited by Ecthelion. Originally created by Thoon."
+//End
+//------------------------------------------------------------
+//	Map:mapTESTdwarrowdelf
+//	"Dwarrowdelf " // MAP REMOVED
+//	End
+//	Map:mapTESTdwarrowdelf/Desc
+//	"Khazad-dûm, also known as Hadhodrond, Casarrondo and Phurunargian, which translates to Dwarrowdelf, latterly known as Moria.\n Size: 600 x 500\n Lairs: 8x Goblin Lair, 4x Troll Lair\n Neutral Structures: 4x Outpost, 4x Inn, 2x Signal Fire. \n Map from RotWK"
+//	End
+//------------------------------------------------------------
+//	Map:maptestdungeonsoferebor
+//	"Dungeons of Erebor" // MAP REMOVED
+//	End
+//	Map:maptestdungeonsoferebor/Desc
+//	"A vast cavern within the Lonely Mountain where the Dwarves mine their riches and trade with the Men of Dale.\n Size: 500 x 500\n Lairs: 2x Goblin Lair, 4x Troll Lair\n Neutral Structures: 2x Inn. \n Map from RotWK"
+//	End
+//------------------------------------------------------------
+//Map:maptestdruwaithreef
+//"Druwait Reef"
+//End
+//Map:maptestdruwaithreef/desc
+//" This coastal region, once inhabited by the Druedain, has been the site of sacrificial offerings to Ulmo in order to set the heavy floods at rest. Now only the ruins of this cult remain as the waters are still restless.\n\n Size: 410 x 350\n Lairs: 2x Spider Lair, 2x Troll Lair\n Neutral Structures: 2x Inn. \n Map from RotWK, by Solas."
+//End
+//------------------------------------------------------------
+//	Map:maptestbrownlands8p
+//	"Brown Lands [8p]" // MAP REMOVED
+//	END
+//	Map:maptestbrownlands8p/Desc
+//	"Lands to the east of the River Anduin scorched by Sauron at the end of the Second Age. Once the lush home of the Entwives, this area has been desolate since the battles of the Last Alliance.\n Size: 500 x 500\n Lairs: 10x Goblin Lair. \n Map from RotWK"
+//	END
+//------------------------------------------------------------
+Map:mapNEWwestmarch
+"Westmarch"
+END
+Map:mapNEWwestmarch/Desc
+"A land of meadows and rises, between the Tower Hills and the Shire.\n Size: 500 x 350\n Lairs: 4x Troll Lair\n Neutral Structures: 4x Inn, 1x Signal Fire. \n Map from RotWK, edited neutral buildings."
+END
+//------------------------------------------------------------
+Map:mapNEWwildsofforochel
+"Wilds of Forochel"
+END
+Map:mapNEWwildsofforochel/Desc
+"A wild and treacherous region of Forochel scarcely inhabited by small northmen tribes.\n Map from RotWK, by TheDestroyer001."
+END
+//------------------------------------------------------------
+Map:mapSOreddesertofkhand
+"Red Desert of Khand"
+END
+Map:mapSOreddesertofkhand/Desc
+"A red desert land which lay to the south-east of Mordor and to the east of Near Harad.\n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWnanmarillion
+"Nan Marillion"
+END
+Map:mapNEWnanmarillion/Desc
+"This tropical land of flowers and rivers is protected by mystical power of the three crystals that are spread across the great valley in sacred locations. \n Map from RotWK, by Dogi96."
+END
+//------------------------------------------------------------
+Map:mapRAmoongladevale
+"Moonglade Vale"
+END
+Map:mapRAmoongladevale/Desc
+"The Elves of Middle-earth revere moonforests in adoration to Varda, creator of starlight, whom they call Elbereth. \n Size: 480 x 480 \n Lairs: 2x Troll Lair, 2x Goblin Cave. \n Map from RotWK, by TheRanger. \n Time of the day changed to Morning, originally Night"
+END
+//------------------------------------------------------------
+//Map:mapNEWanfalasii
+//"Anfalas II"
+//END
+//Map:mapNEWanfalasii/Desc
+//"The western coastal section of Gondor populated by small villages of herdsmen and fishermen.\n\n Size: 360 x 390\n Lairs: 2x Troll Lair, 2x Barrow Wight Lair\n Neutral Structures: 1x Inn, 1x Signal Fire. \n Map from RotWK, by Mako."
+//END
+//------------------------------------------------------------
+Map:mapRAgreenleafforest
+"Greenleaf Forest"
+END
+Map:mapRAgreenleafforest/Desc
+"After the fall of Sauron in the Third Age, Mirkwood was cleansed and became Eryn Lasgalen, a fair forest once again. \n Size: 425 x 410 \n Lairs: 5x Spider Lair \n Neutral Structures: 2x Inn, 1x Signal Fire. \n Map from RotWK, by TheRanger."
+END
+//------------------------------------------------------------
+Map:mapRAhitherlandsofkhand2v2
+"Hither Lands of Khand"
+END
+Map:mapRAhitherlandsofkhand2v2/Desc
+"The desert waste provides relief and sanctuary in its pools of fresh water. \n Size: 465 x 430 \n Lairs: 2x Goblin Lair, 4x Troll lair \n Neutral Structures: 2x Inn. \n Map from RotWK, by TheRanger."
+END
+//------------------------------------------------------------
+Map:mapSOjunglesoffarharad
+"Jungles of Far Harad"
+END
+Map:mapSOjunglesoffarharad/Desc
+"This region in the very south of Far Harad is densely forested with tropical trees and bushes and supplied with water by rivers flowing out into the Great Sea. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapJKtowerhillsiii
+"Tower Hills II"
+End
+Map:mapJKtowerhillsiii/desc
+"These hills are the home of the ancient Elven towers that held the Elendil Stone, the last of the Palantiri of the North. \n Map from RotWK, by Mako."
+End
+//------------------------------------------------------------
+//	Map:mapNEWdesertofrhun
+//	"Desert Of Rhun" //removed
+//	End
+//	Map:mapNEWdesertofrhun/desc
+//	"A vast desert lying to the south-east of Rhun. Many unprepared travellers lose their way attempting to traverse this rugged region. \n\n Size: 550 x 550\n Lairs: 6x Goblin Lair\n Neutral Structures: 2x Outpost, 2x Inn, 2x Signal Fire. \n Map from RotWK, by Solas."
+//	End
+//------------------------------------------------------------
+Map:mapMOamonhen
+"Amon Hen"
+END
+Map:mapMOamonhen/Desc
+"Amon Hen was the westernmost of the three peaks at the southern end of Nen Hithoel. \n Map by Motoma, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapNEWtournamentemynarnen
+"Emyn Arnen II"
+END
+Map:mapNEWtournamentemynarnen/Desc
+"Emyn Arnen means "Hills Beside the Water" in Sindarin, refering to the Great Anduin river.\n Located in Ithilien in the south of Osgiliath bordering the Mountains of Shadow.\n Map by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapJKforlindonhills
+"Forlindon Hills"
+END
+Map:mapJKforlindonhills/Desc
+"The region of Forlindon was inhabited by Elves and were the chief part of Gil-galad's kingdom, surrounded by the Blue Mountains and the Great Sea.\n Map by Jokuc."
+END
+//------------------------------------------------------------
+Map:mapJKtowerhills
+"Tower Hills"
+END
+Map:mapJKtowerhills/Desc
+"With a layout similar to Fords of Isen and the skin of Tower Hills, this 1v1 map is made to provide a mix of fun elements and balanced gameplay. \n Turn off ring heroes for tournament mode. \n Map by Jokuc."
+END
+//------------------------------------------------------------
+Map:mapMAudunii
+"Udun [6p]"
+END
+Map:mapMAudunii/Desc
+"The lands behind the Black Gate known as Udun take the name of the underworld due to the volcanic ash and noxious fumes that cover them.\n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+Map:mapMAmountgram
+"Mount Gram"
+End
+Map:mapMAmountgram/desc
+"The mountain was long inhabited by a group of Orcs led by Golfimbul. They terrorized some of the inhabitants of eastern Eriador including those of the Shire. \n Map from by Mako, edited by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapMOeastfold
+"Eastfold"
+END
+Map:mapMOeastfold/Desc
+"The Eastfold was a region of Rohan which bordered with the Westfold via the Snowbourn River on the west and bordered with Anorien in Gondor to the east. \n Map by Motoma."
+END
+//------------------------------------------------------------
+Map:mapSOsakuraforestII
+"Sakura Forest II"
+END
+Map:mapSOsakuraforestII/Desc
+"These sacred forests north of the Sea of Rhun are home to the rare Sakura trees. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWriverlangwell
+"River Langwell"
+END
+Map:mapNEWriverlangwell/Desc
+"The Langwell was one of the rivers of Rhovanion that flowed east from the Misty Mountains into the Anduin. The height of the river depends on the season of the year. Over time the water level rises and falls. \n Map from RotWK, by lrdkcki, edited by Mako."
+END
+//------------------------------------------------------------
+Map:MapSBBrithombar
+"Brithombar"
+END
+Map:MapSBBrithombar/Desc
+"A fertile bay in the western Beleriand. As all other regions in Beleriand except Ered Luin and Lindon, it sank at the end of the First Age. \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBColdfells
+"Coldfells"
+END
+Map:MapSBColdfells/Desc
+"Once part of the kingdom of Rhudaur, these hills are now wild and dangerous. Many trolls lurk in these places, which have once killed Arador, Chieftain of the Dunedain. \n Lairs: Troll x5 \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBCrossroads
+"The Crossroads"
+END
+Map:MapSBCrossroads/Desc
+"The Crossroads of Ithilien is a point where the road that leads to the Black Gate meets with the road that leads to Minas Tirith. Frodo and Sam passed by the Crossroads on their way to Cirith Ungol.\n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBDagorladMirkwoodSkin
+"Dagorlad - Mirkwood skin"
+END
+Map:MapSBDagorladMirkwoodSkin/Desc
+"Same map as Dagorlad but with Mirkwood skin, added river and replaced drake lairs with troll lairs. \n Map by SilverBane` "
+END
+//------------------------------------------------------------
+Map:MapSBFordsofCalenduin
+"Fords of Calenduin"
+END
+Map:MapSBFordsofCalenduin/Desc
+"Far to the south, in the jungles of Far Harad, the Green River makes its way towards the Great Sea. Reskin by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBFrozenRift
+"Frozen Rift" // The
+End
+Map:MapSBFrozenRift/Desc
+"This breathtaking-cold rift can be found in the frozen wastes of the North, close to the Ice Bay of Forochel. The Lossoth are amongst the few who dare brave these frozen lands. \n Map by SilverBane` \n Neutral Structures: Signal Fire x1 \n Lairs: Troll x2, Goblin x2"
+END
+//------------------------------------------------------------
+Map:MapSBLune
+"Lune"
+END
+Map:MapSBLune/Desc
+"The river Lune is a river of north-western Eriador. The Grey Havens lie at the mouth of this river. \n Creeps: Wargs x2, Trolls x2 \n Neutral structures: Inn x2 \n Map by SilverBane`"
+End
+//------------------------------------------------------------
+Map:MapSBSeaofnurnen
+"Sea of Nurnen"
+End
+Map:MapSBSeaofnurnen/Desc
+"The lands around the Sea of Nurnen are lush and thriving. It is here, far from the smokes of Orodruin, where countless men work the fields for the armies of the Dark Lord. \n Lairs: Warg x2, Wight x2 \n Neutral Structures: Signal fire x2, Inn x2 \n Map by SilverBane`"
+End
+//------------------------------------------------------------
+Map:MapSBSeaofNurnenII
+"Sea of Nurnen II"
+END
+Map:MapSBSeaofNurnenII/Desc
+"The lands around the Sea of Nurnen are lush and thriving. It is here, far from the smokes of Orodruin, where countless men work the fields for the armies of the Dark Lord. \n Lairs: Warg x2 \n Neutral Structures: Inn x2 \n Map by SilverBane`"
+End
+//------------------------------------------------------------
+Map:MapSBSirannon
+"Sirannon"
+End
+Map:MapSBSirannon/Desc
+"This once tumultuous river flows from the Gates of Durin to Ost-in-Edhil, the ruined elf city of Eregion.\n Now all that's left is a foul lake and but a thread of water from the once rich Stair Fall. \n Lairs:2x Warg, 2x Troll \n Neutral Structures: 1x Inn \n Map by SilverBane` "
+END
+//------------------------------------------------------------
+Map:MapSBTournamentBree
+"Tournament Bree"
+END
+Map:MapSBTournamentBree/Desc
+"The prancing pony inn, once captured, will generate money and allow creation of unique units. \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBTournamentUdunIV
+"Udun: 4th Age" //A. IV
+END
+Map:MapSBTournamentUdunIV/Desc
+"After the defeat of Sauron, Udun became once again a fertile valley. \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBTournamentWeatherHills
+"Tournament Weather Hills"
+END
+Map:MapSBTournamentWeatherHills/Desc
+"Middle players can now fight.\n Map by Silverbane, edited by Val."
+END
+//------------------------------------------------------------
+Map:MapSBTrollshaws
+"Trollshaws"
+END
+Map:MapSBTrollshaws/Desc
+"Untamed lands that are difficult to pass through. The Last Homely House can be found east of these lands.  \n Lairs: Troll x2 \n Neutral Structures: Signal fire x2, Inn x1 \n Map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:MapSBUpperAnduin
+"Upper Anduin"
+END
+Map:MapSBUpperAnduin/Desc
+"The Anduin flows from northern reaches of Middle-Earth to the bay of Belfalas, far to the south. The ancestors of the Rohirrims lived near the springs of the Great River. \n Creeps: 4x Warg, 1x Troll \n Neutral structures: 1x Inn \n Map by SilverBane`"
+End
+//------------------------------------------------------------
+Map:mapMPAdornRiver
+"Adorn River"
+END
+Map:mapMPAdornRiver/Desc
+"The river Adorn occurs in Middle-earth between the White Mountains (Ered Nimrais) and the western part of Rohan. \n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:Forochel
+"Forochel II"
+END
+Map:Forochel/Desc
+"Frozen wastelands in northern Middle-earth. The ancient stronghold of Morgoth, Utumno, was located here. \n Map from RotWK, by Lazarus."
+END
+//------------------------------------------------------------
+Map:GoldenGrove
+"Golden Grove"
+END
+Map:GoldenGrove/Desc
+"Bilbo's old camping grounds"
+END
+//------------------------------------------------------------
+Map:GreenfrogPass
+"Greenfrog Pass"
+END
+Map:GreenfrogPass/Desc
+"A green lushful land divided by a central river."
+END
+//------------------------------------------------------------
+Map:Himling
+"Himling"
+END
+Map:Himling/Desc
+"An icy land with a central mountain."
+END
+//------------------------------------------------------------
+//	Map:LanthirLamath
+//	"Lanthir Lamath"
+//	END
+//	Map:LanthirLamath/Desc
+//	"Lanthir Lamath was a sparkling and beautiful waterfall in Ossiriand at the foot of the southern range of the Blue Mountains (Ered Luin).\n It was part of a stream of the river Adurant. \n Map from RotWK, by Pegular, edited by Mako"
+//	END
+//------------------------------------------------------------
+//	Map:mapmpamonamarth
+//	"Amon Amarth" //Removed
+//	END
+//	Map:mapmpamonamarth/Desc
+//	"Amon Amarth, the mountain of fate, is located deep within Mordor. It is also known as Mount Doom. \n Map from RotWK, by Mako."
+//	END
+//------------------------------------------------------------
+//	Map:mapmpazanulbizarvalley
+//	"Azanulbizar Valley" //Removed
+//	END
+//	Map:mapmpazanulbizarvalley/Desc
+//	"A great valley lying between the foothills of the mountains around the lake of Kheled-zaram. The final battle of the War of the Dwarves and Orcs took place here. \n Map from RotWK, by Mako."
+//	END
+//------------------------------------------------------------
+Map:MAPMPBrandybuck
+"BrandyBuck"
+END
+Map:MAPMPBrandybuck/Desc
+"In J. R. R. Tolkien's fictional universe of Middle-earth, the Brandybuck clan was a powerful Hobbit family. The family began as the Oldbuck clan, who named themselves such apparently after Bucca of the Marish. \n Map by Val`."
+END
+//------------------------------------------------------------
+Map:mapETwestemnetII
+"Ovestemnet II"
+END
+Map:mapETwestemnetII/Desc
+"Verdi praterie di Rohan, situate fra i fiumi Entalluvio e Isen. \n Map by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapmpWestfoldII
+"Westfold II"
+END
+Map:mapmpWestfoldII/Desc
+"A rocky, lightly wooded land in the western region of Rohan. \n Map from BFME1, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:TheIvyBush
+"The Ivy Bush"
+END
+Map:TheIvyBush/Desc
+"Map named in honor of The Ivy Bush. A small inn on the Bywater road in the Shire. Here Gaffer Gamgee recounted to the visitors his stories about Bilbo and Frodo Baggins."
+END
+//------------------------------------------------------------
+Map:RohanII
+"Rohan II"
+END
+Map:RohanII/Desc
+"A great kingdom in Middle-earth ruled by King Theoden. It is the home of the Rohirrim, the finest horsemen of Middle-earth. \n Map from BfME1, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:OsgiliathII
+"Osgiliath III"
+END
+Map:OsgiliathII/Desc
+"This Gondor city is the last line of defense between Mordor and Minas Tirith. The Anduin River runs through the center of the city. \n Edition by Ecthelion, a balanced merge of BfME1 and BfME2 versions."
+END
+//------------------------------------------------------------
+Map:oldforestII
+"Old Forest II"
+END
+Map:oldforestII/Desc
+"Treebeard's birthplace"
+END
+//------------------------------------------------------------
+Map:MountDoomII
+"Mount Doom II "
+END
+Map:MountDoomII/Desc
+"In this volcano, the One Ring was forged by Sauron. Here the One Ring was eventually destroyed by the hobbit Frodo Baggins."
+END
+//------------------------------------------------------------
+Map:mapmpwesterngondor
+"Western Gondor"
+END
+Map:mapmpwesterngondor/Desc
+"A coastal region in the western part of Gondor. \n Map from RotWK, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmptyrngorthad
+"Tyrn Gorthad"
+END
+Map:mapmptyrngorthad/Desc
+"Better known as the Barrow-downs, the ancient burial grounds of the kings of Arnor were corrupted with evil spirits by the Witch-king. Map from RotWK, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapmptournamentudunII
+"Udun II - Shadow of Mordor" // - Val's
+END
+Map:mapmptournamentudunII/Desc
+"Recolour inspired by the fertile design of the Black Land in The Shadow of Mordor.\n Turn off ring heroes for tournament mode. \n Map by Val."
+END
+//------------------------------------------------------------
+Map:mapmptournamentrohan
+"Plains of Rohan"
+END
+Map:mapmptournamentrohan/Desc
+"Between the Gap of Rohan and the borders of Gondor lie the vast plains of the Riddermark, home to the great horse-lords of Middle-earth. \n Map from RotWK, by Thoon. \n Edited for BfME2 by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapmptournamentbt2dc
+"Tournament Anorien"
+END
+Map:mapmptournamentbt2dc/Desc
+"A small yet open forest battlefield close to Gondor's border with Rohan. \n Map from RotWK, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapmpthewold
+"The Wold"
+END
+Map:mapmpthewold/Desc
+"The Wold was the northernmost and least populated part of Rohan. It is a grassy upland plain lying between Fangorn Forest and the Anduin, bordered to the north by the Limlight. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOstaddle
+"Staddle"
+END
+Map:mapSOstaddle/Desc
+"Staddle was a village in Bree Land, located on the southeastern side of Bree-hill. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOsouthdowns
+"South Downs"
+END
+Map:mapSOsouthdowns/Desc
+"Walking along the East-West Road from Bree to the Weather Hills, one could see the Downs to the south. The Greenway, running through the Andrath, separated the South Downs from the Barrow-downs. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapSOdruadanforest
+"Druadan Forest"
+END
+Map:mapSOdruadanforest/Desc
+"The Druadan Forest is a pine forest in Gondor, located in Anorien, north of Minas Tirith. The forest is home to mysterious folk known as the Druedain, the Wild Men of the Woods. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmpshire4p
+"Shire"
+END
+Map:mapmpshire4p/Desc
+"A green, peaceful land. Home of the Hobbits of Middle-earth. \n Map by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapmpringloriver
+"Ringlo River"
+END
+Map:mapmpringloriver/Desc
+"A winding river in the central regions of Gondor which served as the boundary between Anfalas to the west and Belfalas to the east. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmppelennorfields
+"Pelennor Fields"
+END
+Map:mapmppelennorfields/Desc
+"The Battle of the Pelennor Fields was a battle for the city of Minas Tirith, and ultimately for Gondor. It was the greatest battle of the War of the Ring, and indeed the largest of the entire Third Age. \n Map from RotWK, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmpoldforest
+"Old Forest"
+END
+Map:mapmpoldforest/Desc
+"Standing between the borders of Buckland and Breeland, The Old Forest hides great mystery and danger beneath its dark canopy. \n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:mapmpnevrast4p
+"Nevrast"
+END
+Map:mapmpnevrast4p/Desc
+"A sheltered land on the west coast of Middle-earth, located between Hithlum to the north northeast and West Beleriand to the south."
+END
+//------------------------------------------------------------
+Map:mapmpnevrast8p
+"Nevrast II"
+END
+Map:mapmpnevrast8p/Desc
+"A sheltered land on the west coast of Middle-earth, located between Hithlum to the north northeast and West Beleriand to the south."
+END
+//------------------------------------------------------------
+Map:mapmpnearharad
+"Harad II"
+END
+Map:mapmpnearharad/Desc
+"A barren, desert land that lies south of Mordor. It is the homeland of the Haradrim warriors.\n Map version from BfME1, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapSOmorthondvalleyii
+"Morthond Valley II"
+END
+Map:mapSOmorthondvalleyii/Desc
+"The Morthond was one of the seven rivers of Gondor. Aragorn, Gimli, Legolas, the Grey Company, and the Army of the Dead exited from the Paths of the Dead alongside it. \n Map from RotWK by Solas, edited by Ecthelion."
+END
+//------------------------------------------------------------
+Map:mapmpmithrilhillsii
+"Mithril Hills" // aka Iron Hills II
+END
+Map:mapmpmithrilhillsii/Desc
+"A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water.\n\n Size: 600 x 535\n Lairs: 7x Spider Lair\n Neutral Structures: 1x Outpost, 1x Inn, 1x Signal Fire, 2x Fortress. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmplorienplateau
+"Lorien Plateau"
+END
+Map:mapmplorienplateau/Desc
+"An area of highland in the Woods of Lothlorien, the fairest forest realm of the Elves remaining in Middle-earth. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapmpithilienhills
+"Ithilien Hills"
+END
+Map:mapmpithilienhills/Desc
+"A small range of hills in the center of Ithilien, the easternmost province of Gondor. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapNEWhollinII
+"Hollin II"
+END
+Map:mapNEWhollinII/Desc
+"Hollin was once home to the famed Elvish jewel-smiths of Eregion, the forgers of the great rings of power. But now the ruins of their great cities stand in silence among the stones. \n Map from RotWK, by Dogi9696, edited by Ecthelion. Originally created by Thoon."
+END
+//------------------------------------------------------------
+Map:mapmphobbiton
+"Hobbiton"
+END
+Map:mapmphobbiton/Desc
+"An old village in the central part of the Shire. It is the home of many illustrious Hobbits. \n Map from RotWK, by Lazarus."
+END
+//------------------------------------------------------------
+Map:mapmpharadoasis
+"Harad Oasis"
+END
+Map:mapmpharadoasis/Desc
+"A region deep within Harad where precious pools of water can be found. \n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+Map:mapmpfarharad
+"Far Harad"
+END
+Map:mapmpfarharad/Desc
+"Deep in southern Middle-earth, the region of Far Harad is the homeland of the wild Haradrim, loyal servants of Sauron. \n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:mapmperynlaer
+"Lothlorien: Eryn Laer"
+END
+Map:mapmperynlaer/Desc
+"The tall trees of Eryn Laer, the Woods of Song, stand deep in the realm of Lothlorien, the heart of Elvendom in Middle-earth.\n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:mapmperegion
+"Eregion"
+END
+Map:mapmperegion/Desc
+"Eregion, also known as Hollin, was a kingdom of the Noldorin Elves in Eriador during the Second Age, located near the West Gate of Moria under the shadow of the Hithaeglir (Misty Mountains).\n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+Map:mapmperech
+"Erech"
+END
+Map:mapmperech/Desc
+"An ancient site at the feet of the White Mountains in Gondor.  Erech was most famous for a huge Stone, said to have fallen from heaven, though, in fact, brought to Middle-earth by Isildur.\n Map from RotWK."
+END
+//------------------------------------------------------------
+Map:mapmpbuckland6p
+"Buckland II"
+END
+Map:mapmpbuckland6p/Desc
+"Come down to Buckland bra. \n The Eastern border of the Shire was home of Merry Brandybuck.\n Size: 330 x 360\n Lairs: 4x Barrow Wight Lair, 2x Troll Lair\n Neutral Structures: 2x Outpost, 2x Signal Fire. \n Map from RotWK, by Lazarus."
+END
+//------------------------------------------------------------
+//	Map:Ankh-Morpork
+//	"Ankh Morpork" // removed
+//	END
+//	Map:Ankh-Morpork/Desc
+//	"A rather hedonistic city which infamously burnt down centuries ago, the smoldering ruins of Ankh-Morpork are now an extension of the Mountain Trolls domains, originally from northwest of the Wye river."
+//	END
+//------------------------------------------------------------
+Map:BlackGateII
+"Black Gate II"
+END
+Map:BlackGateII/Desc
+"The northern entrance to the lands of Mordor and the site of the final stand-off between good and evil.\n Map from BfME1."
+END
+//------------------------------------------------------------
+Map:DeadMarshesII
+"Dead Marshes II"
+END
+Map:DeadMarshesII/Desc
+"A haunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mount Doom. \n Map from BfME1."
+END
+//------------------------------------------------------------
+Map:EnedwaithII
+"Enedwaith II"
+END
+Map:EnedwaithII/Desc
+"A wide, open land that lies to the west of Rohan. \n Map from BfME1."
+END
+//------------------------------------------------------------
+//	Map:mapmptwilitshores
+//	"Twilit Shores"
+//	END
+//	Map:mapmptwilitshores/Desc
+//	"Lost in the seas of Tol Eressea, the Twilit isles have been said to be nearly unnavigable by mortal men. \n Map from RotWK."
+//	END
+//------------------------------------------------------------
+Map:RhunII
+"Rhun II"
+END
+Map:RhunII/Desc
+"The mysterious eastern lands of Middle-earth, around the Sea of Rhun. \n Map from BfME1."
+END
+//------------------------------------------------------------
+// There's a typo in name actually, should be Lebennin
+Map:MAPMPLebenin
+"Lebennin III"
+END
+Map:MAPMPLebenin/Desc
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Map from BfME1, edited by Val`" //Lebennin III is an edited edition to fix red build plots. Signal Fires added east/west. \n Edited by Val`
+END
+//------------------------------------------------------------
+// This one does get translated in at least one more lenguage
+Map:mapmpfordsoflimlight
+"Fords of Limlight"
+END
+Map:mapmpfordsoflimlight/Desc
+"As a recolour of the popular Fords of Isen, the famous fair-matching map, the theme here is of the great and gigantic forests that once covered all of Middle-earth. \n Made for 1.09 with love from Val"
+END
+//------------------------------------------------------------
+// This one does get translated in at least one more lenguage
+Map:mapETfordsofanduin
+"Fords of Anduin"
+END
+Map:mapETfordsofanduin/Desc
+"Reskin of the popular 1v1 map, Fords of Isen II. Design based on Amon Hen, Argonath and surrounding areas of the Anduin. \n Map by Ecthelion and SilverBane."
+END
+//------------------------------------------------------------
+
+// String file for Lord of the Rings
+
+// comment: DO NOT TRANSLATE
 LETTER:G
 "G"
 END
@@ -4155,15 +5806,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09"
+"1.09v2"
 END
 
 Version:Format3
-"1.09"
+"1.09v2"
 END
 
 Version:Format2
-"1.09"
+"1.09v2"
 END
 
 Version:BuildTime
@@ -7075,7 +8726,7 @@ CONTROLBAR:ToolTipRaiseShield
 END
 
 CONTROLBAR:Evacuate
-"Evacua"
+"Evacua [&T)"
 END
 
 CONTROLBAR:ExecuteRailedTransport
@@ -13499,7 +15150,7 @@ CONTROLBAR:ElvenWood
 END
 
 CONTROLBAR:ToolTipElvenWood
-"Crea bosco\nTutte le unità alleate guadagnano +50% corazza.\nNon ha effetto sugli Eroi.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+"Crea bosco\nTutte le unità alleate guadagnano +35% corazza.\nNon ha effetto sugli Eroi.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
 END
 
 CONTROLBAR:SummonEntAllies
@@ -14274,7 +15925,7 @@ CONTROLBAR:ConstructMordorCatapult
 END
 
 CONTROLBAR:ConstructMordorGrond
-"Grond"
+"&Grond"
 END
 
 CONTROLBAR:ConstructMordorBannerOrc
@@ -14814,7 +16465,7 @@ CONTROLBAR:TooltipScreechBlackRider
 END
 
 CONTROLBAR:TooltipScreechWitchKing
-"Richiede livello 6.\nFa fuggire le unità nemiche in preda al terrore.\nClicca con il pulsante sinistro per attivare."
+"Richiede livello 4.\nFa fuggire le unità nemiche in preda al terrore.\nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:NarsilAttack
@@ -14906,7 +16557,7 @@ CONTROLBAR:ToolTipWitchKingLeadership
 END
 
 CONTROLBAR:ToolTipInspiringPresence
-"Gli alleati vicini a Tom Bombadil ottengono +25% danno, +25% corazza e\naccumulano esperienza con +50% velocità. \nSempre cumulativa. \n\nAbilità passiva."
+"Gli alleati vicini a Tom Bombadil ottengono +25% corazza e\naccumulano esperienza con +25% velocità. \nSempre cumulativa. \n\nAbilità passiva."
 END
 
 CONTROLBAR:DwarvenGrudge
@@ -14922,7 +16573,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:ToolTipLurtzPillage
-"Richiede livello 6.\nDepreda i corpi dei nemici caduti e ottieni risorse.\nAbilità passiva."
+"Richiede livello 7.\nDepreda i corpi dei nemici caduti e ottieni risorse.\nAbilità passiva."
 END
 
 CONTROLBAR:OutlawLeadership
@@ -15138,7 +16789,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:PhialofGaladriel
-"Fiala di Galadriel (&P)"
+"Fiala di Galadriel (&T)"
 END
 
 CONTROLBAR:ToolTipPhialofGaladriel
@@ -15199,7 +16850,7 @@ CONTROLBAR:ToolTipWoundingArrow
 END
 
 CONTROLBAR:ToolTipCaptainofGondor
-"Richiede livello 7.\nLe unità scelte come bersaglio ottengono esperienza.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+"Richiede livello 5.\nLe unità scelte come bersaglio ottengono esperienza.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
 END
 
 CONTROLBAR:FaramirWarSpeech
@@ -15243,7 +16894,7 @@ CONTROLBAR:ToggleLooseFormation
 END
 
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
-"-30% velocità\n+20% corazza \n 25% resistenza alle frecce"
+"-30% Speed, +20% Armor \n and +25% extra arrow resistance. \n Loses -7% damage."
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
@@ -15291,7 +16942,7 @@ CONTROLBAR:ToolTipDisguise
 END
 
 CONTROLBAR:ToolTipShieldMaiden
-"Richiede livello 5.\nÉowyn ottiene corazza +65%. \n Riduce la decelerazione dei Rohirrim alleati \n Cancella il travestimento \nClicca con il pulsante sinistro per attivare."
+"Richiede livello 5.\nÉowyn ottiene corazza +35%. \n Riduce la decelerazione dei Rohirrim alleati \n Cancella il travestimento \nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:ToggleTrebWeapon
@@ -16443,7 +18094,7 @@ GUI:UPGRADE_DISCOUNT
 END
 
 GUI:STRUCTURE_WALL_DISCOUNT
-"Bonus struttura/mura -%d%%"
+"Bonus: \n Strutturas/muri -%d%%"
 END
 
 GUI:GondorFighterHordeGondorArcherHordeGondorTowerShieldGuardHordeGondorRangerHordeDiscount
@@ -16467,7 +18118,7 @@ GUI:Slaughter_Discount
 END
 
 GUI:Corsair_Discount
-"Sconto corsaro - %d%%"
+"Sconto: \n Corsari - %d%%"
 END
 
 APT:YourArmy
@@ -20707,7 +22358,7 @@ Map:MAPMPTournamentMP1/Desc
 END
 
 Map:MAPMPAnfalas/Desc
-"Un'estesa regione costiera di Gondor, situata al di sopra della Baia di Belfalas.\nPosizioni iniziali: accampamenti\nPunti di espansione: 7\nInsediamenti: 12\nTane: Troll\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"Un'estesa regione costiera di Gondor, situata al di sopra della Baia di Belfalas."
 END
 
 Map:MAPMPAnorien/Desc
@@ -20719,11 +22370,11 @@ Map:MAPMPBelfalas/Desc
 END
 
 Map:MAPMPBlackGate/Desc
-"L'accesso settentrionale alle terre di Mordor, luogo dove si svolge lo scontro finale fra il bene e il male.\nPosizioni iniziali: accampamenti\nPunti di espansione: 2\nInsediamenti: 6\nTane: nessuna"
+"L'accesso settentrionale alle terre di Mordor, luogo dove si svolge lo scontro finale fra il bene e il male."
 END
 
 Map:MAPMPCairAndros/Desc
-"Un'antica isola fortificata di Gondor sul fiume Anduin, a nord della città di Osgiliath.\nPosizioni iniziali: castelli\nPunti di espansione: 4\nInsediamenti: 9\nTane: Troll e Warg"
+"Un'antica isola fortificata di Gondor sul fiume Anduin, a nord della città di Osgiliath."
 END
 
 Map:MAPMPCentralIthilien/Desc
@@ -20731,7 +22382,7 @@ Map:MAPMPCentralIthilien/Desc
 END
 
 Map:MAPMPCrossroads/Desc
-"Il luogo dove l'antica strada di Gondor per Minas Morgul attraversa la strada di Harad.\nPosizioni iniziali: castelli\nPunti di espansione: 6\nInsediamenti: 10\nTane: Goblin"
+"Il luogo dove l'antica strada di Gondor per Minas Morgul attraversa la strada di Harad."
 END
 
 Map:MAPMPDagorlad/Desc
@@ -20739,7 +22390,7 @@ Map:MAPMPDagorlad/Desc
 END
 
 Map:MAPMPDeadMarshes/Desc
-"La palude maledetta, all'esterno dei confini di Mordor. Gollum ha guidato Frodo e Sam attraverso queste terre, nel viaggio verso Monte Fato.\nPosizioni iniziali: accampamenti\nPunti di espansione: 4\nInsediamenti: 14\nTane: Goblin\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"La palude maledetta, all'esterno dei confini di Mordor. Gollum ha guidato Frodo e Sam attraverso queste terre, nel viaggio verso Monte Fato."
 END
 
 Map:MAPMPDruadanForest/Desc
@@ -20751,11 +22402,11 @@ Map:MAPMPDunharrow/Desc
 END
 
 Map:MAPMPEastEmnet/Desc
-"Pianure orientali di Rohan, punteggiate da insediamenti nomadi e fattorie.\nPosizioni iniziali: castelli\nPunti di espansione: 4\nInsediamenti: 8\nTane: Troll e Warg"
+"Pianure orientali di Rohan, punteggiate da insediamenti nomadi e fattorie."
 END
 
 Map:MAPMPEastRohan/Desc
-"Un lussureggiante territorio nella zona orientale di Rohan, attraversato dal fiume Entalluvio.\nPosizioni iniziali: castelli\nPunti di espansione: 2\nInsediamenti: 6\nTane: Warg"
+"Un lussureggiante territorio nella zona orientale di Rohan, attraversato dal fiume Entalluvio."
 END
 
 Map:MAPMPEastfold/Desc
@@ -20775,19 +22426,19 @@ Map:MAPMPEmynMuil/Desc
 END
 
 Map:MAPMPEnedwaith/Desc
-"Una terra ampia e aperta, che si estende a ovest di Rohan.\nPosizioni iniziali: avamposti\nPunti di espansione: 8\nInsediamenti: 16\nTane: Troll e Goblin\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"Una terra ampia e aperta, che si estende a ovest di Rohan."
 END
 
 Map:MAPMPFangorn/Desc
-"Un'antica e misteriosa foresta, dimora di Barbalbero e degli Ent.\nPosizioni iniziali: castelli\nPunti di espansione: 4\nInsediamenti: 10\nTane: Troll e Goblin"
+"Un'antica e misteriosa foresta, dimora di Barbalbero e degli Ent."
 END
 
 Map:MAPMPFordsofIsen/Desc
-"Il guado del fiume Isen, situato nei pressi di Isengard.\nPosizioni iniziali: castelli\nPunti di espansione: 2\nInsediamenti: 8\nTane: Warg"
+"Il guado del fiume Isen, situato nei pressi di Isengard."
 END
 
 Map:MAPMPGapofRohan/Desc
-"L'unico passo facilmente accessibile fra le Montagne Nebbiose e i Monti Bianchi.\nPosizioni iniziali: castelli\nPunti di espansione: 6\nInsediamenti: 12\nTane: Troll e Goblin"
+"L'unico passo facilmente accessibile fra le Montagne Nebbiose e i Monti Bianchi."
 END
 
 Map:MAPMPHalifirien/Desc
@@ -20795,15 +22446,15 @@ Map:MAPMPHalifirien/Desc
 END
 
 Map:MAPMPHarlond/Desc
-"I porti e i moli di Minas Tirith, dove Aragorn e l'Esercito dei Morti sono sbarcati durante la battaglia di Minas Tirith.\nPosizioni iniziali: castelli\nPunti di espansione: 1\nInsediamenti: 8\nTane: Warg e Goblin"
+"I porti e i moli di Minas Tirith, dove Aragorn e l'Esercito dei Morti sono sbarcati durante la battaglia di Minas Tirith."
 END
 
 Map:MAPMPHarondor/Desc
-"Colline ricoperte di rocce e sabbia, situate a ovest di Harad e a sud di Gondor.\nPosizioni iniziali: accampamenti\nPunti di espansione: 8\nInsediamenti: 12\nTane: Warg\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"Colline ricoperte di rocce e sabbia, situate a ovest di Harad e a sud di Gondor."
 END
 
 Map:MAPMPLebennin/Desc
-"Questa lussureggiante distesa verde, nella zona meridionale di Gondor, si trova nel punto in cui il fiume Anduin sfocia nella Baia di Belfalas.\nPosizioni iniziali: accampamenti\nPunti di espansione: 2\nInsediamenti: 12\nTane: Troll, Goblin e Warg\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"Questa lussureggiante distesa verde, nella zona meridionale di Gondor, si trova nel punto in cui il fiume Anduin sfocia nella Baia di Belfalas."
 END
 
 Map:MAPMPMirkwood/Desc
@@ -20811,7 +22462,7 @@ Map:MAPMPMirkwood/Desc
 END
 
 Map:MAPMPMtDoom/Desc
-"Sauron forgiò l'Unico Anello nei fuochi del vulcano e qui esso venne infine distrutto dall'Hobbit Frodo Baggins.\nPosizioni iniziali: castelli\nPunti di espansione: 2\nInsediamenti: 8\nTane: Troll e Goblin\nRestrizioni strutture: nessuna scala d'assedio o torre. Niente Olifanti."
+"Sauron forgiò l'Unico Anello nei fuochi del vulcano e qui esso venne infine distrutto dall'Hobbit Frodo Baggins."
 END
 
 Map:MAPMPNearHarad/Desc
@@ -20827,7 +22478,7 @@ Map:MAPMPNorthernIthilien/Desc
 END
 
 Map:MAPMPNurn/Desc
-"Le terre meridionali di Mordor, che cingono un grande mare interno.\nPosizioni iniziali: accampamenti\nPunti di espansione: 3\nInsediamenti: 8\nTane: Troll\nRestrizioni strutture: nessuna scala d'assedio o torre"
+"Le terre meridionali di Mordor, che cingono un grande mare interno."
 END
 
 Map:MAPMPBrownLands/Desc
@@ -20835,27 +22486,27 @@ Map:MAPMPBrownLands/Desc
 END
 
 Map:MAPMPOsgiliath/Desc
-"Questa città di Gondor è l'ultima linea di difesa fra Mordor e Minas Tirith. Il fiume Anduin scorre al centro della città.\nPosizioni iniziali: accampamenti\nPunti di espansione: 4\nInsediamenti: 12\nTane: Troll e Goblin\nRestrizioni strutture: nessuna scala d'assedio o torre. Niente Olifanti."
+"Questa città di Gondor è l'ultima linea di difesa fra Mordor e Minas Tirith. Il fiume Anduin scorre al centro della città."
 END
 
 Map:MAPMPPelargir/Desc
-"Un'antica città portuale di Gondor, situata alle foci dell'Anduin.\nPosizioni iniziali: castelli\nPunti di espansione: 6\nInsediamenti: 12\nTane: Goblin e Warg"
+"Un'antica città portuale di Gondor, situata alle foci dell'Anduin."
 END
 
 Map:MAPMPRhun/Desc
-"Le misteriose regioni orientali della Terra di Mezzo, intorno al Mare di Rhûn.\nPosizioni iniziali: accampamenti\nPunti di espansione: 6\nInsediamenti: 18\nTane: Troll"
+"Le misteriose regioni orientali della Terra di Mezzo, intorno al Mare di Rhûn."
 END
 
 Map:MAPMPRohan/Desc
-"Un grande reame della Terra di Mezzo, guidato da Re Thèoden. Qui vivono i Rohirrim, i migliori cavalieri di tutta la Terra di Mezzo.\nPosizioni iniziali: castelli\nPunti di espansione: 2\nInsediamenti: 6\nTane: Troll, Goblin e Warg"
+"Un grande reame della Terra di Mezzo, guidato da Re Thèoden. Qui vivono i Rohirrim, i migliori cavalieri di tutta la Terra di Mezzo."
 END
 
 Map:MAPMPSouthernIthilien/Desc
-"La fertile e boscosa regione meridionale di Gondor.\nPosizioni iniziali: castelli\nPunti di espansione: 2\nInsediamenti: 6\nTane: Goblin"
+"La fertile e boscosa regione meridionale di Gondor."
 END
 
 Map:MAPMPWestEmnet/Desc
-"Verdi praterie di Rohan, situate fra i fiumi Entalluvio e Isen.\nPosizioni iniziali: castelli\nPunti di espansione: 4\nInsediamenti: 8\nTane: Troll, Goblin e Warg"
+"Verdi praterie di Rohan, situate fra i fiumi Entalluvio e Isen."
 END
 
 Map:MAPMPWold/Desc
@@ -20863,7 +22514,7 @@ Map:MAPMPWold/Desc
 END
 
 Map:MAPMPWestfold/Desc
-"Una zona rocciosa, con radi alberi, situata nella parte occidentale di Rohan. \n\nEdited by Ecthelion"
+"Una zona rocciosa, con radi alberi, situata nella parte occidentale di Rohan."
 END
 
 Map:MAPMPSHelmsDeep/Desc
@@ -20939,7 +22590,7 @@ Map:MAPWOREttenmoors/Desc
 END
 
 Map:MAPWORFangorn/Desc
-"Una foresta oscura e misteriosa, dimora di Barbalbero e degli Ent."
+"Una foresta oscura e misteriosa, dimora di Barbalbero e degli Ent.\n Map reworked by Ecthelion."
 END
 
 Map:MAPWORForlindon/Desc
@@ -21127,7 +22778,7 @@ OBJECT:DwarvenArcheryRangeDescription
 END
 
 OBJECT:DwarvenForgeWorksDescription
-"Livello 2: +10% velocità di costruzione.\nLivello 3: +25% velocità di costruzione."
+"Livello 2: +10% velocità di costruzione.\nLivello 3: +30% velocità di costruzione."
 END
 
 OBJECT:DwarvenHearthDescription
@@ -21175,7 +22826,7 @@ OBJECT:GondorMarketPlaceDescription
 END
 
 OBJECT:GondorStatueDescription
-"Gli alleati vicino alla statua ottengono\n+50% danno, +50% corazza e\naccumulano esperienza a velocità doppia.\nNon cumulabile."
+"Gli alleati vicino alla statua ottengono\n+50% danno, +50% corazza e\naccumulano esperienza a velocità doppia.\nNon cumulabile." // obsolete
 END
 
 OBJECT:GondorWellDescription
@@ -24177,7 +25828,7 @@ END
 CONTROLBAR:ConstructDwarvenStatue
 "Costruisc&i statua eroica"
 END
-
+ // obsolete
 CONTROLBAR:TooltipConstructDwarvenStatue
 "Gli alleati vicino alla statua ottengono +50% corazza.\nAumenta di 10 il limite di punti comando."
 END
@@ -24639,7 +26290,7 @@ OBJECT:WildMineShaft
 END
 
 OBJECT:WildMineShaftDescription
-"Genera risorse in base al terreno disponibile.\nFornisce accesso alla rete delle gallerie.\nAumenta di 50 il limite di punti comando. \nLivello 2: +25% armatura extra. \nLivello 3: +25% armatura extra."
+"Genera risorse in base al terreno disponibile.\nFornisce accesso alla rete delle gallerie.\nAumenta di 50 il limite di punti comando."
 END
 
 OBJECT:WildSpiderPit
@@ -25017,7 +26668,7 @@ OBJECT:ElvenStatue
 END
 
 OBJECT:ElvenStatueDescription
-"Gli alleati vicini alla statua ottengono\n+50% danno, +50% corazza e\naccumulano esperienza a velocità doppia.\nAbilità passiva. Non cumulabile."
+"Gli alleati vicini alla statua ottengono\n+50% danno, +50% corazza e\naccumulano esperienza a velocità doppia.\nAbilità passiva. Non cumulabile." // obsolete
 END
 
 OBJECT:ElvenMirrorofGaladriel
@@ -27749,7 +29400,7 @@ CONTROLBAR:ToolTipGlorfindelWindRider
 END
 
 CONTROLBAR:WildWalk
-"Marcia selvaggia"
+"Marcia selvaggia (&W)"
 END
 
 CONTROLBAR:ToolTipThornofVengeance
@@ -27833,7 +29484,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireflight
 END
 
 CONTROLBAR:ToolTipHourOfTheWitchKing
-"Richiede livello 10.\nI contatori delle abilità speciali del nemico vengono ridotte al 60% della carica.\nClicca con il pulsante sinistro sull'icona e poi sull'area bersaglio."
+"Richiede livello 10.\nI contatori delle abilità speciali del nemico vengono azzerati subito dopo l'uso.\nClicca con il pulsante sinistro sull'icona e poi sul bersaglio."
 END
 
 CONTROLBAR:ToolTipThunderBolt
@@ -27909,7 +29560,7 @@ CONTROLBAR:BattleWagonUpgradeMenOfDale
 END
 
 CONTROLBAR:BlackArrows
-"Frecce nere (&K)"
+"Frecce nere (&T)"
 END
 
 CONTROLBAR:BlackRiderMount
@@ -27957,7 +29608,7 @@ CONTROLBAR:ConstructElvenGrove
 END
 
 CONTROLBAR:ConstructElvenHobbitShirrif
-"Hobbit"
+"Hobbit (&R)"
 END
 
 CONTROLBAR:ConstructElvenWallHub
@@ -28077,7 +29728,7 @@ CONTROLBAR:IvoryTowerVision
 END
 
 CONTROLBAR:Knife
-"Coltello"
+"Coltello (&W)"
 END
 
 CONTROLBAR:MenLongShotAbility
@@ -28113,7 +29764,7 @@ CONTROLBAR:PlanningModeDescription
 END
 
 CONTROLBAR:PoisonArrows
-"Frecce avvelenate (&P)"
+"Frecce avvelenate (&T)"
 END
 
 CONTROLBAR:PurchaseIsengardWargSentry
@@ -28163,7 +29814,7 @@ CONTROLBAR:SpecialAbilityDwarvenDemolisherDeploy
 END
 
 CONTROLBAR:SpecialAbilityGoblinFighterPoisonedBlades
-"Lame avvelenate (&P)"
+"Lame avvelenate (&W)"
 END
 
 CONTROLBAR:SpecialAbilityOilBarrels
@@ -28183,7 +29834,7 @@ CONTROLBAR:SpecialAbilityWyrmReposition
 END
 
 CONTROLBAR:ThrowFireBombs
-"Bo&mbe incendiarie"
+"Bombe incendiarie (&W)"
 END
 
 CONTROLBAR:ToggleDwarvenGuardianWeapons
@@ -28195,7 +29846,7 @@ CONTROLBAR:ToolTipActivateFireShip
 END
 
 CONTROLBAR:ToolTipBarbedArrows
-"Richiede Livello 3 \nCausa ferite da impatto e danni più gravi. \n Click sinistro sull'icona e click sinistro sul bersaglio."
+"Richiede Livello 2 \nCausa ferite da impatto e danni più gravi. \n Click sinistro sull'icona e click sinistro sul bersaglio."
 END
 
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
@@ -41030,7 +42681,7 @@ TOOLTIP:LackMightyCatapultDwarvenStonework
 "Richiede il potenziamento Scalpellino dei Nani.\nCostruisce una catapulta sulla sommità della fortezza, la quale scaglia proiettili infuocati."
 END
 
-OBJECT:ArgonathStatues"
+OBJECT:ArgonathStatues
 "Statua Argonath"
 END
 
@@ -42571,7 +44222,7 @@ CONTROLBAR:ToolTipBuildGondorFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
-"Efficace contro le strutture di raccolta risorse. \nBonus Orda: \nOrchi raccolti in numero superiore a 70. \nottengono +33% danno +20% velocità -10% resistenza alle frecce."
+"Efficace contro le strutture di raccolta risorse. \nBonus Orda: \nOrchi raccolti in numero superiore a 70. \nottengono +33% danno +20% velocità."
 END
 
 CONTROLBAR:ToolTipBuildMordorCorsairHorde
@@ -42743,7 +44394,7 @@ CONTROLBAR:PurchaseUpgradeElvenBasicTraining
 END
 
 CONTROLBAR:PurchaseUpgradeElderRacesBasicTraining
-"Acquista Portastendardo (&C)"
+"Acquista Portaste&ndardo"
 END
 
 CONTROLBAR:PurchaseUpgradeElderRacesBasicTrainingForMirkwoodArcherHorde
@@ -42771,11 +44422,11 @@ CONTROLBAR:TooltipRallyingCall
 END
 
 CONTROLBAR:TooltipDwarvenRiches
-"La produzione di risorse nella struttura selezionata aumenta temporaneamente del 300%.\nClicca con il pulsante sinistro sull'icona, quindi sulla struttura di produzione delle risorse."
+"La produzione di risorse nella struttura selezionata aumenta temporaneamente del 350%.\nClicca con il pulsante sinistro sull'icona, quindi sulla struttura di produzione delle risorse."
 END
 
 CONTROLBAR:TooltipPalantirVision
-"Spia le forze nemiche.\n\nFornisce un bonus velocità di 15% temporaneo\nalle unità nella zona bersaglio."
+"Spia le forze nemiche.\n\nFornisce un bonus velocità di 10% temporaneo\nalle unità nella zona bersaglio."
 END
 
 CONTROLBAR:TooltipFarSeeing
@@ -42795,8 +44446,9 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Cura tutti gli alleati nelle vicinanze. \n Riforma unità nelle orde ogni 6.5 secondi.\nRiduce del 5% il costo di rianimazione dell'Eroe.\nRiduce del 15% il tempo di rianimazione dell'Eroe. \nRiduce il costo di reclutamento dell'eroe del 5%."
+"Cura tutti gli alleati nelle vicinanze. \n Riforma unità nelle orde ogni 6.5 secondi.\nRiduce del 5% il costo di rianimazione dell'Eroe.\nRiduce del 15% il tempo di rianimazione dell'Eroe. \n\nAggiorna le Torri Solitarie evocate."
 END
+//\nRiduce il costo di reclutamento dell'eroe del 5%.
 
 CONTROLBAR:ToolTipPurchaseTechnologyGondorBasicTraining
 "Consente ai battaglioni di acquistare il potenziamento Portastendardo.\nRende disponibile la formazione con muro di scudi per i soldati."
@@ -42859,11 +44511,11 @@ CONTROLBAR:GloriousCharge
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
-"Gli alleati vicini a Thèoden ottengono\n+50% danno.\nAbilità passiva."
+"Gli alleati vicini a Thèoden ottengono\n+25% danno.\nAbilità passiva."
 END
 
 CONTROLBAR:ToolTipGloriousCharge
-"Richiede livello 7.\nThèoden e la cavalleria nelle vicinanze guadagnano +80% corazza, +25% danno e diventano immuni al rallentamento mentre caricano.\nThèoden deve essere a cavallo per usare l'abilità.\nClicca con il pulsante sinistro per attivare."
+"Richiede livello 7.\nThèoden e la cavalleria nelle vicinanze guadagnano +99% corazza, +25% danno e diventano immuni al rallentamento mentre caricano.\nThèoden deve essere a cavallo per usare l'abilità.\nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:Smite
@@ -42903,7 +44555,7 @@ CONTROLBAR:CaptainofGondor
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
-"Richiede livello 6.\nGli alleati vicini a Faramir ottengono\n+50% corazza.\nAbilità passiva."
+"Richiede livello 6.\nGli alleati vicini a Faramir ottengono\n+35% corazza.\nAbilità passiva."
 END
 
 CONTROLBAR:ThrowSpear
@@ -42911,7 +44563,7 @@ CONTROLBAR:ThrowSpear
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Richiede livello 3.\nLa cavalleria vicina a Éomer ottiene\n+50% corazza.\n\nAbilità passiva."
+"Richiede livello 3.\nLa cavalleria vicina a Éomer ottiene\n+35% corazza.\n\nAbilità passiva."
 END
 
 CONTROLBAR:ToolTipThrowSpear
@@ -42963,7 +44615,7 @@ CONTROLBAR:WordofPower
 END
 
 CONTROLBAR:ToolTipShadowfax
-"Richiede livello 4.\nClicca con il pulsante sinistro per\nmontare e smontare."
+"Richiede livello 3.\nClicca con il pulsante sinistro per\nmontare e smontare."
 END
 
 TOOLTIP:LackGondorBasicTraining
@@ -42975,11 +44627,11 @@ CONTROLBAR:ToolTipMenLongShotAbility
 END
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"Ricerca il potenziamento Portastendardo nella caserma per rendere disponibile questo equipaggiamento.\n+20% corazza, +25% corazza a danno perforante -30% velocità."
+"Ricerca il potenziamento Portastendardo nella caserma per rendere disponibile questo equipaggiamento.\n+25% corazza, +25% corazza a danno perforante -30% velocità."
 END
 
 CONTROLBAR:ToolTipGlorfindelStarlight
-"Richiede livello 10.\nCura le unità alleate in zona e fornisce\n+50% danno e +50% corazza.\nComando semplice, non cumulativo con altri comandi sull'armatura.\n\nClicca con il pulsante sinistro per attivare."
+"Richiede livello 8.\nCura le unità alleate in zona e fornisce\n+50% danno e +35% corazza.\nComando semplice, non cumulativo con altri comandi sull'armatura.\n\nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:ToolTipGlorfindelBladeOfPurity
@@ -43007,7 +44659,7 @@ CONTROLBAR:ToolTipMoveUnseen
 END
 
 CONTROLBAR:ToolTipElvenStatue
-"Gli alleati vicini alla statua ottengono\n+25% danno e\n+25% accumulo esperienza.\nSempre cumulativa.\nFornisce 10 punti comando bonus."
+"Gli alleati vicini alla statua ottengono\n+25% danno e\n+25% accumulo esperienza.\nSempre cumulativa.\nFornisce 10 punti comando bonus." // obsolete
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
@@ -43031,7 +44683,7 @@ CONTROLBAR:TooltipElvenGrace
 END
 
 CONTROLBAR:ToolTipPersonalFlood
-"Richiede livello 4.\nEvoca un'alluvione che danneggia i nemici e spegne gli incendi.\n Bonus contro i cavalieri neri. \nClicca con il pulsante sinistro sull'icona e poi sul bersaglio."
+"Richiede livello 5.\nEvoca un'alluvione che danneggia i nemici e spegne gli incendi.\n Bonus contro i cavalieri neri. \nClicca con il pulsante sinistro sull'icona e poi sul bersaglio."
 END
 
 CONTROLBAR:ToggleElvenWarriorWeapons
@@ -43079,7 +44731,7 @@ CONTROLBAR:ArrowWind
 END
 
 CONTROLBAR:ToolTipKnifeFighter
-"Richiede livello 4.\nClicca con il pulsante sinistro per attivare.\nAlterna l'attacco in mischia.\n+35% corazza."
+"Richiede livello 5.\nClicca con il pulsante sinistro per attivare.\nAlterna l'attacco in mischia.\n+35% corazza."
 END
 
 CONTROLBAR:ThranduilElvenCloak
@@ -43115,7 +44767,7 @@ CONTROLBAR:ElrondWhirlwind
 END
 
 CONTROLBAR:TooltipElrondWhirlwind
-"Richiede livello 5.\nEvoca un turbine distruttore sul campo di battaglia.\nClicca con il pulsante sinistro sull'icona e poi sulla zona bersaglio."
+"Richiede livello 6.\nEvoca un turbine distruttore sul campo di battaglia.\nClicca con il pulsante sinistro sull'icona e poi sulla zona bersaglio."
 END
 
 CONTROLBAR:ToolTipTreeBeardLeadership
@@ -43127,7 +44779,7 @@ CONTROLBAR:ToolTipBuildTreebeard
 END
 
 OBJECT:DwarvenStatueDescription
-"Gli alleati vicino alla statua ottengono\n+50% corazza.\nAumenta di 10 il limite di punti comando."
+"Gli alleati vicino alla statua ottengono\n+50% corazza.\nAumenta di 10 il limite di punti comando." // obsolete
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
@@ -43139,7 +44791,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
-"+25% velocità di costruzione.\nConsente la ricerca dei potenziamenti Cotta di mithril, Lame temprate e Colpo fiammeggiante.\nAggiunge torre difensiva con lanciatori d'ascia. \nGuadagna armatura: +20% verso gli eroi, picchieri e la cavalleria."
+"+30% velocità di costruzione.\nConsente la ricerca dei potenziamenti Cotta di mithril, Lame temprate e Colpo fiammeggiante.\nAggiunge torre difensiva con lanciatori d'ascia. \nGuadagna armatura: +20% verso gli eroi, picchieri e la cavalleria."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
@@ -43155,7 +44807,7 @@ CONTROLBAR:ToolTipBlackArrows
 END
 
 OBJECT:DwarvenHeroicStatueDescription
-"Gli alleati vicino alla statua ottengono\n+50% corazza.\n\nAumenta di 10 il limite di punti comando."
+"Gli alleati vicino alla statua ottengono\n+35% corazza.\n\nAumenta di 10 il limite di punti comando."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
@@ -43211,7 +44863,7 @@ CONTROLBAR:Slayer
 END
 
 CONTROLBAR:ToolTipGimliLeadership
-"Gli alleati vicino a Gimli ottengono\n+50% corazza.\n\nAbilità passiva."
+"Gli alleati vicino a Gimli ottengono\n+35% corazza.\n\nAbilità passiva."
 END
 
 CONTROLBAR:ToolTipAxeThrow
@@ -43271,11 +44923,11 @@ CONTROLBAR:ToolTipDevastation
 END
 
 CONTROLBAR:ToolTipTaint
-"Contamina una porzione di terreno.\nTutte le unità alleate guadagnano +50% corazza.\nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
+"Contamina una porzione di terreno.\nTutte le unità alleate guadagnano +35% corazza.\nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
 END
 
 CONTROLBAR:ToolTipEyeofSauron
-"Evoca l'Occhio di Sauron.\nRivela i nemici mimetizzati.\nGli alleati ottengono +25% danno, +25% corazza e accumulano esperienza il 25% più velocemente.\n Comando di tipo semplice, sempre cumulativo. \nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
+"Evoca l'Occhio di Sauron.\nRivela i nemici mimetizzati.\nGli alleati ottengono +25% danno, +25% corazza e accumulano esperienza il 50% più velocemente.\n Sempre cumulativo. \nClicca con il pulsante sinistro sull'icona, quindi sulla zona bersaglio."
 END
 
 CONTROLBAR:ToolTipDarkness
@@ -43295,7 +44947,7 @@ CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Lurtz ottiene +100% danno e +10% corazza.\nSi può usare solo con la spada equipaggiata.\nClicca con il pulsante sinistro per attivare."
+"Richiede livello 2. \nLurtz ottiene +100% danno e +20% corazza.\nSi può usare solo con la spada equipaggiata.\nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:ToolTipGBloodHunt
@@ -43303,11 +44955,11 @@ CONTROLBAR:ToolTipGBloodHunt
 END
 
 CONTROLBAR:ToolTipDominate
-"Richiede livello 7.\nOttiene il controllo temporaneo dei nemici scelti come bersaglio.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+"Richiede livello 8.\nOttiene il controllo temporaneo dei nemici scelti come bersaglio.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
 END
 
 CONTROLBAR:ToolTipSharkuManEater
-"Richiede livello 8.\nUccidi il nemico bersaglio, ripristinando l'energia di Sharku e fornendo temporaneamente +50% danno e corazza.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
+"Richiede livello 6.\nUccidi il nemico bersaglio, ripristinando l'energia di Sharku e fornendo temporaneamente +35% danno, corazza and -35% crushing deceleration.\nClicca con il pulsante sinistro sull'icona, quindi sul bersaglio."
 END
 
 CONTROLBAR:ToggleLurtzWeapon
@@ -43387,7 +45039,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyMordorBarbedArrows
 END
 
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
-"Gli alleati vicino al Troll con tamburi ottengono +50% corazza e +25% esperienza. \nI Troll Di Caverna, I Troll Di Montagna ed I Troll D'Attacco guadagnano +15% corazza, +15% esperienza e guariscono più velocemente.\n\nAbilità passiva."
+"Gli alleati vicino al Troll con tamburi ottengono +35% corazza e +25% esperienza. \nI Troll Di Caverna, I Troll Di Montagna ed I Troll D'Attacco guadagnano +15% corazza, +15% esperienza e guariscono più velocemente.\n\nAbilità passiva."
 END
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel3
@@ -43451,7 +45103,7 @@ CONTROLBAR:ToolTipGoblinKingBattleFrenzy
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotem
-"Richiede livello 2.\nCrea un totem del teschio, che permane fino alla sua distruzione.\nDirada la nebbia nelle vicinanze, rivela le unità mimetizzate, fornisce +50% corazza alle unità alleate vicine e +25% esperienza.\nClicca con il pulsante sinistro sull'icona e quindi sulla zona bersaglio."
+"Richiede livello 2.\nCrea un totem del teschio, che permane fino alla sua distruzione.\nDirada la nebbia nelle vicinanze, rivela le unità mimetizzate, fornisce +35% corazza alle unità alleate vicine e +25% esperienza.\nClicca con il pulsante sinistro sull'icona e quindi sulla zona bersaglio."
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderHorde
@@ -43547,7 +45199,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressFlamingMunitions
 END
 
 CONTROLBAR:TooltipWargRiderHowl
-"+65% danno agli Warg. \nPerdono 15% armatura verso le picche e le strutture.\nIl bonus non può essere rimosso. \nSempre cumulativa. \nClicca con il pulsante sinistro per attivare."
+"+55% danno agli Warg. \nPerdono 15% armatura verso le picche e le strutture.\nIl bonus non può essere rimosso. \nSempre cumulativa. \nClicca con il pulsante sinistro per attivare."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenForgedBlades
@@ -43598,100 +45250,6 @@ CONTROLBAR:ElvenGrace
 "Athelas (&R)"
 END
 
-
-
 GUI:PleaseSelectBuddy
 "Impossibile inviare il messaggio. Devi selezionare uno o più amici."
-END
-
-// String lines for Patch 1.08
-
-CONTROLBAR:GrabPassengerTB
-"Pickup Merry or Pippin"
-END
-
-CONTROLBAR:SpecialAbility_ShieldBubble
-"Sc&udo Sfera"
-END
-
-CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
-"Lo stregone trasferisce tutto il suo potere in uno scudo per difendersi \n Gandalf guadagna 99% Armatura e resiste ai contraccolpi per 5 secondi. \n Click sinistro sull'icona per attivare."
-END
-
-CONTROLBAR:Fire_pit
-"Fuoco da campo (&C)"
-END
-
-CONTROLBAR:TooltipFire_pit
-"Fuoco da campo che guarisce le unità alleate nelle vicinanze. \nRiforma 1 unità per orda ogni 5 secondi. \n Garantisce +5% bonus armatura. \nSempre cumulativo. \nRivela unità mimetizzate."
-END
-
-CONTROLBAR:FireWorks
-"Fuochi D'Artificio / Accendi (&V)"
-END
-
-CONTROLBAR:ToolTipFireWorks
-"Merry può mettere un fuoco d'artificio sul terreno ed accenderlo \n \n Click sinistro per attivare "
-END
-
-CONTROLBAR:FireWorks2
-"Accendi Fuochi D'Artificio(&B)"
-END
-
-CONTROLBAR:ToolTipFireWorks2
-"Fuochi d'artificio danneggiano le unità in una grande area \n \n Click sinistro per attivare "
-END
-
-CONTROLBAR:FireWorksObj
-"Fuochi artificiali"
-END
-
-CONTROLBAR:HobbitFireCracker
-"Petardi (&R)"
-END
-
-CONTROLBAR:ToolTipHobbitFireCracker
-"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio"
-END
-
-CONTROLBAR:ToolTipHobbitFireCrackerMerry
-"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio \nBonus contro gli Olifanti \nEfficace contro le strutture"
-END
-
-CONTROLBAR:ToolTipHobbitFireCrackerSam
-"L'eroe può lanciare dei petardi \nClick sinistro sull'icona quindi click sinistro sul bersaglio \nEfficace contro Shelob "
-End
-
-// String lines for Patch 1.09
-
-CONTROLBAR:GaladHealBTP
-"&Luce Di Galadriel"
-END
-
-CONTROLBAR:ToolTipGaladHeal
-"Guarisce tutte le unità e gli eroi in una grande area intorno a Galadriel \nClick sinistro per attivare."
-END
-
-CONTROLBAR:LadyOfLight
-"Luce di &Vallar"
-END
-
-CONTROLBAR:TooltipLadyOfLight
-"Fa calare la luyce dei Valar sul nemico."
-END
-
-CONTROLBAR:SpecialAbilityFiresOfDoom2
-"Evoca tre Piogge Infuocate intorno a Sauron in cerchio."
-END
-
-CONTROLBAR:LoneTowerLeadershipUpgradeIcon
-"Richiede Fortezza aggiornare \n\n Fornisce +25% danno +25% esperienza \n Sempre cumulativa."
-END
-
-CONTROLBAR:LoneTowerHealingUpgradeIcon
-"Richiede fortezza aggiornare. \n\n Guarisce le unità alleate nelle vicinanze. \n Riforma 1 unità per orda ogni 10 secondi."
-END
-
-CONTROLBAR:LoneTowerArmorUpgradeIcon
-"Richiede Fortezza aggiornare. \n\n Riduce notevolmente il danno subito."
 END
