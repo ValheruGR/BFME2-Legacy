@@ -1,0 +1,61 @@
+BT2DC-v2.6 - By Rainmaker
+Changelog - Oct 25 2012
+
+
+Changes from version 2.5
+*-Warchant recharge time now 2min 30s (from 3min)
+*-Balrog Ignite recharge now 60s (10s) and duration 40s (30)
+*-Bombadil now has Resilient hero armor (Tough)
+*-Summoned dragon health now 28000 (20000)
+
+
+IPB Image
+MotW
+*-Theoden build time now 40s (55s). Glorious Charge recharge now 4min 30s (4min)
+*-Faramir mount/dismount times now 1s (2s). Mounted speed now 90 (80)
+*-Tower Guard speed now 40 (37)
+*-Lone tower now provides the same healing/LD as fort Banners/House of Healing if you have purchased them. Purchasing Numenor Stonework for the fortress also upgrades the Lone Towers.
+*-Fortress Banners now provides standard +50% damage leadership
+
+
+IPB Image
+Elves
+*-LW experience requirements for levels now 1/50/125/200/275 (1/75/150/225/300)
+*-Eagle summon duration now 1min 20s (1m 10s). Now deals 20% less damage against forts
+*-Legolas build time now 50s (60s)
+*-Treebeard siege armor now 33% (from 100%)
+*-Mirkwood Archers banners hotkey now C (from N)
+
+
+IPB Image
+Dwarves
+*-Battlewagon Men of Dale range now 400 (from 480)
+*-Lonetower now provides the same healing/LD as fort Banners/Siege Kegs if you have purchased them. Purchasing Stone Work for the fortress also upgrades the Lone Towers.
+*-Dwarven archery range lvl2 upgrade time now 20s (from 30s)
+*-Fortress Banners now provides standard +50% damage leadership
+
+
+IPB Image
+Mordor
+*-Horde bonus now requires 70 individual units (60)
+*-Haradrim archer rate of fire now 1.4s (1.7s)
+*-Haradrim archer Black arrows can now be multiselected
+
+
+IPB Image
+Isengard
+*-Warg rider poison armor now 110/75% (130/75%), cavalry ranged armor now 135/75% (150/75%)
+*-Wormtongue's Venomous Words now obtained at lvl1 (lvl2), base damage now 130 (100)
+*-Saruman Fireball recharge time now 66s (60s). Now deals 50% more damage against Drogoth and Eagles
+*-Uruk warrior CP cost now 60 (70)
+
+
+IPB Image
+Goblins
+*-Spiderling base damage now 42 (50). Bonus against cavalry now +30% (+10%)
+*-Summoned spiderlings now collect resources on kills
+
+
+Bugs
+*-Men statue now uses an armorset
+*-Hobbit commandpoint not adding up fixed
