@@ -5181,7 +5181,8 @@ END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"Version %d.%02d"
+//-"Version %d.%02d"
+"BattleTest Patch v2.2 based on patch %d.%02d \n Patch by MaDDoX Tooltips by Rainmaker"
 END
 
 Version:BuildTime
@@ -14909,7 +14910,8 @@ CONTROLBAR:FueltheFires
 End
 
 CONTROLBAR:ToolTipFueltheFires
-"+100% resources from harvesting trees \n Passive power"
+//-"+100% resources from harvesting trees \n Passive power"
+"+60% resources from harvesting trees \n Passive power"
 End
 
 CONTROLBAR:PlusCommandPoints
@@ -16326,10 +16328,6 @@ CONTROLBAR:ToolTipHawkStrike
 "Double-arrow attack \n Left click icon then left click on target"
 END
 
-CONTROLBAR:ToolTipTrainArchers
-"Requires Level 4 \n Targeted archers gain experience \n Left click icon then left click on target archers"
-END
-
 CONTROLBAR:MonsterSlayer
 "Monster Slayer"
 END
@@ -16535,7 +16533,8 @@ CONTROLBAR:ToolTipTogglePorcupineFormation
 END
 
 CONTROLBAR:ToggleBlockFormation
-"Shield Wall For&mation"
+//-"Shield Wall For&mation" ; affects both uruks and SoG
+"Shield Wall Fo&rmation"
 END
 
 CONTROLBAR:ToolTipToggleBlockFormation
@@ -16710,7 +16709,8 @@ CONTROLBAR:ToggleLooseFormation
 "Loose For&mation"
 END
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
-"-40% Speed \n +25% Armor"
+//-"-40% Speed \n +25% Armor"
+"-30% Speed \n +20% Armor"
 END
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
 "Default Formation"
@@ -46195,7 +46195,8 @@ CONTROLBAR:ToolTipMenLongShotAbility
 End
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"Research Banner Carrier upgrade at Barracks to enable this equipment \n \n +25% Armor, -40% Speed"
+//-"Research Banner Carrier upgrade at Barracks to enable this equipment \n \n +25% Armor, -40% Speed"
+"Research Banner Carrier upgrade at Barracks to enable this equipment \n \n +20% Armor, -40% Speed"
 END
 
 // +++++++++++++++++++++++++++++++++++++++++++ELVES+++++++++++++++++++++++++++++++++++++++++++
@@ -46227,7 +46228,8 @@ CONTROLBAR:ToolTipGlorfindelStarlight
 END
 
 CONTROLBAR:ToolTipGlorfindelBladeOfPurity
-"Requires Level 3 \n Glorfindel gains +100% Damage and Invulnerability for 10s unmounted \n\n Left click to activate"
+//-"Requires Level 3 \n Glorfindel gains +100% Damage and Invulnerability for 10s unmounted \n\n Left click to activate"
+"Requires Level 3 \n Glorfindel gains +50% Damage and Invulnerability for 10s unmounted \n\n Left click to activate"
 END
 
 CONTROLBAR:TooltipElrondLeadership
@@ -46336,8 +46338,14 @@ CONTROLBAR:ArrowWind
 "Arrow Wind [&V]"
 END
 
+CONTROLBAR:ToolTipTrainArchers
+//"Requires Level 4 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+"Requires Level 3 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+END
+
 CONTROLBAR:ToolTipKnifeFighter
-"Requires Level 6 \n left click to activate \n Alternate melee attack \n +20% Armor"
+//-"Requires Level 6 \n left click to activate \n Alternate melee attack \n +20% Armor"
+"Requires Level 4 \n left click to activate \n Alternate melee attack \n +50% Armor"
 END
 
 
@@ -46500,7 +46508,8 @@ CONTROLBAR:ToolTipAxeThrow
 END
 
 CONTROLBAR:ToolTipSlayer
-"Requires Level 5 \n Gimli gains Double Damage and Double Speed \n Left click to activate"
+//-"Requires Level 5 \n Gimli gains Double Damage and Double Speed \n Left click to activate"
+"Requires Level 5 \n Gimli gains +50% Damage and Double Speed \n Left click to activate"
 END
 
 //====== Units
@@ -46888,7 +46897,8 @@ CONTROLBAR:PurchaseUpgradeDwarvenForgedBlades
 END
 
 CONTROLBAR:DwarvenGuardianChargeAttack
-"Charg&e Attack"
+//-"Charg&e Attack"
+"Cha&rge Attack"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
@@ -46904,7 +46914,8 @@ CONTROLBAR:ToolTipOutlawLeadership
 END
 
 CONTROLBAR:ElvenCloak
-"&Elven Cloak"
+//-"&Elven Cloak"
+"Elven &Cloak"
 END
 
 CONTROLBAR:ChargeAttack
