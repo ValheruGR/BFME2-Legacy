@@ -1,0 +1,337 @@
+BT2DC-v3.0 - By Valheru
+Changelog - Oct 25 2012
+
+
+
+
+
+Dwarves
+
+
+-Gimli Leap range from 135 to 145
+
+-Gimli Leap Radius from 30 to 40
+
+-Gimli Axe Throw now deals ~ 2000 hero damage against flyers
+
+-Gimli Axe Throw cooldown from 45s to 38s /-/ PLACEBO
+
+-Undermine HP increased from 6000 to 8500
+
+-Masterwork Munitions build time reduced from 30s to 25s
+
+-Siege Kegs build time reduced from 30s to 25s
+
+-Siege Kegs cost from 1000 to 750
+
+-Siege Kegs effect radius from 200 to 300
+
+-Fort Oil recharge increased from 20s to 25s
+
+-King Dain buildtime from 70s to 55s
+
+-King Dain delay between shots from 1300ms to 700ms
+
+-King Dain preattack delay from 1366ms to 600ms
+
+-Rally call from 2 min 30 to 2 min
+
+-Men of Dale buildcost from 500 to 450
+
+-Men of Dale buildtime from 30s to 25s
+
+-Fort Banners buildtime from 5s to 15s
+
+
+
+
+
+IPB Image
+
+Isengard
+
+
+-Crossbow cost from 350 to 325
+
+-Crossbow delay between shots from 2500ms to 1800ms
+
+-Crossbow range from 300 to 325
+
+-Excavations (fort) build time reduced from 30s to 25s
+
+-Burning Forges (fort) build time reduced from 30s to 25s
+
+-Fire Arrows (Fort) build time reduced from 30s to 25s
+
+-Fort Crebain vision bonus reduced by 10% 
+
+-Warchant cooldown 120s, from 150s.
+
+-Devastation resource cap set to 1500
+
+-Warg Sentry damage from 400 to 100
+
+-Warg Sentry buildtime from 45s to 55s
+
+-Warg Sentry cost from 400 to 450
+
+-Crebrain cooldown reduced from 3 min to 2 min 30s
+
+-Palantir cooldown reduced from 3 min 30 to 3 min
+
+-Siege works upgrade cost from 800 to 500
+
+-Siege works upgrade time from 30s to 25s
+
+-Isengard Ballista buildtime from 40s to 20s
+
+-Isengard Explosive Mine buildtime from 45s to 20s
+
+
+
+
+IPB Image
+
+Men of the West
+
+
+-Visual Effect: Aragorn reclaims Anduril, forged from the Shards of Narsil
+
+-Visual Effect: The Light of Moria will now guide Gandalf until he is White
+
+-Visual Effect: Gandalf will now radiate with the Strength of the Maiar when casting Light of Istari
+
+-Gandalf buildtime from 75s to 60s
+
+-Gandalf Light of Istari cooldown from 240s to 160s
+
+-Gandalf Lightning Sword cooldown from 240s to 180s
+
+-Gandalf Lighting Sword damage vs heroes from 30% to 110%
+
+-Gandalf Istari Light damage vs heroes from 225% to 300%
+
+-Gandalf Istari Light damage vs WitchKing Mounted from 140% to 60%
+
+-Gandalf Istari Light damage vs Fellbeasts from 126% to 110%
+
+-Gandalf mounted speed from 90 to 95
+
+-Blacksmith buildcost from 1500 to 1200
+
+-Blacksmith buildtime from 90s to 70s
+
+-Theoden HP from 1600 to 2000
+
+-Theoden buildtime from 40s to 35s
+
+-House of Healing cost reduced to 700, from 800
+
+-House of Healing buildtime reduced to 25s, from 30s
+
+-House of Healing effect radius from 200 to 300
+
+-House of Healing Hero Revival bonus removed
+
+-Fortress Banners from 650g to 500g
+
+-Lone Tower Leadership bonus radius from 200 to 250 
+
+-Lone Tower Healing bonus radius from 100 to 150
+
+-Inn Elves can no longer be upgraded
+
+-Ivory Tower cost increased to 1500
+
+-Tower Guard build time increased from 24s to 26s
+
+-Gondor Archer's Health from 100, to 80
+
+-Gondor Archery Range buildtime from 15s to 18s
+
+-Tom Bombadil duration decreased from 60s to 45s
+
+-Tom Bombadil sonic song cooldown reduced to 17s, from 20s
+
+-Rally Call from 2 min 30 to 2 min
+
+-Grand Harvest buildtime from 60s to 45s
+
+
+
+IPB Image
+
+Mordor
+
+
+-Witch King buildtime from 115s to 100s
+
+-Darkness improved from 25/25 to 25/50(damage)
+
+-Mouth of Sauron Evil Eye scalar vs Legolas from 70% to 30%
+
+-Doom Pyres standardized from 50/50 to +25% damage +25% exp
+
+-Fortress Fire Arrows buildtime from 30s to 25s
+
+-Cauldrons buildtime from 30s to 25s
+
+-Lava Moat buildtime from 30s to 25s
+
+-Warchant cooldown 120s, from 150s.
+
+-Eye of Sauron cooldown reduced from 3 min to 2 min
+
+-Eye of Sauron experience gain bonus from 25% to 50%
+
+-Siege Catapult buildtime reduced from 30s to 15s
+
+-Orc bonus to structures decreased from 180% to 145%
+
+-Haradrim Palace health increased to 1800, from 1500
+
+-Haradrim Lancer speed increased from 40, to 44
+
+-Haradrim Lancer damage from 90 to 110
+
+-Haradrim Lancer preattackdelay from 1.6 to 1.4
+
+-Corsair Firebomb range reduced to 290
+
+-Mumakil Pen Tier 2 and 3 upgrade times reduced from 30s to 20s
+
+
+IPB Image
+
+Goblins
+
+
+-Darkness improved from 25/25 to 25/50(damage)
+
+-Fort Bats vision bonus decreased by 10% 
+
+-Razor Spines build time reduced from 30s to 25s
+
+-Fire Arrows (fort) build time reduced from 30s to 25s
+
+-Warchant cooldown 120s, from 150s.
+
+-Goblin Archer health from 80 to 85
+
+-Goblin Archer damage from 26 to 29
+
+-Bats cooldown reduced from 3 min to 2 min 30s
+
+-Drogoth inner plough damage from 750 to 675
+
+-Drogoth pre heal delay improved to 15s, from 30s 
+
+-Drogoth speed increased to 95, from 86
+
+-Drogoth fireflight cooldown increased to 1 min 45, from 1 min 30 
+
+-Drogoth fireflight radius increased to 85, from 60 
+
+-Drogoth fireflight range from 150 to 250
+
+-Drogoth incinerate cooldown increased from 180s to 190s
+
+-Drogoth incinerate radius increased to 250, from 210
+
+-Cost of Inn Wildmen Torch Upgrade increased to 400 from 300
+
+-Shelob buildtime from 50s, to 40s
+
+-Goblin Cave base HP increased to 2200, from 1900
+
+-Firedrake Health increased from 4000 to 4800
+
+-Gorkil Call from the Deep cooldown increased from 190s, from 180
+
+-Mountain Giant cost from 1300 to 1100
+
+-Mountain Giant buildtime from 45s to 30s
+
+-Summon Spiderling structural penalty reduced from 50% to 80%
+
+-Dragon Monument heal from 2% to 1.25%
+
+-Dragon Monument heal radius from 200 to 300
+
+
+IPB Image
+
+Elves
+
+
+-Visual Effect: Added new Sword for Elrond's Model
+
+-Rally Call from 2 min 30 to 2 min
+
+-Tom Bombadil duration decreased from 60s to 45s
+
+-Tom Bombadil sonic song cooldown reduced to 17s, from 20s
+
+-Ent buildtime from 25s to 20s
+
+-Ent cost from 800 to 700
+
+-Entmoot buildtime from 40s to 25s
+
+-Ent spawn animation time halved
+
+-Treebeard spawn animation time halved
+
+-Thranduil buildtime from 90s to 75s
+
+-Legolas Health from 1500 to 1650
+
+-Legolas buildtime from 50s to 40s
+
+-Legolas base damage from 150 to 200
+
+-Legolas hawkstrike range from 485 to 530
+
+-Legolas hawkstrike impact radius from 20 to 27
+
+-Enshrouding mist cooldown from 270s to 210s
+
+-Haldir Golden Arrow from 150s to 160s
+
+-Thranduil Thorn of Vengeance from 60s to 70s
+
+-Mystic Fountains buildtime from 30s to 25s
+
+-Crystal Moat buildtime from 30s to 25s
+
+-Blessed Mist buildtime from 30s to 25s
+
+-Mystic Fountain heal radius from 200 to 300
+
+
+Misc/explanations
+
+
+-Summon Dragon Health set to 35000(28000)
+-Command delay fix added /-/ PLACEBO
+-Lightning Sword bonus will not add to damage against The Balrog
+-Crossbow range has been increased to fix the issue of the entire battalion having to move if the 'back' of the horde cant reach the enemy being targeted. This was leading to the batallion repositioning, and as a result, having to apply the PAD all over again, making crossbows a worthless unit. 325 is still lower then both Gondor and Goblin Archers, just as a fyi. /-/ PLACEBO
+
+Bugfixes
+
+-There is no longer the issue of troops dissapearing on the map edges on widescreen minimap
+-There is no longer a stretching of icons and palantir in widescreen
+-Spiderling Lair lings no longer apply poison damage
+-Building Crystal Moat while Eagle is alive no longer prevents resurrection
+-Glorfindel can no longer mount while Blade of Purity is active 
+-Darkness FX now correctly applies to units built after spell cast
+-All tooltips corrected
+-Pillage from Fort Spiderlings fixed(removed)
+
+
+Patch Switcher
+
+-There is now an option to disable network fix, in order to not affect the ~20% speed up of watching replays and single player pace
+-Added 3.0 to switcher
+
+This post has been edited by Val`: Oct 25 2012, 22:45 PM

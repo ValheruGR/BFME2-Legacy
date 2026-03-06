@@ -75,7 +75,7 @@
 				AnimationName = RUTreeberd_MOTC  ;sprout animation
 				AnimationMode = ONCE    ;MANUAL ;; hold first frame
 				AnimationBlendTime = 0
-				AnimationSpeedFactorRange = 0.5 0.5
+				AnimationSpeedFactorRange = 1 1 ; ; 0.5 0.5
 			End
 			BeginScript
 				CurDrawableShowSubObjectPermanently("ROCK")
