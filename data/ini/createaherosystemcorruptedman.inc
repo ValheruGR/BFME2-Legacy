@@ -67,7 +67,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute05
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute19
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute15
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute12
 		End
 
@@ -172,7 +172,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute05
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute19
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute15
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute12
 		End
 

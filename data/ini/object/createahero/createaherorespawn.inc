@@ -2,7 +2,7 @@
 
 	Body = RespawnBody ModuleTag_RespawnBody
 		CheerRadius 				= EMOTION_CHEER_RADIUS
-		MaxHealth         			= FARAMIR_HEALTH			//BALANCE CreateAHero Health
+		MaxHealth         			= CREATE_A_HERO_HEALTH			//BALANCE CreateAHero Health
 		PermanentlyKilledByFilter	= NONE						//Who kills me permanently?
    		DodgePercent      			= HERO_DODGE_PERCENT
 	End

@@ -16,7 +16,7 @@ CreateAHeroClass
 		// In UI it should be  		=  HICAHWanderer_wotr
 		// DefaultFaction              = Isengard 
 		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 25
+		SpendableAttributePoints        = 30
 		UpgradeName	   = Upgrade_CreateAHero_SubClass_0
 		//-------------------------------
 		// Awards common to all heros.
@@ -66,7 +66,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute05
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute20
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute15
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute12
 		End
 
@@ -79,7 +79,7 @@ CreateAHeroClass
 
 		Attribute
 			GroupName			= CreateAHero_VisionAttribute
-			MinValueUpgrade		= Upgrade_VisionAttribute04
+			MinValueUpgrade		= Upgrade_VisionAttribute09
 			MaxValueUpgrade		= Upgrade_VisionAttribute17
 			DefaultValueUpgrade	= Upgrade_VisionAttribute12
 		End
@@ -129,7 +129,7 @@ CreateAHeroClass
 		// In UI it should be  		=  HICAHAvatar_wotr
 		// DefaultFaction              = Men 
 		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 25
+		SpendableAttributePoints        = 30
 		
 		//-------------------------------
 		// Awards common to all heros.
@@ -179,7 +179,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute02
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute15
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute12
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute10
 		End
 
@@ -192,7 +192,7 @@ CreateAHeroClass
 
 		Attribute
 			GroupName			= CreateAHero_VisionAttribute
-			MinValueUpgrade		= Upgrade_VisionAttribute04
+			MinValueUpgrade		= Upgrade_VisionAttribute09
 			MaxValueUpgrade		= Upgrade_VisionAttribute17
 			DefaultValueUpgrade	= Upgrade_VisionAttribute08
 		End
@@ -238,7 +238,7 @@ CreateAHeroClass
 		// In UI it should be  		=  HICAHHermit_wotr
 		//DefaultFaction              = Wild 
 		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 25
+		SpendableAttributePoints        = 30
 		
 		//-------------------------------
 		// Awards common to all heros.
@@ -288,7 +288,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute03
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute15
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute12
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute10
 		End
 
@@ -301,7 +301,7 @@ CreateAHeroClass
 
 		Attribute
 			GroupName			= CreateAHero_VisionAttribute
-			MinValueUpgrade		= Upgrade_VisionAttribute04
+			MinValueUpgrade		= Upgrade_VisionAttribute09
 			MaxValueUpgrade		= Upgrade_VisionAttribute17
 			DefaultValueUpgrade	= Upgrade_VisionAttribute12
 		End

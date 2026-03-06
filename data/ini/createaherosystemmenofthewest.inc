@@ -17,7 +17,7 @@ CreateAHeroClass
 		// In UI it should be  		=  HICAHCaptainGondor_wotr
 		DefaultFaction              = Men 
 		UsableFactions              = Men Elves Dwarves
-		SpendableAttributePoints        = 30
+		SpendableAttributePoints        = 28
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_0
 		//-------------------------------
@@ -132,7 +132,7 @@ CreateAHeroClass
 		// In UI it should be  		=  HICAHShieldMaiden_wotr
 		//DefaultFaction              = Men 
 		UsableFactions              = Men Elves Dwarves
-		SpendableAttributePoints        = 30
+		SpendableAttributePoints        = 28
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_1
 		//-------------------------------

@@ -1,0 +1,51 @@
+OBJECT:Aitheon
+"Aitheon"
+End
+
+OBJECT:AitheonDescription
+"Provides faith as a resource"
+End
+
+obj:WorkPit
+"Work Pit"
+End
+
+obj:WorkPitDescription
+"Provides iron as a resource"
+End
+
+Upgrade:InfantryBlessing
+"Infantry Blessing"
+End
+
+CONTROLBAR:PurchaseUpgradeInfantryBlessing
+"Infantry Blessin&g"
+END
+
+CONTROLBAR:ToolTipPurchaseInfantryBlessing
+"Reduces the Cost of Infantry \n 3 Aitheons: 10%\n 4 Aitheons: 15%\n 5 Aitheons: 25%\n 6+ Aitheons: 30%"
+End
+
+Upgrade:LavaForge
+"Lava Forge"
+End
+
+CONTROLBAR:PurchaseUpgradeLavaForge
+"Lava For&ge"
+END
+
+CONTROLBAR:ToolTipPurchaseLavaForge
+"Reduces the Cost of all upgrades and machines \n 1 WorkPit: 15%\n 2 WorkPits: 25%\n 3 WorkPits: 30%\n 4+ WorkPits: 35%"
+End
+
+Upgrade:VardaBlessing
+"Varda Blessing"
+End
+
+CONTROLBAR:PurchaseUpgradeVardaBlessing
+"Varda Blessin&g"
+END
+
+CONTROLBAR:ToolTipPurchaseVardaBlessing
+"Reduces the Cost of Cavalry and Monsters \n 1 Vardarin: 15%\n 2 Vardarins: 25%\n 3 Vardarins: 30%\n 4+ Vardarins: 35%"
+End

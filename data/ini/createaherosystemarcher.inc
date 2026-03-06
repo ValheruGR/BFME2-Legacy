@@ -68,22 +68,22 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute05
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute20
-			DefaultValueUpgrade	= Upgrade_HealthMultAttribute12
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute10
+			DefaultValueUpgrade	= Upgrade_HealthMultAttribute08
 		End
 
 		Attribute
 			GroupName			= CreateAHero_AutoHealAttribute
 			MinValueUpgrade		= Upgrade_AutoHealAttribute03
-			MaxValueUpgrade		= Upgrade_AutoHealAttribute14
-			DefaultValueUpgrade	= Upgrade_AutoHealAttribute06
+			MaxValueUpgrade		= Upgrade_AutoHealAttribute20
+			DefaultValueUpgrade	= Upgrade_AutoHealAttribute08
 		End
 
 		Attribute
 			GroupName			= CreateAHero_VisionAttribute
 			MinValueUpgrade		= Upgrade_VisionAttribute06
 			MaxValueUpgrade		= Upgrade_VisionAttribute19
-			DefaultValueUpgrade	= Upgrade_VisionAttribute12
+			DefaultValueUpgrade	= Upgrade_VisionAttribute14
 		End
         
 
@@ -180,15 +180,15 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute05
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute20
-			DefaultValueUpgrade	= Upgrade_HealthMultAttribute12
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute10
+			DefaultValueUpgrade	= Upgrade_HealthMultAttribute08
 		End
 
 		Attribute
 			GroupName			= CreateAHero_AutoHealAttribute
 			MinValueUpgrade		= Upgrade_AutoHealAttribute03
-			MaxValueUpgrade		= Upgrade_AutoHealAttribute14
-			DefaultValueUpgrade	= Upgrade_AutoHealAttribute06
+			MaxValueUpgrade		= Upgrade_AutoHealAttribute20
+			DefaultValueUpgrade	= Upgrade_AutoHealAttribute10
 		End
 
 		Attribute

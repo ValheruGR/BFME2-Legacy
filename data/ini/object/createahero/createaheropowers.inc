@@ -600,7 +600,7 @@ Behavior = SpecialPowerModule ModuleTag_CreateAHeroHeroicChargeUpdate
 	AttributeModifier			 = CreateAHeroHeroicCharge
 	AttributeModifierRange		 = 200
 	AttributeModifierAffectsSelf = Yes
-	AttributeModifierAffects	 = ANY +CAVALRY	+INFANTRY
+	AttributeModifierAffects	 = ANY +CAVALRY	
 	AttributeModifierFX			 = FX_TheodenGloriousChargeFX
 End
 
@@ -2896,14 +2896,15 @@ Behavior = PlayerHealSpecialPower ModuleTag_CreateAHeroHealingPower_Level1
 	HealAffects					= INFANTRY CAVALRY MONSTER
 	HealAmount					= CREATE_A_HERO_HEALING_AMOUNT_L1	// percent of max health
 	HealRadius					= CREATE_A_HERO_HEALING_RADIUS_L1
-	HealFX						= FX_SpellHealUnitHealBuff
+	HealFX					= FX_SpellHealUnitHealBuff
 End
 Behavior = SpecialAbilityUpdate ModuleTag_CreateAHeroHealingUpdate_Level1
 	SpecialPowerTemplate    = SpecialAbilityCreateAHeroHealing_Level1
-	UnpackTime             = 1  ;// (changing this will scale anim speed)
-	PreparationTime        = 1 ;// time to complete hack once prepared (changing this will scale anim speed)
-	PackTime               = 2000  ;// (changing this will scale anim speed)
-	UnpackingVariation	   = 5
+	StartAbilityRange	 = 1.6
+	UnpackTime			 = 1	 // Nothing to touching it
+	PreparationTime		 = 1	 // touching	it to grabbing it
+	PackTime			 = 2000	 // whacking	it to holding it nice
+	AwardXPForTriggering = 0
 End
 
 
@@ -2925,9 +2926,11 @@ Behavior = PlayerHealSpecialPower ModuleTag_CreateAHeroHealingPower_Level2
 End
 Behavior = SpecialAbilityUpdate ModuleTag_CreateAHeroHealingUpdate_Level2
 	SpecialPowerTemplate    = SpecialAbilityCreateAHeroHealing_Level2
-	UnpackTime             = 1  ;// (changing this will scale anim speed)
-	PreparationTime        = 1 ;// time to complete hack once prepared (changing this will scale anim speed)
-	PackTime               = 2000  ;// (changing this will scale anim speed)
+	StartAbilityRange	 = 1.6
+	UnpackTime			 = 1	 // Nothing to touching it
+	PreparationTime		 = 1	 // touching	it to grabbing it
+	PackTime			 = 2000	 // whacking	it to holding it nice
+	AwardXPForTriggering = 0
 	UnpackingVariation	   = 5
 End
 

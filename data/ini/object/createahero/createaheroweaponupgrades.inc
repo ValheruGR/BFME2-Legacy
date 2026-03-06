@@ -364,7 +364,7 @@ End
 //-------------------------------------------------------------
 WeaponSet
 	Conditions			   = WEAPONSET_CREATE_A_HERO_WS_12		// CLOSE_RANGE	 CONTESTING_BUILDING
-	Weapon				   = PRIMARY CreateAHeroBasicMeleeWeapon
+	Weapon				   = PRIMARY CreateAHeroTrollMeleeWeapon
 	AutoChooseSources	   = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon12
@@ -383,7 +383,7 @@ End
 //-------------------------------------------------------------
 WeaponSet
 	Conditions			   = WEAPONSET_CREATE_A_HERO_WS_13		// CLOSE_RANGE	 CONTESTING_BUILDING
-	Weapon				   = PRIMARY CreateAHeroBasicMeleeWeapon
+	Weapon				   = PRIMARY CreateAHeroTrollMeleeWeapon
 	AutoChooseSources	   = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon13
@@ -402,7 +402,7 @@ End
 //---------------------------------------------------------------
 WeaponSet
 	Conditions		  =	WEAPONSET_CREATE_A_HERO_WS_14
-	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
+	Weapon			  =	PRIMARY	CreateAHeroTrollMeleeWeapon
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon14
@@ -421,7 +421,7 @@ End
 //---------------------------------------------------------------
 WeaponSet
 	Conditions		  =	WEAPONSET_CREATE_A_HERO_WS_15
-	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
+	Weapon			  =	PRIMARY	CreateAHeroTrollMeleeWeapon
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon15
@@ -440,7 +440,7 @@ End
 //---------------------------------------------------------------
 WeaponSet
 	Conditions		  =	WEAPONSET_CREATE_A_HERO_WS_29
-	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
+	Weapon			  =	PRIMARY	CreateAHeroTrollMeleeWeapon
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon29
@@ -459,7 +459,7 @@ End
 //---------------------------------------------------------------
 WeaponSet
 	Conditions		  =	WEAPONSET_CREATE_A_HERO_WS_30
-	Weapon			  =	PRIMARY	CreateAHeroBasicMeleeWeapon
+	Weapon			  =	PRIMARY	CreateAHeroTrollMeleeWeapon
 	AutoChooseSources =	PRIMARY	FROM_PLAYER	FROM_SCRIPT	FROM_AI
 End
 Behavior = WeaponSetUpgrade Create_A_Hero_Weapon30

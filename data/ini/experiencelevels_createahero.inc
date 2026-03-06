@@ -28,7 +28,7 @@ ExperienceLevel	CreateAHeroLevel2
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 2
-	AttributeModifiers	 = HeroLevelUpDamage1
+	AttributeModifiers	 = CAHeroLevelUpDamage1
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -48,7 +48,7 @@ ExperienceLevel	CreateAHeroLevel3
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 3
-	AttributeModifiers	 = HeroLevelUpDamage2
+	AttributeModifiers	 = CAHeroLevelUpDamage2
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -69,7 +69,7 @@ ExperienceLevel	CreateAHeroLevel4
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 4
 	Upgrades			 = Upgrade_CreateAHeroGloriousCharge
-	AttributeModifiers	 = HeroLevelUpDamage3
+	AttributeModifiers	 = CAHeroLevelUpDamage3
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -90,7 +90,7 @@ ExperienceLevel	CreateAHeroLevel5
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 
 	Rank				 = 5
-	AttributeModifiers	 = HeroLevelUpDamage4
+	AttributeModifiers	 = CAHeroLevelUpDamage4
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -111,7 +111,7 @@ ExperienceLevel	CreateAHeroLevel6
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 6
 	Upgrades			 = Upgrade_CreateAHeroKingsFavor
-	AttributeModifiers	 = HeroLevelUpDamage5
+	AttributeModifiers	 = CAHeroLevelUpDamage5
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -131,7 +131,7 @@ ExperienceLevel	CreateAHeroLevel7
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 7
-	AttributeModifiers	 = HeroLevelUpDamage6
+	AttributeModifiers	 = CAHeroLevelUpDamage6
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -151,7 +151,7 @@ ExperienceLevel	CreateAHeroLevel8
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 8
-	AttributeModifiers	 = HeroLevelUpDamage7
+	AttributeModifiers	 = CAHeroLevelUpDamage7
 ;	Upgrades			 = CreateAHero
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -171,7 +171,7 @@ ExperienceLevel	CreateAHeroLevel9
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 9
-	AttributeModifiers	 = HeroLevelUpDamage8
+	AttributeModifiers	 = CAHeroLevelUpDamage8
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good
@@ -191,7 +191,7 @@ ExperienceLevel	CreateAHeroLevel10
 	LevelUpFx			 = FX:GandalfLevelUp1FX
 	;LevelUpOCL			 = OCL_GandalfLevelUp1OCL
 	Rank				 = 10
-	AttributeModifiers	 = HeroLevelUpDamage9
+	AttributeModifiers	 = CAHeroLevelUpDamage9
 ;	Upgrades			 = CreateAHero_Dummy_not_used_reset_in_code_at_runtime
 	SelectionDecal
 		Texture			 = decal_hero_good

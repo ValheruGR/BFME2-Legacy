@@ -15,7 +15,7 @@ CreateAHeroClass
 		ButtonImage       = HICAHTroll
 		//DefaultFaction              = Mordor 
 		UsableFactions              = Isengard Mordor Wild 
-		SpendableAttributePoints        = 25
+		SpendableAttributePoints        = 15
 		// In UI it should be  		=  HICAHTroll_wotr
 
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_0
@@ -68,7 +68,7 @@ CreateAHeroClass
 		Attribute
 			GroupName			= CreateAHero_HealthMultAttribute
 			MinValueUpgrade		= Upgrade_HealthMultAttribute02
-			MaxValueUpgrade		= Upgrade_HealthMultAttribute13
+			MaxValueUpgrade		= Upgrade_HealthMultAttribute17
 			DefaultValueUpgrade	= Upgrade_HealthMultAttribute10
 		End
 
