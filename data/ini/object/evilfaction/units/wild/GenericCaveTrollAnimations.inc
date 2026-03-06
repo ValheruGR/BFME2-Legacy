@@ -32,6 +32,11 @@
 			Flags						= RESTART_ANIM_WHEN_COMPLETE
 			BeginScript
 				CurDrawableHideSubObjectPermanently("ROCK")
+			;	CurDrawableHideSubObjectPermanently("Trunk01")	//Already hidden by w3d.
+				CurDrawableHideSubObjectPermanently("HATREE") ;;.;;
+				CurDrawableHideSubObjectPermanently("HATREE2") ;;.;;
+				CurDrawableHideSubObjectPermanently("HATREE3") ;;.;;
+				CurDrawableHideSubObjectPermanently("objCLUB01") ;;.;;
 			EndScript
 		End
 		
@@ -246,6 +251,10 @@
 			ParticleSysBone = None InfantryDustTrails
 			BeginScript ; Here since normal Packing state can be skipped with a fast click.
 				CurDrawableShowSubObjectPermanently("Trunk01")
+				CurDrawableShowSubObjectPermanently("HATREE") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE2") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE3") ;;.;;
+				CurDrawableShowSubObjectPermanently("objCLUB01") ;;.;;
 			EndScript
 		End
 
@@ -259,12 +268,16 @@
 			ParticleSysBone = None InfantryDustTrails
 			BeginScript ; Here since normal Packing state can be skipped with a fast click.
 				CurDrawableShowSubObjectPermanently("Trunk01")
+				CurDrawableShowSubObjectPermanently("HATREE") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE2") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE3") ;;.;;
+				CurDrawableShowSubObjectPermanently("objCLUB01") ;;.;;
 			EndScript
 		End
 
 		AnimationState = MOVING WEAPONSTATE_ONE					; ATTACKING
 			Animation
-				AnimationName = MuCavTroll_SKL.MuCavTroll_RUNA  ; Running with club
+				AnimationName = MuCavTroll_SKL.MuCavTroll_RUNB ;;.;; MuCavTroll_RUNA  ; Running with club
 				AnimationMode = LOOP
 				;AnimationSpeedFactorRange = 0.77 0.77
 			End
@@ -301,6 +314,10 @@
 		;
 		;	BeginScript ; Here since normal Packing state can be skipped with a fast click.
 		;		CurDrawableShowSubObjectPermanently("Trunk01")
+		;		CurDrawableShowSubObjectPermanently("HATREE") ;;.;;
+		;		CurDrawableShowSubObjectPermanently("HATREE2") ;;.;;
+		;		CurDrawableShowSubObjectPermanently("HATREE3") ;;.;;
+		;		CurDrawableShowSubObjectPermanently("objCLUB01") ;;.;;
 		;	EndScript
 		;End
 			
@@ -318,6 +335,10 @@
 			End
 			BeginScript 
 				CurDrawableShowSubObjectPermanently("Trunk01")
+				CurDrawableShowSubObjectPermanently("HATREE") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE2") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE3") ;;.;;
+				CurDrawableShowSubObjectPermanently("objCLUB01") ;;.;;
 			EndScript
 		End
 
@@ -393,6 +414,10 @@
 			Flags = RESTART_ANIM_WHEN_COMPLETE
 			BeginScript ; Here since normal Packing state can be skipped with a fast click.
 				CurDrawableShowSubObjectPermanently("Trunk01")
+				CurDrawableShowSubObjectPermanently("HATREE") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE2") ;;.;;
+				CurDrawableShowSubObjectPermanently("HATREE3") ;;.;;
+				CurDrawableShowSubObjectPermanently("objCLUB01") ;;.;;
 			EndScript
 		End
 
@@ -595,6 +620,13 @@
 		AnimationState = REACT_5 WEAPONSET_TOGGLE_1
 			Animation = Click_React_5
 				AnimationName = MuCavTroll_SKL.MuCavTroll_RCTE
+				AnimationMode = ONCE
+			End
+		End
+
+		AnimationState = PACKING_TYPE_2 ;;-;;
+			Animation
+				AnimationName = MuCavTroll_SKL.MUMntTroll_RCTA
 				AnimationMode = ONCE
 			End
 		End

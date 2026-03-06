@@ -38,10 +38,33 @@
 				Model = None
 			End
 			ModelConditionState = USER_66
-				Model = exmordorhealcav
-				ParticleSysBone		= NONE SpellHealMordorBig FollowBone:Yes
+				Model = exmordorhealtrl ;;.;; exmordorhealcav
+				; Texture = exhealmordor.tga exheal_green.tga ;;.;;
+				; Texture = exhealmordor.tga exheal_orang.tga ;;.;;
+				ParticleSysBone		= NONE SpellHealMordorBigMorgul09v3 FollowBone:Yes
 			End
  		End
+	//-----------------------------------------------------------------------------
+	;;.;;
+		RemoveModule Draw_HighTierHeroLeadershipEffect
+		
+		Draw = W3DScriptedModelDraw Draw_HighTierHeroLeadershipEffect
+            ParticlesAttachedToAnimatedBones = yes
+			ModelConditionState = NONE
+				Model = None
+			End
+			AnimationState = USER_74 STUNNED_FLAILING
+  			End
+			AnimationState = USER_74 PASSENGER
+  			End
+			AnimationState = USER_74 DYING
+  			End
+ 			AnimationState = USER_74 BURNINGDEATH
+  			End
+			AnimationState = USER_74	// Draw_HighTierHeroLeadershipEffect
+  				ParticleSysBone		= NONE Trolls_HighLevelLD_NoSL FollowBone:Yes
+ 			End
+        End
 	//-----------------------------------------------------------------------------
 		RemoveModule Draw_DevastationParalyzeEffect
 		

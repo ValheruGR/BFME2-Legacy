@@ -1,7 +1,6 @@
 
 	//-----------------------------------------------------------------------------
 		RemoveModule Draw_EvilHealEffect
-		
    		;;-;;	Draw = W3DScriptedModelDraw Draw_EvilHealEffect
 		;;-;;		ParticlesAttachedToAnimatedBones = yes
 		;;-;;		ModelConditionState = NONE
@@ -39,12 +38,13 @@
 			End
 			ModelConditionState = USER_66
 				Model = exmordorhealcav
-				ParticleSysBone		= NONE SpellHealMordorMedium FollowBone:Yes
+				; Texture = exhealmordor.tga exheal_green.tga ;;.;;
+				; Texture = exhealmordor.tga exheal_orang.tga ;;.;;
+				ParticleSysBone		= NONE SpellHealMordorMediumMorgul09v3 FollowBone:Yes
 			End
  		End
 	//-----------------------------------------------------------------------------
 		RemoveModule Draw_DevastationParalyzeEffect
-		
     	Draw = W3DScriptedModelDraw Draw_DevastationParalyzeEffect
 			ParticlesAttachedToAnimatedBones = yes
 			ModelConditionState = NONE
@@ -64,7 +64,6 @@
 		End
 	//-----------------------------------------------------------------------------
 		RemoveModule Draw_DarknessEffect
-		
 		Draw = W3DScriptedModelDraw Draw_DarknessEffect
             ParticlesAttachedToAnimatedBones = yes
 			ModelConditionState = NONE
@@ -84,7 +83,6 @@
         End
 	//-----------------------------------------------------------------------------
 		;RemoveModule Draw_ArmorStackLeadershipEffect
-		;
  		;Draw = W3DScriptedModelDraw Draw_ArmorStackLeadershipEffect
         ;    ParticlesAttachedToAnimatedBones = yes
 		;	ModelConditionState = NONE
@@ -105,7 +103,6 @@
         ;End
 	//-----------------------------------------------------------------------------
 		;RemoveModule Draw_DamageStackLeadershipEffect
-		;
 		;Draw = W3DScriptedModelDraw Draw_DamageStackLeadershipEffect
         ;    ParticlesAttachedToAnimatedBones = yes
 		;	ModelConditionState = NONE
@@ -125,3 +122,21 @@
   		;	End
         ;End
 	//-----------------------------------------------------------------------------
+		RemoveModule Draw_ElrondElvenGraceBonusEffect
+   		Draw = W3DScriptedModelDraw Draw_ElrondElvenGraceBonusEffect
+			ParticlesAttachedToAnimatedBones = yes
+			ModelConditionState = NONE
+				Model = None
+			End
+			AnimationState = USER_62 STUNNED_FLAILING
+  			End
+			AnimationState = USER_62 PASSENGER
+  			End
+			AnimationState = USER_62 DYING
+			End
+			AnimationState = USER_62 BURNINGDEATH
+			End
+			AnimationState = USER_62 // Draw_ElrondElvenGraceBonusEffect
+ 				ParticleSysBone		= NONE ElrondElvenGraceSparkleLeadershipMedium_NoSL FollowBone:Yes
+ 			End
+		End

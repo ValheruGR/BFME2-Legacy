@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v2	-----	2019
+// String lines for new Patch 1.09v3	-----	2023
 
 //------------------------------------------------------------
 
@@ -23,28 +23,184 @@ END
 CONTROLBAR:nothingDesc09v2
 "nothing"
 END
+//----------------------------------
+CONTROLBAR:WitchKingBlackRiderMorgulBlade09v3
+"Morgul Blade [&V]"
+END
+//----------------------------------
+OBJECT:HaradCamp_New
+"Haradrim tent"
+End
+OBJECT:HaradCampDesc_New
+"Allows training of Haradrim warriors"
+End
+OBJECT:LF_New
+"Secret Entrance"
+End
+OBJECT:LF_Disc_New
+"Capture it to decrease recharge times for unused powers \n Heals nearby Heroes and Flyers. \n\n -25% reduction of spellbook reload time"
+End
+OBJECT:MercenaryCamp_New
+"Mercenary Camp"
+END
+OBJECT:DunlandHallTooltip_New
+"Dunland House"
+End
+TOOLTIP:DunlandHallDesc_New
+"Allows training of Dunland Men"
+End
+//------------------------------------------------------------
+CONTROLBAR:WildWalk09v3
+"Wild Walk"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThranduilDescription09v3
+"King of Mirkwood: \n Nearby Mirkwood archers gain: \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThranduilWildWalk09v3
+"Requires Level 6 \nAllows Thranduil to move while stealthed \n Passive ability."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde09v3
+"Strong vs. Cavalry and \n Unit Production Buildings \n Can stealth near trees. \n Gains +4% speed at level 4, 7 and 10."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEvilHeal09v3
+"Partially heals armies and monsters. \n Replaces 2 dead units per horde. \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+TOOLTIP:GandalfTheWhite09v3
+"Gandalf the White: \n Requires Level 5 \n Gandalf's magic abilities deal +70% damage and cooldowns are reduced by -20%. \n Passive ability."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirGoldenArrow09v3
+"Requires Level 7 \n A high-damaging magical projectile. \n Level 7: Causes meta impact and moderate damage. \n Level 10: Deals greater damage and stuns nearby light-sensitive units. \n Strong against cavalry and low-tier heroes. \n Can only use with bow equipped. \n Left click icon, then left click on target." 
+END
+CONTROLBAR:TooltipElrondWhirlwind09v3
+"Requires Level 5 \n Summons a destructive whirlwind onto the battlefield. \n Level 5: Deals minimal damage, sweeps low-tier heroes only. Lasts 16 seconds. \n Level 7: Lasts 19 seconds. \n Level 10: Deals double damage, sweeps all heroes. Lasts 22 seconds. \n Left click icon, then left click on pathable location."
+END
+CONTROLBAR:ToolTipElrondRestoration09v3
+"Requires Level 10 \n Elrond regenerates +20% of health-points to nearby allies and fully resets their special ability timers. \n Replenishes 1 fallen unit per battalion in the area of effect. \n Left click to activate."
+END
+CONTROLBAR:ArwenElvenGrace09v3
+"Athelas [&V]"
+END
+CONTROLBAR:ArwenElvenGraceDesc09v3
+"Requires Level 6 \n Arwen regenerates 750 health-points to targeted allies over a 2-second duration. \n Left click icon, then left click on target units."
+END
+CONTROLBAR:GoblinKingBattleFrenzy09v3
+"Battle Frenzy"
+End
+CONTROLBAR:ToolTipFueltheFires09v3
+"Player Lumber Mills gain +65% Production \n and +20% Armor. \n Allied Lumber Mills gain +65% production. \n Passive power. \n Fortress must be present."
+End
+UPGRADE:BarbedArrowUpgrade09v3
+"Barbed Arrows"
+END
+CONTROLBAR:TooltipUndermine09v3
+"Summons a Mine Shaft onto the battlefield. \n Cannot be cast within close proximity of an enemy fortress. \n Can be casted on the fog of war. \n The Mine Shaft is connected to tunnel network. \n Deals greater damage at spawn point and lesser damage in the perimeter. \n Left click icon, then left click on pathable location."
+END
+CONTROLBAR:ToolTipPersonalFlood09v3
+"Requires Level 4 \n Summons a flood that knocks back enemies and extinguishes fires. \n Strong vs. cavalry and Nazgul. \n Level 4: Arwen summons 3 Flood Horses. \n Level 7: Arwen summons 5 Flood Horses. \n Level 10: Arwen summons 7 Flood Horses. \n Left click icon, then left click on target."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains09v3
+"Heals nearby Allies. \n Revives a fallen unit from each battalion every 6.5 seconds. \n Hero revival time reduced by -20%. \n Combined with Eagle Nest, can heal any allied flying unit"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEaglesNest09v3
+"Allows summoning of a Giant Eagle. \n Allows Mystics Fountains to heal flying units."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines09v3
+"Damages enemy units adjacent to the Fortress. \n Heals nearby Allies. \n Combined with Dragon Nest, can heal any allied flying unit."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest09v3
+"Allows summoning of a Fire Drake. \n Drogoth revival time reduced by -10%. \n Allows Razor Spikes to heal flying units."
+END
+//------------------------------
+CONTROLBAR:ToolTipWildShelobPoisonedStinger09v3
+"Requires Level 6 \n Inflicts poison damage on the target enemy for 30 seconds, \n reduces it's speed by -50% during 15 seconds, \n and paralyzes it for 6 seconds. \n Left click icon, then left click on target."
+End
+CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
+"Requires Level 6 \n Can only use when mounted \n Inflicts poison damage on the target enemy for 25 seconds, \n reduces it's speed by -50% during 12 seconds, \n and paralyzes it for 5 seconds. \n Left click icon, then left click on target."
+END
+TOOLTIP:ToolTipBoromir09v3
+"Boromir gains +7% speed at level 7"
+END
+CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
+"Strong vs. Swordsmen and Structures \n Cave Troll gains +4% speed at level 3, 6 and 9"
+END
+TOOLTIP:ToolTipBuildDwarvenCatapult09v3
+"Strong vs. Structures and Siege units \n The Catapult gains +10% speed at level 5"
+END
+CONTROLBAR:ToolTipBuildDwarvenCatapult09v3
+"Requires Level 2 Forge Works \n Strong vs. Structures and Siege units \n Fires two shots at once \n The Catapult gains +10% speed at level 5"
+END
+CONTROLBAR:ToolTipBuildMordorMumakil09v3
+"Strong vs. Structures and Cavalry \n Comes mounted by Haradrim Lancers \n Additional 30 commandpoints \n Mumakils gain +6% speed at level 5 and 8."
+END
+CONTROLBAR:TooltipDragonStrike09v3
+"Summons a fire breathing Dragon to fly-by and scorch the battlefield. \n Any type of enemy unit in a large area beneath the Dragon will suffer -15% speed. \n *Extremely dangerous in the edges of the map.* \n Left click icon then left click on target area"
+END
+TOOLTIP:ToolTipFellbeast09v3
+"Fellbeast attack radius against units is improved at level 6."
+END
+CONTROLBAR:ToolTipDominate09v3
+"Requires Level 10 \n Permanently gain control of targeted enemy troops. \n Left click icon, then left click on target units."
+END
+CONTROLBAR:TooltipSummonTomBombadil09v3
+"Summons Tom Bombadil, a mighty fat oldfella with a hat, who likes singing. It's told that he's the human personification of Eru, who created Ëa. \n Allies near Tom Bombadil gain +25% Armor and earn experience 25% faster. \n «Armor BUFF» \n Left click icon then left click on pathable location"
+END
+CONTROLBAR:Draft09v3
+"D&raft"
+End
+CONTROLBAR:ToolTipDraft09v3
+"Arms this battalion of peasants. \n When equipped, increases the damage done by Melee Weapons \n and reduces the amount of damage taken."
+END
+CONTROLBAR:Command_CreateAHero_SpecialAbilityDisguise_Name
+"Disguise (&V)"
+END
+CONTROLBAR:SummonWargAllies09v3
+"Summon Warg Allies (&C)"
+End
+CONTROLBAR:SummonWargAlliesDesc09v3
+"Requires Level 10 \n Summons a group of Warg Riders to the battlefield. \n Left click icon, then left click on pathable location."
+END
+//------------------------------------------------------------
+
+
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.09v2
+
+//------------------------------------------------------------
+
+
+
+
 //------------------------------------------------------------
 CONTROLBAR:PrinceofIthilien09v2
-"Prince of Ithilien [&B]"
+"Prince of Ithilien [&V]"
 END
 CONTROLBAR:PrinceofIthilienDesc09v2
-"Requires Level 5 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+"Requires Level 5 \n Targeted archers gain experience. \n Left click icon, then left click on target archers."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower09v2
-"Increases the vision range of the Fortress and provides stealth detection. \n Unlocks the use of Palantir Vision on player units"
+"Increases the vision range of the Fortress and detects stealth. \n Allows the usage of Palantir Vision on player units."
 END
 CONTROLBAR:TooltipIvoryTowerVision09v2
-"Reveals the entire shroud \n Player units in the map gain +10% speed \n Modifier Type: RESISTANT IvoryTowerBonus' \n Lasts 30 seconds"
+"Reveals the entire shroud \n Player units on the map gain +10% speed \n «IvoryTower BUFF» \n Lasts 30 seconds"
 End
 CONTROLBAR:ToolTipGainSpiderVenomSacks09v2
-"Requires Level 3 \n Upgrades this horde with Venom Sacs \n Inflicts poison to enemies causing damage over time"
+"Requires Level 3 \n Upgrades this unit with Venom Sacs. \n Inflicts poison damage over time. \n Passive ability."
 END
 //------------------------------------------------------------
 Color:Cyan09v2
 "Cyan"
 END
-Color:DarkGreen09v2
+Color:DarkGreen09v1
 "Dark Green"
 END
 Color:GreenLime09v2
@@ -61,24 +217,24 @@ Color:Grey
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAxeThrow09v2
-"Powerful ranged attack with splash damage \n Specially effective to cavalry and flyers \n Ability damage is improved at level 4 and 7. \n Left click icon then left click on target"
+"Powerful ranged attack with damage in area. \n Strong against cavalry and flying units. \n Throwing Axe is improved at levels 4 and 7. \n Left click icon, then left click on target."
 END
 CONTROLBAR:ToolTipLeap09v2
-"Requires Level 2 \n Gimli jumps to a location causing area-effect damage. \n Ability radius of effect is improved at level 4 and 7. \n Left click icon then left click on target area"
+"Requires Level 2 \n Gimli leaps to a selected location, causing area-effect damage. \n Area-of-effect is improved at levels 4 and 7. \n Left click icon, then left click on target area."
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Mace attack radius of effect is improved is improved at level 5 and 8."
+"Mace attack radius of effect is improved at level 5 and 8."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
-"Requires Level 8  \n Left click to switch between \n mounted and on foot"
+"Requires Level 8 \n Left click to switch between \n mounted and on foot"
 END
 //------------------------------------------------------------
 CONTROLBAR:ShelobWebbing09v2
 "We&b Of Ungoliant"
 End
 CONTROLBAR:ToolTipShelobWebbing09v2
-"Requires Level 10 \n Cripples enemy units in spider webs for 4.5 seconds and drains their life for the duration. \n Shelob is healed based on total damage caused to heroes. \n Left click icon then left click on target area"
+"Requires Level 10 \n Cripples enemy units in spider webs and \n inflicts damage for a 4.5-second duration. \n Shelob is healed based on total damage dealt to enemy heroes. \n Left click icon, then left click on target area."
 End
 //------------------------------------------------------------
 CONTROLBAR:SummonBalrogSauron09v2
@@ -95,18 +251,17 @@ END
 UPGRADE:FarmLevel3Tooltip09v2
 "Level 3: +75 Command Points"
 END
-//------------------------------------------------------------
 CONTROLBAR:ThunderBolt09v2
 "Thunderbolt Storm [&B]"
 END
 CONTROLBAR:ToolTipThunderBolt09v2
-"Requires Level 10 \n Saruman creates a series of clouds that strike powerful lightning bolts against targeted location. \n Left click icon then left click on location"
+"Requires Level 8 \n Saruman summons a storm that strikes powerful lightning bolts over target location. \n Left click icon, then left click on target area."
 END
 CONTROLBAR:ToolTipPersonalFlood09v2
 "Requires Level 5 \n Summons a flood that will damage enemies and put out fires. \n Specially effective to cavalry. \n Bonus against Black Riders. \n The flood horses are improved at level 10. \n\nLeft click icon then left click on target"
 END
 CONTROLBAR:ToolTipSlayer09v2
-"Requires Level 5 \n Gimli gains +50% Damage, Double Speed, but loses -15% armor against Structural arrows. \n Has an 80% chance to knockback heroes \n Left click to activate"
+"Requires Level 5 \n Gimli gains +50% Damage, Double Speed, but loses -15% Armor against Structural arrows. \n Has an 80% chance to knockback heroes \n Left click to activate"
 END
 CONTROLBAR:TooltipElrondWhirlwind09v2
 "Requires Level 6 \n Summons a destructive whirlwind onto the battlefield \n Lasts 17s \n Deals minimal damage to all units \n Left click icon then left click on target area"
@@ -116,14 +271,14 @@ CONTROLBAR:TooltipScreechWitchKing09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2
-"Reduces the cost of Forged Blades, Heavy Armor and Fire Arrows upgrades by 33%"
+"Reduces the cost of Forged Blades, Heavy Armor and Fire Arrows upgrades by -33%"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGlorfindelBladeOfPurity09v2
 "Requires Level 3 \n Glorfindel gains +50% Damage and Invulnerability for 10s \n Can only use when dismounted \n\n Left click to activate"
 END
 CONTROLBAR:TooltipBladeMaster09v2
-"Requires Level 2 \n Aragorn gains +50% Damage and +50% armor. \n Left click to activate"
+"Requires Level 2 \n Aragorn gains +50% Damage and +50% Armor. \n Left click to activate"
 END
 //------------------------------------------------------------
 UPGRADE:AutohealUpgradeAdvanced09v2
@@ -134,34 +289,34 @@ UPGRADE:AutohealUpgradeBasic09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHourOfTheWitchKing09v2
-"Requires Level 10 \n Target Heroes in an AOE have their special ability timers reset to 80% used. \n Enemy heroes around Witch King suffer -25% damage. \n Modifier Type: 'STUN WitchKingCurse' \n Left click icon then left click on area"
+"Requires Level 8 \n Target Heroes in an AOE have their special ability timers reset to 80% used. \n Enemy heroes around Witch King suffer -25% Damage. \n Left click icon then left click on area"
 END
 CONTROLBAR:TooltipDwarvenRiches09v2
-"Selected structure's resource output is temporarily raised to 350%. \n Left click icon then left click on target resource structure"
+"Selected structure's resource output is temporarily raised to 300%. \n Left click icon then left click on target resource structure"
 END
 CONTROLBAR:Command_CreateAHero_ShieldCrush_Level1_Name
-"Shield Crush"
+"Shield Crush (&Y)"
 END
 CONTROLBAR:Command_CreateAHero_ShieldCrush_Level3_Name
-"Improved Shield Crush"
+"Improved Shield Crush (&Y)"
 END
 TOOLTIP:ToolTipPurchasedUpgradeFortressBanners09v2
-"Fortress leadership upgrade purchased: \n Nearby units gain +25% Damage \n and gain experience +25% faster \n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Fortress leadership upgrade purchased: \n Nearby units gain +25% Damage, \n and earn Experience +25% faster \n «Damage BUFF»"
 END
 CONTROLBAR:ToolTipBuildGoblinFighterHorde09v2
-"Strong vs. Pikemen\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% damage +25% speed. \n Modifier Type: RESISTANT 'HordeBonus' "
+"Strong vs. Pikemen\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% Damage +25% speed. \n «HordeBonus BUFF»"
 END
 CONTROLBAR:ToolTipBuildElvenRivendellLancers09v2
-"Strong vs. Archers and \n Unit Production Buildings. \n Rivendell Lancers gain +7% speed at level 5."
+"Strong vs. Archers and \n Unit Production Buildings. \n Rivendell Lancers gain +4% speed at level 4 and level 7."
 END
 CONTROLBAR:ToolTipGloriousCharge09v2
-"Requires Level 7 \n Theoden and nearby cavalry gain +99% armor, \n +25% damage and become immune to desacelerate by trampling. \n Cavalry also become fearless for its duration. \n Modifier Type: 'DEBUFF_PROOF GloriousCharge'. \n Theoden must be mounted to use ability \n Left click to activate"
+"Requires Level 7 \n Theoden and nearby cavalry gain +99% Armor, \n +25% Damage and become immune to decelerate by trampling. \n Cavalry also become fearless for its duration.  \n Theoden must be mounted to use ability \n Left click to activate"
 END
 CONTROLBAR:ToolTipBuildGoblinArcherHorde09v2
-"Strong vs. Infantry\nRESISTANT to trample\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% damage +20% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Strong vs. Infantry\nResistant to trample\n Horde Bonus: \n Gathered goblins in numbers of at least 100\n gain +33% Damage +20% speed. \n «HordeBonus BUFF» "
 END
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde09v2
-"Strong vs. Infantry\n Horde Bonus: \n Gathered orcs in numbers of at least 70\n gain +33% damage +15% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Strong vs. Infantry\n Horde Bonus: \n Gathered orcs in numbers of at least 70\n gain +33% Damage +15% speed. \n «HordeBonus BUFF» "
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenCitadelDwarvenStonework09v2
@@ -173,80 +328,80 @@ CONTROLBAR:ToolTipMordorTavern09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDainStubbornPride09v2
-"Requires Level 7 \n Grants all nearby allies resistance to fear and terror \n Modifier Type: 'DEBUFF_PROOF StubbornPride' \n Dain becomes able to reveal stealth.\n Passive ability"
+"Requires Level 7 \n Grants all nearby allies resistance to fear and terror. \n Dain becomes able to reveal stealth.\n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTreeBeardLeadership09v2
-"Allied Ents near Treebeard gain \n +25% Armor, +10% Speed \n +20% Range and +25% experience \n Modifier Type: TreeBeard LEADERSHIP'\n Passive ability"
+"Allied Ents near Treebeard gain: \n +25% Armor, +10% Speed \n +20% Range and +25% Experience \n «TreeBeard LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipLurtzLeadership09v2
-"Requires Level 5 \n Allies near Lurtz gain +50% Damage \n and earn experience 25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n Passive ability"
+"Requires Level 5 \n Allies near Lurtz gain: \n +40% Damage and earn Experience 20% faster. \n «Damage LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipPalantirVision09v2
-"Spy on the enemy forces\n Gives a temporary +15% speed bonus to \n units at its target area \n Modifier Type: RESISTANT PalantirBonus'. \n Left click icon then left click on target area"
+"Spy on the enemy forces\n Target hordes and machines gain +15% speed. \n «Palantir BUFF» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipFarSight09v2
-"Spy on the enemy forces\n Gives a temporary range bonus of +35% to \n hordes at its target area\n Modifier Type: RESISTANT FarsightBonus'. \n Left click icon then left click on target area"
+"Spy on the enemy forces. \n Target archers gain +35% range \n and earn experience 25% faster. \n «Farsight BUFF» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipElvenWood09v2
-"Creates lush terrain whose center creates a propective shield against Taint Land or Human Wood from the enemy. \n Allied units gain +35% armor, \n +25% damage and earn experience 25% faster. \n Modifier Type: RESISTANT 'ElvenWood' \n Overrides LEADERSHIP effects from the allies. \n Enemy cavalry deceleration rate is raised by +250%. \n Left click icon then left click on target area"
+"Creates lush terrain whose center creates a protective shield against Taint Land or Human Wood from the enemy. \n Allied units gain +35% Armor \n and earn Experience 25% faster. \n  «ElvenWood BUFF» «Overrides Armor LEADERSHIP» \n Enemies suffer +200% Deceleration when crushing. \n Left click icon then left click on target area"
 END
 CONTROLBAR:MenWood09v2
 "Human Wood"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipCloudBreak09v2
-"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Stuns enemy units for 10 seconds \n Heals and revives allied units during 15 seconds \n Left click to activate"
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Stuns enemy units for 10 seconds. \n Heals and revives allied units during 15 seconds. \n Enemy trolls are turn into stones for 20 seconds. \n Left click to activate"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDarkness09v2
-"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the entire map in darkness\n Allied hordes gain +50% Damage, +33% Armor and earn experience 50% times faster \n Monsters gain +25% Damage, +33% Armor and +50% experience \n Modifier Type: RESISTANT 'Darkness' \n Lasts 180 seconds. \n Left click to activate"
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the entire map in darkness \n Hordes gain +50% Damage, +33% Armor, \n and earn Experience +50% faster. \n Monsters gain +25% Damage, +33% Armor, \n and earn Experience +50% faster. \n «Darkness BUFF» \n Lasts 180 seconds. \n Left click to activate"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipFreezingRain09v2
-"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the map in rain \n All enemy hordes and monsters in the map suffer \n -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP, BUFF and RESISTANT modifiers from the enemy. \n Lasts 150 seconds. \n Left click to activate"
+"Cancels Freezing Rain, Darkness and CloudBreak healing. \n Temporarily covers the map in rain \n Any enemy hordes and monsters in the map suffer \n -25% Armor and -25% Damage. \n «DEBUFF» «Neutralizes LEADERSHIP and BUFF» \n Lasts 150 seconds. \n Left click to activate"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipMightyRage09v2
-"Requires Level 4 \n Targeted friendly units gain \n+20% Speed, +25% Damage and +25% shroud revealing. \n Modifier Type: 'DEBUFF_PROOF MightyRage' \n Enemy hordes in the same location suffer \n -25% armor and -25% damage \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+"Requires Level 4 \n Targeted friendly units gain: \n +25% Damage, +20% Speed \n and +25% shroud revealing.  \n Enemy hordes in the same location suffer: \n -25% Armor and -25% Damage \n «DEBUFF» «Neutralizes LEADERSHIP» \n Left click icon then left click on target units"
 END
 CONTROLBAR:ToolTipMordorDreadVisage09v2
-"Requires Level 2 \n Nearby enemy hordes suffer -25% armor and -25% damage.  \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Passive ability"
+"Requires Level 2 \n Nearby enemy hordes suffer: \n -25% Armor and -25% Damage. \n «DEBUFF» «Neutralizes LEADERSHIP» \n Passive ability"
 End
 CONTROLBAR:TooltipCaveBats09v2
-"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target area"
+"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% Armor and -25% Damage. \n «DEBUFF» «Neutralizes LEADERSHIP» \n Left click icon then left click on target area"
 END
 CONTROLBAR:TooltipCrebain09v2
-"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% armor and -25% damage. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target area"
+"Reveals the shroud and detects stealthed units \n Enemy hordes suffer -25% Armor and -25% Damage. \n «DEBUFF» «Neutralizes LEADERSHIP» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGBloodHunt09v2
-"Requires Level 3 \n Nearby allied cavalry gain +25% Damage, +25% Armor and gain experience 50% faster\n Halves the deceleration rate of friendly cavalry \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+"Requires Level 3 \n Cavalry near Sharku gain: \n +25% Damage, +25% Armor, \n earn Experience +50% faster, \n and -50% Deceleration when crushing. \n «HighTierHero BUFF» \n Passive ability"
 END
 CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack09v2
-"Requires Level 2 \n Order Guardians to charge the enemy \n Guardians gain +25% Speed and +25% Armor. \n Causes meta impact \n Modifier Type: 'Armor BUFF'  \n Left click icon then left click on target"
+"Requires Level 2 \n Order Guardians to charge the enemy \n Guardians gain +25% Speed and +25% Armor. \n Causes meta impact \n «Armor LEADERSHIP»  \n Left click icon then left click on target"
 END
 CONTROLBAR:ToolTipBarbedArrows09v2
 "Requires Level 2\n Causes meta impact and increased damage \n Left click icon then left click on target"
 End
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework09v2
-"Increases Fortress and Wall armor \n Pre-requisite for Ivory Tower \n Upgrades summoned Lone Towers"
+"Increases Fortress and Wall Armor \n Pre-requisite for Ivory Tower \n Upgrades summoned Lone Towers"
 END
 CONTROLBAR:ToolTipSharkuManEater09v2
-"Requires Level 6 \n Kill target enemy which restores Sharku's health and temporarily grants +35% Damage, +35% armor and -50% crushing deceleration.\n Left click icon then left click on target enemy"
+"Requires Level 6 \n Kill target enemy which restores Sharku's health and temporarily grants +35% Damage, +35% Armor and -50% Deceleration when crushing. \n Left click icon then left click on target enemy"
 END
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel309v2
-"+30% Faster Build Speed \n Allows research of Mithril Mail, Forged Blades, and Flaming Shot upgrades \n Adds Defensive Axe Tower \n Forge Works gain 20% armor against Pikemen and Cavalry"
+"+30% Faster Build Speed \n Allows research of Mithril Mail, Forged Blades, and Flaming Shot upgrades \n Adds Defensive Axe Tower \n Forge Works gain 20% Armor against Pikemen and Cavalry"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing09v2
 "Heals nearby allies. \n Replenish units from hordes each 6.5 seconds. \n Reduces hero revival cost by 5% \n Reduces hero revival time by 15% \n\n Upgrades summoned Lone Towers"
 END
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde09v2
-"Strong vs. Resource Buildings\n Horde Bonus: \n Gathered orcs in numbers of at least 70\n gain +33% damage +20% speed. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Strong vs. Resource Buildings\n Horde Bonus: \n Gathered orcs in numbers of at least 70\n gain +33% Damage +20% speed. \n «HordeBonus BUFF» "
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs09v2
 "Heals nearby Allies. \n Replenish units from hordes each 6.5 seconds. \nReduces hero revive time by 25% \n Adds additional hit points to the Fortress\n\n Upgrades summoned Lone Towers"
@@ -257,138 +412,138 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipElvenCloakThranduil09v2
-"Elven Cloack: \n Becomes invisible when standing still \n Passive ability"
+"King of Mirkwood: \n Nearby Mirkwood archers gain: \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipGoblinKingSkullTotem09v2
-"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Reveals the nearby shroud, detects stealth, and provides +35% armor and +25% experience bonus to nearby allies. \n Modifier Type: 'Armor BUFF' \n Left click icon then left click on target area"
+"Requires Level 2 \n Places a skull totem that provides leadership. \n Totem will remain on the map until destroyed. \n Reveals the nearby shroud and detects stealth. \n Hordes near the totem gain: \n +35% Armor, and earn Experience +25% faster. \n «Armor LEADERSHIP» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls09v2
-"Allies near the Drummer Troll gain +35% armor and +25% experience. \n Nearby trolls gain +15% Armor, 15% Experience & autoheal themselves faster. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+"Hordes near the Drummer Troll gain: \n +35% Armor, and earn Experience +25% faster. \n Trolls near the Drummer Troll gain: \n +20 autoheal points, \n +15% Armor, and earn Experience +25% faster. \n «Armor LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipWarChant09v2
-"Target allies gain +40% Damage, 50% experience & +10% speed. \n Modifier Type: 'Damage LEADERSHIP' \n Left click icon then left click on target units"
+"Target allies gain +40% Damage, +10% speed, \n and earn Experience +50% faster. \n «Damage LEADERSHIP» \n Left click icon then left click on target units"
 End
 //------------------------------------------------------------
 CONTROLBAR:TooltipRallyingCall09v2
-"Targeted allies gain +50% Damage and +50% experience. \n Modifier Type: 'Damage LEADERSHIP' \n Left click icon then left click on target units"
+"Target allies gain +50% Damage, \n and earn Experience +50% faster. \n «Damage LEADERSHIP» \n Left click icon then left click on target units"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipRallyingCallDwarven09v2
-"Targeted allies gain +50% Damage and +25% experience. \n Modifier Type: 'Damage LEADERSHIP' \n Left click icon then left click on target units"
+"Target allies gain +50% Damage, \n and earn Experience +25% faster. \n «Damage LEADERSHIP» \n Left click icon then left click on target units"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTaint09v2
-"Taints an area of terrain \n Allied hordes gain +35% armor. \n Modifier Type: 'Armor BUFF' \n Left click icon then left click on target area"
+"Taints an area of terrain \n Allied hordes gain +35% Armor. \n «Armor LEADERSHIP» \n Left click icon then left click on target area"
 END
 CONTROLBAR:ToolTipMenWood09v2
-"Creates lush terrain. \n Allied units gain +35% armor. \n Modifier Type: 'Armor BUFF' \n Left click icon then left click on target area"
+"Creates lush terrain. \n Allied units gain +35% Armor. \n «Armor LEADERSHIP» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 OBJECT:ElvenHeroicStatueDescription09v2
-"Allies near the Statue gain \n +25% Damage, \n and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Allies gain terror and fear resistance. \n Modifier Type: 'LEADERSHIP AntiFear'\n Increases command point limit by 10"
+"Allies near the Statue gain: \n +25% Damage, \n and earn Experience 25% faster. \n «Damage BUFF» \n Allies gain terror and fear resistance. \n «AntiFear LEADERSHIP» \n Increases command point limit by 10"
 END
 //------------------------------------------------------------
 OBJECT:HeroicStatueDescription09v2
-"Allies near the Statue gain \n +25% Armor, \n and earn experience 25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \nIncreases command point limit by 10"
+"Allies near the Statue gain: \n +25% Armor, \n and earn Experience 25% faster. \n «Armor BUFF» \nIncreases command point limit by 10"
 END
 //------------------------------------------------------------
 OBJECT:DwarvenHeroicStatueDescription09v2
-"Allies near the Statue gain 35% Armor. \n Modifier Type: 'Armor BUFF' \n Allies gain terror and fear resistance. \n Modifier Type: RESISTANT AntiFear'\n Increases command point limit by 10"
+"Allies near the Statue gain 35% Armor. \n «Armor LEADERSHIP» \n Allies gain terror and fear resistance. \n «AntiFear BUFF \n Increases command point limit by 10"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v2
-"Decreases the melee vulnerability of the Fortress \n Nearby allied units receive: \n +25% damage and gain experience +25% faster\n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Decreases the melee vulnerability of the Fortress \n Allies near Fortress gain: +25% Damage, \n and earn Experience +25% faster. \n «Damage BUFF»"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressDoomPyres09v2
-"Provides 25% damage and 25% experience to nearby troops \n Modifier Type: RESISTANT 'Damage Inspiring' \n Reduces hero cost by 10%  \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%"
+"Allies near Fortress gain: +25% Damage, \n and earn Experience +25% faster. \n «Damage BUFF» \n Reduces hero cost by 10%  \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners09v2
-"Allies near Fortress gain \n +25% Damage \n and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Reduces hero cost by 10% \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%\n\n Upgrades summoned Lone Towers"
+"Allies near Fortress gain: +25% Damage, \n and earn Experience +25% faster. \n «Damage BUFF» \n Reduces hero cost by 10% \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%\n\n Upgrades summoned Lone Towers"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners09v2
-"Allies near Fortress gain \n +25% Damage and 25% experience \n Modifier Type: RESISTANT 'Damage Inspiring' \n Reduces hero cost by 10% \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%\n\n Upgrades summoned Lone Towers"
+"Allies near Fortress gain: +25% Damage, \n and earn Experience +25% faster. \n «Damage BUFF» \n Reduces hero cost by 10% \n Reduces hero recruit time by 10% \n Reduces the cost of builders by 20%\n\n Upgrades summoned Lone Towers"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipWargRiderHowl09v2
-"Wargs gain +55% Damage but \n lose -10% armor against pike and structural damage\n Modifier Type: 'DEBUFF_PROOF WargHowl' \n Overrides LEADERSHIP effects from the wargs. \n Left click to activate"
+"Wargs gain +55% Damage but suffer -10% Armor against pikes and structural arrows. \n «Overrides Damage LEADERSHIP» \n Left click to activate"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipEyeofSauron09v2
-"Summons the Eye of Sauron \n Reveals stealthed enemies \n Allies gain +25% Damage, +25% Armor, \n and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Left click icon then left click on target area"
+"Summons the Eye of Sauron \n Reveals stealthed enemies \n Hordes gain +25% Damage, +25% Armor, \n and earn Experience 50% faster. \n Trolls earn experience +25% faster. \n «HighTierHero BUFF» \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGlorfindelStarlight09v2
-"Requires Level 8 \n Allied units, monsters and heroes in a large area around Glorfindel are healed while active. \n Allied hordes replenish its units while active. \n Allied units gain +33% armor and +50% damage while active. \n Enemy units are scared while active. \n Modifier Type: 'Armor BUFF' \n Left click to activate"
+"Requires Level 8 \n Allied units, monsters and heroes are healed. \n Allied units gain 35% Damage and replenish their units. \n Causes fear in nearby enemies. \n The Starlight effect depends on Glorfindel continous summoning. \n Left click to activate"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGimliLeadership09v2
-"Allies near Gimli gain +35% armor. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+"Allies near Gimli gain: \n +35% Armor. \n «Armor LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDainLeadership09v2
-"Allies near King Dain gain +25% Damage, +25% Armor, \n and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+"Allies near King Dain gain: \n +25% Damage, +25% Armor, \n and earn Experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier09v2
-"Allies near the banner gain \n +25% Damage \n and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Slowly heals the Battlewagon when not in combat \n Adds several Phalanxes to the Battlewagon \n Reveals stealthed enemies"
+"Allies near the banner gain: \n +25% Damage, \n and earn Experience 25% faster. \n «Damage BUFF» \n Slowly heals the Battlewagon when not in combat \n Adds several Phalanxes to the Battlewagon \n Reveals stealthed enemies"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGoblinKingBattleFrenzy09v2
-"Requires Level 4 \n Allies near the Goblin King gain +25% Armor and earn experience 25% faster. \n Nearby Trolls gain experience 25% faster and autoheal +50 health points. \n Modifier Type: RESISTANT 'Armor Inspiring'\n Passive ability"
+"Requires Level 4 \n Hordes near the Goblin King gain: \n +25% Armor, and earn Experience +25% faster. \n Trolls near the Goblin King gain: \n +20 autoheal points, and earn Experience +25 faster. \n «Armor BUFF» \n Passive ability"
 End
 //------------------------------------------------------------
 CONTROLBAR:TooltipElrondLeadership09v2
-"Requires Level 3 \n Allies near Elrond gain \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+"Requires Level 3 \n Allies near Elrond gain: \n +25% Damage, +25% Armor, \n and earn Experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipArwenLeadership09v2
-"Requires Level 3 \n Cavalry near Arwen gain +25% Armor and earn experience 25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Passive ability"
+"Requires Level 2. \n Cavalry near Arwen gain: \n +25% Armor, \n and earn Experience +25% faster. \n «Armor BUFF» \n Passive ability"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirLeadership09v2
-"Requires Level 4 \n Allies near Haldir gain \n +50% Damage and earn experience +25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n Passive ability"
+"Requires Level 4 \n Allies near Haldir gain: \n +40% Damage and earn Experience +20% faster. \n «Damage LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipInspiringPresence09v2
-"Allies near Tom Bombadil gain \n +25% Armor, \n and earn experience +25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Passive ability"
+"Allies near Tom Bombadil gain: \n +25% Armor, \n and earn Experience +25% faster. \n «Armor BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAragornLeadership09v2
-"Requires Level 4 \n Allies near Aragorn gain +25% Damage, +25% Armor, and earn experience 50% faster. \n Modifier Type: RESISTANT 'High-Tier Hero' \n Passive ability"
+"Requires Level 4 \n Allies near Aragorn gain: \n +25% Damage, +25% Armor, \n and earn Experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipEomerLeadership09v2
-"Requires Level 3 \n Cavalry near Eomer gain 35% Armor. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+"Requires Level 3 \n Cavalry near Eomer gain: \n 35% Armor. \n «Armor LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipFaramirLeadership09v2
-"Requires Level 7 \n Allies near Faramir gain +35% Armor. \n Modifier Type: 'Armor BUFF' \n Passive ability"
+"Requires Level 7 \n Allies near Faramir gain: \n +35% Armor. \n «Armor LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBoromirLeadership09v2
-"Requires Level 5 \n Allies near Boromir gain +50% Damage \n and earn experience +25% faster. \n Modifier Type: 'Damage LEADERSHIP' \n Passive ability"
+"Requires Level 5 \n Allies near Boromir gain: \n +40% Damage, and earn Experience +20% faster. \n «Damage LEADERSHIP» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTheodenLeadership09v2
-"Requires Level 2 \n Allies near Theoden gain +25% Damage \n and earn experience +25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Passive ability"
+"Requires Level 2 \n Allies near Theoden gain: \n +25% Damage, \n and earn Experience +25% faster. \n «Damage BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 TOOLTIP:ToolTipSarumanLeadership09v2
-"Allies near Saruman gain +25% Armor and earn experience 25% faster. \n Modifier Type: RESISTANT 'Armor Inspiring' \n Passive ability"
+"Inspiring Presence: \n Allies near Saruman gain: \n +25% Armor, \n and earn Experience 25% faster. \n «Armor BUFF» \n Passive ability"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirGoldenArrow09v2
-"Requires Level 10 \n A high damage attack that causes metaimpact. \n Effective against cavalry and weak heroes. \n Stuns light sensitive enemy units. \n Can only use with bow equipped \n Left click icon then left click on target" 
+"Requires Level 10 \n A high Damage attack that causes metaimpact. \n Effective against cavalry and weak heroes. \n Stuns light sensitive enemy units. \n Can only use with bow equipped \n Left click icon then left click on target" 
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipThornofVengeance09v2
-"Requires Level 9 \n An extremely powerful single shot attack that causes damage for 15 seconds. \n The target is reduced to only 70% speed. \n Effective against strong heroes. \n Left click icon then left click on target"
+"Requires Level 10 \n An extremely powerful single shot attack that causes Damage for 15 seconds. \n The target is reduced to only 70% speed. \n Effective against strong heroes. \n Left click icon then left click on target"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
@@ -396,43 +551,43 @@ CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipVenomousWords09v2
-"Enemy hordes and heroes in the target location suffer \n -40% speed and -50% rate of fire. \n Lasts 19 seconds. \n Modifier Type: 'STUN' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+"Hordes and heroes in the target location suffer \n -40% speed and -50% rate of fire. \n Lasts 19 seconds. \n «Neutralizes LEADERSHIP» \n Left click icon then left click on target units"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipMouthOfSauronDoubt09v2
-"Requires Level 4 \n Enemy hordes and heroes in the target location suffer \n -25% armor, -25% damage and -5% speed. \n Lasts 30 seconds. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n Left click icon then left click on target units"
+"Requires Level 4 \n Enemy units and heroes in the target location suffer \n -25% Armor, -25% Damage and -5% speed. \n «DEBUFF» «Neutralizes LEADERSHIP» \n Lasts 30 seconds.\n Left click icon then left click on target units"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipEnshroudingMist09v2
-"Friendly units within the mist become stealthed. \n Enemy hordes, heroes and monsters in the same area suffer \n -25% armor and -25% damage. \n Lasts 60 seconds. \n Modifier Type: 'DEBUFF' \n Neutralizes LEADERSHIP and BUFF effects from the enemy. \n\n Left click icon and left click on target area"
+"Allies within the mist become stealthed. \n Enemy units, heroes, and monsters within the mist \n suffer -25% Armor and -25% Damage. \n Lasts 60 seconds. \n «DEBUFF» «Neutralizes LEADERSHIP» \n Left click icon and left click on target area"
 END
 //------------------------------------------------------------
 TOOLTIP:ToolTipToggleGFighterLineToBlockFormation09v2
-"Research Banner Carrier upgrade at Barracks to enable this equipment. \n +25% Armor, -30% Speed and +33% extra arrow resistance"
+"Research Banner Carrier upgrade at Barracks to enable this equipment. \n +25% Armor, -30% Speed and +33% extra arrow resistance. \n Loses -5% Damage."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation09v2
-"+25% Armor, -30% Speed and +33% extra arrow resistance"
+// Men
+"+25% Armor, -30% Speed and +33% extra arrow resistance. \n Loses -5% Damage."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation09v2
-"+20% Armor, -30% Speed and +25% extra arrow resistance. \n Loses -7% damage."
+// Isengard
+"+20% Armor, -30% Speed and +25% extra arrow resistance. \n Loses -5% Damage."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDisguise09v2
-"Requires Level 3 \n Disguise as a normal Rohirrim, wearing it's armament and fighting like one of them. \n Eowyn deals damage in area \n Left click to activate"
+"Requires Level 3 \n Disguises as a normal Rohirrim, wearing it's armament and fighting like one of them. \n Eowyn causes damage in area, causes +25% damage against heroes and trample deceleration rate is halved. \n Lasts 30 seconds. \n Left click to activate"
 END
 CONTROLBAR:ToolTipSmite09v2
-"Powerful ranged attack \n Bonus against heroes \n Specialy powerful vs Fellbeasts \n Left click icon then left click on target"
+"Powerful ranged attack with damage in area. \n Level 1: Tiny damage in area. 400% damage against fellbeasts, 130% against heroes. \n Level 4: Improved damage in area. 430% damage against fellbeasts, 145% against heroes and pins them for 1 second.  \n Level 7: Wide damage in area. 460% damage against fellbeasts, 160% against heroes and pins them for 2 seconds. \n Left click icon then left click on target"
 END
 CONTROLBAR:ToolTipShieldMaiden09v2
-"Requires Level 5 \n Eowyn gains 35% Armor \n Halves the deceleration rate of friendly Rohirrim when trampling \n Left click to activate"
+"Requires Level 5 \n Eowyn gains 35% Armor and nearby Rohirrims gain: \n -50% Deceleration when crushing. \n Level 7: Eowyn also gains another +35% armor bonus against the attacks from heroes. \n Lasts 30 seconds. \n Left click to activate"
 END
-//	\n Cancels Shield Maiden bonus.
-//	\n Cancels the disguise
 //------------------------------------------------------------
 CONTROLBAR:TooltipSunflare09v2
-"Calls a fiery beam of sunlight to scorch the battlefield and indiscriminately burn enemies and allies. \n Effective against weak heros \n Cancels Darkness & Frezzing Rain \n Left click icon then left click on target area"
+"Calls a fiery beam of sunlight to scorch the battlefield. \n Indiscriminately burn enemies and allies. \n Effective against weak heroes \n Cancels Freezing Rain, Darkness and CloudBreak healing. \n Enemy trolls are turn into stones for 20 seconds. \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipCitadel09v2
@@ -440,7 +595,7 @@ CONTROLBAR:TooltipCitadel09v2
 END
 //------------------------------------------------------------
 OBJECT:SignalFireDescription09v2
-"Capture it to decrease recharge times for unused powers \n Heals nearby Heros and Flyers. \n\n 1 signal fire = -25% reduction of spellbook reload time \n 2 signal fires = -35% reduction \n 3 signal fires = -50% reduction"
+"Capture it to decrease recharge times for unused powers \n Heals nearby Heroes and Flyers. \n\n 1 signal fire = -25% reduction of spellbook reload time \n 2 signal fires = -35% reduction \n 3 signal fires = -50% reduction"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde09v2
@@ -455,7 +610,7 @@ CONTROLBAR:ToolTipGloinSmash09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipSpecialAbilityFiresOfDoom09v2
-"Calls down a hail of molten rock that will damage any enemies or allies units on selected area \n Left click icon then left click on target area"
+"Calls down a hail of molten rock that will Damage any enemies or allies units on selected area \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:Command_ConstructMordorCastleWallHub09v2
@@ -467,7 +622,7 @@ CONTROLBAR:TooltipFlood09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipRebuild09v2
-"Heals 3000 health-points from any structure. \n Target structures gain 15% bonus armor for 15s. \n Left click icon then left click on target structures"
+"Heals 3000 health-points from any structure. \n Target structures gain 15% bonus Armor for 15s. \n Left click icon then left click on target structures"
 End
 //------------------------------------------------------------
 CONTROLBAR:DwarvenCaptainofDale09v2
@@ -538,10 +693,10 @@ CONTROLBAR:ToolTipAthelasAragorn09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipAthelasElrond09v2
-"Heals 750 health points from nearby Hordes and Heroes. \n Nearby Hordes and Monsters receive a increment of \n +15% to Health Points and +25% to experience gaining \n Provides resistance to fear and terror \n Modifier Type: 'DEBUFF_PROOF ElvenGrace' \n Lasts 12 seconds \n Left click to activate"
+"Heals 750 health points from nearby Hordes and Heroes. \n Nearby Hordes and Monsters gain +15% Armor and earn experience 25% faster. \n Provides resistance to fear and terror. \n Lasts 12 seconds \n Left click to activate"
 END
 CONTROLBAR:ToolTipElrondFarsight09v2
-"Reveals an area of the map \n Provides +27.5% vision reveal range to any allied unit for 25 second. \n Doesn't affect heroes. \n Modifier Type: 'DEBUFF_PROOF ElrondFarseeing' \n Left click icon then left click on target area"
+"Reveals an area of the map \n Provides +27.5% shroud reveal radius to any allied unit for 25 second. \n Doesn't affect heroes. \n Left click icon then left click on target area"
 END
 //------------------------------------------------------------
 CONTROLBAR:KingsFavorDain09v2
@@ -552,7 +707,7 @@ CONTROLBAR:ToolTipKingsFavorDain09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipSauronsFiresOfDoom09v2
-"Calls down many molten rocks in an area around Sauron, \n Left click icon starts the channeling \n Does not hurt allies"
+"Calls down many molten rocks in an area around Sauron. \n Left click icon starts the channeling \n Does not hurt allies"
 END
 //------------------------------------------------------------
 
@@ -579,16 +734,16 @@ CONTROLBAR:TooltipLadyOfLight
 "Call down the Light of Valar onto your enemies. \n Deals massive damage in a large area"
 END
 CONTROLBAR:SpecialAbilityFiresOfDoom2
-"Summon Three Fi&res of Doom around Sauron in a circle"
+"Summon Three Fires of Doom around Sauron in a circle"
 END
 CONTROLBAR:LoneTowerLeadershipUpgradeIcon
-"Requires researching the upgrade at fortress. \n\n Provides to nearby allies +25% damage and earn experience 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Requires researching the upgrade at fortress. \n Nearby allies gain: \n +25% Damage, \n and earn Experience 25% faster. \n «Damage BUFF»"
 END
 CONTROLBAR:LoneTowerHealingUpgradeIcon
-"Requires researching the upgrade at fortress. \n\n Heals nearby allies. \n Replenish one unit per horde each 10 seconds"
+"Requires researching the upgrade at fortress. \n Heals nearby allies. \n Replenish one unit per horde each 10 seconds"
 END
 CONTROLBAR:LoneTowerArmorUpgradeIcon
-"Requires researching the upgrade at fortress. \n\n Significantly reduces the amount of damage taken."
+"Requires researching the upgrade at fortress. \n Significantly reduces the amount of damage taken."
 END
 
 
@@ -605,25 +760,25 @@ CONTROLBAR:SpecialAbility_ShieldBubble
 "Shield Bubble (&W)"
 END
 CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
-"The Wizard transfers all of his Power into a Shield that will absorbs every kind of damage dealt on him. \n Gandalf also gains inmunity to knock-back. \n Lasts 5 seconds. \n \n Left click icon to activate"
+"The Wizard transfers all of his Power into a Shield that will absorbs every kind of damage dealt on him. \n Gandalf also gains inmunity to knock-back. \n Lasts 5 seconds. \n Left click icon to activate"
 END
 CONTROLBAR:Fire_pit
 "Fire pit (&V)"
 END
 CONTROLBAR:TooltipFire_pit
-"Campfire that heals nearby Allies \n Replenish 1 unit per horde each 5 seconds. \n Detect stealth \n Nearby allies gain +5% armor. \n Modifier Type: RESISTANT 'HobbitCampfire'"
+"Campfire that heals nearby Allies \n Replenish 1 unit per horde each 5 seconds. \n Detect stealth \n Nearby allies gain +5% Armor. \n «Campfire BUFF»"
 END
 CONTROLBAR:FireWorks
 "FireWorks / Deploy [&V]"
 END
 CONTROLBAR:ToolTipFireWorks
-"Merry can drop Fireworks \n on the ground and ignite it \n \n Left click to activate"
+"Merry can drop Fireworks \n on the ground and ignite it \n Left click to activate"
 End
 CONTROLBAR:FireWorks2
 "Fireworks / Ignite [&B]"
 END
 CONTROLBAR:ToolTipFireWorks2
-"Fireworks damages units within large radius \n \n Left click to activate"
+"Fireworks damages units within large radius \n Left click to activate"
 End
 CONTROLBAR:FireWorksObj
 "FireWorks"
@@ -644,7 +799,7 @@ End
 
 
 
-// Maps.Strings	-----	2019
+// Maps.Strings	-----	2019-2020-2021
 
  
 
@@ -656,18 +811,300 @@ END
 Map:mapmpnothing/Desc
 "nothing"
 END
+//----------------------------------
+Map:map_pk_glanduin_canyon
+"Glanduin Canyon"
+END
+Map:map_pk_glanduin_canyon/Desc
+"The Glanduin was a river in the region of Eriador in Middle-earth and an eastern arm of the Gwathlo. \n Map by Powerkartoffel."
+END
+//----------------------------------
+Map:map_PK_Moria
+"Moria"
+END
+Map:map_PK_Moria/Desc
+"Moria, was the grandest and most famous of the mansions of the Dwarves. There, for many thousands of years, a thriving Dwarvish community created the greatest city ever known. Map by Powerkartoffel"
+END
 //------------------------------------------------------------
-Map:mapttfiriendale
+Map:map_pk_mering_stream_II
+"Mering Stream 2"
+END
+Map:map_pk_mering_stream_II/Desc
+"The Great West Road crosses the Mering Stream, a border river that separates Rohan and Gondor.  \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_carrock
+"Carrock"
+END
+Map:map_pk_carrock/Desc
+"The Carrock was a stony eyot in the upper reaches of the River Anduin, to the north of the Old Ford. The river looped around the rock although there was a ford of stones to the eastern bank, while there was a swirling channel under its western cliff. At the base was a little cave with adjacent steps that led to a flat space upon the top. \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:mapMOeastfoldII
+"Eastfold II"
+END
+Map:mapMOeastfoldII/Desc
+"The Eastfold is a region of Rohan bordering Westfold via the Snowbourn River. The whole area was traversed by the Great West Road. \n Map by Ecthelion and Powerkartoffel. \n Originally created by Motoma for RotWK."
+END
+//------------------------------------------------------------
+Map:map_PK_gladden_fields
+"Gladden Fields"
+END
+Map:map_PK_gladden_fields/Desc
+"The Gladden Fields were a marshland located in the vale of the Gladden river, and on the banks of the river Anduin. It was there that the One Ring was lost by Isildur, and found again centuries later by Deagol the Stoor. \n Map by Powerkartoffel and Ecthelion."
+END
+//------------------------------------------------------------
+Map:map_pk_enchanted_river
+"Enchanted River"
+END
+Map:map_pk_enchanted_river/Desc
+"The Enchanted River was a black river in Mirkwood that flowed north from its source in the Mountains of Mirkwood towards the Forest River. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_so_rhudaur
+"Rhudaur"
+END
+Map:map_so_rhudaur/Desc
+"Rhudaur was the eastern Kingdom of Arnor and mostly populated by the native Hill-men. Under their leader Hwaldar they joined the Witch-king in his war against the Dunedain. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapETSouthRoad
+"South Road"
+End
+Map:mapETSouthRoad/Desc
+"The South Road connects Minas Tirith with the southern Gondor havens. This wide and well-paved road goes through the lands of Lossarnach and Lebennin, crosses the river Erui and reaches Pelargir. Map by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapCAPUtumladenII
+"Valley of Tumladen"
+END
+Map:mapCAPUtumladenII/Desc
+"Tumladen is a deep valley between the rivers Celos and Sirith. It was the refuge of many civilians from Minas Tirith during the War of the Ring. \n Rework by Capuchino, original map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:map_pk_harrowdale
+"Harrowdale"
+END
+Map:map_pk_harrowdale/Desc
+"Harrowdale was a deep, north-south valley cut out of the White Mountains by the Snowbourn river in Rohan. \n At its southern end, between the mountains known as the Starkhorn and Irensaga, stood Dunharrow, a great clifftop refuge of the Rohirrim.\n Reskin of Fords of Isen II by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_carnen_mire
+"Carnen Mire"
+END
+Map:map_pk_carnen_mire/Desc
+"The River Carnen originated in the Iron Hills and was east of the Lonely Mountain. It flowed southward before emptying into the River Running, which was about 250 Numenorean miles to the south. This river, in turn, flowed past the land of Dorwinion and into the Sea of Rhun. \n Map by Powerkartoffel."
+END
+//----------------------------------
+Map:map_pk_stockbrook
+"Fords of Stockbrook"
+END
+Map:map_pk_stockbrook/Desc
+"The Stockbrook was a stream located in the Eastfarthing of the Shire. It joined the Brandywine after passing its namesake, the village of Stock. It had steep banks lined with brambles that gradually become lower as it heads towards the river.\n Reskin of Fords of Isen II by Powerkartoffel"
+END
+//----------------------------------
+Map:map_PK_desert_of_khand
+"Udun II - Desert Temple of Khand"
+END
+Map:map_PK_desert_of_khand/Desc
+"Deep in The Dune Sea a strange temple construction can be found.\n Reskin of Udun by Powerkartoffel"
+END
+//----------------------------------
+Map:map_PK_Udun_Desert
+"Udun II - Ruins of Old Khand"
+END
+Map:map_PK_Udun_Desert/Desc
+"Footprints of the lost civilisation of Khand.\n Reskin of Udun [6p] by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_PK_numenors_downfall
+"Numenors Downfall" 
+End
+Map:map_PK_numenors_downfall/Desc
+"The island of Numenor was a great civilization of Men that was destroyed due to their pride and rebellion against the will of the Valar. The once-great land was swallowed by the sea, leaving behind only haunting ruins and semi-flooded islands as somber reminders of the folly and transgressions of men. \n Map by Powerkartoffel"
+//"'For Melkor's sake! Why won't this rain ever stop?' Cursed Kevin. Once again, he failed. His 5th attempt with the rotten wood to make his farewell-from this god-forsaken island. He was the prodigy of Numero's boatman's trade guild, designer of the "Azrubel", a ship with a wide hull and narrow waterline which made the journey to Belfast in 4 weeks. And now THIS... 'Stop swearing! I can't take this anymore; I'm going to gather wood with Johan.' Sarah van Botenbirken, the firstborn of her house, ran away from her father to marry Kevin and start a new life. This was in the Age of Enlightment before the Downfall. Now her father, who was obsessed with Iluvatar's false dogmas, is drowning in the depths of the Ocean. This woman, once with a will of iron and a cunning smile, is now broken by this bastard's illness with a voice of sadness and eyes filled with  tears. While Kevin blamed all his misfortunes on the child with the flaming red hair, Sarah lived every day in nostalgia of the days with her family. \n Map by Powerkartoffel"
+//"An old lady sat by the sea, and all her tired eyes could see were the remains of her home being swept out to sea. She reflected on the Fall of Numenor when Sauron sent his mighty host; his many white vans were ever watchful as they abducted the nation's youth. Offering free tattoos, gauges, and CDs, Sauron eroded the trust between father and son, replacing the once rich culture with Eru Iluvatar's homosexual fantasies. Slowly but surely, as they rebelled against their poor parents whose love was no match for Iluvatars corruption, the nation soon crumbled as his main forces raped the land in its state of weakness. The island nation had turned into a gray collection of ruins, dead hopes, and crushed dreams. The old woman takes a drag off her cigarette and sung a line from her favorite song from the Sauron Youth program, "there is no sunshine, just dark clouds with an endless rain of tears..."
+End
+//------------------------------------------------------------/
+Map:map_PK_port_linhir
+"Markets of Linhir" 
+End
+Map:map_PK_port_linhir/Desc
+"Situated at the south of the Gondor, in the confluence of Gilrain and Serni rivers, Linhir is a port city known by its opulent market and services. During the War of the Ring a clash between Invasors of Umbar and Aragorn's Dead Army took place. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------/
+Map:map_pk_rhudel_steppe
+"Rhudel Steppe"
+End
+Map:map_pk_rhudel_steppe/Desc
+"Rhudel is a plain land beyond the sea of Rhun, whose name implies horror in the east, possibly due the existance of dragons. Despite not being fertile enough to support permanent habitation, there is a significant amount of ruins of unknown origin. \n Map remade by Powerkartoffel. \n Original autor unknown."
+End
+//------------------------------------------------------------
+Map:map_PK_Forlond
+"Forlond" 
+End
+Map:map_PK_Forlond/Desc
+"Forlond was a harbour that lay on the northern shore of the Gulf of Lune, in the Elvish land of Forlindon. It had a counterpart on the southern shore: the Harlond. Forlond was located at the mouth of an unnamed river that traversed Forlindon, some two hundred miles to the northwest of the Grey Havens. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_beleriand
+"Beleriand"
+End
+Map:map_PK_beleriand/Desc
+"At the end of the First Age of Middle-earth, Beleriand was broken in the War of Wrath by the the Maiar, against Morgoth . As the inhabitants fled much of Beleriand sank in the sea. The left behind souls still fight their battle for supremancy of the sunken lands. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_amon_amarth_II
+"Amon Amarth II" 
+End
+Map:map_PK_amon_amarth_II/Desc
+"Amon Amarth, the mountain of fate, is located deep within Mordor. It is also known as Mount Doom. \n Map by Mako, edited by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_brandy_hills
+"Brandy Hills" 
+End
+Map:map_PK_brandy_hills/Desc
+"This is an area north of Buckland along the eastern shores of Brandywine River until the Brandywood. Girdley Island is the only named point of interest of these hills though they are dotted by small Arnorian ruins. \n Map by Powerkartoffel. \n Special thanks to Temptattion"
+End
+//------------------------------------------------------------
+Map:map_pk_dunland_ii
+"Dunland II" 
+End
+Map:map_pk_dunland_ii/Desc
+"The Eastern regions of the Enedwaith, home of the Wild Men, sworn enemies of Rohan. \n Map reworked by Powerkartoffel & Ecthelion"
+End
+//------------------------------------------------------------
+Map:map_pk_gardens_of_far_harad
+"Gardens of Far Harad" 
+End
+Map:map_pk_gardens_of_far_harad/Desc
+"The Gardens of Far Harad were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_iron_mountains_II
+"Iron Mountains II" 
+End
+Map:map_PK_iron_mountains_II/Desc
+"The Iron Mountains, also known as Ered Engrin and the Mountains of Iron, were an immense mountain range in the northern part of Middle-earth. \n Creeps: 4 Wargs, 2 Trolls, 2 Dragons, 2 Goblins \n Capture: 2 Signal Fires, 2 Inns \n Size: Large 1v1 \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_Last_Bridge
+"Last Bridge" 
+End
+Map:map_PK_Last_Bridge/Desc
+"The Last Bridge was an ancient stone bridge that carried the East Road over the River Hoarwell, about a hundred miles east of Weathertop and roughly the same distance west of Rivendell. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_pk_lonely_mountain
+"Slopes of the Lonely Mountain"
+End
+Map:map_pk_lonely_mountain/desc
+"The Battle of the five Armies took place in this valley, located between the Lonely Mountain and Dale. The five warring parties were the Goblins and the Wargs against Men, Elves, and Dwarves. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_mirkwood_ii
+"Mirkwood II" 
+End
+Map:map_PK_mirkwood_ii/Desc
+"Mirkwood is a large forest located in between the kingdom of Gondor and the Grey Mountains. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_mount_doom_II
+"Mount Doom II" 
+End
+Map:map_PK_mount_doom_II/Desc
+"Mount Doom, the mountain of fate, is located deep within Mordor. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapMXgundabaddeeps
+"Gundabad Deeps" 
+End
+Map:mapMXgundabaddeeps/Desc
+"Gundabad was once a dwarven settlement founded by Durin I in the First Age, but now, the Mount and it's underground are infested with orcs, goblins, and other merciless creatures. \n Map by Mex Flaxtz."
+End
+//------------------------------------------------------------
+Map:mapSOironhillsii
+"Iron Hills II"
+END
+Map:mapSOironhillsii/Desc
+"These hills, rich in iron, were long held by the Dwarves and Dain Ironfoot. \n Map from RotWK by Solas, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapSOsorrowisles
+"Sorrow Isles" 
+End
+Map:mapSOsorrowisles/Desc
+"A group of lone Islands in the Sea of Belfalas. It is said to be the prison of two evil spirits who drive the island's unsuspecting visitors into madness. \n Map from RotWK, by Solas."
+End
+//------------------------------------------------------------
+Map:mapMAironhillsIV
+"Iron Hills IV"
+END
+Map:mapMAironhillsIV/Desc
+"A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water. \n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+Map:mapTTettenmoorsII
+"Ettenmoors II" 
+End
+Map:mapTTettenmoorsII/Desc
+"The Ettenmoors, also known as the Troll-fells, were a highland region of Eriador, which was west of the Misty Mountains. The land was wild, and many evil creatures dwelt there. \n Map by Temptation. \n Special thanks to Powerkartoffel and Ecthelion"
+End
+//------------------------------------------------------------
+Map:map_PK_bamfurlong
+"Bamfurlong" 
+End
+Map:map_PK_bamfurlong/Desc
+"Bamfurlong was a farm in the boggy region of the Marish in the eastern Shire. It was the home of Farmer Maggot, who lived above ground rather than in a traditional Hobbit-hole. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapSOironhillsii
+"Iron Hills II"
+END
+Map:mapSOironhillsii/Desc
+"These hills, rich in iron, were long held by the Dwarves and Dain Ironfoot. \n Map from RotWK, by Solas. \n Reworked by Powerkartoffel & Ecthelion"
+END
+//----------------------------------
+Map:mapETerechiii
+"Erech 4th Age" 
+End
+Map:mapETerechiii/Desc
+"This hill is known by a famous black, spherical stone, where the King of Dead had once sworn allegiance to Isildur's cause. Because he failed to fulfill his oath, the Oathbreakers haunted the hills until Elessar released them at the end of the 3rd age. \n Map by Ecthelion. Special thanks to Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:mapTTbaranduin
+"River Baranduin"
+END
+Map:mapTTbaranduin/Desc
+"The Baranduin River of Eriador is known by the Hobbits as the Brandywine River. It marks the the boundary between the known and the unknown. \n Map by Temptation."
+END
+//------------------------------------------------------------
+Map:map_pk_canyons_of_khand
+"Canyons of Khand" 
+End
+Map:map_pk_canyons_of_khand/Desc
+"Khand was the name of a land which lay to the south of Mordor and the east of Near Harad. Little is known about Khand or its people, but it was most likely a dry and barren land covered in desert. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_lonely_mountain
+"Slopes of the Lonely Mountain"
+End
+Map:map_PK_lonely_mountain/desc
+"The Battle of the five Armies took place in this valley, located between the Lonely Mountain and Dale. The five warring parties were the Goblins and the Wargs against Men, Elves, and Dwarves. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapTTfiriendale
 "Firien Dale"
 END
 Map:mapTTfiriendale/Desc
 "A deep cleft separating the Halifirien hill from its spur of the White Mountains; the source of the Mering Stream. \n Map by Temptation and Ecthelion"
 END
 //------------------------------------------------------------
-Map:mapetdruadanforestIII
+Map:mapETdruadanforestIII
 "Druadan Forest III"
 End
-Map:mapetdruadanforestIII/Desc
+Map:mapETdruadanforestIII/Desc
 "An old forest at the foot of the White Mountains, to the northwest of Minas Tirith. \n Map from BFME1, remade by Ecthelion."
 End
 //------------------------------------------------------------
@@ -728,10 +1165,10 @@ Map:mapTTsouthhollin/desc
 End
 //------------------------------------------------------------
 Map:mapTTfordofbruinen
-"Ford of Bruinen" 
+"Ford of Bruinen II" 
 End
 Map:mapTTfordofbruinen/Desc
-"The upland forests, mostly made up of beeches, lay to the West of Rivendell where the Bruinen river flows, a favorite hunting ground for trolls who descended from the mountains to attack travelers on the Great Western highway.\n Map by Temptation"
+"The upland forests, mostly made up of beeches, lay to the West of Rivendell where the Bruinen river flows, a favorite hunting ground for trolls who descended from the mountains to attack travelers on the Great Western highway.\n Map by Temptation. \n Special thanks to Powerkartoffel and Ecthelion."
 End
 //------------------------------------------------------------
 Map:mapTTosgiliathII
@@ -782,7 +1219,7 @@ Map:mapHAforlindon
 "The Cow Maze"
 End
 Map:mapHAforlindon/Desc
-"The tale of The Cow Maze:\nThe Bard has told us of the Great Cow Maze that once took place in this territory...\n Within it's great walls, many strong heroes from ancient ages, like the Mighty-Bunito and the Glute-Master have struggled with fire and siege, breaking through the walls of stone in a battle that lasted 109 days and 109 nights. The heros trudged through cow shit but to no avail, as the mad Cow Lord stroked (or milked) his wet and voluptuous udders night and day, noone did survive. Milk and blood was splatered, but still, noone could stand against the wrath of the Mighty Cow. \nEven so, the Maze and it's stoned walls were destroyed due the violence from the Last Great Battle. Now only ruins remain to watch over the north-west of the middle-earth, and the Mighty Cow has became a God who people pray in times of war. \n The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\n\n Map originally from BFME1 by Haldir, edited by Ecthelion."
+"The tale of The Cow Maze:\nThe Bard has told us of the Great Cow Maze that once took place in this territory...\n Within it's great walls, many strong heroes from ancient ages, like the Mighty-Bunito and the Glute-Master have struggled with fire and siege, breaking through the walls of stone in a battle that lasted 109 days and 109 nights. The heroes trudged through cow shit but to no avail, as the mad Cow Lord stroked (or milked) his wet and voluptuous udders night and day, noone did survive. Milk and blood was splatered, but still, noone could stand against the wrath of the Mighty Cow. \nEven so, the Maze and it's stoned walls were destroyed due the violence from the Last Great Battle. Now only ruins remain to watch over the north-west of the middle-earth, and the Mighty Cow has became a God who people pray in times of war. \n The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\n\n Map originally from BFME1 by Haldir, edited by Ecthelion."
 End
 //The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\nMap from BFME1 by Haldir, edited by Ecthelion."
 //------------------------------------------------------------
@@ -797,7 +1234,7 @@ Map:mapETerynrhun
 "Eryn Rhün" 
 End
 Map:mapETerynrhun/Desc
-"Eryn Rhün means Eastern Forest, used as reference to the mysterious woody region at the east of the sea of Rhün, irrigated by the mouths of the rivers from the Red Mountains. \n Map by Ecthelion"
+"Eryn Rhün means Eastern Forest, used as reference to the mysterious woody region at the east of the sea of Rhün, irrigated by the mouths of the rivers from the Red Mountains. \n Map by Ecthelion. Special thanks to Powerkartoffel."
 End
 //------------------------------------------------------------
 Map:mapETlebennin
@@ -1130,7 +1567,7 @@ Map:mapJKtowerhills/Desc
 END
 //------------------------------------------------------------
 Map:mapMAudunii
-"Udun [6p]"
+"Udun"
 END
 Map:mapMAudunii/Desc
 "The lands behind the Black Gate known as Udun take the name of the underworld due to the volcanic ash and noxious fumes that cover them.\n Map from RotWK, by Mako."
@@ -6818,17 +7255,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v2"
+"1.09v3"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v2"
+"1.09v3"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v2"
+"1.09v3"
 END
 
 Version:BuildTime
@@ -10636,7 +11073,7 @@ OBJECT:ElvenRivendellLancer
 END
 
 OBJECT:ElvenBanner
-"Elven banner"
+"Elven Banner"
 END
 
 OBJECT:HordeElvenRivendellLancer
@@ -16834,7 +17271,7 @@ CONTROLBAR:Undermine
 END
 
 CONTROLBAR:TooltipUndermine
-"Places a Mine Shaft anywhere on the map \n Mine Shaft becomes immediately connected to tunnel network \n Deals high damage at spawn point and light damage in the perimeter\n Left click icon then left click on visible location"
+"Summons a Mine Shaft onto the battlefield. \n Cannot be cast within close proximity of an enemy fortress. \n Can be casted on the fog of war. \n The Mine Shaft is connected to tunnel network. \n Deals greater damage at spawn point and lesser damage in the perimeter. \n Left click icon, then left click on pathable location."
 END
 
 OBJECT:UndermineMineShaft
@@ -17337,7 +17774,7 @@ END
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel2Upgrade
 "Level 2: Allows research of the Forged Blades upgrade"
 END
-// \n The structure gain armor: \n +10% against Heros \n +20% against Pikes \n +25% against Cavalry
+// \n The structure gain armor: \n +10% against heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
 "&Upgrade Treasure Trove to Level 3"
@@ -17346,7 +17783,7 @@ END
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel3Upgrade
 "Level 3: Allows research of the Fire Arrows upgrade"
 END
-// \n The structure gain armor: \n +10% against Heros \n +20% against Pikes \n +25% against Cavalry"
+// \n The structure gain armor: \n +10% against heroes \n +20% against Pikes \n +25% against Cavalry"
 
 CONTROLBAR:ConstructWildSpiderlingHorde
 "Spider&lings"
@@ -17845,7 +18282,7 @@ CONTROLBAR:ToolTipSpecialAbilityEntFindRock
 END
 
 CONTROLBAR:tooltipCommand_ToggleEntRockThrow
-"Toggle Rock-Throw Mode [&T]"
+"Toggle Rock-Throw Mode [&W]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrabBuildingChunk
@@ -17968,7 +18405,7 @@ CONTROLBAR:ToolTipHawkStrike
 END
 
 CONTROLBAR:ToolTipTrainArchers
-"Requires Level 3 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+"Requires Level 3 \n Targeted archers gain experience. \n Left click icon, then left click on target archers."
 END
 
 CONTROLBAR:MonsterSlayer
@@ -18235,7 +18672,7 @@ CONTROLBAR:ToolTipMount
 END
 
 CONTROLBAR:UseSword
-"Use Swo&rd"
+"Use Sword (&W)"
 END
 
 CONTROLBAR:ToolTipUseSword
@@ -18243,7 +18680,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:PhialofGaladriel
-"Phial of Galadriel (&T)"
+"Phial of Galadriel (&R)"
 END
 
 CONTROLBAR:ToolTipPhialofGaladriel
@@ -24426,7 +24863,7 @@ Map:MAPMPDagorlad/Desc
 END
 
 Map:MAPMPDeadMarshes/Desc
-"A haunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mount Doom."
+"A haunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mount Doom. \n Map from BfME1."
 END
 
 Map:MAPMPDruadanForest/Desc
@@ -28705,7 +29142,7 @@ END
 CONTROLBAR:ToolTipBuildEregionForgeLevel2
 "Allows research of the Forged Blades Upgrade"
 END
-// \n The structure gain armor: \n +10% against Heros \n +25% against Pikes \n +33% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
 "&Upgrade Eregion Forge to Level 3"
@@ -28714,7 +29151,7 @@ END
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
 "Allows research of Silverthorn Arrows"
 END
-// \n The structure gain armor: \n +10% against Heros \n +25% against Pikes \n +33% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipGreenPasture
 "Trains Elven Cavalry"
@@ -28845,7 +29282,7 @@ CONTROLBAR:ConstructElvenMithlondSentryHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
-"Strong vs. Cavalry and \n Unit Production Buildings \n Can stealth near trees"
+"Strong vs. Cavalry and \n Unit Production Buildings \n Can stealth near trees. \n Gains +4% speed at level 4, 7 and 10."
 END
 
 CONTROLBAR:BuildElvenRivendellLancers
@@ -31385,7 +31822,7 @@ CONTROLBAR:Sunflare
 END
 
 CONTROLBAR:TooltipSunflare
-"Calls a fiery beam of sunlight to scorch the battlefield \n Effective against weak heros \n Cancels Darkness & Frezzing Rain \n Left click icon then left click on target area"
+"Calls a fiery beam of sunlight to scorch the battlefield \n Effective against weak heroes \n Cancels Darkness & Frezzing Rain \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:CaveBats
@@ -32222,16 +32659,6 @@ CONTROLBAR:HeroToggleHorse
 "Allows Hero to mount a horse"
 End
 
-
-
-CONTROLBAR:Invulnerability_Level1
-"Invulnerability Level I"
-End
-
-CONTROLBAR:Invulnerability_Level2
-"Invulnerability Level II"
-End
-
 CONTROLBAR:IsengardWargSentryUnleash
 "Un&leash Warg"
 End
@@ -32248,17 +32675,17 @@ CONTROLBAR:Knife
 "Knife [&W]"
 End
 
-CONTROLBAR:LightBlast_Level1
-"Blast of Light Level I"
-End
-
-CONTROLBAR:LightBlast_Level2
-"Blast of Light Level II"
-End
-
-CONTROLBAR:LightBlast_Level3
-"Blast of Light Level III"
-End
+//	CONTROLBAR:LightBlast_Level1
+//	"Blast of Light Level I"
+//	End
+//	
+//	CONTROLBAR:LightBlast_Level2
+//	"Blast of Light Level II"
+//	End
+//	
+//	CONTROLBAR:LightBlast_Level3
+//	"Blast of Light Level III"
+//	End
 
 CONTROLBAR:MenLongShotAbility
 "Longsho&t"
@@ -32431,12 +32858,12 @@ End
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
 "Allows research of Heavy Armor"
 End
-// \n The structure gain armor: \n +10% against Heros \n +25% against Pikes \n +33% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipBuildGondorForgeLevel3Upgrade
 "Allows research of Iron Ore"
 End
-// \n The structure gain armor: \n +10% against Heros \n +25% against Pikes \n +33% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +25% against Pikes \n +33% against Cavalry
 
 CONTROLBAR:ToolTipBuildGoodBombardShip
 "Elven ship equipped with a long range ballista \n Strong vs. Structures"
@@ -32457,15 +32884,15 @@ End
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel2
 "Allows research of Forged Blades and Heavy Armor"
 End
-// \n The structure gain armor: \n +10% against Heros \n +20% against Pikes \n +25% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel3
 "Allows research of Fire Arrows"
 End
-// \n The structure gain armor: \n +10% against Heros \n +20% against Pikes \n +25% against Cavalry
+// \n The structure gain armor: \n +10% against Heroes \n +20% against Pikes \n +25% against Cavalry
 
 CONTROLBAR:ToolTipBuildMordorAttackTroll
-"Requires Level 3 Troll Cages \n Strong vs. Swordsmen, Cavalry, and Heros"
+"Requires Level 3 Troll Cages \n Strong vs. Swordsmen, Cavalry, and Heroes"
 End
 
 CONTROLBAR:ToolTipCitadelCatapultUpgrade
@@ -34265,7 +34692,7 @@ OBJECT:ShireWorkPit
 End
 
 OBJECT:SignalFireDescription
-"Capture to decrease recharge times for unused powers \n Heals nearby Heros and Flyers."
+"Capture to decrease recharge times for unused powers \n Heals nearby Heroes and Flyers."
 End
 
 OBJECT:SkullTotem
@@ -42881,22 +43308,6 @@ CAH:Command_CreateAHero_HotW_SummonAllies_Level4_Name
 "Superior Call Reinforcements"
 END
 
-CONTROLBAR:HotWSummonAllies_Level1
-"Call Reinforcements"
-End
-
-CONTROLBAR:HotWSummonAllies_Level2
-"Improved Call Reinforcements"
-End
-
-CONTROLBAR:HotWSummonAllies_Level3
-"Great Call Reinforcements"
-End
-
-CONTROLBAR:HotWSummonAllies_Level4
-"Superior Call Reinforcements"
-End
-
 CAH:Command_CreateAHero_SpecialAbilityCreateAHeroTrainAllies_Level_1_Name
 "Train Allies"
 END
@@ -44743,19 +45154,19 @@ End
 /////////////////////////
 
 CONTROLBAR:HotWSummonAllies_Level1
-"Ca&ll Reinforcements"
+"Call Reinforcements (&U)"
 END
 
 CONTROLBAR:HotWSummonAllies_Level2
-"Improved Ca&ll Reinforcements"
+"Improved Call Reinforcements (&U)"
 END
 
 CONTROLBAR:HotWSummonAllies_Level3
-"Great Ca&ll Reinforcements"
+"Great Call Reinforcements (&U)"
 END
 
 CONTROLBAR:HotWSummonAllies_Level4
-"Superior Ca&ll Reinforcements"
+"Superior Call Reinforcements (&U)"
 END
 
 CONTROLBAR:TrainAllies_Level_1
@@ -44771,41 +45182,41 @@ CONTROLBAR:TrainAllies_Level_3
 END
 
 CONTROLBAR:CAH_ThrowSpear_Level1
-"Spear Thro&w"
+"Spear Throw (&T)"
 END
 
 CONTROLBAR:CAH_ThrowSpear_Level2
-"Improved Spear Thro&w"
+"Improved Spear Throw (&T)"
 END
 
 CONTROLBAR:CAH_ThrowSpear_Level3
-"Mighty Spear Thro&w"
+"Mighty Spear Throw (&T)"
 END
 
 
 
 CONTROLBAR:Invulnerability_Level1
-"In&vulnerability"
+"Invulnerability (&V)"
 END
 
 CONTROLBAR:Invulnerability_Level2
-"Improved In&vulnerability"
+"Improved Invulnerability (&V)"
 END
 
 CONTROLBAR:Invulnerability_Level3
-"Great In&vulnerability"
+"Great Invulnerability (&V)"
 END
 
 CONTROLBAR:CAHAthelas
-"A&thelas"
+"Athelas(&R)"
 END
 
 CONTROLBAR:CAHBladeMaster
-"Blade Maste&r"
+"Blade Master(&W)"
 END
 
 CONTROLBAR:CAHElendil
-"Elendil(&V)"
+"Elendil(&N)"
 END
 
 CONTROLBAR:CAHKingsFavor
@@ -44813,7 +45224,7 @@ CONTROLBAR:CAHKingsFavor
 END
 
 CONTROLBAR:CAH_Starlight
-"Starlight"
+"Starlight (&I)"
 END
 
 CONTROLBAR:HeroToggleHorse
@@ -44837,7 +45248,7 @@ CONTROLBAR:SpecialAbilityHotWCrippleStrikeMelee_Level2
 END
 
 CONTROLBAR:CAH_HeroicCharge
-"Heroic Charge"
+"Heroic Charge (&B)"
 END
 
 
@@ -44849,16 +45260,12 @@ CONTROLBAR:CAH_A_Stealth_Level1
 "Stealth"
 END
 
-CONTROLBAR:CAH_CM_Stealth_Level2
-"Improved Stealth"
-END
-
 CONTROLBAR:CAH_A_TrueSight
-"Tr&uesight"
+"Truesight (&I)"
 END
 
 CONTROLBAR:SpecialAbilityCreateAHeroArcherToggleWeapon
-"&Toggle Weapon"
+"Toggle Weapon (&W)"
 END
 
 CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level1
@@ -44878,15 +45285,15 @@ CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level4
 END
 
 CONTROLBAR:CAH_RainOfArrows_Level1
-"Rain of Arro&ws"
+"Rain of Arrows (&V)"
 END
 
 CONTROLBAR:CAH_RainOfArrows_Level2
-"Improved Rain of Arro&ws"
+"Improved Rain of Arrows (&V)"
 END
 
 CONTROLBAR:CAH_RainOfArrows_Level3
-"Mighty Rain of Arro&ws"
+"Mighty Rain of Arrows (&V)"
 END
 
 CONTROLBAR:CAH_ArrowBonus_Level1
@@ -44906,35 +45313,35 @@ CONTROLBAR:CAH_ArrowBonus_Level4
 END
 
 CONTROLBAR:CAH_Healing_Level1
-"Self-Hea&l"
+"Self-Heal (&R)"
 END
 
 CONTROLBAR:CAH_Healing_Level2
-"Improved Se&lf-Heal"
+"Improved Self-Heal (&R)"
 END
 
 CONTROLBAR:CAH_SummonFamiliar_Level1
-"Summon Familia&r"
+"Summon Familiar (&U)"
 END
 
 CONTROLBAR:CAH_SummonFamiliar_Level2
-"Improved Summon Familia&r"
+"Improved Summon Familiar (&U)"
 END
 
 CONTROLBAR:CAH_SummonFamiliar_Level3
-"Great Summon Familia&r"
+"Great Summon Familiar (&U)"
 END
 
 CONTROLBAR:CAH_SpawnTornado_Level1
-"&Whirlwind"
+"Whirlwind (&B)"
 END
 
 CONTROLBAR:CAH_SpawnTornado_Level2
-"Improved &Whirlwind"
+"Improved Whirlwind (&B)"
 END
 
 CONTROLBAR:CAH_SpawnTornado_Level3
-"Great &Whirlwind"
+"Great Whirlwind (&B)"
 END
 
 
@@ -44943,87 +45350,87 @@ END
 //////////////
 
 CONTROLBAR:CAH_BallLightning_L1
-"Ball Ligh&tning"
+"Ball Lightning (&C)"
 END
 
 CONTROLBAR:CAH_BallLightning_L2
-"Improved Ball Ligh&tning"
+"Improved Ball Lightning (&C)"
 END
 
 CONTROLBAR:CAH_BallLightning_L3
-"Mighty Ball Ligh&tning"
+"Mighty Ball Lightning (&C)"
 END
 
 CONTROLBAR:SpecialAbilityHeroBlink
-"Blin&k"
+"Blink (&W)" 
 END
 
 CONTROLBAR:SpecialAbilityCAHFireball1
-"Fi&reball"
+"Fireball (&T)"
 END
 
 CONTROLBAR:SpecialAbilityCAHFireball2
-"Improved Fi&reball"
+"Improved Fireball (&T)"
 END
 
 CONTROLBAR:SpecialAbilityCAHFireball3
-"Mighty Fi&reball"
+"Mighty Fireball (&T)"
 END
 
 CONTROLBAR:LightBlast_Level1
-"L&ightblast"
+"Lightblast (&V)"
 END
 
 CONTROLBAR:LightBlast_Level2
-"Improved L&ightblast"
+"Improved Lightblast (&V)"
 END
 
 CONTROLBAR:LightBlast_Level3
-"Great L&ightblast"
+"Great Lightblast (&V)"
 END
 
 CONTROLBAR:ConvertEnemy_L1
-"Con&vert Enemy"
+"Convert Enemy (&Y)"
 END
 
 CONTROLBAR:ConvertEnemy_L2
-"Improved Con&vert Enemy"
+"Improved Convert Enemy (&Y)"
 END
 
 CONTROLBAR:CAH_Curse_Level1
-"&Curse Enemy"
+"Curse Enemy (&M)"
 END
 
 CONTROLBAR:CAH_Curse_Level2
-"Improved &Curse Enemy"
+"Improved Curse Enemy (&M)"
 END
 
 CONTROLBAR:CAH_Curse_Level3
-"Great &Curse Enemy"
+"Great Curse Enemy (&M)"
 END
 
 CONTROLBAR:ForcePush_Level1
-"&Wizard Blast"
+"Wizard Blast (&R)"
 END
 
 CONTROLBAR:ForcePush_Level2
-"Improved &Wizard Blast"
+"Improved Wizard Blast (&R)"
 END
 
 CONTROLBAR:ForcePush_Level3
-"Mighty &Wizard Blast"
+"Mighty Wizard Blast (&R)"
 END
 
 CONTROLBAR:TeleportLevel1
-"Te&leport"
+"Teleport (&B)"
 END
 
 CONTROLBAR:TeleportLevel2
-"Improved Te&leport"
+"Improved Teleport (&B)"
 END
 
 CONTROLBAR:TeleportLevel3
-"Great Te&leport"
+"Great Teleport (&B)"
 END
 
 CONTROLBAR:SpecialAbilityWordOfDoom_Level1
@@ -45031,19 +45438,19 @@ CONTROLBAR:SpecialAbilityWordOfDoom_Level1
 END
 
 CONTROLBAR:CAHWordofPower
-"Word of Power"
+"Word of Power (&P)"
 END
 
 CONTROLBAR:CAH_W_TrueSight
-"Tr&uesight"
+"Truesight (&I)"
 END
 
 CONTROLBAR:WordOfPoultry_Level1
-"Call the Herd"
+"Call the Herd (&U)"
 END
 
 CONTROLBAR:WordOfPoultry_Level2
-"Improved Call the Herd"
+"Improved Call the Herd (&U)"
 END
 
 
@@ -45052,55 +45459,55 @@ END
 ///////////////////
 
 CONTROLBAR:CAH_AxeThrow_Level1
-"Axe &Throw"
+"Axe Throw (&T)"
 END
 
 CONTROLBAR:CAH_AxeThrow_Level2
-"Improved Axe &Throw"
+"Improved Axe Throw (&T)"
 END
 
 CONTROLBAR:CAH_AxeThrow_Level3
-"Mighty Axe &Throw"
+"Mighty Axe Throw (&T)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level1
-"Battle &Rage"
+"Battle Rage (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level2
-"Improved Battle &Rage"
+"Improved Battle Rage (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level3
-"Great Battle &Rage"
+"Great Battle Rage (&R)"
 END
 
 CONTROLBAR:CAH_BattleRage_Level4
-"Superior Battle &Rage"
+"Superior Battle Rage (&R)"
 END
 
 CONTROLBAR:CAH_Bombard_Level1
-"Bo&mbard"
+"Bombard (&V)"
 END
 
 CONTROLBAR:CAH_Bombard_Level2
-"Improved Bo&mbard"
+"Improved Bombard (&V)"
 END
 
 CONTROLBAR:CAH_Bombard_Level3
-"Great Bo&mbard"
+"Great Bombard (&V)"
 END
 
 CONTROLBAR:CAH_Charge_Level1
-"&Charge"
+"Charge (&W)"
 END
 
 CONTROLBAR:CAH_Charge_Level2
-"Improved &Charge"
+"Improved Charge(&W)"
 END
 
 CONTROLBAR:CAH_Charge_Level3
-"Mighty &Charge"
+"Mighty Charge (&W)"
 END
 
 CONTROLBAR:CAH_ClearGarrisoned
@@ -45108,35 +45515,35 @@ CONTROLBAR:CAH_ClearGarrisoned
 END
 
 CONTROLBAR:CAH_EarthShaker_Level1
-"Earthsha&ker"
+"Earthshaker (&B)"
 END
 
 CONTROLBAR:CAH_EarthShaker_Level2
-"Improved Earthsha&ker"
+"Improved Earthshaker (&B)"
 END
 
 CONTROLBAR:CAH_EarthShaker_Level3
-"Mighty Earthsha&ker"
+"Mighty Earthshaker (&B)"
 END
 
 CONTROLBAR:CAH_Leap_Level1
-"&Leap"
+"Leap (&C)"
 END
 
 CONTROLBAR:CAH_Leap_Level2
-"Improved &Leap"
+"Improved Leap (&C)"
 END
 
 CONTROLBAR:CAH_Sapper_Level1
-"Sa&pper"
+"Sapper (&U)"
 END
 
 CONTROLBAR:CAH_Sapper_Level2
-"Improved Sa&pper"
+"Improved Sapper (&U)"
 END
 
 CONTROLBAR:CAH_Sapper_Level3
-"Mighty Sa&pper"
+"Mighty Sapper (&U)"
 END
 
 CONTROLBAR:CAH_Toughness
@@ -45160,19 +45567,19 @@ END
 ///////////////////////////////////////////
 
 CONTROLBAR:SoSSummonAllies_Level1
-"Ca&ll Reinforcements"
+"Call Reinforcements (&U)"
 END
 
 CONTROLBAR:SoSSummonAllies_Level2
-"Improved Ca&ll Reinforcements"
+"Improved Call Reinforcements (&U)"
 END
 
 CONTROLBAR:SoSSummonAllies_Level3
-"Great Ca&ll Reinforcements"
+"Great Call Reinforcements (&U)"
 END
 
 CONTROLBAR:SoSSummonAllies_Level4
-"Superior Ca&ll Reinforcements"
+"Superior Call Reinforcements (&U)"
 END
 
 CONTROLBAR:CAH_BerserkerRage_L1
@@ -45192,19 +45599,19 @@ CONTROLBAR:CAH_BerserkerRage_L4
 END
 
 CONTROLBAR:CAH_FireBomb_Level1
-"Firebo&mb"
+"Firebomb (&T)"
 END
 
 CONTROLBAR:CAH_FireBomb_Level2
-"Improved Firebo&mb"
+"Improved Firebomb (&T)"
 END
 
 CONTROLBAR:CAH_FireBomb_Level3
-"Mighty Firebo&mb"
+"Mighty Firebomb (&T)"
 END
 
 CONTROLBAR:CAH_FireBomb_Level4
-"Superior Firebo&mb"
+"Superior Firebomb (&T)"
 END
 
 CONTROLBAR:CAH_PoisonAttack_Level1
@@ -45224,7 +45631,7 @@ CONTROLBAR:CAH_PoisonAttack_Level4
 END
 
 CONTROLBAR:CAH_UntamedAllegiance
-"&Untamed Allegiance"
+"Untamed Allegiance (&B)"
 END
 
 CONTROLBAR:CAH_HowlOfRage_Level1
@@ -45248,23 +45655,23 @@ CONTROLBAR:CAH_Infernal_L2
 END
 
 CONTROLBAR:CAH_InspireFear_Level1
-"Inspire Fear"
+"Inspire Fear (&I)"
 END
 
 CONTROLBAR:CAH_InspireFear_Level2
-"Improved Ins&pire Fear"
+"Improved Inspire Fear (&I)"
 END
 
 CONTROLBAR:CAH_SpillOil_Level1
-"Oil Spill / Ligh&t Fire"
+"Oil Spill / Light Fire (&V)"
 END
 
 CONTROLBAR:CAH_SpillOil_Level2
-"Improved Oil Spill / Ligh&t Fire"
+"Improved Oil Spill / Light Fire (&V)"
 END
 
 CONTROLBAR:CAH_SpillOil_Level3
-"Great Oil Spill / Ligh&t Fire"
+"Great Oil Spill / Light Fire (&V)"
 END
 
 CONTROLBAR:SpecialAbilitySoSCrippleStrikeMelee_Level1
@@ -45281,39 +45688,39 @@ END
 ///////////////////////////
 
 CONTROLBAR:CAH_Assassin_Level1
-"Assass&in"
+"Assassin (&C)"
 END
 
 CONTROLBAR:CAH_Assassin_Level2
-"Improved Assass&in"
+"Improved Assassin (&C)"
 END
 
 CONTROLBAR:CAH_Assassin_Level3
-"Mighty Assass&in"
+"Mighty Assassin (&C)"
 END
 
 CONTROLBAR:CAH_Assassin_Level4
-"Superior Assass&in"
+"Superior Assassin (&C)"
 END
 
 CONTROLBAR:CAH_AttachSpy_Level1
-"Attach Sp&y"
+"Attach Spy (&I)"
 END
 
 CONTROLBAR:CAH_AttachSpy_Level2
-"Improved Attach Sp&y"
+"Improved Attach Spy (&I)"
 END
 
 CONTROLBAR:CAH_StealMoney_Level1
-"Steal &Resources"
+"Steal Resources (&R)"
 END
 
 CONTROLBAR:CAH_StealMoney_Level2
-"Improved Steal &Resources"
+"Improved Steal Resources (&R)"
 END
 
 CONTROLBAR:CAH_StealMoney_Level3
-"Great Steal &Resources"
+"Great Steal Resources (&R)"
 END
 
 CONTROLBAR:CAH_CM_Conquer
@@ -45321,19 +45728,19 @@ CONTROLBAR:CAH_CM_Conquer
 END
 
 CONTROLBAR:CAH_CM_Stealth_Level1
-"Stealth"
+"Stealth (&T)"
 END
 
 CONTROLBAR:CAH_CM_Stealth_Level2
-"Improved Stealth"
+"Improved Stealth (&T)"
 END
 
 CONTROLBAR:SpecialAbilityCreateAHeroCorruptedManToggleWeapon_Level1
-"&Toggle Weapon"
+"Toggle Weapon (&W)"
 END
 
 CONTROLBAR:SpecialAbilityCreateAHeroCorruptedManToggleWeapon_Level2
-"Improved &Toggle Weapon"
+"Improved Toggle Weapon (&W)"
 END
 
 CONTROLBAR:CAH_ClimbWalls
@@ -45341,20 +45748,20 @@ CONTROLBAR:CAH_ClimbWalls
 END
 
 CONTROLBAR:CAH_Coerce_Level1
-"&Coerce"
+"Coerce (&B)"
 END
 
 CONTROLBAR:CAH_Coerce_Level2
-"Improved &Coerce"
+"Improved Coerce (&B)"
 END
 
 CONTROLBAR:CAH_Coerce_Level3
-"Great &Coerce"
+"Great Coerce (&B)"
 END
 
-CONTROLBAR:CAH_Coerce_Level4
-"Disg&uise"
-END
+//CONTROLBAR:CAH_Coerce_Level4
+//"Disg&uise"
+//END
 
 
 ToolTip:CAHRequiresLevel
@@ -47467,7 +47874,7 @@ TOOLTIP:LackMordorBarbedArrow
 END
 
 CONTROLBAR:BarbedArrowUpgrade
-"Barbed Arro&ws"
+"Barbed Arrows (&T)"
 END
 
 // Power Spells
@@ -47590,7 +47997,7 @@ CONTROLBAR:ToolTipTheodenLeadership
 END
 
 CONTROLBAR:ToolTipGloriousCharge
-"Requires Level 7 \n Theoden and nearby cavalry gain +80% armor, +25 damage and become inmune to desacelerate by trampling. \n Theoden must be mounted to use ability \n Bonus cannot be removed and always stacks \n Left click to activate"
+"Requires Level 7 \n Theoden and nearby cavalry gain +80% armor, +25 damage and become inmune to decelerate by trampling. \n Theoden must be mounted to use ability \n Bonus cannot be removed and always stacks \n Left click to activate"
 END
 
 //Eowyin
@@ -47794,7 +48201,7 @@ CONTROLBAR:HaldirGoldenArrow
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
-"Requires Level 10 \n A high damage attack that causes metaimpact \n Stuns enemy units. \n Effective against mounted heros.\n Can only use with bow equipped \n Left click icon then left click on target" 
+"Requires Level 10 \n A high damage attack that causes metaimpact \n Stuns enemy units. \n Effective against mounted heroes.\n Can only use with bow equipped \n Left click icon then left click on target" 
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
@@ -47836,7 +48243,7 @@ CONTROLBAR:ArrowWind
 END
 
 CONTROLBAR:ToolTipKnifeFighter
-"Requires Level 5 \n left click to activate \n Alternate melee attack \n +35% Armor"
+"Requires Level 5 \n Alternate melee attack \n Legolas gains +35% Armor \n Left click to activate"
 END
 
 
@@ -48121,7 +48528,7 @@ CONTROLBAR:TameTheBeast
 END
 
 CONTROLBAR:SharkuManEater
-"Man Eater [&C]"
+"Man Ea&ter"
 END
 
 
@@ -48241,12 +48648,12 @@ END
 
 // Witchking
 
-CONTROLBAR:ScreechWitchKing 
-"Screech [&C]"
+CONTROLBAR:ScreechWitchKing
+"Screech [&V]"
 END
 
 CONTROLBAR:HourOfTheWitchKing
-"Hour of the Witch-king [&V]"
+"Hour of the Witch-king [&B]"
 END
 
 //========================= GOBLINS

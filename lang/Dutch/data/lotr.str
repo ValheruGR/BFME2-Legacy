@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v2	-----	2019
+// String lines for new Patch 1.09v3	-----	2023
 
 //------------------------------------------------------------
 
@@ -23,19 +23,174 @@ END
 CONTROLBAR:nothingDesc09v2
 "nothing"
 END
+//----------------------------------
+CONTROLBAR:WitchKingBlackRiderMorgulBlade09v3
+"Morgul Blade [&V]"
+END
+//----------------------------------
+OBJECT:HaradCamp_New
+"Haradrim tent"
+End
+OBJECT:HaradCampDesc_New
+"Allows training of Haradrim warriors"
+End
+OBJECT:LF_New
+"Secret Entrance"
+End
+OBJECT:LF_Disc_New
+"Capture it to decrease recharge times for unused powers \n Heals nearby heroes and Flyers. \n\n -25% reduction of spellbook reload time"
+End
+OBJECT:MercenaryCamp_New
+"Mercenary Camp"
+END
+OBJECT:DunlandHallTooltip_New
+"Dunland House"
+End
+TOOLTIP:DunlandHallDesc_New
+"Allows training of Dunland Men"
+End
+//------------------------------------------------------------
+CONTROLBAR:WildWalk09v3
+"Wild Walk"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThranduilDescription09v3
+"King of Mirkwood: \n Nearby Mirkwood archers gain: \n +25% Damage, +25% Armor, \n and earn experience 50% faster. \n «HighTierHero BUFF» \n Passive ability"
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipThranduilWildWalk09v3
+"Requires Level 6 \nAllows Thranduil to move while stealthed \n Passive ability."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde09v3
+"Strong vs. Cavalry and \n Unit Production Buildings \n Can stealth near trees. \n Gains +4% speed at level 4, 7 and 10."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipEvilHeal09v3
+"Partially heals armies and monsters. \n Replaces 2 dead units per horde. \n Left click icon then left click on target area"
+END
+//------------------------------------------------------------
+TOOLTIP:GandalfTheWhite09v3
+"Gandalf the White: \n Requires Level 5 \n Gandalf's magic abilities deal +70% damage and cooldowns are reduced by -20%. \n Passive ability."
+END
+//------------------------------------------------------------
+CONTROLBAR:ToolTipHaldirGoldenArrow09v3
+"Requires Level 7 \n A high-damaging magical projectile. \n Level 7: Causes meta impact and moderate damage. \n Level 10: Deals greater damage and stuns nearby light-sensitive units. \n Strong against cavalry and low-tier heroes. \n Can only use with bow equipped. \n Left click icon, then left click on target." 
+END
+CONTROLBAR:TooltipElrondWhirlwind09v3
+"Requires Level 5 \n Summons a destructive whirlwind onto the battlefield. \n Level 5: Deals minimal damage, sweeps low-tier heroes only. Lasts 16 seconds. \n Level 7: Lasts 19 seconds. \n Level 10: Deals double damage, sweeps all heroes. Lasts 22 seconds. \n Left click icon, then left click on pathable location."
+END
+CONTROLBAR:ToolTipElrondRestoration09v3
+"Requires Level 10 \n Elrond regenerates +20% of health-points to nearby allies and fully resets their special ability timers. \n Replenishes 1 fallen unit per battalion in the area of effect. \n Left click to activate."
+END
+CONTROLBAR:ArwenElvenGrace09v3
+"Athelas [&V]"
+END
+CONTROLBAR:ArwenElvenGraceDesc09v3
+"Requires Level 6 \n Arwen regenerates 750 health-points to targeted allies over a 2-second duration. \n Left click icon, then left click on target units."
+END
+CONTROLBAR:GoblinKingBattleFrenzy09v3
+"Battle Frenzy"
+End
+CONTROLBAR:ToolTipFueltheFires09v3
+"Player Lumber Mills gain +65% Production \n and +20% Armor. \n Allied Lumber Mills gain +65% production. \n Passive power. \n Fortress must be present."
+End
+UPGRADE:BarbedArrowUpgrade09v3
+"Barbed Arrows"
+END
+CONTROLBAR:TooltipUndermine09v3
+"Summons a Mine Shaft onto the battlefield. \n Cannot be cast within close proximity of an enemy fortress. \n Can be casted on the fog of war. \n The Mine Shaft is connected to tunnel network. \n Deals greater damage at spawn point and lesser damage in the perimeter. \n Left click icon, then left click on pathable location."
+END
+CONTROLBAR:ToolTipPersonalFlood09v3
+"Requires Level 4 \n Summons a flood that knocks back enemies and extinguishes fires. \n Strong vs. cavalry and Nazgul. \n Level 4: Arwen summons 3 Flood Horses. \n Level 7: Arwen summons 5 Flood Horses. \n Level 10: Arwen summons 7 Flood Horses. \n Left click icon, then left click on target."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains09v3
+"Heals nearby Allies. \n Revives a fallen unit from each battalion every 6.5 seconds. \n Hero revival time reduced by -20%. \n Combined with Eagle Nest, can heal any allied flying unit"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEaglesNest09v3
+"Allows summoning of a Giant Eagle. \n Allows Mystics Fountains to heal flying units."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressRazorSpines09v3
+"Damages enemy units adjacent to the Fortress. \n Heals nearby Allies. \n Combined with Dragon Nest, can heal any allied flying unit."
+END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest09v3
+"Allows summoning of a Fire Drake. \n Drogoth revival time reduced by -10%. \n Allows Razor Spikes to heal flying units."
+END
+//------------------------------
+CONTROLBAR:ToolTipWildShelobPoisonedStinger09v3
+"Requires Level 6 \n Inflicts poison damage on the target enemy for 30 seconds, \n reduces it's speed by -50% during 15 seconds, \n and paralyzes it for 6 seconds. \n Left click icon, then left click on target."
+End
+CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
+"Requires Level 6 \n Can only use when mounted \n Inflicts poison damage on the target enemy for 25 seconds, \n reduces it's speed by -50% during 12 seconds, \n and paralyzes it for 5 seconds. \n Left click icon, then left click on target."
+END
+TOOLTIP:ToolTipBoromir09v3
+"Boromir gains +7% speed at level 7"
+END
+CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
+"Strong vs. Swordsmen and Structures \n Cave Troll gains +4% speed at level 3, 6 and 9"
+END
+TOOLTIP:ToolTipBuildDwarvenCatapult09v3
+"Strong vs. Structures and Siege units \n The Catapult gains +10% speed at level 5"
+END
+CONTROLBAR:ToolTipBuildDwarvenCatapult09v3
+"Requires Level 2 Forge Works \n Strong vs. Structures and Siege units \n Fires two shots at once \n The Catapult gains +10% speed at level 5"
+END
+CONTROLBAR:ToolTipBuildMordorMumakil09v3
+"Strong vs. Structures and Cavalry \n Comes mounted by Haradrim Lancers \n Additional 30 commandpoints \n Mumakils gain +6% speed at level 5 and 8."
+END
+CONTROLBAR:TooltipDragonStrike09v3
+"Summons a fire breathing Dragon to fly-by and scorch the battlefield. \n Any type of enemy unit in a large area beneath the Dragon will suffer -15% speed.  \n *Extremely dangerous in the edges of the map.* \n Left click icon then left click on target area"
+END
+TOOLTIP:ToolTipFellbeast09v3
+"Fellbeast attack radius against units is improved at level 6."
+END
+CONTROLBAR:ToolTipDominate09v3
+"Requires Level 10 \n Permanently gain control of targeted enemy troops. \n Left click icon, then left click on target units."
+END
+CONTROLBAR:TooltipSummonTomBombadil09v3
+"Summons Tom Bombadil, a mighty fat oldfella with a hat, who likes singing. It's told that he's the human personification of Eru, who created Ëa. \n Allies near Tom Bombadil gain +25% Armor and earn experience 25% faster. \n «Armor BUFF» \n Left click icon then left click on pathable location"
+END
+CONTROLBAR:Draft09v3
+"D&raft"
+End
+CONTROLBAR:ToolTipDraft09v3
+"Arms this battalion of peasants. \n When equipped, increases the damage done by Melee Weapons \n and reduces the amount of damage taken."
+END
+CONTROLBAR:Command_CreateAHero_SpecialAbilityDisguise_Name
+"Disguise (&V)"
+END
+CONTROLBAR:SummonWargAllies09v3
+"Summon Warg Allies (&C)"
+End
+CONTROLBAR:SummonWargAlliesDesc09v3
+"Requires Level 10 \n Summons a group of Warg Riders to the battlefield. \n Left click icon, then left click on pathable location."
+END
+//------------------------------------------------------------
+
+
+
+
+//------------------------------------------------------------
+
+// String lines for Patch 1.09v2
+
+//------------------------------------------------------------
+
+
+
 //------------------------------------------------------------
 CONTROLBAR:PrinceofIthilien09v2
-"Prince of Ithilien [&B]"
+"Prince of Ithilien [&V]"
 END
 CONTROLBAR:PrinceofIthilienDesc09v2
-"Requires Level 5 \n Targeted archers gain experience \n Left click icon then left click on target archers"
+"Requires Level 5 \n Targeted archers gain experience. \n Left click icon, then left click on target archers."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower09v2
-"Increases the vision range of the Fortress and provides stealth detection. \n Unlocks the use of Palantir Vision on allies"
+"Increases the vision range of the Fortress and detects stealth. \n Allows the usage of Palantir Vision on player units."
 END
 CONTROLBAR:TooltipIvoryTowerVision09v2
-"Reveals the entire shroud \n Player units in the map gain +10% speed \n Modifier Type: RESISTANT IvoryTowerBonus' \n Lasts 30 seconds"
+"Reveals the entire shroud \n Player units on the map gain +10% speed \n «IvoryTower BUFF» \n Lasts 30 seconds"
 End
 CONTROLBAR:ToolTipGainSpiderVenomSacks09v2
 "Nodig: niveau 3 \n Geeft deze troep de upgrade gifzakken\nVergiftigt vijanden en veroorzaakt langere tijd schade"
@@ -44,7 +199,7 @@ END
 Color:Cyan09v2
 "Cyan"
 END
-Color:DarkGreen09v2
+Color:DarkGreen09v1
 "Dark Green"
 END
 Color:GreenLime09v2
@@ -67,7 +222,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Nodig: niveau 2\nGimli springt naar een locatie en brengt schade toe aan de omgeving \n Ability radius of effect is improved at level 4 and 7. \nKlik met links op het icoontje en daarna met links op het doelgebied"
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Mace attack radius of effect is improved is improved at level 5 and 8."
+"Mace attack radius of effect is improved at level 5 and 8."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
@@ -99,7 +254,7 @@ CONTROLBAR:ThunderBolt09v2
 "Storm van bliksemschichten [&B]"
 END
 CONTROLBAR:ToolTipThunderBolt09v2
-"Nodig: niveau 10 \n Saruman creëert een serie van wolken die zeer sterke bliksemschichten afsturen op het doelwitgebied. \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Nodig: niveau 8 \n Saruman creëert een serie van wolken die zeer sterke bliksemschichten afsturen op het doelwitgebied. \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 CONTROLBAR:ToolTipPersonalFlood09v2
 "Nodig: niveau 5\nRoept een overstroming op die schade aanricht bij vijanden en vuren blust\n Bonus tegen Black Riders. \n De overstroming wordt sterker op level 10 \n Klik met links op het icoontje en daarna met links op het doelwit"
@@ -133,34 +288,34 @@ UPGRADE:AutohealUpgradeBasic09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHourOfTheWitchKing09v2
-"Nodig: niveau 10\nReset de timers voor speciale vaardigheden van de geselecteerde vijand naar net gebruikt \n Enemy heroes around Witch King suffer -25% damage. \n Modifier Type: 'STUN WitchKingCurse' \nKlik met links op het icoontje en daarna met links op het doelwit"
+"Nodig: niveau 8\nReset de timers voor speciale vaardigheden van de geselecteerde vijand naar net gebruikt \n Enemy heroes around Witch King suffer -25% damage. \nKlik met links op het icoontje en daarna met links op het doelwit"
 END
 CONTROLBAR:TooltipDwarvenRiches09v2
-"Geselecteerd gebouw produceert tijdelijk +350% grondstoffen\nKlik met links op het icoontje en daarna met links op een gebouw dat grondstoffen genereert"
+"Geselecteerd gebouw produceert tijdelijk +300% grondstoffen\nKlik met links op het icoontje en daarna met links op een gebouw dat grondstoffen genereert"
 END
 CONTROLBAR:Command_CreateAHero_ShieldCrush_Level1_Name
-"Schildstoot"
+"Schildstoot (&Y)"
 END
 CONTROLBAR:Command_CreateAHero_ShieldCrush_Level3_Name
-"Verbeterde schildstoot"
+"Verbeterde schildstoot (&Y)"
 END
 TOOLTIP:ToolTipPurchasedUpgradeFortressBanners09v2
-"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n «Damage BUFF»"
 END
 CONTROLBAR:ToolTipBuildGoblinFighterHorde09v2
-"Sterk tegen speervechters\n Horde Bonus: \n Aardmannen in groep van minstens 100 \n krijgen +33% schade +25% snelheid. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Sterk tegen speervechters\n Horde Bonus: \n Aardmannen in groep van minstens 100 \n krijgen +33% schade +25% snelheid. \n «HordeBonus BUFF» "
 END
 CONTROLBAR:ToolTipBuildElvenRivendellLancers09v2
-"Sterk tegen boogschutters en \n Gebouwen die troepen produceren. \n Rivendell Lancers krijgen +7% snelheid op level 5."
+"Sterk tegen boogschutters en \n Gebouwen die troepen produceren. \n Rivendell Lancers krijgen +4% snelheid op level 4/level 7."
 END
 CONTROLBAR:ToolTipGloriousCharge09v2
-"Nodig: niveau 7 \n Théoden en cavalerie in de buurt krijgen +99% pantser, \n +25% schade en wordt immuun tegen vertraging door vertrappelen. \n Gedurende deze tijd wordt cavalerie ook imuun tegen angst\n Modifier Type: 'DEBUFF_PROOF GloriousCharge' \n Théoden moet te paard zijn om de kracht te gebruiken \n Klik met links om te activeren"
+"Nodig: niveau 7 \n Théoden en cavalerie in de buurt krijgen +99% pantser, \n +25% schade en wordt immuun tegen vertraging door vertrappelen. \n Gedurende deze tijd wordt cavalerie ook imuun tegen angst \n Théoden moet te paard zijn om de kracht te gebruiken \n Klik met links om te activeren"
 END
 CONTROLBAR:ToolTipBuildGoblinArcherHorde09v2
-"Sterk tegen Infantry\nResistent tegen vertrappelen\n Horde Bonus: \n Aardmannen in groep van minstens 100 \n krijgen +33% schade +20% snelheid. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Sterk tegen Infantry\nResistent tegen vertrappelen\n Horde Bonus: \n Aardmannen in groep van minstens 100 \n krijgen +33% schade +20% snelheid. \n «HordeBonus BUFF» "
 END
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde09v2
-"Sterk tegen Infantry\n Horde Bonus: \n Orcs in groep van minstens 70\n krijgen +33% schade en +15% snelheid. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Sterk tegen Infantry\n Horde Bonus: \n Orcs in groep van minstens 70\n krijgen +33% schade en +15% snelheid. \n «HordeBonus BUFF» "
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenCitadelDwarvenStonework09v2
@@ -172,27 +327,27 @@ CONTROLBAR:ToolTipMordorTavern09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDainStubbornPride09v2
-"Nodig: niveau 7 \n "Nodig: niveau 7\nMaakt alle bondgenoten in de buurt bestand tegen angst \n Modifier Type: 'DEBUFF_PROOF StubbornPride' \n Dain kan onzichtbaarheid onthullen. \nPassieve kracht"
+"Nodig: niveau 7 \n "Nodig: niveau 7\nMaakt alle bondgenoten in de buurt bestand tegen angst. \n Dain kan onzichtbaarheid onthullen. \nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTreeBeardLeadership09v2
-"Enten van bondgenoten in de buurt van Boombaard krijgen \n +25% pantser, +10% snelheid, \n  +20% aanvalsbereik en +25% ervaring. \n Modifier Type: TreeBeard LEADERSHIP' \n\n Passieve kracht"
+"Enten van bondgenoten in de buurt van Boombaard krijgen \n +25% pantser, +10% snelheid, \n  +20% aanvalsbereik en +25% ervaring. \n «TreeBeard LEADERSHIP» \n\n Passieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipLurtzLeadership09v2
-"Nodig: niveau 5\n Bondgenoten in de buurt van Lurtz krijgen\n+50% schade en 25% sneller ervaring \n Modifier Type: 'Damage LEADERSHIP' \n\nPassieve kracht"
+"Nodig: niveau 5\n Bondgenoten in de buurt van Lurtz krijgen\n+40% schade en 20% sneller ervaring \n «Damage LEADERSHIP» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipPalantirVision09v2
-"Spioneer vijandige troepen\n\n Geeft tijdelijk +15% snelheid bonus voor \n troepen in het doelgebied \n Modifier Type: RESISTANT PalantirBonus'. \n \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Spioneer vijandige troepen\n\n Geeft tijdelijk +15% snelheid bonus voor \n troepen in het doelgebied \n «Palantir BUFF» \n \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipFarSight09v2
-"Spioneer vjiandige troepen\n Geeft een tijdelijke bonus: +35% aan het aanvalsbereik \n van troepen in het doelgebied\n Modifier Type: RESISTANT FarsightBonus'. \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Spioneer vjiandige troepen\n Doelboogschutters krijgen +35% bereik en verdienen 25% sneller ervaring \n «Farsight BUFF» \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipElvenWood09v2
-"Creëert bosrijk terrein met mooie vogels, koeien, paarden, ... De koeien durven al wel eens kaka te doen dus je moet oppassen waar je loopt.\nAlle bevriende eenheden krijgen +35% pantser, \n +25% schade en verdienen ervaring 25% sneller \n Vijandige cavalerie vertraagd +250% sneller \n Modifier Type: RESISTANT 'ElvenWood' \n Overrides LEADERSHIP effects from the allies. \n Heeft geen effect op helden \n Klik met links op het icoontje en daarna met links op het doelgebied" 
+"Creëert bosrijk terrein met mooie vogels, koeien, paarden, ... De koeien durven al wel eens kaka te doen dus je moet oppassen waar je loopt.\nAlle bevriende eenheden krijgen +35% pantser, \n en verdienen ervaring 25% sneller \n Vijandige cavalerie vertraagd +200% sneller \n «ElvenWood BUFF» «Overrides Armor LEADERSHIP» \n Heeft geen effect op helden \n Klik met links op het icoontje en daarna met links op het doelgebied" 
 END
 CONTROLBAR:MenWood09v2
 "Menselijk bos"
@@ -203,31 +358,31 @@ CONTROLBAR:ToolTipCloudBreak09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDarkness09v2
-"Verdrijft vorst (enkel de genezing), regen en duisternis \n Bedekt de hele kaart tijdelijk met duisternis\n Bevriende troepen krijgen +50% schade, +33% pantser en krijgen ervaring 50% sneller \n Monsters krijgen +25% schade, +33% pantser en +50% ervaring \n Modifier Type: RESISTANT 'Darkness' \n Duurt 180 seconden. \n Klik met links om te activeren"
+"Verdrijft vorst (enkel de genezing), regen en duisternis \n Bedekt de hele kaart tijdelijk met duisternis\n Bevriende troepen krijgen +50% schade, +33% pantser en krijgen ervaring 50% sneller \n Monsters krijgen +25% schade, +33% pantser en +50% ervaring \n «Darkness BUFF» \n Duurt 180 seconden. \n Klik met links om te activeren"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipFreezingRain09v2
-"Verdrijft vorst (enkel de genezing), regen en duisternis \n Bedekt de hele kaart tijdelijk met regen \n Alle vijandige troepen en monsters op de kaart lijden \n -25% pantser en -25% schade. \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP, BUFF en RESISTANT van de vijand. \n Duurt 150 seconden. \n Klik met links om te activeren"
+"Verdrijft vorst (enkel de genezing), regen en duisternis \n Bedekt de hele kaart tijdelijk met regen \n Alle vijandige troepen en monsters op de kaart lijden \n -25% pantser en -25% schade. \n «DEBUFF» «Neutralizes LEADERSHIP and BUFF» \n Duurt 150 seconden. \n Klik met links om te activeren"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipMightyRage09v2
-"Nodig: niveau 4 \n Bevriende eenheden krijgen \n+20% snelheid, +25% schade en +25% onthulling. \n Modifier Type: 'DEBUFF_PROOF MightyRage' \n Vijandige troepen in hetzelfde gebied lijden \n -25% pantser en -25% schade \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Klik links op het icoontje daarna met links op het doelwit"
+"Nodig: niveau 4 \n Bevriende eenheden krijgen \n+20% snelheid, +25% schade en +25% onthulling.  \n «MightyRage» \n Vijandige troepen in hetzelfde gebied lijden \n -25% pantser en -25% schade \n «DEBUFF» «Neutralizes LEADERSHIP»  \n Klik links op het icoontje daarna met links op het doelwit"
 END
 CONTROLBAR:ToolTipMordorDreadVisage09v2
-"Nodig: niveau 2 \n Nabije vijandige troepen lijden -25% pantser en -25% schade.  \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Passieve vaardigheid"
+"Nodig: niveau 2 \n Nabije vijandige troepen lijden -25% pantser en -25% schade.  \n «DEBUFF» «Neutralizes LEADERSHIP»  \n Passieve vaardigheid"
 End
 CONTROLBAR:TooltipCaveBats09v2
-"Onthult de nabijheid en detecteert verborgen eenheden \n Vijandige troepen lijden -25% pantser en -25% schade. \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Onthult de nabijheid en detecteert verborgen eenheden \n Vijandige troepen lijden -25% pantser en -25% schade. \n «DEBUFF» «Neutralizes LEADERSHIP»  \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 CONTROLBAR:TooltipCrebain09v2
-"Onthult de nabijheid en detecteert verborgen eenheden \n Vijandige troepen lijden -25% pantser en -25% schade. \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Onthult de nabijheid en detecteert verborgen eenheden \n Vijandige troepen lijden -25% pantser en -25% schade. \n «DEBUFF» «Neutralizes LEADERSHIP»  \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGBloodHunt09v2
-"Nodig: niveau 3\nCavalerie van bondgenoten in de buurt krijgt +25% schade en +25% pantser,\nen verdient ervaring 50% sneller\nMinder vertraging door vertrappen van geallieerde cavalerie \n Modifier Type: RESISTANT 'High-Tier Hero' \nPassieve kracht"
+"Nodig: niveau 3\nCavalerie van bondgenoten in de buurt krijgt +25% schade en +25% pantser,\nen verdient ervaring 50% sneller\nMinder vertraging door vertrappen van geallieerde cavalerie \n «HighTierHero BUFF» \nPassieve kracht"
 END
 CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack09v2
-"Nodig: niveau 2\nLaat beschermers de vijand aanvallen\nBeschermers krijgen +25% snelheid en +25% pantser \n Modifier Type: 'Armor BUFF' \nVijanden worden de lucht in geslingerd\nKlik met links op het icoontje en daarna met links op het doelwit"
+"Nodig: niveau 2\nLaat beschermers de vijand aanvallen\nBeschermers krijgen +25% snelheid en +25% pantser \n «Armor LEADERSHIP» \nVijanden worden de lucht in geslingerd\nKlik met links op het icoontje en daarna met links op het doelwit"
 END
 CONTROLBAR:ToolTipBarbedArrows09v2
 "Nodig: niveau 2\nRicht enorme verwoesting en extra schade aan"
@@ -245,7 +400,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing09v2
 "Geneest alle bondgenoten in de buurt\nHelden tot leven wekken wordt 5% goedkoper\nHelden tot leven wekken gaat 15% sneller. \n\n Upgrade opgeroepen Eenzame Torens"
 END
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde09v2
-"Sterk tegen gebouwen die grondstoffen genereren \n Horde Bonus: \n Orcs in aantallen van minstens 70\n krijgen +33% schade +20% snelheid. \n Modifier Type: RESISTANT 'HordeBonus'  "
+"Sterk tegen gebouwen die grondstoffen genereren \n Horde Bonus: \n Orcs in aantallen van minstens 70\n krijgen +33% schade +20% snelheid. \n «HordeBonus BUFF» "
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs09v2
 "Geneest bondgenoten bij het fort en in de hallen\nExtra weerstand voor fort. \n\n Upgrade opgeroepen Eenzame Torens."
@@ -260,126 +415,126 @@ CONTROLBAR:ToolTipElvenCloakThranduil09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipGoblinKingSkullTotem09v2
-"Nodig: niveau 2\nPlaatst een schedeltotem die op de kaart blijft staan totdat hij is vernietigd\nLaat mist in de buurt verdwijnen, onthult verborgen eenheden, \n geeft +35% pantser aan eenheden in de buurt en verdienen ervaring 25% sneller \n Modifier Type: 'Armor BUFF' \nKlik met links op het icoontje en daarna met links op het doelgebied"
+"Nodig: niveau 2\nPlaatst een schedeltotem die op de kaart blijft staan totdat hij is vernietigd\nLaat mist in de buurt verdwijnen, onthult verborgen eenheden, \n geeft +35% pantser aan eenheden in de buurt en verdienen ervaring 25% sneller \n «Armor LEADERSHIP» \nKlik met links op het icoontje en daarna met links op het doelgebied"
 END
 //------------------------------------------------------------
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls09v2
-"Bondgenoten in de buurt van de Trol-tromslager krijgen +35% pantser \n en verdienen ervaring 25% sneller. \n Nabije trollen krijgen ook +15% pantser, 15% ervaring & automatische genezing gaat sneller. \n Modifier Type: 'Armor BUFF' \n \n Passieve kracht"
+"Bondgenoten in de buurt van de Trol-tromslager krijgen +35% pantser \n en verdienen ervaring 25% sneller. \n Nabije trollen krijgen ook +15% pantser, 15% ervaring & automatische genezing gaat sneller. \n «Armor LEADERSHIP» \n \n Passieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipWarChant09v2
-"Geselecteerde bondgenoten krijgen +40% schade \n , +50% ervaring & +10% snelheid. \n Modifier Type: 'Damage LEADERSHIP' \nKlik met links op het icoontje en daarna met links op de doelwitten"
+"Geselecteerde bondgenoten krijgen +40% schade \n , +50% ervaring & +10% snelheid. \n «Damage LEADERSHIP» \nKlik met links op het icoontje en daarna met links op de doelwitten"
 End
 //------------------------------------------------------------
 CONTROLBAR:TooltipRallyingCall09v2
-"Geselecteerde bondgenoten krijgen +50% schade \n en verdienen ervaring 50% sneller. \n Modifier Type: 'Damage LEADERSHIP' \n Klik met links op het icoontje en daarna met links op de doelwitten"
+"Geselecteerde bondgenoten krijgen +50% schade \n en verdienen ervaring 50% sneller. \n «Damage LEADERSHIP» \n Klik met links op het icoontje en daarna met links op de doelwitten"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipRallyingCallDwarven09v2
-"Geselecteerde bondgenoten krijgen +50% schade \n en verdienen ervaring 25% sneller. \n Modifier Type: 'Damage LEADERSHIP' \n Klik met links op het icoontje en daarna met links op de doelwitten"
+"Geselecteerde bondgenoten krijgen +50% schade \n en verdienen ervaring 25% sneller. \n «Damage LEADERSHIP» \n Klik met links op het icoontje en daarna met links op de doelwitten"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTaint09v2
-"Besmet een deel van het terrein\nAlle bondgenoten krijgen +35% pantser  \n Modifier Type: 'Armor BUFF' \nKlik met links op het icoontje en daarna met links op het doelgebied"
+"Besmet een deel van het terrein\nAlle bondgenoten krijgen +35% pantser  \n «Armor LEADERSHIP» \nKlik met links op het icoontje en daarna met links op het doelgebied"
 END
 CONTROLBAR:ToolTipMenWood09v2
-"Creëert bosrijk terrein\nAlle bevriende eenheden krijgen +35% pantser\nHeeft geen effect op helden \n Modifier Type: 'Armor BUFF' \n Klik met links op het icoontje en daarna met links op het doelgebied"
+"Creëert bosrijk terrein\nAlle bevriende eenheden krijgen +35% pantser\nHeeft geen effect op helden \n «Armor LEADERSHIP» \n Klik met links op het icoontje en daarna met links op het doelgebied"
 END
 //------------------------------------------------------------
 OBJECT:ElvenHeroicStatueDescription09v2
-"Eenheden in de buurt van het\nstandbeeld krijgen +25% schade\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring' \n Bondgenoten krijgen immuniteit tegen angst \n Modifier Type: 'LEADERSHIP AntiFear'\n\nVerhoogt de limiet van commandopunten met 10"
+"Eenheden in de buurt van het\nstandbeeld krijgen +25% schade\nen verdienen ervaring 25% sneller \n «Damage BUFF» \n Bondgenoten krijgen immuniteit tegen angst \n «AntiFear LEADERSHIP» \n\nVerhoogt de limiet van commandopunten met 10"
 END
 //------------------------------------------------------------
 OBJECT:HeroicStatueDescription09v2
-"Eenheden in de buurt van het standbeeld\nkrijgen +25% pantser\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Armor Inspiring' \n\nVerhoogt de limiet van commandopunten met 10"
+"Eenheden in de buurt van het standbeeld\nkrijgen +25% pantser\nen verdienen ervaring 25% sneller \n «Armor BUFF» \n\nVerhoogt de limiet van commandopunten met 10"
 END
 //------------------------------------------------------------
 OBJECT:DwarvenHeroicStatueDescription09v2
-"Eenheden in de buurt van het standbeeld \nkrijgen +35% pantser \n Modifier Type: 'Armor BUFF' \n Bondgenoten krijgen immuniteit tegen angst. \n Modifier Type: RESISTANT AntiFear'\n\n Verhoogt de limiet van commandopunten van met 10"
+"Eenheden in de buurt van het standbeeld \nkrijgen +35% pantser \n «Armor LEADERSHIP» \n Bondgenoten krijgen immuniteit tegen angst. \n «AntiFear BUFF» \n\n Verhoogt de limiet van commandopunten van met 10"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v2
-"Vermindert de kwetsbaarheid van het fort voor mêlee-aanvallen \n Nabije bevriende eenheden krijgen: \n +25% schade en verdienen ervaring +25% sneller\n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Vermindert de kwetsbaarheid van het fort voor mêlee-aanvallen \n Nabije bevriende eenheden krijgen: \n +25% schade en verdienen ervaring +25% sneller\n «Damage BUFF»"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressDoomPyres09v2
-"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring' \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager"
+"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n «Damage BUFF» \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners09v2
-"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring' \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager\n\n Upgrade opgeroepen Eenzame Torens."
+"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n «Damage BUFF» \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager\n\n Upgrade opgeroepen Eenzame Torens."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners09v2
-"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring' \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager"
+"Eenheden in de buurt van het fort\n krijgen +25% schade,\nen verdienen ervaring 25% sneller \n «Damage BUFF» \n Prijs van helden wordt 10% lager\nBrengt rekruteringstijd held met 10% terug\nPrijs van bouwers wordt 20% lager"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipWargRiderHowl09v2
-"Wargen krijgen +55% schade maar \n verliezen -10% pantser tegen speervechters en pijlschade van gebouwen\n Modifier Type: 'DEBUFF_PROOF WargHowl' \n Verwijderd elke andere LEADERSHIP bonus. \n Klik met links om te activeren"
+"Wargen krijgen +55% schade maar \n verliezen -10% pantser tegen speervechters en pijlschade van gebouwen \n «Overrides Damage LEADERSHIP» \n Klik met links om te activeren"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipEyeofSauron09v2
-"Roept het Oog van Sauron op\nMaakt verscholen vijanden zichtbaar\n bondgenoten krijgen +25% schade, +25% pantser, \n en verdienen ervaring 50% sneller. \n Modifier Type: RESISTANT 'High-Tier Hero' \nKlik met links op het icoontje en daarna met links op het doelgebied"
+"Roept het Oog van Sauron op\nMaakt verscholen vijanden zichtbaar\n bondgenoten krijgen +25% schade, +25% pantser, \n en verdienen ervaring 50% sneller. \n Trolls earn experience +25% faster. \n «HighTierHero BUFF» \nKlik met links op het icoontje en daarna met links op het doelgebied"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGlorfindelStarlight09v2
-"Nodig: niveau 8 \n Bevriende troepen, monsters en helden in een groot gebied rond Glorfindel worden genezen. \n Herstelt 2 doden per troep gedurende deze tijd. \n Bondgenoten in de buurt worden genezen, krijgen\n+50% schade en +33% pantser. \n Modifier Type: 'Armor BUFF' \n\nKlik met links om te activeren"
+"Nodig: niveau 8 \n Bevriende troepen, monsters en helden in een groot gebied rond Glorfindel worden genezen. \n Herstelt 2 doden per troep gedurende deze tijd. \n Bondgenoten in de buurt worden genezen, krijgen +35% schade. \n\nKlik met links om te activeren"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGimliLeadership09v2
-"Bondgenoten in de buurt van Gimli krijgen +35% pantser \n Modifier Type: 'Armor BUFF' \n\n Passieve kracht"
+"Bondgenoten in de buurt van Gimli krijgen +35% pantser \n «Armor LEADERSHIP» \n\n Passieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDainLeadership09v2
-"Bondgenoten in de buurt van koning Dáin krijgen\n+25% schade en +25% pantser,\nen verdienen ervaring 50% sneller \n Modifier Type: RESISTANT 'High-Tier Hero' \n\nPassieve kracht"
+"Bondgenoten in de buurt van koning Dáin krijgen\n+25% schade en +25% pantser,\nen verdienen ervaring 50% sneller \n «HighTierHero BUFF» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier09v2
-"Bondgenoten nabij de vaandeldrager krijgen \n +25% schade en verdienen ervaring 25% faster. \n Modifier Type: RESISTANT 'Damage Inspiring' \n Geneest de strijdwagen langzaam als hij niet in gevecht is \n Voegt enkele speervechters toe aan de strijdwagen \n Onthult verborgen vijanden"
+"Bondgenoten nabij de vaandeldrager krijgen \n +25% schade en verdienen ervaring 25% faster. \n «Damage BUFF» \n Geneest de strijdwagen langzaam als hij niet in gevecht is \n Voegt enkele speervechters toe aan de strijdwagen \n Onthult verborgen vijanden"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGoblinKingBattleFrenzy09v2
-"Nodig: niveau 4\nBondgenoten in de buurt van de Aardmannen-koning krijgen\n+25% schade en verdienen 25% meer ervaring. \n Nabije trollen krijgen ervaring 25% sneller \n en genezen automatisch +50 gezondheidspunten. \n Modifier Type: RESISTANT 'Armor Inspiring' \n\nPassieve kracht"
+"Nodig: niveau 4\nBondgenoten in de buurt van de Aardmannen-koning krijgen\n+25% schade en verdienen 25% meer ervaring. \n Nabije trollen krijgen ervaring 25% sneller \n en genezen automatisch +50 gezondheidspunten. \n «Armor BUFF» \n\nPassieve kracht"
 End
 //------------------------------------------------------------
 CONTROLBAR:TooltipElrondLeadership09v2
-"Nodig: niveau 3\nBondgenoten in de buurt van Elrond krijgen\n+25% schade en +25% pantser,\nen verdienen ervaring 50% sneller \n Modifier Type: RESISTANT 'High-Tier Hero' \n\nPassieve kracht"
+"Nodig: niveau 3\nBondgenoten in de buurt van Elrond krijgen\n+25% schade en +25% pantser,\nen verdienen ervaring 50% sneller \n «HighTierHero BUFF» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipArwenLeadership09v2
-"Nodig: niveau 3\n Cavalerie-eenheden in de buurt van Arwen krijgen \n+25% pantser en verdienen 25% meer ervaring \n Modifier Type: RESISTANT 'Armor Inspiring' \n \nPassieve kracht"
+"Nodig: niveau 2\n Cavalerie-eenheden in de buurt van Arwen krijgen \n+25% pantser en verdienen 25% meer ervaring \n «Armor BUFF» \n \nPassieve kracht"
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirLeadership09v2
-"Nodig: niveau 4\nBondgenoten in de buurt van Haldir krijgen\n+50% schade en verdienen ervaring 25% sneller \n Modifier Type: 'Damage LEADERSHIP' \n\nPassieve kracht"
+"Nodig: niveau 4\nBondgenoten in de buurt van Haldir krijgen\n+40% schade en verdienen ervaring 20% sneller \n «Damage LEADERSHIP» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipInspiringPresence09v2
-"Bondgenoten in de buurt van Tom Bombadil krijgen \n+25% pantser en verdienen 25% meer ervaring \n Modifier Type: RESISTANT 'Armor Inspiring' \n \nPassieve kracht"
+"Bondgenoten in de buurt van Tom Bombadil krijgen \n+25% pantser en verdienen 25% meer ervaring \n «Armor BUFF» \n \nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAragornLeadership09v2
-"Nodig: niveau 4\nBondgenoten in de buurt van Aragorn krijgen\n+25% schade en +25% pantser,\n en verdienen ervaring 50% sneller \n Modifier Type: RESISTANT 'High-Tier Hero' \n\nPassieve kracht"
+"Nodig: niveau 4\nBondgenoten in de buurt van Aragorn krijgen\n+25% schade en +25% pantser,\n en verdienen ervaring 50% sneller \n «HighTierHero BUFF» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipEomerLeadership09v2
-"Nodig: niveau 3\nCavalerie-eenheden in de buurt van Éomer krijgen\n+35% pantser \n Modifier Type: 'Armor BUFF' \n\nPassieve kracht"
+"Nodig: niveau 3\nCavalerie-eenheden in de buurt van Éomer krijgen\n+35% pantser \n «Armor LEADERSHIP» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipFaramirLeadership09v2
-"Nodig: niveau 7\nBondgenoten in de buurt van Faramir krijgen\n+35% pantser \n Modifier Type: 'Armor BUFF' \n\nPassieve kracht"
+"Nodig: niveau 7\nBondgenoten in de buurt van Faramir krijgen\n+35% pantser \n «Armor LEADERSHIP» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBoromirLeadership09v2
-"Nodig: niveau 5\nBondgenoten in de buurt van Boromir krijgen\n+50% schade en verdienen ervaring 25% sneller \n Modifier Type: 'Damage LEADERSHIP' \n\nPassieve kracht"
+"Nodig: niveau 5\nBondgenoten in de buurt van Boromir krijgen\n+40% schade en verdienen ervaring 20% sneller \n «Damage LEADERSHIP» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTheodenLeadership09v2
-"Nodig: niveau 2\nBondgenoten in de buurt van Théoden krijgen\n+25% schade en verdienen ervaring 25% sneller \n Modifier Type: RESISTANT 'Damage Inspiring' \n\nPassieve kracht"
+"Nodig: niveau 2\nBondgenoten in de buurt van Théoden krijgen\n+25% schade en verdienen ervaring 25% sneller \n «Damage BUFF» \n\nPassieve kracht"
 END
 //------------------------------------------------------------
 TOOLTIP:ToolTipSarumanLeadership09v2
-"Bondgenoten in de buurt van Saruman krijgen \n+25% pantser en verdienen 25% meer ervaring \n Modifier Type: RESISTANT 'Armor Inspiring' \n \nPassieve kracht"
+"Bondgenoten in de buurt van Saruman krijgen \n+25% pantser en verdienen 25% meer ervaring \n «Armor BUFF» \n \nPassieve kracht"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirGoldenArrow09v2
@@ -387,7 +542,7 @@ CONTROLBAR:ToolTipHaldirGoldenArrow09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipThornofVengeance09v2
-"Nodig: niveau 9 \n Een extreem sterk schot dat schade aanricht voor 15 seconden. \n Het doelwit is vertraagd tot 70% snelheid. \n Effectief tegen sterke helden. \n Klik links op het icoontje en daarna links op het doelwit"
+"Nodig: niveau 10 \n Een extreem sterk schot dat schade aanricht voor 15 seconden. \n Het doelwit is vertraagd tot 70% snelheid. \n Effectief tegen sterke helden. \n Klik links op het icoontje en daarna links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
@@ -395,37 +550,37 @@ CONTROLBAR:ToolTipSpecialAbilityChargeAttack09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipVenomousWords09v2
-"Vijandige troepen en helden het doelgebied lijden \n -40% snelheid en -50% vuursnelheid \n Duurt 19 seconden. \n Modifier Type: 'STUN' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Klik links op het icoontje daarna met links op het doelwit"
+"Vijandige troepen en helden het doelgebied lijden \n -40% snelheid en -50% vuursnelheid \n Duurt 19 seconden.  \n «Neutralizes LEADERSHIP» \n Klik links op het icoontje daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipMouthOfSauronDoubt09v2
-"Nodig: niveau 4 \n Vijandige troepen en helden in het doelgebied lijden \n -25% pantser, -25% schade en -5% snelheid. \n Duurt 30 seconden. \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n Klik links op het icoontje daarna met links op het doelwit"
+"Nodig: niveau 4 \n Vijandige troepen en helden in het doelgebied lijden \n -25% pantser, -25% schade en -5% snelheid. \n Duurt 30 seconden. \n «DEBUFF» «Neutralizes LEADERSHIP»  \n Klik links op het icoontje daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipEnshroudingMist09v2
-"Bevriende eenheden in de mist worden onzichtbaar. \n Vijandige troepen, helden en monsters in hetzelfde gebied lijden \n -25% pantser en -25% schade. \n Duurt 60 seconden. \n Modifier Type: 'DEBUFF' \n Verwijderd LEADERSHIP en BUFF effecten van de vijand. \n\n Klik links op het icoontje en daarna links op het doelgebied"
+"Bevriende eenheden in de mist worden onzichtbaar. \n Vijandige troepen, helden en monsters in hetzelfde gebied lijden \n -25% pantser en -25% schade. \n Duurt 60 seconden. \n «DEBUFF» «Neutralizes LEADERSHIP»  \n\n Klik links op het icoontje en daarna links op het doelgebied"
 END
 //------------------------------------------------------------
 TOOLTIP:ToolTipToggleGFighterLineToBlockFormation09v2
-"Onderzoek Vaandeldrager upgrade bij de kazerne om deze mogelijkheid in te schakelen. \n +25% pantser, -30% snelheid en +33% extra weerstand tegen pijlen"
+"Onderzoek Vaandeldrager upgrade bij de kazerne om deze mogelijkheid in te schakelen. \n +25% pantser, -30% snelheid en +33% extra weerstand tegen pijlen. \n Verliest -5% schade."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation09v2
-"+25% pantser, -30% snelheid en +33% extra weerstand tegen pijlen"
+"+25% pantser, -30% snelheid en +33% extra weerstand tegen pijlen. \n Verliest -5% schade."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation09v2
-"+20% pantser, -30% snelheid en +25% extra weerstand tegen pijlen. \n Verliest -7% schade."
+"+20% pantser, -30% snelheid en +25% extra weerstand tegen pijlen. \n Verliest -5% schade."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipDisguise09v2
-"Nodig: niveau 3 \n Vermommen als een normale Rohirrim. \n Eowyn doet schade in een gebied \n Klik met links om te activeren"
+"Nodig: niveau 3 \n Vermommen als een normale Rohirrim, wearing it's armament and fighting like one of them. \n Eowyn doet schade in een gebied, +25% damage against heroes and  trample deceleration rate is halved. \n Lasts 30 seconds. \n Klik met links om te activeren"
 END
 CONTROLBAR:ToolTipSmite09v2
-"Krachtige afstandsaanval op één enkel doelwit \n Effectief tegen helden \n Vooral effectief tegen vliegende monsters\n\nKlik met links op het icoontje en daarna met links op het doelwit"
+"Powerful ranged attack with damage in area. \n Level 1: Tiny damage in area. 400% damage against fellbeasts, 130% against heroes. \n Level 4: Improved damage in area. 430% damage against fellbeasts, 145% against heroes and pins them for 1 second.  \n Level 7: Wide damage in area. 460% damage against fellbeasts, 160% against heroes and pins them for 2 seconds. \n Vooral effectief tegen vliegende monsters\n\nKlik met links op het icoontje en daarna met links op het doelwit"
 END
 CONTROLBAR:ToolTipShieldMaiden09v2
-"Nodig: niveau 5 \n Eowyn krijgens 35% pantser \n Halveert de vertraging van bevriende Rohirrim bij vertrappelen \n Klik met links om te activeren"
+"Requires Level 5 \n Eowyn gains 35% Armor and nearby Rohirrims gain: \n -50% Deceleration when crushing. \n Level 7: Eowyn also gains another +35% armor bonus against the attacks from heroes. \n Lasts 30 seconds. \n Left click to activate"
 END
 //	\n Verwijderd Schildmaagd bonus.
 //------------------------------------------------------------
@@ -537,10 +692,10 @@ CONTROLBAR:ToolTipAthelasAragorn09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:TooltipAthelasElrond09v2
-"Geneest 750 gezondheidspunten van nabije troepen en helden. \n Nabije troepen en monsters krijgen een verhoging van: \n +15% gezondheidspunten en +25% sneller ervaring \n Geeft weerstand tegen angst \n Modifier Type: 'DEBUFF_PROOF ElvenGrace'\n Duurt 12 seconden \n Klik met links om te activeren"
+"Geneest 750 gezondheidspunten van nabije troepen en helden. \n Nabije troepen en monsters krijgen \n +35% pantser en +25% sneller ervaring \n Geeft weerstand tegen angst  \n Duurt 12 seconden \n Klik met links om te activeren"
 END
 CONTROLBAR:ToolTipElrondFarsight09v2
-"Onthult een deel van de kaart \n Geeft +27.5% bereik voor onthulling voor elke eenheid voor 25 seconden. \n Heeft geen effect op helden \n Modifier Type: 'DEBUFF_PROOF ElrondFarseeing' \n Klik met links op het icoontje en daarna met links op het doelwit"
+"Onthult een deel van de kaart \n Geeft +27.5% bereik voor onthulling voor elke eenheid voor 25 seconden. \n Heeft geen effect op helden  \n Klik met links op het icoontje en daarna met links op het doelwit"
 END
 //------------------------------------------------------------
 CONTROLBAR:KingsFavorDain09v2
@@ -581,7 +736,7 @@ CONTROLBAR:SpecialAbilityFiresOfDoom2
 "&Roept drie Doemvuren op rond Sauron"
 END
 CONTROLBAR:LoneTowerLeadershipUpgradeIcon
-"Vereist het onderzoek bij je fort. \n\n Geeft nabije bondgenoten +25% schade en verdienen ervaring 25% sneller. \n Modifier Type: RESISTANT 'Damage Inspiring'"
+"Vereist het onderzoek bij je fort. \n\n Geeft nabije bondgenoten +25% schade en verdienen ervaring 25% sneller. \n «Damage BUFF»"
 END
 CONTROLBAR:LoneTowerHealingUpgradeIcon
 "Vereist het onderzoek bij je fort. \n\n Geneest nabije bondgenoten. \n Herstelt één eenheid per troep, elke 10 seconden"
@@ -610,7 +765,7 @@ CONTROLBAR:Fire_pit
 "Fire pit (&V)"
 END
 CONTROLBAR:TooltipFire_pit
-"Campfire that heals Nabije bondgenoten \n Replenish 1 unit per horde each 5 seconds. \n Grants a bonus of +5% pantser \n Modifier Type: RESISTANT 'HobbitCampfire' \n Detect stealth"
+"Campfire that heals Nabije bondgenoten \n Replenish 1 unit per horde each 5 seconds. \n Grants a bonus of +5% pantser \n «Campfire BUFF» \n Detect stealth"
 END
 CONTROLBAR:FireWorks
 "FireWorks / Ignite [&V]"
@@ -643,10 +798,9 @@ End
 
 
 
-// Maps.Strings	-----	2019
+// Maps.Strings	-----	2019-2020-2021
 
  
-
 
 
 //------------------------------------------------------------
@@ -656,18 +810,298 @@ END
 Map:mapmpnothing/Desc
 "nothing"
 END
+//----------------------------------
+Map:map_pk_glanduin_canyon
+"Glanduin Canyon"
+END
+Map:map_pk_glanduin_canyon/Desc
+"The Glanduin was a river in the region of Eriador in Middle-earth and an eastern arm of the Gwathlo. \n Map by Powerkartoffel."
+END
+//----------------------------------
+Map:map_PK_Moria
+"Moria"
+END
+Map:map_PK_Moria/Desc
+"Moria, was the grandest and most famous of the mansions of the Dwarves. There, for many thousands of years, a thriving Dwarvish community created the greatest city ever known. Map by Powerkartoffel"
+END
 //------------------------------------------------------------
-Map:mapttfiriendale
+Map:map_pk_mering_stream_II
+"Mering Stream 2"
+END
+Map:map_pk_mering_stream_II/Desc
+"The Great West Road crosses the Mering Stream, a border river that separates Rohan and Gondor.  \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_carrock
+"Carrock"
+END
+Map:map_pk_carrock/Desc
+"The Carrock was a stony eyot in the upper reaches of the River Anduin, to the north of the Old Ford. The river looped around the rock although there was a ford of stones to the eastern bank, while there was a swirling channel under its western cliff. At the base was a little cave with adjacent steps that led to a flat space upon the top. \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:mapMOeastfoldII
+"Eastfold II"
+END
+Map:mapMOeastfoldII/Desc
+"The Eastfold is a region of Rohan bordering Westfold via the Snowbourn River. The whole area was traversed by the Great West Road. \n Map by Ecthelion and Powerkartoffel. \n Originally created by Motoma for RotWK."
+END
+//------------------------------------------------------------
+Map:map_PK_gladden_fields
+"Gladden Fields"
+END
+Map:map_PK_gladden_fields/Desc
+"The Gladden Fields were a marshland located in the vale of the Gladden river, and on the banks of the river Anduin. It was there that the One Ring was lost by Isildur, and found again centuries later by Deagol the Stoor. \n Map by Powerkartoffel and Ecthelion."
+END
+//------------------------------------------------------------
+Map:map_pk_enchanted_river
+"Enchanted River"
+END
+Map:map_pk_enchanted_river/Desc
+"The Enchanted River was a black river in Mirkwood that flowed north from its source in the Mountains of Mirkwood towards the Forest River. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_so_rhudaur
+"Rhudaur"
+END
+Map:map_so_rhudaur/Desc
+"Rhudaur was the eastern Kingdom of Arnor and mostly populated by the native Hill-men. Under their leader Hwaldar they joined the Witch-king in his war against the Dunedain. \n Map from RotWK, by Solas."
+END
+//------------------------------------------------------------
+Map:mapETSouthRoad
+"South Road"
+End
+Map:mapETSouthRoad/Desc
+"The South Road connects Minas Tirith with the southern Gondor havens. This wide and well-paved road goes through the lands of Lossarnach and Lebennin, crosses the river Erui and reaches Pelargir. Map by Ecthelion."
+End
+//------------------------------------------------------------
+Map:mapCAPUtumladenII
+"Valley of Tumladen"
+END
+Map:mapCAPUtumladenII/Desc
+"Tumladen is a deep valley between the rivers Celos and Sirith. It was the refuge of many civilians from Minas Tirith during the War of the Ring. \n Rework by Capuchino, original map by SilverBane`"
+END
+//------------------------------------------------------------
+Map:map_pk_harrowdale
+"Harrowdale"
+END
+Map:map_pk_harrowdale/Desc
+"Harrowdale was a deep, north-south valley cut out of the White Mountains by the Snowbourn river in Rohan. \n At its southern end, between the mountains known as the Starkhorn and Irensaga, stood Dunharrow, a great clifftop refuge of the Rohirrim.\n Reskin of Fords of Isen II by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_carnen_mire
+"Carnen Mire"
+END
+Map:map_pk_carnen_mire/Desc
+"The River Carnen originated in the Iron Hills and was east of the Lonely Mountain. It flowed southward before emptying into the River Running, which was about 250 Numenorean miles to the south. This river, in turn, flowed past the land of Dorwinion and into the Sea of Rhun. \n Map by Powerkartoffel."
+END
+//----------------------------------
+Map:map_pk_stockbrook
+"Fords of Stockbrook"
+END
+Map:map_pk_stockbrook/Desc
+"The Stockbrook was a stream located in the Eastfarthing of the Shire. It joined the Brandywine after passing its namesake, the village of Stock. It had steep banks lined with brambles that gradually become lower as it heads towards the river.\n Reskin of Fords of Isen II by Powerkartoffel"
+END
+//----------------------------------
+Map:map_PK_desert_of_khand
+"Udun II - Desert Temple of Khand"
+END
+Map:map_PK_desert_of_khand/Desc
+"Deep in The Dune Sea a strange temple construction can be found.\n Reskin of Udun by Powerkartoffel"
+END
+//----------------------------------
+Map:map_PK_Udun_Desert
+"Udun II - Ruins of Old Khand"
+END
+Map:map_PK_Udun_Desert/Desc
+"Footprints of the lost civilisation of Khand.\n Reskin of Udun [6p] by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_PK_numenors_downfall
+"Numenors Downfall" 
+End
+Map:map_PK_numenors_downfall/Desc
+"The island of Numenor was a great civilization of Men that was destroyed due to their pride and rebellion against the will of the Valar. The once-great land was swallowed by the sea, leaving behind only haunting ruins and semi-flooded islands as somber reminders of the folly and transgressions of men. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------/
+Map:map_PK_port_linhir
+"Markets of Linhir" 
+End
+Map:map_PK_port_linhir/Desc
+"Situated at the south of the Gondor, in the confluence of Gilrain and Serni rivers, Linhir is a port city known by its opulent market and services. During the War of the Ring a clash between Invasors of Umbar and Aragorn's Dead Army took place. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------/
+Map:map_pk_rhudel_steppe
+"Rhudel Steppe"
+End
+Map:map_pk_rhudel_steppe/Desc
+"Rhudel is a plain land beyond the sea of Rhun, whose name implies horror in the east, possibly due the existance of dragons. Despite not being fertile enough to support permanent habitation, there is a significant amount of ruins of unknown origin. \n Map remade by Powerkartoffel. \n Original autor unknown."
+End
+//------------------------------------------------------------
+Map:map_PK_Forlond
+"Forlond" 
+End
+Map:map_PK_Forlond/Desc
+"Forlond was a harbour that lay on the northern shore of the Gulf of Lune, in the Elvish land of Forlindon. It had a counterpart on the southern shore: the Harlond. Forlond was located at the mouth of an unnamed river that traversed Forlindon, some two hundred miles to the northwest of the Grey Havens. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_beleriand
+"Beleriand"
+End
+Map:map_PK_beleriand/Desc
+"At the end of the First Age of Middle-earth, Beleriand was broken in the War of Wrath by the the Maiar, against Morgoth . As the inhabitants fled much of Beleriand sank in the sea. The left behind souls still fight their battle for supremancy of the sunken lands. \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_amon_amarth_II
+"Amon Amarth II" 
+End
+Map:map_PK_amon_amarth_II/Desc
+"Amon Amarth, the mountain of fate, is located deep within Mordor. It is also known as Mount Doom. \n Map by Mako, edited by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_brandy_hills
+"Brandy Hills" 
+End
+Map:map_PK_brandy_hills/Desc
+"This is an area north of Buckland along the eastern shores of Brandywine River until the Brandywood. Girdley Island is the only named point of interest of these hills though they are dotted by small Arnorian ruins. \n Map by Powerkartoffel. \n Special thanks to Temptattion"
+End
+//------------------------------------------------------------
+Map:map_pk_dunland_ii
+"Dunland II" 
+End
+Map:map_pk_dunland_ii/Desc
+"The Eastern regions of the Enedwaith, home of the Wild Men, sworn enemies of Rohan. \n Map reworked by Powerkartoffel & Ecthelion"
+End
+//------------------------------------------------------------
+Map:map_pk_gardens_of_far_harad
+"Gardens of Far Harad" 
+End
+Map:map_pk_gardens_of_far_harad/Desc
+"The Gardens of Far Harad were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_iron_mountains_II
+"Iron Mountains II" 
+End
+Map:map_PK_iron_mountains_II/Desc
+"The Iron Mountains, also known as Ered Engrin and the Mountains of Iron, were an immense mountain range in the northern part of Middle-earth. \n Creeps: 4 Wargs, 2 Trolls, 2 Dragons, 2 Goblins \n Capture: 2 Signal Fires, 2 Inns \n Size: Large 1v1 \n Map by Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:map_PK_Last_Bridge
+"Last Bridge" 
+End
+Map:map_PK_Last_Bridge/Desc
+"The Last Bridge was an ancient stone bridge that carried the East Road over the River Hoarwell, about a hundred miles east of Weathertop and roughly the same distance west of Rivendell. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_pk_lonely_mountain
+"Slopes of the Lonely Mountain"
+End
+Map:map_pk_lonely_mountain/desc
+"The Battle of the five Armies took place in this valley, located between the Lonely Mountain and Dale. The five warring parties were the Goblins and the Wargs against Men, Elves, and Dwarves. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_mirkwood_ii
+"Mirkwood II" 
+End
+Map:map_PK_mirkwood_ii/Desc
+"Mirkwood is a large forest located in between the kingdom of Gondor and the Grey Mountains. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_mount_doom_II
+"Mount Doom II" 
+End
+Map:map_PK_mount_doom_II/Desc
+"Mount Doom, the mountain of fate, is located deep within Mordor. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapMXgundabaddeeps
+"Gundabad Deeps" 
+End
+Map:mapMXgundabaddeeps/Desc
+"Gundabad was once a dwarven settlement founded by Durin I in the First Age, but now, the Mount and it's underground are infested with orcs, goblins, and other merciless creatures. \n Map by Mex Flaxtz."
+End
+//------------------------------------------------------------
+Map:mapSOironhillsii
+"Iron Hills II"
+END
+Map:mapSOironhillsii/Desc
+"These hills, rich in iron, were long held by the Dwarves and Dain Ironfoot. \n Map from RotWK by Solas, edited by Ecthelion"
+END
+//------------------------------------------------------------
+Map:mapSOsorrowisles
+"Sorrow Isles" 
+End
+Map:mapSOsorrowisles/Desc
+"A group of lone Islands in the Sea of Belfalas. It is said to be the prison of two evil spirits who drive the island's unsuspecting visitors into madness. \n Map from RotWK, by Solas."
+End
+//------------------------------------------------------------
+Map:mapMAironhillsIV
+"Iron Hills IV"
+END
+Map:mapMAironhillsIV/Desc
+"A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water. \n Map from RotWK, by Mako."
+END
+//------------------------------------------------------------
+Map:mapTTettenmoorsII
+"Ettenmoors II" 
+End
+Map:mapTTettenmoorsII/Desc
+"The Ettenmoors, also known as the Troll-fells, were a highland region of Eriador, which was west of the Misty Mountains. The land was wild, and many evil creatures dwelt there. \n Map by Temptation. \n Special thanks to Powerkartoffel and Ecthelion"
+End
+//------------------------------------------------------------
+Map:map_PK_bamfurlong
+"Bamfurlong" 
+End
+Map:map_PK_bamfurlong/Desc
+"Bamfurlong was a farm in the boggy region of the Marish in the eastern Shire. It was the home of Farmer Maggot, who lived above ground rather than in a traditional Hobbit-hole. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapSOironhillsii
+"Iron Hills II"
+END
+Map:mapSOironhillsii/Desc
+"These hills, rich in iron, were long held by the Dwarves and Dain Ironfoot. \n Map from RotWK, by Solas. \n Reworked by Powerkartoffel & Ecthelion"
+END
+//----------------------------------
+Map:mapETerechiii
+"Erech 4th Age" 
+End
+Map:mapETerechiii/Desc
+"This hill is known by a famous black, spherical stone, where the King of Dead had once sworn allegiance to Isildur's cause. Because he failed to fulfill his oath, the Oathbreakers haunted the hills until Elessar released them at the end of the 3rd age.\n Map by Ecthelion. Special thanks to Powerkartoffel"
+End
+//------------------------------------------------------------
+Map:mapTTbaranduin
+"River Baranduin"
+END
+Map:mapTTbaranduin/Desc
+"The Baranduin River of Eriador is known by the Hobbits as the Brandywine River. It marks the the boundary between the known and the unknown. \n Map by Temptation."
+END
+//------------------------------------------------------------
+Map:map_pk_canyons_of_khand
+"Canyons of Khand" 
+End
+Map:map_pk_canyons_of_khand/Desc
+"Khand was the name of a land which lay to the south of Mordor and the east of Near Harad. Little is known about Khand or its people, but it was most likely a dry and barren land covered in desert. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:map_PK_lonely_mountain
+"Slopes of the Lonely Mountain"
+End
+Map:map_PK_lonely_mountain/desc
+"The Battle of the five Armies took place in this valley, located between the Lonely Mountain and Dale. The five warring parties were the Goblins and the Wargs against Men, Elves, and Dwarves. \n Map by Powerkartoffel."
+End
+//------------------------------------------------------------
+Map:mapTTfiriendale
 "Firien Dale"
 END
 Map:mapTTfiriendale/Desc
 "A deep cleft separating the Halifirien hill from its spur of the White Mountains; the source of the Mering Stream. \n Map by Temptation and Ecthelion"
 END
 //------------------------------------------------------------
-Map:mapetdruadanforestIII
+Map:mapETdruadanforestIII
 "Druadan Forest III"
 End
-Map:mapetdruadanforestIII/Desc
+Map:mapETdruadanforestIII/Desc
 "An old forest at the foot of the White Mountains, to the northwest of Minas Tirith. \n Map from BFME1, remade by Ecthelion."
 End
 //------------------------------------------------------------
@@ -703,7 +1137,7 @@ Map:ThePrancingPony
 "The Prancing Pony"
 END
 Map:ThePrancingPony/Desc
-"A large 8 player map made in honor of The Prancing Pony"
+"A large 8 player map made in honor of The Prancing Pony. \n Map from RotWK."
 END
 //------------------------------------------------------------
 Map:mapMOblackrootVale
@@ -728,10 +1162,10 @@ Map:mapTTsouthhollin/desc
 End
 //------------------------------------------------------------
 Map:mapTTfordofbruinen
-"Ford of Bruinen" 
+"Ford of Bruinen II"  
 End
 Map:mapTTfordofbruinen/Desc
-"The upland forests, mostly made up of beeches, lay to the West of Rivendell where the Bruinen river flows, a favorite hunting ground for trolls who descended from the mountains to attack travelers on the Great Western highway.\n Map by Temptation"
+"The upland forests, mostly made up of beeches, lay to the West of Rivendell where the Bruinen river flows, a favorite hunting ground for trolls who descended from the mountains to attack travelers on the Great Western highway.\n Map by Temptation. \n Special thanks to Powerkartoffel and Ecthelion."
 End
 //------------------------------------------------------------
 Map:mapTTosgiliathII
@@ -782,7 +1216,7 @@ Map:mapHAforlindon
 "The Cow Maze"
 End
 Map:mapHAforlindon/Desc
-"The tale of The Cow Maze:\nThe Bard has told us of the Great Cow Maze that once took place in this territory...\n Within it's great walls, many strong heroes from ancient ages, like the Mighty-Bunito and the Glute-Master have struggled with fire and siege, breaking through the walls of stone in a battle that lasted 109 days and 109 nights. The heros trudged through cow shit but to no avail, as the mad Cow Lord stroked (or milked) his wet and voluptuous udders night and day, noone did survive. Milk and blood was splatered, but still, noone could stand against the wrath of the Mighty Cow. \nEven so, the Maze and it's stoned walls were destroyed due the violence from the Last Great Battle. Now only ruins remain to watch over the north-west of the middle-earth, and the Mighty Cow has became a God who people pray in times of war. \n \n The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\n\n Map originally from BFME1 by Haldir, edited by Ecthelion."
+"The tale of The Cow Maze:\nThe Bard has told us of the Great Cow Maze that once took place in this territory...\n Within it's great walls, many strong heroes from ancient ages, like the Mighty-Bunito and the Glute-Master have struggled with fire and siege, breaking through the walls of stone in a battle that lasted 109 days and 109 nights. The heroes trudged through cow shit but to no avail, as the mad Cow Lord stroked (or milked) his wet and voluptuous udders night and day, noone did survive. Milk and blood was splatered, but still, noone could stand against the wrath of the Mighty Cow. \nEven so, the Maze and it's stoned walls were destroyed due the violence from the Last Great Battle. Now only ruins remain to watch over the north-west of the middle-earth, and the Mighty Cow has became a God who people pray in times of war. \n The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\n\n Map originally from BFME1 by Haldir, edited by Ecthelion."
 End
 //The land of Forlindon lies north to the Gulf of Lhun and the Elven harbour of Forlond.\nMap from BFME1 by Haldir, edited by Ecthelion."
 //------------------------------------------------------------
@@ -797,7 +1231,7 @@ Map:mapETerynrhun
 "Eryn Rhün" 
 End
 Map:mapETerynrhun/Desc
-"Eryn Rhün means Eastern Forest, used as reference to the mysterious woody region at the east of the sea of Rhün, irrigated by the mouths of the rivers from the Red Mountains. \n Map by Ecthelion"
+"Eryn Rhün means Eastern Forest, used as reference to the mysterious woody region at the east of the sea of Rhün, irrigated by the mouths of the rivers from the Red Mountains. \n Map by Ecthelion. Special thanks to Powerkartoffel."
 End
 //------------------------------------------------------------
 Map:mapETlebennin
@@ -881,7 +1315,7 @@ END
 //"Buckland III"
 //END
 //MAP:mapTESTBucklandIII/Desc
-//"The Eastern border of the Shire was the . \n Map from RotWK, by Mako."
+//"The Eastern border of the Shire was the home of Merry Brandybuck. \n Map from RotWK, by Mako."
 //END
 //------------------------------------------------------------
 Map:mapMAeastmarch
@@ -895,7 +1329,7 @@ END
 //"Fords of Glanduin"
 //END
 //Map:mapTESTFordsOfGlanduin/Desc
-//"Beginning in the Hithaeglir south of Khazad-dum, the Glanduin formed Eregion's southern boundary to Dunland \n Map from RotWK, by Solas."
+//"Beginning in the Hithaeglir south of Khazad-dum, the Glanduin formed Eregion's southern boundary to Dunland. \n Map from RotWK, by Solas."
 //END
 //------------------------------------------------------------
 Map:mapSOgondoroutpost
@@ -1014,7 +1448,7 @@ END
 //"Druwait Reef"
 //End
 //Map:maptestdruwaithreef/desc
-//" This coastal region, once inhabited by the Druedain, has been the site of sacrificial offerings to Ulmo in order to set the heavy floods at rest. Now only the ruins of this cult remain as the waters are still restless.\n\n Size: 410 x 350\n Lairs: 2x Spider Lair, 2x Troll Lair\n Neutral Structures: 2x Inn. \n Map from RotWK, by Solas."
+//" This coastal region, once inhabited by the Druedain, has been the site of sacrificial offerings to Ulmo in order to set the heavy floods at rest. Now only the ruins of this cult remain as the waters are still restless.\n Size: 410 x 350\n Lairs: 2x Spider Lair, 2x Troll Lair\n Neutral Structures: 2x Inn. \n Map from RotWK, by Solas."
 //End
 //------------------------------------------------------------
 //	Map:maptestbrownlands8p
@@ -1063,7 +1497,7 @@ END
 //"Anfalas II"
 //END
 //Map:mapNEWanfalasii/Desc
-//"The western coastal section of Gondor populated by small villages of herdsmen and fishermen.\n\n Size: 360 x 390\n Lairs: 2x Troll Lair, 2x Barrow Wight Lair\n Neutral Structures: 1x Inn, 1x Signal Fire. \n Map from RotWK, by Mako."
+//"The western coastal section of Gondor populated by small villages of herdsmen and fishermen.\n Size: 360 x 390\n Lairs: 2x Troll Lair, 2x Barrow Wight Lair\n Neutral Structures: 1x Inn, 1x Signal Fire. \n Map from RotWK, by Mako."
 //END
 //------------------------------------------------------------
 Map:mapRAgreenleafforest
@@ -1098,7 +1532,7 @@ End
 //	"Desert Of Rhun" //removed
 //	End
 //	Map:mapNEWdesertofrhun/desc
-//	"A vast desert lying to the south-east of Rhun. Many unprepared travellers lose their way attempting to traverse this rugged region. \n\n Size: 550 x 550\n Lairs: 6x Goblin Lair\n Neutral Structures: 2x Outpost, 2x Inn, 2x Signal Fire. \n Map from RotWK, by Solas."
+//	"A vast desert lying to the south-east of Rhun. Many unprepared travellers lose their way attempting to traverse this rugged region. \n Size: 550 x 550\n Lairs: 6x Goblin Lair\n Neutral Structures: 2x Outpost, 2x Inn, 2x Signal Fire. \n Map from RotWK, by Solas."
 //	End
 //------------------------------------------------------------
 Map:mapMOamonhen
@@ -1119,18 +1553,18 @@ Map:mapJKforlindonhills
 "Forlindon Hills"
 END
 Map:mapJKforlindonhills/Desc
-"The region of Forlindon was inhabited by Elves and were the chief part of Gil-galad's kingdom, surrounded by the Blue Mountains and the Great Sea.\n Map by Jokuc."
+"The region of Forlindon was inhabited by Elves and were the chief part of Gil-galad's kingdom, surrounded by the Blue Mountains and the Great Sea.\n Map by Jokuc`."
 END
 //------------------------------------------------------------
 Map:mapJKtowerhills
 "Tower Hills"
 END
 Map:mapJKtowerhills/Desc
-"With a layout similar to Fords of Isen and the skin of Tower Hills, this 1v1 map is made to provide a mix of fun elements and balanced gameplay. \n Turn off ring heroes for tournament mode. \n Map by Jokuc."
+"With a layout similar to Fords of Isen and the skin of Tower Hills, this 1v1 map is made to provide a mix of fun elements and balanced gameplay. \n Turn off ring heroes for tournament mode. \n Map by Jokuc`."
 END
 //------------------------------------------------------------
 Map:mapMAudunii
-"Udun [6p]"
+"Udun"
 END
 Map:mapMAudunii/Desc
 "The lands behind the Black Gate known as Udun take the name of the underworld due to the volcanic ash and noxious fumes that cover them.\n Map from RotWK, by Mako."
@@ -1392,7 +1826,7 @@ Map:mapmptyrngorthad
 "Tyrn Gorthad"
 END
 Map:mapmptyrngorthad/Desc
-"Better known as the Barrow-downs, the ancient burial grounds of the kings of Arnor were corrupted with evil spirits by the Witch-king. Map from RotWK, edited by Ecthelion"
+"Better known as the Barrow-downs, the ancient burial grounds of the kings of Arnor were corrupted with evil spirits by the Witch-king. \n Map from RotWK, edited by Ecthelion"
 END
 //------------------------------------------------------------
 Map:mapmptournamentudunII
@@ -1504,7 +1938,7 @@ Map:mapmpmithrilhillsii
 "Mithril Hills" // aka Iron Hills II
 END
 Map:mapmpmithrilhillsii/Desc
-"A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water.\n\n Size: 600 x 535\n Lairs: 7x Spider Lair\n Neutral Structures: 1x Outpost, 1x Inn, 1x Signal Fire, 2x Fortress. \n Map from RotWK, by Solas."
+"A mineral rich region which is the source of the River Redwater, the name given to the river for the reddish iron particles found in its water.\n Size: 600 x 535\n Lairs: 7x Spider Lair\n Neutral Structures: 1x Outpost, 1x Inn, 1x Signal Fire, 2x Fortress. \n Map from RotWK, by Solas."
 END
 //------------------------------------------------------------
 Map:mapmplorienplateau
@@ -5804,15 +6238,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v2"
+"1.09v3"
 END
 
 Version:Format3
-"1.09v2"
+"1.09v3"
 END
 
 Version:Format2
-"1.09v2"
+"1.09v3"
 END
 
 Version:BuildTime
@@ -15260,7 +15694,7 @@ CONTROLBAR:Undermine
 END
 
 CONTROLBAR:TooltipUndermine
-"Plaatst een mijnschacht op een willekeurige locatie op de kaart\nDe mijnschacht wordt onmiddellijk verbonden met het tunnelnetwerk\nKlik met links op het icoontje en daarna met links op een zichtbare locatie"
+"Plaatst een mijnschacht op een willekeurige locatie op de kaart \n Does not need shroud reveal but cannot be casted near any enemy fortress. \nDe mijnschacht wordt onmiddellijk verbonden met het tunnelnetwerk\nKlik met links op het icoontje en daarna met links op een zichtbare locatie"
 END
 
 OBJECT:UndermineMineShaft
@@ -16788,7 +17222,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:PhialofGaladriel
-"Flesje van Galadriel (&T)"
+"Flesje van Galadriel (&R)"
 END
 
 CONTROLBAR:ToolTipPhialofGaladriel
@@ -26632,7 +27066,7 @@ CONTROLBAR:ConstructElvenMithlondSentryHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
-"Sterk tegen cavalerie \n Kan zich verstoppen bij bomen"
+"Sterk tegen cavalerie \n Kan zich verstoppen bij bomen. \n Gains +4% speed at level 4, 7 and 10."
 END
 
 CONTROLBAR:BuildElvenRivendellLancers
@@ -44400,7 +44834,7 @@ TOOLTIP:LackMordorBarbedArrow
 END
 
 CONTROLBAR:BarbedArrowUpgrade
-"Getande pijlen (&W)"
+"Getande pijlen (&T)"
 END
 
 CONTROLBAR:ToolTipHeal
@@ -44412,7 +44846,7 @@ CONTROLBAR:TooltipRallyingCall
 END
 
 CONTROLBAR:TooltipDwarvenRiches
-"Geselecteerd gebouw produceert tijdelijk +350% grondstoffen\nKlik met links op het icoontje en daarna met links op een gebouw dat grondstoffen genereert"
+"Geselecteerd gebouw produceert tijdelijk +300% grondstoffen\nKlik met links op het icoontje en daarna met links op een gebouw dat grondstoffen genereert"
 END
 
 CONTROLBAR:TooltipPalantirVision
@@ -44968,7 +45402,7 @@ CONTROLBAR:TameTheBeast
 END
 
 CONTROLBAR:SharkuManEater
-"Menseneter (&C)"
+"Menseneter (&T)"
 END
 
 CONTROLBAR:VenomousWords
@@ -45068,11 +45502,11 @@ CONTROLBAR:Screech
 END
 
 CONTROLBAR:ScreechWitchKing
-"Krijsen (&C)"
+"Krijsen (&V)"
 END
 
 CONTROLBAR:HourOfTheWitchKing
-"Uur van de Tovenaar-Koning (&V)"
+"Uur van de Tovenaar-Koning (&B)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinArcherHorde
