@@ -1,0 +1,134 @@
+Patch 1.07 Revision B - by Valheru
+Changelog - 19/07/2013
+
+
+IPB Image
+
+
+-Gandalf Lightning Sword now deals splash in radius 12
+-Gandalf Istari Light now deals Critical Damage to Giant Eagle Summon
+-Gandalf Istari Light now deals 200% to Fort Eagle, from 70%
+-Gandalf Istari Light now deals 300% to Shelob, from 70%
+-Gandalf Istari Light now deals 110% to Drogoth, from 70%
+-Gandalf Istari Light now deals 380% to Aragorn, Elrond and Gimli, from 300%
+-Gandalf Istari Light no longer has penalties against Dain, Theoden, and MoS
+-Gandalf Lightning Sword now deals 150% bonus damage against Gimli, Aragorn and Elrond, from 110%
+
+
+IPB Image
+
+
+Isengard
+
+-Devastation cooldown reduced from 360s to 300s
+-Wormtongue cost from 2000 to 1800
+-Palantir Vision cooldown from 180s to 150s
+-Armory buildtime from 60s to 50s
+
+
+
+IPB Image
+
+
+Elves
+
+-Mirror of Galadriel can now heal multiple battalions simutaneously
+-Giant Eagle heal regen from 15hp/s to 25hp/s
+-Giant Eagle now deals 12% bonus damage against Fellbeast and Witch-king mounted
+-Thrandiul Dead Eye now deals 20% against forts, from 100%
+-Thrandiul Dead Eye duration increased from 20s to 25s
+-Thrandiul Dead Eye cooldown reduced from 120s to 100s
+-Thranduil Move Unseen Effect Radius from 50 to 100
+-Ent buildtime from 20s to 25s
+-Treebeard cost from 2000 to 1500
+-Treebeard now takes 75% specialist, from 50%
+-Treebeard & Ents now take 50% from Hero Ranged, from 5%
+-Treebeard now takes 25% slash, from 10%
+-Enchanted Andril Upgrade Discount's improved for each level
+-Elven Barracks Level 3 Upgrade Time from 60s to 25s
+-Green Pasture Level 2 & 3 Upgrade Time from 60s to 25s
+
+
+IPB Image
+
+
+Dwarves
+
+-Hearth can now heal multiple battalions simutaneously
+-Battlewagon Men of Dale now deal 60% to Isengard Pikeman, from 25%
+-Battlewagon now takes 180% structural damage, from 200%
+-Battlewagons now gain self-heal at level 5
+-Battlewagon Hearth Effect Radius from 100 to 200
+-Men of Dale Black Arrows now deals 200% against Mumakil
+-Men of Dale Black Arrows range increased to 460, from 380
+-Men of Dale Black Arrows now deals 15% damage to Heros, from 100%
+-Men of Dale Black Arrows now deals 35% damage to Monsters, from 100%
+-Men of Dale Black Arrows now deal 1% damage to All Structures
+-Men of Dale Black Arrows cooldown from 30s to 60s
+-Swapped Barrage with Cloudbreak
+-Gloin Shake Foundation now deals 15% against Forts, from 25%
+-King Dain cost now 1800, from 1500
+
+
+
+IPB Image
+
+
+Mordor
+
+-Evil eye no longer deals critical damage to Mordor Flyers
+-Orc Archer Bugfix: The bonus damage against Dwarven infantry no longer applies to all units
+-Mordor Orc Archer bonus vs Uruk Warriors from 120% to 110%
+-Attack Trolls have been redesigned as an anti-infantry/cav/hero unit, weak to flame, magic & pierce
+-Attack Trolls now take 50% from crush revenge, from 100%
+-Attach Troll speed from 68 to 61
+-Attack Troll now costs 75 CP, from 60
+-Attack Trolls now take 100% flame, from 50%
+-Attack Trolls now take 110% magic, from 90%
+-Attack Trolls now take 40% from pierce, from 25%
+-Barbed Arrows cooldown set to 60s (matches black arrows)
+-Barbed Arrows range from 380 to 460
+-Drummer Troll Buildtime from 45s to 38s
+-Drummer Troll leadership radius from 400 to 300
+-Fellbeast damage vs heroes increased from 30% to 50%
+-Fellbeast resistance to pierce increased from 80% to 72%
+-Fellbeast damage against buildings increased from 75% to 85%
+-Haradrim Archer buildtime from 40s to 33s
+-Haradrim Archer Barbed Arrows Range from 350 to 460
+-Haradrim Archer Barbed Arrows now deals 30% damage to Heroes & Monsters, from 100%
+-Haradrim Lancer now deals 60% to heroes, from 120%
+-Haradrim Lancer now deals normal pikeman crush revenge to all cavalry
+-Haradrim Lancer penalties against Archers removed
+-Haradrim Lancer buildtime now 35s, from 45s
+
+
+
+IPB Image
+
+
+Goblins
+
+-Shelob speed from 80 to 85(now keeps up with riders)
+-Shelob resistance to specialist increased from 42% to 39%
+-Goblin Archer damage from 29 to 28
+-Goblin Archer health decreased by 2
+-Half Troll bonus damage vs heroes removed
+-Half Troll bonus vs Attack Trolls reduced from 200% to 120%
+-Summon Spiderlings lifetime from 30s to 35s
+-Summon Spiderlings now deal 55% to structures, from 65%
+-Drogoth now deals 50% damage to Heroes, from 30%
+-Drogoth now deals 85% damage to structures, from 75%
+-Drogoth Fireball now deals critical damage against Giant Eagle Summon
+-Spider Pit Tier 3 upgrade time from 60s to 30s
+-Spiderlings now have a 15% bonus against corsairs
+-Spiderlings now have a 7% bonus against Guardians
+
+Global
+
+-Earthquake outer phase weapon damage decreased
+-Rally Call & Warchant now grant 50% bonus experience
+-The Balrog's Fire Breathe will now deal Critical Damage against Gandalf if he fails to cast Shield Bubble
+-Dragon Lifetime from 70s to 80s
+-Darkness Armor Bonus from 25% to 33%
+-Cost of builders from 500g to 450g
+-Tooltips corrected accordingly
