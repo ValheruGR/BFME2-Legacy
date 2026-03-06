@@ -2,11 +2,11 @@ Map:mapjkbluemountainstowerwar
 "Blue Mountains TW: Free For All"
 End
 Map:mapjkbluemountainstowerwar/Desc
-"This is a free for all tower wars map for Patch 1.09. There are 19 waves, it takes around an hour.\n\nThe map has been tested and beaten with all factions by me. Solo play is supported. If this is your first time playing, TURN ON RING HEROES.\n\nIf you wish the game to continue even after all opponents have lost, everyone must be team 1.\n**To avoid OOS, restart the game before playing**\n\n Ver 1.1 | July 2017 \n Added patch compatibility by Ecthelion, 2020."
+"This is a free for all tower wars map for Patch 1.09. There are 19 waves, it takes around an hour.\n\nThe map has been tested and beaten with all factions by me. Solo play is supported. \n Turn on Ring Heroes for instructions. \n\nIf you wish the game to continue even after all opponents have lost, everyone must be team 1.\n**To avoid OOS, restart the game before playing**\n\n Ver 1.3 | Apr 2019 \n 1.09 compatibility by Ecthelion, 2022."
 End
 
 SCRIPT:01
-"Made by Jokuc\nVersion 1.1 release date 04/07-2017\n Added patch compatibility by Ecthelion, 2020"
+"Made by Jokuc \nVersion 1.3beta April-2019\n Keep 1.09 compatibility by Ecthelion, 2022"
 End
 
 SCRIPT:Intro01
@@ -37,8 +37,25 @@ SCRIPT:Intro07
 "I wish everyone good luck! The game will begin shortly.."
 End
 
+
+SCRIPT:Wave5TT
+"Get your micro ready."
+End
+
+SCRIPT:Wave10TT
+"One does not simply walk into Mordor."
+End
+
+SCRIPT:Wave16TT
+"TO WAR!"
+End
+
 SCRIPT:IntroCountdown
 "Game starts in:"
+End
+
+SCRIPT:Income
+"Income:"
 End
 
 SCRIPT:WaveCounter
@@ -247,4 +264,24 @@ End
 
 CONTROLBAR:ToolTipBerserkerRageCrazyOrc
 "Requires Level 10 \n Crazy Orc being crazy"
+End
+
+CONTROLBAR:TowerStuff
+"//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+End
+
+CONTROLBAR:BuyTowerDamageUpgrade
+"Arrow Bonus"
+End
+
+CONTROLBAR:TowerDamageInfo
+"Tower gets +75% damage\n\nDoes not affect archers inside the tower"
+End
+
+CONTROLBAR:TowerRange
+"Increased Range"
+End
+
+CONTROLBAR:TowerRangeInfo
+"Tower gets double range\n\nDoes not affect archers inside the tower"
 End
