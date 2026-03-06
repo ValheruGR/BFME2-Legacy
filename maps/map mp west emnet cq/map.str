@@ -6,13 +6,21 @@ OBJECT:AitheonDescription
 "Provides faith as a resource"
 End
 
-obj:WorkPit
+OBJECT:WorkPit
 "Work Pit"
 End
 
-obj:WorkPitDescription
+OBJECT:WorkPitDescription
 "Provides iron as a resource"
 End
+
+OBJECT:Vardarin
+"Vardarin"
+End
+
+OBJECT:VardarinDescription
+"Provides food as a resource"
+END
 
 Upgrade:InfantryBlessing
 "Infantry Blessing"
@@ -23,7 +31,7 @@ CONTROLBAR:PurchaseUpgradeInfantryBlessing
 END
 
 CONTROLBAR:ToolTipPurchaseInfantryBlessing
-"Reduces the Cost of Infantry \n 3 Aitheons: 10%\n 4 Aitheons: 15%\n 5 Aitheons: 25%\n 6+ Aitheons: 30%"
+"Reduces the Cost of melee Infantry \n 3 Aitheons: 10%\n 4 Aitheons: 15%\n 5 Aitheons: 25%\n 6+ Aitheons: 30%"
 End
 
 Upgrade:LavaForge
@@ -47,5 +55,5 @@ CONTROLBAR:PurchaseUpgradeVardaBlessing
 END
 
 CONTROLBAR:ToolTipPurchaseVardaBlessing
-"Reduces the Cost of Cavalry and Monsters \n 1 Vardarin: 15%\n 2 Vardarins: 25%\n 3 Vardarins: 30%\n 4+ Vardarins: 35%"
+"Reduces the Cost of Animals and Economy Buildings \n 1 Vardarin: 15%\n 2 Vardarins: 25%\n 3 Vardarins: 30%\n 4+ Vardarins: 35%"
 End
