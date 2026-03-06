@@ -5181,7 +5181,7 @@ END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"Version 3.0 By Valheru"
+"Version 3.2 By Valheru"
 END
 
 Version:BuildTime
@@ -9075,7 +9075,7 @@ OBJECT:GondorFaramir
 END
 
 OBJECT:GondorBoromir
-"Boromir The Homo"
+"Boromir"
 END
 
 OBJECT:GondorAragorn
@@ -9091,7 +9091,7 @@ OBJECT:ElvenArwen
 END
 
 OBJECT:ElvenGlorfindel
-"Glorfindel the Invunerable Gayboy"
+"Glorfindel"
 END
 
 OBJECT:ElvenThranduil
@@ -15323,7 +15323,7 @@ CONTROLBAR:ToolTipBuildIronOreUpgrade
 END
 
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
-"+10% resources from farms \n Player must maintain a Marketplace to benefit from this upgrade"
+"+15% resources from farms \n Player must maintain a Marketplace to benefit from this upgrade"
 END
 
 CONTROLBAR:ToolTipBuildSiegeMaterialsUpgrade
@@ -15394,13 +15394,13 @@ CONTROLBAR:GondorDamrodHotkey
 "Damrod"
 END
 CONTROLBAR:ToolTipBuildBorimir
-"Recruit one of the greatest Homosexuals of Gondor"
+"Recruit one of the greatest Captain's of Gondor"
 END
 CONTROLBAR:GondorBoromirRecruit
-"Recruit one of the greatest Homosexuals of Gondor"
+"Recruit one of the greatest Captain's of Gondor"
 END
 CONTROLBAR:GondorBoromirRevive
-"Revive the fallen Homo, Boromir"
+"Revive the fallen Hero, Boromir"
 END
 CONTROLBAR:GondorBoromirHotkey
 "Borom&ir"
@@ -15822,7 +15822,7 @@ CONTROLBAR:ToolTipBuildWitchKing
 "Recruit the Leader of the Nazgul"
 END
 CONTROLBAR:MordorWitchKingOnFellBeastRecruit
-"Recruit the Most OP hero in the game"
+"Recruit the leader of the Nazgul"
 END
 CONTROLBAR:MordorWitchKingOnFellBeastRevive
 "Revive the fallen hero, The Witch-king"
@@ -15860,13 +15860,13 @@ END
 
 // ELVEN UNITS
 CONTROLBAR:ToolTipBuildGlorfindel
-"Recruit the Elf Faggot Lord bearing silver armor"
+"Recruit the Elf Lord bearing silver armor"
 END
 CONTROLBAR:ElvenGlorfindelRecruit
-"Recruit the Elf Faggot Lord bearing silver armor"
+"Recruit the Elf Lord bearing silver armor"
 END
 CONTROLBAR:ElvenGlorfindelRevive
-"Revive the fallen Hero, Faggot"
+"Revive the fallen Hero, Glorfindel"
 END
 CONTROLBAR:ElvenGlorfindelHotkey
 "&Glorfindel"
@@ -16660,6 +16660,14 @@ END
 
 CONTROLBAR:ToolTipLightningSword
 "Requires Level 2 \n Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+END
+
+CONTROLBAR:ToolTipSpecialAbility_ShieldBubble
+"The Wizard transfers all of his Power into a Shield that offers increased defense \n Left click icon to activate"
+END
+
+CONTROLBAR:SpecialAbility_ShieldBubble
+"Shieldbubble&u"
 END
 
 CONTROLBAR:ToolTipWoundingArrow
@@ -26197,7 +26205,7 @@ CONTROLBAR:PurchaseUpgradeMenFortressHouseOfHealing
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Reduces hero revival cost by 20% \n Heals all nearby allies"
+"Reduces hero revival cost by 20% \n Reduces hero purchase cost by 5% \n Reduces hero revival time by 20% \n Heals all nearby allies"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
@@ -26770,7 +26778,7 @@ CONTROLBAR:WildGoblinKingHotkey
 END
 
 CONTROLBAR:WildGoblinKingRecruit
-"Recruit Valheru - leader of the Goblins"
+"Recruit Gorkil - leader of the Goblins"
 END
 
 CONTROLBAR:WildDrogothHotkey
@@ -26932,7 +26940,7 @@ OBJECT:Drogoth
 END
 
 OBJECT:WildGoblinKing
-"Valheru The Goblin King"
+"Gorkil The Goblin King"
 END
 
 TOOLTIP:LackLevel3TreasureTrove
@@ -27570,7 +27578,7 @@ CONTROLBAR:LW_ToolTip_Theoden
 END
 
 CONTROLBAR:LW_Hero_Boromir
-"Boromir the homo"
+"Boromir"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Boromir
@@ -29941,7 +29949,7 @@ CONTROLBAR:PurchaseUpgradeIsengardFortressExcavations
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressExcavations
-"Reduces the cost of Isengard structures and walls \n 1 Fortress with Excavations = 10% cheaper \n 2 Fortresses with Excavations = 20% cheaper \n 3 Fortresses with Excavations = 25% cheaper \n 4 Fortresses with Excavations = 30% cheaper \n 5 Fortresses with Excavations = 35% cheaper"
+"Heals nearby Allies"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressMurderOfCrows
@@ -45989,7 +45997,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Heals all nearby allies \n Reduces hero revival cost by 20%"
+"Reduces hero revival cost by 20% \n Reduces hero purchase cost by 5% \n Reduces hero revival time by 20% \n Heals all nearby allies"
 END
 
 //Buildings
@@ -46035,7 +46043,7 @@ END
 // Boromir
 
 CONTROLBAR:HornofGondor
-"Dildo of Gondor [&R]"
+"Horn of Gondor [&R]"
 END
 
 CONTROLBAR:ToolTipHornofGondor
@@ -46930,6 +46938,36 @@ END
 CONTROLBAR:ElvenGrace
 "Athelas [&C]"
 END
+
+
+CONTROLBAR:FireWorks
+"FireWorks / Ignite"
+END
+
+CONTROLBAR:FireWorks2
+"Ignite Fireworks"
+END
+
+CONTROLBAR:FireWorksObj
+"FireWorks"
+END
+
+CONTROLBAR:ToolTipFireWorks
+"Merry can drop Fireworks \n on the ground and ignite it \n \n Left click to activate "
+End
+
+CONTROLBAR:ToolTipFireWorks2
+"Fireworks damages units within large radius \n \n Left click to activate "
+End
+
+CONTROLBAR:HobbitFireCracker
+"Firecracker"
+END
+
+
+CONTROLBAR:ToolTipHobbitFireCracker
+"Hero can throw a small Firecracker \n Left click icon then left click on target"
+End
 
 GUI:PleaseSelectBuddy
 "Chat message could not be sent.  One or more friends need to be selected."

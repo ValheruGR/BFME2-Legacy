@@ -1,0 +1,201 @@
+Version 3.02 - by Valheru
+Changelog - Jan 8 2013
+
+
+
+
+Men
+
+-Merry now has fireworks and other assorted goods
+
+-Firecracker deals 150% bonus damage vs structures, also effective vs units
+
+-Fireworks has a very small explosion radius that will damage units trying to attack him
+
+-Summon Hobbit Allies bonus vs structures from 70% to 60% of normal damage
+
+-Blademaster now Blue, from Red
+
+-House of Healing now provides an additional 5% discount from hero purchase price
+
+-Discount stacks with fort banners, totaling 15%
+
+-Banners cost from 300g to 250g*
+
+-Well buildtime from 45s to 25s*
+
+-Trebuchet buildcost from 700 to 600*
+
+-Gandalf now has Shield Bubble
+
+-Shield Bubble provides 100% Armour for 4.5 seconds
+
+-Shield Bubble cooldown set to 60s
+
+-Hotkey for Shield Bubble is U
+
+-Shield Bubble can be used as both Gandalf The Grey & White
+
+-Gandalf level 4-5 experience required reduced*
+
+-Eowyn cost from 2000 to 1500*
+
+-Eowyn Smite now deals splash in radius 15
+
+-Eowyn Smite cooldown from 90s to 60s
+
+-Eowyn scalars vs Mordor flyers from 400% to 150%
+
+-Eowyn health from 2800 to 3000*
+
+-Marketplace buildtime from 45s to 40s*
+
+-Grandharvest buildtime from 45s to 35s*
+
+-Grandharvest buildcost from 800 to 700*
+
+-Gondor Archer health from 80 to 85*
+
+-Summon Dunedain Allies now 4 batallions, from 3*
+
+-Level 2 Barracks upgrade time from 30s to 25s
+
+-Level 3 Barracks upgrade time from 30s to 25s
+
+-Level 3 stable upgrade time from 60s to 25s
+
+-Level 2 Siegeworks upgrade time from 30s to 25s
+
+-Level 3 Siegeworks upgrade time from 30s to 25s
+
+
+IPB Image
+
+
+Isengard
+
+-Berserker buildtime from 30s to 26s
+
+-Isengard Excavations bonus's removed
+
+-Excavations now provides a passive heal equal to 1.5% hp/s(FoL is 3%), in radius 300
+
+-Saruman health from 2400 to 2800*
+
+-Saruman speed from 55 to 60*
+
+-Saruman buildtime from 90s to 60s*
+
+-Saruman Fireball now deals 400% vs Drogoth & Eagles, from 150%
+
+-Devastation resource cap set to 1300, from 1500
+
+-Level 2 Uruk Pit upgrade time from 30s to 25s*
+
+-Level 3 Uruk Pit upgrade time from 30s to 25s*
+
+-Level 2 Warg Pit upgrade time from 30s to 25s*
+
+-Level 3 Warg Pit upgrade time from 30s to 25s*
+
+-Untamed Allegiance heal increased from 25% max health to 35% max health(FoL is 50%)
+
+-Untamed Allegiance cooldown from 270s to 210s
+
+
+
+IPB Image
+
+
+Elves
+
+-Elves now have new scenery smile.gif
+
+-Summon Ent Allies now 3 units, from 2
+
+-Treebeard buildtime from 60s to 40s
+
+-Ent now takes 25% slash, from 10%
+
+-Ent now takes 25% pierce, from 1%
+
+-Ent now takes 25% cavalry ranged, from 1%
+
+-Ent now takes 75% hero, from 50%
+
+-Mirror of Galadriel buildtime from 45s to 25s
+
+-Legolas health from 1650 to 1850
+
+
+
+IPB Image
+
+
+Dwarves
+
+-Gimli : Slayer no longer has a 50% penalty to pre-attack delay
+
+-Slayer bonus vs forts reduced from 50% to 30%
+
+-Hearth buildtime from 45s to 25s
+
+-Level 2 Hall of Warriors buildtime from 30s to 25s
+
+-Level 3 Hall of Warriors buildtime from 30s to 25s
+
+
+
+IPB Image
+
+Mordor
+
+-Orc Warrior bonus vs structures from 145% to 165%*
+
+-Attack Troll damage vs all structures from 25% to 40% of normal damage*
+
+-Attack Troll now takes 150% from specialist, from 200%*
+
+-Level 2 Orc Pit upgrade time from 30s to 25s
+
+-Level 3 Orc Pit upgrade time from 30s to 25s
+
+-Mordor Mumakil hero effect from 4000% to 3000%
+
+-Untamed Allegiance heal increased from 25% max health to 35% max health(FoL is 50%)
+
+-Untamed Allegiance cooldown from 270s to 210s
+
+
+
+IPB Image
+
+
+Goblins
+
+
+-Level 2 Goblin Cave upgrade time from 30s to 25s*
+
+-Level 3 Goblin Cave upgrade time from 30s to 25s*
+
+-Goblin Warrior poison blades cooldown from 60s to 50s
+
+-Drogoth now takes 48% magic damage, from 40%*
+
+-Spiderling Allies summon duration set to 30s, from 180s*
+
+-Spiderling Allies weapon damage vs structures from 80% to 65% of normal
+
+-Untamed Allegiance heal increased from 25% max health to 35% max health(FoL is 50%)
+
+-Untamed Allegiance cooldown from 270s to 210s
+
+
+Bugfixes
+
+-Fixed Summon DuneDain allies not being able to longshot
+-Fixed Fort Hero Radial Back button dissapearing
+-Fixed Dain experience Display
+-Fixed Mighty Catapult dissapearing on Summon // NOT REALLYZ
+-All Tooltips have been adjusted to a non-trolling state
+-New tooltips added for changes above
