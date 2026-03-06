@@ -1,0 +1,249 @@
+Version 3.01 - by Valheru
+Changelog - Dec 3 2012
+
+
+
+
+Men
+
+-Faramir dismounted speed from 50 to 55
+
+-Faramir wounding arrow damage from 400 to 600
+
+-Eowyn Shield Maiden now grants 25% speed and 25% armor, from 65% armor
+
+-Eowyn now has splash damage
+
+-Eowyn dismounted armor type from Tough to Hero
+
+-Eowyn dismounted speed from 50 to 55
+
+-Eowyn now has a 30% penalty vs structures
+
+-Eowyn delay between shots and pre-attack delay significantly increased 
+
+-Aragorn has a new Anduril graphical effect
+
+-Aragorn levels 8-10 exp required reduced
+
+-Rally call radius increased from 75 to 105
+
+-Heal cooldown from 180s to 160s
+
+-Shield Wall speed penalty reduced from 60% to 70%
+
+-Arrow Volley cooldown from 360s to 180s
+
+-Archery Range Level 2 upgrade cost from 500 to 450
+
+-Lone Tower cooldown from 240s to 180s
+
+-Army of the Dead Summon Duration from 45s to 50s
+
+-Army of the Dead speed from 65 to 70
+
+
+
+
+IPB Image
+
+
+Isengard
+
+-Saruman levels 8-10 exp required reduced
+
+-Warchant radius increased from 75 to 105
+
+-Crossbow Delay between shots from 1800ms to 2100ms
+
+-Tainted Land removed
+
+-Tained land replaced with Untamed Allegiance
+
+-Untaimed Allegiance cooldown set to 270s
+
+-Untaimed Allegiance now provides a heal equal to half of Forces of Light
+
+-Untaimed Allegiance lair control removed
+
+-Untamed Allegiance will now heal heroes, monsters & infantry
+
+-Improved Sharku heal rate from 15 hp/s to 30 hp/s
+
+-Summon Dragon speed from 75 to 85
+
+
+
+IPB Image
+
+
+Elves
+
+-Hotkey for Elven Cloak from E to C
+
+-Thranduil buildtime from 75s to 55s
+
+-Rivendell Lancer speed from 90 to 92
+
+-Experience Required for Elrond level 6-7 reduced
+
+-Experience Required for Thranduil levels 8-10 reduced
+
+-Sunflare impact radius from 200 to 250 //FAKE
+
+-Sunflare damage from 3000 to 4000//FAKE
+
+-Sunflare cooldown from 660s to 600s
+
+-Rally call radius increased from 75 to 105//PLACEBO
+
+-Heal cooldown from 180s to 160s
+
+-Elven banners research cost from 750 to 400
+
+-Elven banners research time from 30s to 15s
+
+-Legolas Hawk Strike cooldown from 85s to 105s
+
+-Arrow Volley cooldown from 360s to 180s
+
+-Elven Mist cooldown from 210s to 180s
+
+-Elven mist effect radius from 150 to 200
+
+
+
+
+
+
+IPB Image
+
+
+Dwarves
+
+-Exp Required for Gloin levels 8-10 reduced
+
+-Exp Required for King Dain levels 7-10 increased
+
+-King Dain damage from 400 to 325
+
+-Rally call radius increased from 75 to 105
+
+-Heal cooldown from 180s to 160s
+
+-Gimli heal rate improved from 30 hp/s to 40 hp/s
+
+-Inn Hobbits can now level 
+
+-Dwarven level 3 Archery Range upgrade cost from 600 to 300
+
+-Dwarven level 3 Archery Range upgrade time from 30s to 20s
+
+
+IPB Image
+
+Mordor
+
+-Mouth of Sauron levels 8-10 exp required reduced
+
+-Rain of Fire cooldown from 720s to 600s
+
+-Rain of Fire impact radius from 200 to 250 //PLACEBO
+
+-Eye of Sauron improved to 25% armour + 25% damage
+
+-Warchant radius increased from 75 to 105
+
+-Witchking heal rate improved from 32 hp/s to 42 hp/s
+
+-Witchking levels 7-10 experienced required reduced
+
+-Witchking Dread Visage radius while mounted from 200 to 600
+
+-Orc Archer now deals +15% damage vs Phalanx //FAKE, IT'S LITERALLY +115%
+
+-Orc Archer now deals +15% damage vs Guardians //FAKE, IT'S LITERALLY +115%
+
+-Arrow Volley cooldown from 360s to 180s
+
+-Untaimed Allegiance cooldown set to 270s
+
+-Untaimed Allegiance now provides a heal equal to half of Forces of Light
+
+-Untaimed Allegiance lair control removed
+
+-Untamed Allegiance will now heal heroes, monsters & infantry
+
+-Troll cage level 3 upgrade from 1000 to 850
+
+-Level 3 upgrade time from 45s to 40s
+
+-Attack Troll buildtime from 40s to 35s
+
+-Attack Troll speed from 55 to 68
+
+-Attack Trolls now deal 25% of normal damage vs all structures
+
+-Attack Trolls penalty vs heroes reduced from 75% to 100%
+
+-Drummer troll speed from 40 to 44
+
+-Drummer trolls now share the same armorset as Attack Trolls
+
+-Mordor Orc Pit Level 2 upgrade cost from 350 to 150
+
+-Mordor Orc Pit Level 3 upgrade cost from 350 to 150
+
+-Barricade cooldown from 300s to 200s
+
+-Mumakil resistance to specialist decreased from 30% to 40%
+
+
+IPB Image
+
+
+
+Goblins
+
+-Half Trolls now have a 200% damage bonus against Attack Trolls
+
+-Drogoth Fireball now deals 100% vs Witch King Mounted, from 300%
+
+-Drogoth Fireball now deals 375% vs Fellbeasts, from 300%
+
+-Drogoth Fireball cooldown from 60s to 45s
+
+-Summon Spiderlings cooldown from 360s to 180s
+
+-Gorkil levels 7-10 exp required reduced
+
+-Shelob levels 7-10 exp reduced 
+
+-Shelob heal rate from 30 hp/s to 40 hp/s
+
+-Shelob tunnel from 90s to 45s
+
+-Warchant radius increased from 75 to 105//PLACEBO
+
+-Goblin Archer resistance to crush decreased by 5%
+
+-Untaimed Allegiance cooldown set to 270s
+
+-Untaimed Allegiance now provides a heal equal to half of Forces of Light
+
+-Untaimed Allegiance lair control removed
+
+-Untamed Allegiance will now heal heroes, monsters & infantry
+
+-Summon Dragon speed from 75 to 85
+
+-Inn Wildmen can now level
+
+
+
+
+Misc
+
+-Monster Heal Delay from 15s to 10s
+-Monster Heal Amount from 15 hp/s to 40 hp/s
+-Tooltips adjusted accordingly
