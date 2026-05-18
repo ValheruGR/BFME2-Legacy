@@ -7287,17 +7287,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:BuildTime
@@ -32430,7 +32430,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireball
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWingBlast
-"Requires Level 3 \n Shoots a shockwave of force below Drogoth, causing meta damage to enemies \n Left click icon then left click on target area"
+"Requires Level 3 \n Shoots a shockwave of force below Drogoth, causing meta damage to enemy units and heroes. \n Drogoth gains 50% armor while performing the ability. \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIncinerate

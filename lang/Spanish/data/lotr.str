@@ -6274,15 +6274,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format3
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format2
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:BuildTime
@@ -29942,7 +29942,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireball
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWingBlast
-"Requisito: Nivel 3 \n Dispara una onda de choque bajo Drogoth, que causa metadaño a los enemigos. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre la zona objetivo."
+"Requisito: Nivel 3 \n Dispara una onda de choque bajo Drogoth, que causa metadaño a las unidades y heroes enemigos. \n Drogoth gana 50% armadura mientras lleva a cabo la habilidad. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre la zona objetivo."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIncinerate
