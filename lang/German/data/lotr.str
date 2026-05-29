@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v3	-----	2023
+// String lines for new Patch 1.09v302	-----	2026
 
 //------------------------------------------------------------
 
@@ -16,12 +16,14 @@
 
 
 //------------------------------------------------------------
-CONTROLBAR:nothing09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
+"Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
 END
-//------------------------------------------------------------
-CONTROLBAR:nothingDesc09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
+"When equipped, significantly increases the damage done by Melee Weapons to Structures. \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
+End
+CONTROLBAR:ToolTipLightTorch09v302
+"Adds +75 FLAME damage to the attack, but loses 50% armor. \n Allows detonate explosive mines. \n Left click to activate"
 END
 //----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
@@ -6270,15 +6272,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format3
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format2
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:BuildTime

@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v3	-----	2023
+// String lines for new Patch 1.09v302	-----	2026
 
 //------------------------------------------------------------
 
@@ -16,12 +16,14 @@
 
 
 //------------------------------------------------------------
-CONTROLBAR:nothing09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
+"Mejora este batallón con martillo de asedio. \n Aumenta de manera importante el daño causado por las armas cuerpo a cuerpo a las estructuras. \n Los guardianes pierden -40 al daño y -135% a la armadura, \n pero aplican daño demoledor contra estructuras"
 END
-//------------------------------------------------------------
-CONTROLBAR:nothingDesc09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
+"Cuando está activo, aumenta de manera significativa el daño causado por las armas cuerpo a cuerpo a las estructuras \n Los guardianes pierden -40 al daño y -135% a la armadura, \n pero aplican daño demoledor contra estructuras"
+End
+CONTROLBAR:ToolTipLightTorch09v302
+"Agrega +75 daño de Fuego al ataque, pero se pierde 50% armadura. \n Permite detonar minas explosivas. \n Para activarlo, haz clic con el botón izquierdo."
 END
 //----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
@@ -122,7 +124,7 @@ CONTROLBAR:ArwenElvenGraceDesc09v3
 "Requisito: Nivel 6 \n Arwen regenera 750 puntos de saludos sobre los aliados selecionados durante 2 segundos. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre las unidades aliados."
 END
 CONTROLBAR:GoblinKingBattleFrenzy09v3
-"Frenesí de batalla""
+"Frenesí de batalla"
 End
 CONTROLBAR:ToolTipFueltheFires09v3
 "Las serrerías del jugador producen +65% más recursos y ganan +20% armadura. \n Las serrerías de los aliados solamente producen +65% más recursos. \n Poder pasivo \n La fortaleza debe estar presente."

@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v3	-----	2023
+// String lines for new Patch 1.09v302	-----	2026
 
 //------------------------------------------------------------
 
@@ -16,14 +16,16 @@
 
 
 //------------------------------------------------------------
-CONTROLBAR:nothing09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
+"Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
 END
-//------------------------------------------------------------
-CONTROLBAR:nothingDesc09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
+"When equipped, significantly increases the damage done by Melee Weapons to Structures. \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
+End
+CONTROLBAR:ToolTipLightTorch09v302
+"Adds +75 FLAME damage to the attack, but loses 50% armor. \n Allows detonate explosive mines. \n Left click to activate"
 END
-//------------------------------------------------------------
+//----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
 "Decreases the melee vulnerability of the Fortress \n Replenish one unit from the closest horde each 7.5 seconds. \n Water discount: reduces the cost of Ents. \n 1 Fortress with Moat = Ents 12.5% cheaper \n 2 Fortresses: 25% cheaper \n 3 Fortresses: 37.5% cheaper \n 4 Fortresses: 50% cheaper \n 5 Fortresses: 62.5% cheaper"
 END

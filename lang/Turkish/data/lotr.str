@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// Yeni Yama için dize satýrlarý 1.09v3.1 TR Yama Sinelyin-----	2025
+// String lines for new Patch 1.09v302	-----	2026
 
 //------------------------------------------------------------
 
@@ -16,14 +16,16 @@
 
 
 //------------------------------------------------------------
-CONTROLBAR:nothing09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
+"Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
 END
-//------------------------------------------------------------
-CONTROLBAR:nothingDesc09v2
-"nothing"
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
+"When equipped, significantly increases the damage done by Melee Weapons to Structures. \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
+End
+CONTROLBAR:ToolTipLightTorch09v302
+"Adds +75 FLAME damage to the attack, but loses 50% armor. \n Allows detonate explosive mines. \n Left click to activate"
 END
-//------------------------------------------------------------
+//----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
 "Kalenin yakýn dövüþ savunmasýzlýðýný azaltýr \n Her 7,5 saniyede en yakýn ordudan bir birim yeniler. \n Su indirimi: Entlerin maliyetini azaltýr. \n 1 Hendekli Kale = Entler %12,5 daha ucuz \n 2 Kale: %25 daha ucuz \n 3 Kale: %37,5 daha ucuz \n 4 Kale: %50 daha ucuz \n 5 Kale: %62,5 daha ucuz"
 END
@@ -7287,17 +7289,17 @@ END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.1"
+"1.09v3.2"
 END
 
 Version:BuildTime
