@@ -301,7 +301,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Kräver grad 6 \n Framkallar en destruktiv virvelvind på slagfältet \n Vänsterklicka på ikonen, vänsterklicka sedan på målområdet"
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Kräver grad 4 \nFår fiendeenheter att fly i skräck\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes \nVänsterklicka för att aktivera"
+"Kräver grad 5 \nFår fiendeenheter att fly i skräck\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes \nVänsterklicka för att aktivera"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

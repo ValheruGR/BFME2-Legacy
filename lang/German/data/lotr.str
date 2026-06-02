@@ -302,7 +302,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Voraussetzung: Stufe 6 \n Beschwört auf dem Schlachtfeld einen zerstörerischen Wirbelwind \n Linksklicke auf das Symbol und anschließend auf das Zielgebiet"
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Voraussetzung: Stufe 4 \n Schlägt feindliche Einheiten in die Flucht \n Abgestiegen kann er die Angstimmunität der Stufe 5 vor feindlichen Horden durchdringen \n Aktivieren mit Linksklick"
+"Voraussetzung: Stufe 5 \n Schlägt feindliche Einheiten in die Flucht \n Abgestiegen kann er die Angstimmunität der Stufe 5 vor feindlichen Horden durchdringen \n Aktivieren mit Linksklick"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

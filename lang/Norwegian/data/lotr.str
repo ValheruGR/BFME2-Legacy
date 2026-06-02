@@ -301,7 +301,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Krever: Nivå 6\nPåkaller en ødeleggende virvelvind til slagmarken\nVenstreklikk på ikonet, og venstreklikk på valgt område"
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Krever: nivå 4\nFår fienden til å flykte av skrekk\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes \nVenstreklikk for å aktivere"
+"Krever: nivå 5\nFår fienden til å flykte av skrekk\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes \nVenstreklikk for å aktivere"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

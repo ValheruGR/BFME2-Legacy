@@ -300,7 +300,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Requisito: Nivel 6 \n Convoca un remolino de destrucción. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre la zona objetivo."
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Requisito: Nivel 4 \n Hace que las unidades enemigas huyan presa del terror.\n Cuando se conjura a pie, el terror puede atravesar \n cualquier tipo de inmunidad al miedo sobre los enemigos. \n Haz clic con el botón izquierdo para activarlo."
+"Requisito: Nivel 5 \n Hace que las unidades enemigas huyan presa del terror.\n Cuando se conjura a pie, el terror puede atravesar \n cualquier tipo de inmunidad al miedo sobre los enemigos. \n Haz clic con el botón izquierdo para activarlo."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

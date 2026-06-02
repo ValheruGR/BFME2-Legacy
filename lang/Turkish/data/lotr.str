@@ -301,7 +301,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Gereken Seviye: 6 \n Savaþ alanýna yýkýcý bir kasýrga çaðýrýr \n 17 saniye sürer \n Tüm birimlere minimum hasar verir \n Sol týklayýn, ardýndan hedef alana sol týklayýn"
 End
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Gereken Seviye: 4 \n Düþman birimlerinin dehþet içinde kaçmasýna neden olur \n Atýndan indiðinde, düþman ordularýna karþý 5. seviye korku baðýþýklýðýný delebilir \n Etkinleþtirmek için sol týklayýn"
+"Gereken Seviye: 5 \n Düþman birimlerinin dehþet içinde kaçmasýna neden olur \n Atýndan indiðinde, düþman ordularýna karþý 5. seviye korku baðýþýklýðýný delebilir \n Etkinleþtirmek için sol týklayýn"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

@@ -301,7 +301,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Wymaga 6 poziomu \n Przywoluje niszczycielski wir na pole bitwy \n Kliknij lewym przyciskiem na ikonie, a nastepnie na wybranym obszarze"
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Wymaga 4 poziomu \n Sprawia, ze jednostki wroga uciekaja w przerazeniu \n When dismounted it can pierce through the level 5 fear immunity from enemy hordes\n Kliknij lewym przyciskiem, aby uaktywnic"
+"Wymaga 5 poziomu \n Sprawia, ze jednostki wroga uciekaja w przerazeniu \n When dismounted it can pierce through the level 5 fear immunity from enemy hordes\n Kliknij lewym przyciskiem, aby uaktywnic"
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2

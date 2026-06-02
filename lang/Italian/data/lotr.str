@@ -301,7 +301,7 @@ CONTROLBAR:TooltipElrondWhirlwind09v2
 "Richiede livello 6.\nEvoca un turbine distruttore sul campo di battaglia.\nClicca con il pulsante sinistro sull'icona e poi sulla zona bersaglio."
 END
 CONTROLBAR:TooltipScreechWitchKing09v2
-"Richiede livello 4.\nFa fuggire le unità nemiche in preda al terrore.\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes\nClicca con il pulsante sinistro per attivare."
+"Richiede livello 5.\nFa fuggire le unità nemiche in preda al terrore.\n When dismounted it can pierce through the level 5 fear immunity from enemy hordes\nClicca con il pulsante sinistro per attivare."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipBuildIronOreUpgrade09v2
