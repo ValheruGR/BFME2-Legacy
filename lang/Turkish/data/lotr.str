@@ -4,7 +4,7 @@
 
 //------------------------------------------------------------
 
-// String lines for new Patch 1.09v302	-----	2026
+// String lines for new Patch 1.09v302	-----	2026 -- CP1254
 
 //------------------------------------------------------------
 
@@ -17,13 +17,13 @@
 
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
-"Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
+"Bu birliði Kuþatma Çekiçleri ile geliþtirir \n Yakýn Mesafe Silahlarýnýn Binalara verdiði hasarý önemli ölçüde artýrýr. \n Muhafýzlar 40 Yakýn Mesafe hasarý ve %135 zýrh kaybeder,\n ancak binalara karþý KUÞATMA hasarý verir."
 END
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
-"When equipped, significantly increases the damage done by Melee Weapons to Structures. \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
-End
+"Kuþatýldýðýnda Yakýn Mesafe Silahlarýnýn Binalara verdiði hasarý önemli ölçüde artýrýr. \n Muhafýzlar 40 Yakýn Mesafe hasarý ve %135 zýrh kaybeder,\n ancak binalara karþý KUÞATMA hasarý verir."
+END
 CONTROLBAR:ToolTipLightTorch09v302
-"Adds +75 FLAME damage to the attack, but loses 50% armor. \n Allows detonate explosive mines. \n Left click to activate"
+"Saldýrýya +75 ALEV hasarý ekler, ancak %50 zýrh kaybeder. \n Patlayýcý mayýnlarý ateþleyebilir. \n Etkinleþtirmek için sol týklayýn."
 END
 //----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Gereken Seviye: 6 \n Yalnýzca binek üzerindeyken kullanýlabilir \n Hedef düþmana 25 saniye boyunca zehir hasarý verir, \n 12 saniye boyunca hýzýný -%50 azaltýr, \n ve onu 5 saniye boyunca felç eder. \n Simgeye sol týklayýn, ardýndan hedefe sol týklayýn"
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir 7. seviyede +%7 hýz kazanýr"
+"Boromir 7. seviyede +%3 hýz kazanýr"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Kýlýçlýlara ve Yapýlara Karþý Güçlü \n Maðara Trolü 3, 6 ve 9. seviyelerde +%4 hýz kazanýr"

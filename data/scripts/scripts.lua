@@ -15,6 +15,10 @@ function RadiateUncontrollableFear( self )
 	ObjectBroadcastEventToEnemies( self, "BeUncontrollablyAfraid", 350 )
 end
 
+function RadiateUncontrollableFearBoromir( self )
+	ObjectBroadcastEventToEnemies( self, "BeUncontrollablyAfraid", 250 )
+end
+
 function RadiateGateDamageFear(self)
 	ObjectBroadcastEventToAllies(self, "BeAfraidOfGateDamaged", 200)
 end

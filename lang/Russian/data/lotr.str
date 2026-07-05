@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Требуется 6 уровень \n Можно использовать только верхом \n Наносит урон ядом выбранному врагу в течение 25 секунд, \n снижает его скорость на 50% в течение 12 секунд, \n парализует его на 5 секунд. \n Щелкните левой кнопкой мыши по значку, затем щелкните левой кнопкой мыши по цели."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Боромир получает +7% скорости на уровне 7"
+"Боромир получает +3% скорости на уровне 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Сильный против мечников и строений. Пещерный тролль получает +4% скорости на уровнях 3, 6 и 9."
@@ -2283,7 +2283,7 @@ MSG:Testing
 END
 
 MSG:Test2
-""Я в школу," - Мэри скажет, а он за нею вслед."
+"\"Я в школу," - Мэри скажет, а он за нею вслед."
 END
 
 GUI:MustHaveAdminRights
@@ -2975,11 +2975,11 @@ GUI:GameSaved
 END
 
 GUI:ErrorSavingGame
-"Ошибка сохранения игры "%s""
+"Ошибка сохранения игры \"%s\""
 END
 
 GUI:ErrorLoadingGame
-"Ошибка загрузки игры "%s""
+"Ошибка загрузки игры \"%s\""
 END
 
 GUI:ReducedColor
@@ -6103,7 +6103,7 @@ GUI:Load
 END
 
 GUI:ScreenCapture
-"Снимок сохранен в файл "%s""
+"Снимок сохранен в файл \"%s\""
 END
 
 GUI:ScreenshotCapture
@@ -7030,7 +7030,7 @@ Network:PlayerLeft
 END
 
 INI:MissingDisplayName
-"Отсутствует название для объекта "%S""
+"Отсутствует название для объекта \"%S\""
 END
 
 INI:FactionDefault
@@ -7822,7 +7822,7 @@ TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnEnterText/tooltipAddfriend
 END
 
 Tooltip:OnlineShell/ONlineCustomMatch/Controls/buttonJoin
-"Выберите игру, затем щелкните на кнопке "Присоединиться""
+"Выберите игру, затем щелкните на кнопке \"Присоединиться\""
 END
 
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnEnterText/tooltipChatEnter
@@ -8994,7 +8994,7 @@ CONTROLBAR:OrRequirement
 END
 
 CONTROLBAR:GeneralsPromotion
-""Битва за Средиземье": повышение"
+"\"Битва за Средиземье\": повышение"
 END
 
 CONTROLBAR:UpgradeRequired
@@ -9002,7 +9002,7 @@ CONTROLBAR:UpgradeRequired
 END
 
 CONTROLBAR:GeneralsExp
-""Битва за Средиземье": опыт"
+"\"Битва за Средиземье\": опыт"
 END
 
 CONTROLBAR:GeneralsExpDescription
@@ -12766,7 +12766,7 @@ SCRIPT:GOODGreyHavensTextHint-BuildStormShip
 END
 
 SCRIPT:GOODGreyHavensTextHint-StormShipComplete
-""Буревестник" готов."
+"\"Буревестник\" готов."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BreakBlockade
@@ -13874,7 +13874,7 @@ SCRIPT:EvilGreyHavensHintText_InfoBombardship02
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoFireship01
-""Буревестники" таранят другие корабли и, взрываясь, вызывают водоворот. К сожалению, тем самым они могут навредить и вашим судам.."
+"\"Буревестники\" таранят другие корабли и, взрываясь, вызывают водоворот. К сожалению, тем самым они могут навредить и вашим судам.."
 END
 
 SCRIPT:EvilGreyHavensHintText_CapOutpost
@@ -14066,7 +14066,7 @@ SCRIPT:OBJECTIVE_E03_B01
 END
 
 SCRIPT:ANNOUNCEMENT_E03_B01
-"Разрушьте трактир "У зеленого дракона""
+"Разрушьте трактир \"У зеленого дракона\""
 END
 
 SCRIPT:HINT_E03_B01
@@ -16742,7 +16742,7 @@ CONTROLBAR:FireArrowUpgrade
 END
 
 CONTROLBAR:TooltipFireArrowUpgrade
-"Усовершенствование "Огненные стрелы""
+"Усовершенствование \"Огненные стрелы\""
 END
 
 CONTROLBAR:FireWitchKingMace
@@ -17006,7 +17006,7 @@ CONTROLBAR:ShieldWall
 END
 
 CONTROLBAR:ToolTipSpecialAbilityShieldWall
-"Строй "стена щитов""
+"Строй \"стена щитов\""
 END
 
 CONTROLBAR:ToolTipDamrodLeadership
@@ -18410,7 +18410,7 @@ CREDITS:ThankYou1
 END
 
 CREDITS:ThankYou2
-""Битва за Средиземье"!"
+"\"Битва за Средиземье\"!"
 END
 
 CREDITS:AndySerkis
@@ -21534,7 +21534,7 @@ WOTRTutorial:LW_InstructionText31
 END
 
 WOTRSCRIPT:WOTR_Tutorial003subtitle
-""Битва за Кольцо" - пошаговая стратегическая игра. В ней вам предстоит захватывать территории, управлять ресурсами и побеждать в великих битвах."
+"\"Битва за Кольцо\" - пошаговая стратегическая игра. В ней вам предстоит захватывать территории, управлять ресурсами и побеждать в великих битвах."
 END
 
 WOTRSCRIPT:WOTR_Tutorial004subtitle
@@ -25499,7 +25499,7 @@ APT:AddFriendOnSaveTitle
 END
 
 APT:AddFriendOnSaveDescription
-""%s" не входит в ваш список знакомых. Добавить?"
+"\"%s\" не входит в ваш список знакомых. Добавить?"
 END
 
 APT:CreateNewHero
@@ -30005,7 +30005,7 @@ APT:MyHeroType
 END
 
 CONTROLBAR:ActivateFireShip
-"Взорвать "Темное Пламя""
+"Взорвать \"Темное Пламя\""
 END
 
 CONTROLBAR:BarbedArrows
@@ -30093,7 +30093,7 @@ CONTROLBAR:ConstructEvilBombardShip
 END
 
 CONTROLBAR:ConstructEvilFireShip
-""Темное Пламя" (&D)"
+"\"Темное Пламя\" (&D)"
 END
 
 CONTROLBAR:ConstructEvilShip
@@ -30117,7 +30117,7 @@ CONTROLBAR:ConstructGoodBombardShip
 END
 
 CONTROLBAR:ConstructGoodFireShip
-""Буревестник" (&S)"
+"Буревестник (&S)"
 END
 
 CONTROLBAR:ConstructGoodShip
@@ -31145,7 +31145,7 @@ OBJECT:ElvenBattleShip
 END
 
 OBJECT:ElvenStormShip
-"Эльфийский "Буревестник""
+"Эльфийский \"Буревестник\""
 END
 
 OBJECT:ElvenVigilantEntExpansion
@@ -32173,7 +32173,7 @@ OBJECT:TEMP
 END
 
 OBJECT:TeslaTank
-"Танк "Тесла""
+"Танк \"Тесла\""
 END
 
 OBJECT:Test
@@ -32185,7 +32185,7 @@ OBJECT:Test_CorsairSky
 END
 
 OBJECT:TheGreenDragon
-"Трактир "Зеленый дракон""
+"Трактир \"Зеленый дракон\""
 END
 
 OBJECT:TheOneRing
@@ -38377,7 +38377,7 @@ OBJECT:EvilBombardShip
 END
 
 OBJECT:EvilFireShip
-""Темное Пламя""
+"Темное Пламя"
 END
 
 OBJECT:EvilArrowShip
@@ -43865,7 +43865,7 @@ CREDITS:ProductionIntern
 END
 
 CREDITS:TheVoiceofTheBattleforMiddle-earthII
-"Озвучивание игры "Битва за Средиземье II""
+"Озвучивание игры \"Битва за Средиземье II\""
 END
 
 CREDITS:Cinematics
@@ -44109,7 +44109,7 @@ CREDITS:BFME1Thanks
 END
 
 CREDITS:BFME1Thanks2
-""Властелин Колец: Битва за Средиземье","
+"\"Властелин Колец: Битва за Средиземье\","
 END
 
 CREDITS:BFME1Thanks3

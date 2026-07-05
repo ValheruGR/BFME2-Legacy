@@ -370,7 +370,7 @@
 
     <EventList Name="BoromirFunctions" Inherit="BaseScriptFunctions">
 		<!-- This contains events specific to Boromir -->
-        <EventHandler EventName="UsingSpecialOne"		ScriptFunctionName="RadiateUncontrollableFear"	DebugSingleStep="false"/>
+        <EventHandler EventName="UsingSpecialOne"		ScriptFunctionName="RadiateUncontrollableFearBoromir"	DebugSingleStep="false"/>
     </EventList>
     
     <EventList Name="AragornFunctions" Inherit="BaseScriptFunctions">

@@ -17,13 +17,13 @@
 
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
-"Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
+"Geeft dit bataljon de upgrade Belegeringshamers.\nVerhoogt aanzienlijk de schade die mêlee-wapens toebrengen aan gebouwen.\nBewakers verliezen -40 mêleeschade en -135% bepantsering,\nmaar brengen BELEGERINGSSCHADE toe aan gebouwen."
 END
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenSiegeHammer09v302
-"When equipped, significantly increases the damage done by Melee Weapons to Structures. \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
-End
+"Verhoogt aanzienlijk de schade die mêlee-wapens toebrengen aan gebouwen indien uitgerust.\nBewakers verliezen -40 mêleeschade en -135% bepantsering,\nmaar brengen BELEGERINGSSCHADE toe aan gebouwen."
+END
 CONTROLBAR:ToolTipLightTorch09v302
-"Adds +75 FLAME damage to the attack, but loses 50% armor. \n Allows detonate explosive mines. \n Left click to activate"
+"Voegt +75 VUURSCHADE toe aan de aanvazl, maar verliest 50% bepantsering.\nKan explosieve mijnen tot ontploffing brengen.\nKlik met de linkermuisknop om te activeren."
 END
 //----------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat09v301
@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Requires Level 6 \n Can only use when mounted \n Inflicts poison damage on the target enemy for 25 seconds, \n reduces it's speed by -50% during 12 seconds, \n and paralyzes it for 5 seconds. \n Left click icon, then left click on target."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir gains +7% speed at level 7"
+"Boromir gains +3% speed at level 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Strong vs. Swordsmen and Structures \n Cave Troll gains +4% speed at level 3, 6 and 9"
@@ -17040,7 +17040,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:ToolTipLurtzPillage
-"Nodig: niveau 7\nPlunder slachtoffers voor grondstoffen\nPassieve kracht"
+"Nodig: niveau 7\nLurtz en dikke moeders plunder slachtoffers voor grondstoffen\nPassieve kracht"
 END
 
 CONTROLBAR:OutlawLeadership
@@ -29936,7 +29936,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothFireball
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWingBlast
-"Nodig: niveau 3\nVeroorzaakt een beving onder Drogoth, die vijanden de lucht in slingert\nKlik met links op het icoontje en daarna met links op het doelgebied"
+"Nodig: niveau 3\nVeroorzaakt een beving onder Drogoth, die vijanden de lucht in slingert \n Drogoth krijgt 50% bepantsering tijdens het uitvoeren van deze vaardigheid.\nKlik met links op het icoontje en daarna met links op het doelgebied"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIncinerate
@@ -45676,7 +45676,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework
 END
 
 CONTROLBAR:ToolTipOutlawLeadership
-"Nodig: niveau 6\nBondgenoten in de buurt verdienen grondstoffen voor slachtoffers\nPassieve kracht"
+"Nodig: niveau 6\nEomer en bondgenoten in de buurt verdienen grondstoffen voor slachtoffers\nPassieve kracht"
 END
 
 CONTROLBAR:ElvenCloak

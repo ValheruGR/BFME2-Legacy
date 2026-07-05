@@ -159,7 +159,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Requires Level 6 \n Can only use when mounted \n Inflicts poison damage on the target enemy for 25 seconds, \n reduces it's speed by -50% during 12 seconds, \n and paralyzes it for 5 seconds. \n Left click icon, then left click on target."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir gains +7% speed at Stufe 7"
+"Boromir gains +3% speed at Stufe 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Stärken: Schwertkrieger, Gebäude \n Höhlentroll erhält +4 % Geschwindigkeit auf Stufe 3, 6 und 9"

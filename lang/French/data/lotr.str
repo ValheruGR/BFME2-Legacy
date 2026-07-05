@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Requiert le niveau 6 \n Peut seulement être utilisé lorsque monté \n Inflige des dégâts empoisonnés à l'ennemi ciblé pendant 25 secondes, \n réduit sa vitesse de -50% pendant 12 secondes, \n et le paralyse pendant 5 secondes. \n Cliquez gauche sur l'icône, puis cliquez gauche sur la cible."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir gagne +7% de vitesse au niveau 7"
+"Boromir gagne +3% de vitesse au niveau 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Fort contre les épéistes et les structures \n Le Troll des Cavernes gagne +4% de vitesse aux niveaux 3, 6 et 9"

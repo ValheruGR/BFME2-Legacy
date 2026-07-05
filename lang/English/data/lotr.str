@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Requires Level 6 \n Can only use when mounted \n Inflicts poison damage on the target enemy for 25 seconds, \n reduces it's speed by -50% during 12 seconds, \n and paralyzes it for 5 seconds. \n Left click icon, then left click on target."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir gains +7% speed at level 7"
+"Boromir gains +3% speed at level 7"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Strong vs. Swordsmen and Structures \n Cave Troll gains +4% speed at level 3, 6 and 9"
@@ -18499,7 +18499,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:ToolTipLurtzPillage
-"Requires Level 7 \n Loot enemy kills for resources \n Passive ability"
+"Requires Level 7 \n Lurtz and nearby hordes loot enemy kills for resources \n Passive ability"
 END
 
 CONTROLBAR:OutlawLeadership
@@ -48840,7 +48840,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework
 END
 
 CONTROLBAR:ToolTipOutlawLeadership
-"Requires Level 6 \n Nearby allies earn resources per kill \n Passive ability"
+"Requires Level 6 \n Eomer and nearby battallions earn resources per kill \n Passive ability"
 END
 
 CONTROLBAR:ElvenCloak

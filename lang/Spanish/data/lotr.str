@@ -158,7 +158,7 @@ CONTROLBAR:ToolTipGoblinKingPoisonedStinger09v3
 "Requisito: Nivel 6 \n Solo se puede usar cuando está montado. \n Envenena al enemigo causando daños durante 25 segundos, \n reduce en un -50% su velocidad durante 12 segundos, \n y lo paraliza durante 5 segundos. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre el objetivo."
 END
 TOOLTIP:ToolTipBoromir09v3
-"Boromir gana +7% velocidad en el nivel 7."
+"Boromir gana +3% velocidad en el nivel 7."
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll09v3
 "Fuerte contra espadachines y estructuras. \n El Troll de las cavernas gana +4% velocidad en los niveles 3, 6 y 9."
@@ -17047,7 +17047,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:ToolTipLurtzPillage
-"Requisito: Nivel 7 \n Saquea los cadáveres enemigos para conseguir recursos\n Capacidad pasiva"
+"Requisito: Nivel 7 \n Lurtz y las hordas cercanas saquean los cadáveres enemigos para conseguir recursos\n Capacidad pasiva"
 END
 
 CONTROLBAR:OutlawLeadership
@@ -45697,7 +45697,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework
 END
 
 CONTROLBAR:ToolTipOutlawLeadership
-"Requisito: Nivel 6 \n Las unidades aliadas cercanas ganan recursos por cada muerte\n Capacidad pasiva"
+"Requisito: Nivel 6 \n Eomer y las unidades aliadas cercanas ganan recursos por cada muerte\n Capacidad pasiva"
 END
 
 CONTROLBAR:ElvenCloak
