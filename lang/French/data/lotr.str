@@ -257,7 +257,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Requiert : niveau 2\nGimli saute vers un endroit et inflige des dégâts de zone \n Zone de dégat amélioré aux niveaux 4 et 8 \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 TOOLTIP:ToolTipWitchKing09v2
-"La zone de dégat de la mace est amélioré aux niveaux 5 et 8."
+"La zone de dégat de la mace est amélioré aux niveaux 4 et 8."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
