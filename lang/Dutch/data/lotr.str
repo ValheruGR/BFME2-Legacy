@@ -6272,15 +6272,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3.2"
+"%d.%02d Update %d Build %d"
 END
 
 Version:Format3
-"1.09v3.2"
+"%d.%02d Update %d"
 END
 
 Version:Format2
-"1.09v3.2"
+"%d.%02d"
 END
 
 Version:BuildTime
