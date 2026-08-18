@@ -257,7 +257,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Gereken Seviye: 2 \n Gimli seçilen bir konuma sýçrayarak alan etkili hasara neden olur. \n Etki alaný 4. ve 8. seviyelerde artar. \n Simgeye sol týklayýn, ardýndan hedef alana sol týklayýn."
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Topuz'un saldýrý etki yarýçapý 5. ve 8. seviyelerde artar."
+"Topuz'un saldýrý etki yarýçapý 4. ve 8. seviyelerde artar."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
@@ -7288,18 +7288,15 @@ END
 // Version strings
 
 Version:Format4
-// context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d Update %d Build %d"
 END
 
 Version:Format3
-// context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d Update %d"
 END
 
 Version:Format2
-// context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d"
 END
 
 Version:BuildTime
@@ -27901,7 +27898,7 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"1/3X"
+"Random Teams (MP)"
 END
 
 VALUE:HalfX

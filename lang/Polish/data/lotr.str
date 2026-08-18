@@ -257,7 +257,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Wymaga 2 poziomu \n Gimli skacze w wybrane miejsce powodujac zniszczenie obszarowe \n Ability radius of effect is improved at level 4 and 8. \n Kliknij lewym przyciskiem na ikonie, a nastepnie wybranym obszarze"
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Mace attack radius of effect is improved at level 5 and 8."
+"Mace attack radius of effect is improved at level 4 and 8."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
@@ -6275,15 +6275,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3.2"
+"%d.%02d Update %d Build %d"
 END
 
 Version:Format3
-"1.09v3.2"
+"%d.%02d Update %d"
 END
 
 Version:Format2
-"1.09v3.2"
+"%d.%02d"
 END
 
 Version:BuildTime
@@ -25791,7 +25791,7 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"1/3X"
+"Random Teams (MP)"
 END
 
 VALUE:HalfX

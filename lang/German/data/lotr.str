@@ -258,7 +258,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Voraussetzung: Stufe 2 \n Gimli springt zu einer Position und verursacht dadurch Umgebungsschaden \n Der Wirkungsradius der F‰higkeit wird auf Stufe 4 und 8 verbessert  \n Linksklicke auf das Symbol und anschlieﬂend auf das Zielgebiet"
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Der Wirkungsradius des Streitkolben-Angriffs wurde verbessert, wurde auf Stufe 5 und 8 verbessert "
+"Der Wirkungsradius des Streitkolben-Angriffs wurde verbessert, wurde auf Stufe 4 und 8 verbessert "
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
@@ -6272,15 +6272,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-"1.09v3.2"
+"%d.%02d Update %d Build %d"
 END
 
 Version:Format3
-"1.09v3.2"
+"%d.%02d Update %d"
 END
 
 Version:Format2
-"1.09v3.2"
+"%d.%02d"
 END
 
 Version:BuildTime
@@ -25790,7 +25790,7 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"1/3X"
+"Random Teams (MP)"
 END
 
 VALUE:HalfX

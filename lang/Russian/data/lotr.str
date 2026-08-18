@@ -257,7 +257,7 @@ CONTROLBAR:ToolTipLeap09v2
 "Требуется уровень 2. \n Гимли совершает прыжок, нанося урон оказавшимся рядом врагам. \n Ability radius of effect is improved at level 4 and 8. \n Щелкните на пиктограмме, затем - на участке местности."
 END
 TOOLTIP:ToolTipWitchKing09v2
-"Радиус нанесения урона  повышается на 5-ом и 8-ом уровнях."
+"Радиус нанесения урона  повышается на 4-ом и 8-ом уровнях."
 END
 //------------------------------------------------------------
 CONTROLBAR:GenericMountTooltipDain09v2
@@ -6271,18 +6271,15 @@ QM:TimeoutOtherPlayer
 END
 
 Version:Format4
-// context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d Update %d Build %d"
 END
 
 Version:Format3
-// context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d Update %d"
 END
 
 Version:Format2
-// context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
-"1.09v3.2"
+"%d.%02d"
 END
 
 Version:BuildTime
@@ -25791,7 +25788,7 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"1/3X"
+"Random Teams (MP)"
 END
 
 VALUE:HalfX
