@@ -15,6 +15,11 @@
 
 
 
+
+//------------------------------------------------------------
+SCRIPT:NoMirrorAllowed
+"This is a mirror match. In 1 second you will be thrown back to the lobby. Bye"
+END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
 "Upgrades this battalion with Siege Hammers \n Significantly increases the damage done by Melee Weapons to Structures  \n Guardians lose -40 melee damage and -135% armor, \n but deal SIEGE damage against structures"
@@ -27815,7 +27820,7 @@ END
 
 
 RULE:CommandPointFactor
-"Command Point Factor"
+"Commandpoints and Game Modes"
 END
 
 RULE:ClanGame
@@ -27898,11 +27903,11 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"Random Teams (MP)"
+"Random Teams"
 END
 
 VALUE:HalfX
-"1/2X"
+"No Mirrors"
 END
 
 VALUE:1X
@@ -27910,7 +27915,7 @@ VALUE:1X
 END
 
 VALUE:2X
-"2X"
+"No Mirrors & Random Teams"
 END
 
 VALUE:4X

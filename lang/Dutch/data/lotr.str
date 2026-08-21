@@ -15,6 +15,11 @@
 
 
 
+
+//------------------------------------------------------------
+SCRIPT:NoMirrorAllowed
+"This is a mirror match. In 1 second you will be thrown back to the lobby. Bye"
+END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenSiegeHammer09v302
 "Geeft dit bataljon de upgrade Belegeringshamers.\nVerhoogt aanzienlijk de schade die mêlee-wapens toebrengen aan gebouwen.\nBewakers verliezen -40 mêleeschade en -135% bepantsering,\nmaar brengen BELEGERINGSSCHADE toe aan gebouwen."
@@ -25708,7 +25713,7 @@ APT:SelectColors
 END
 
 RULE:CommandPointFactor
-"Aantal commandopunten"
+"Commandpoints and Game Modes"
 END
 
 RULE:ClanGame
@@ -25788,11 +25793,11 @@ VALUE:NoTimer
 END
 
 VALUE:ThirdX
-"Random Teams (MP)"
+"Random Teams"
 END
 
 VALUE:HalfX
-"1/2X"
+"No Mirrors"
 END
 
 VALUE:1X
@@ -25800,7 +25805,7 @@ VALUE:1X
 END
 
 VALUE:2X
-"2X"
+"No Mirrors & Random Teams"
 END
 
 VALUE:4X
