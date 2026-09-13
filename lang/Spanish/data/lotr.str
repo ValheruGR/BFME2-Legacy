@@ -187,7 +187,7 @@ CONTROLBAR:ToolTipDominate09v3
 "Requisito: Nivel 10. \n Toma control temporal de los enemigos apuntados de forma permanent. \n Haz clic con el botón izquierdo sobre el icono y, a continuación, sobre los enemigos apuntados."
 END
 CONTROLBAR:TooltipSummonTomBombadil09v3
-"Convoca a Tom Bombadil, un poderoso gordito con sombrero que le gusta cantar. Se dice que es la personificación humana de Eru, creador del Ëa. \n Las unidades aliadas cercanas a Tom ganan +25% Armadura y consiguen experiencia 25% más rápido.  \n «Armor BUFF» \n Haz clic con el botón izquierdo y, a continuación, clic con el botón izquierdo sobre el lugar donde quieras que aparezca."
+"Convoca a Tom Bombadil, un poderoso gordito con sombrero que le gusta cantar. Se dice que es la personificación humana de Eru, creador del Ëa. \n Las unidades aliadas cercanas a Tom ganan +25% Damage y consiguen experiencia 25% más rápido.  \n «Damage BUFF» \n Haz clic con el botón izquierdo y, a continuación, clic con el botón izquierdo sobre el lugar donde quieras que aparezca."
 END
 CONTROLBAR:Draft09v3
 "Levas (&R)"
@@ -386,7 +386,7 @@ CONTROLBAR:TooltipFarSight09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipElvenWood09v2
-"Crea una zona frondosa cuyo centro crea un escudo protector contra los conjuros Tierra Mancillada y Bosque Humano del enemigo. \n Las unidades aliadas reciben +35% a la armadura, consiguen experiencia un 25% más rápido y ven incrementada su capacidad de desacelerar el pisoteo de la caballeria enemiga en un +200%. \n  «ElvenWood BUFF» «Overrides Armor LEADERSHIP» \nHaz clic con el botón izquierdo y clic con el botón izquierdo sobre el objetivo."
+"Crea una zona frondosa cuyo centro crea un escudo protector contra los conjuros Tierra Mancillada y Bosque Humano del enemigo. \n Las unidades aliadas reciben +30% a la armadura, consiguen experiencia un 30% más rápido y ven incrementada su capacidad de desacelerar el pisoteo de la caballeria enemiga en un +200%. \n  «Armor BUFF» \nHaz clic con el botón izquierdo y clic con el botón izquierdo sobre el objetivo."
 END
 CONTROLBAR:MenWood09v2
 "Bosque humano"
@@ -474,10 +474,10 @@ CONTROLBAR:TooltipRallyingCallDwarven09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipTaint09v2
-"Mancilla una zona.\nLas unidades aliadas reciben +35% a la armadura.\n «Armor LEADERSHIP» \nHaz clic con el botón izquierdo sobre el icono y, a continuación, sobre el objetivo."
+"Mancilla una zona.\n Las unidades aliadas reciben +30% a la armadura \n y ganan experiencia 30% más rápido. \n «Armor BUFF» \nHaz clic con el botón izquierdo sobre el icono y, a continuación, sobre el objetivo."
 END
 CONTROLBAR:ToolTipMenWood09v2
-"Crea una zona frondosa.\n Las unidades aliadas reciben +35% a la armadura. \n «Armor LEADERSHIP» \nHaz clic con el botón izquierdo y clic con el botón izquierdo sobre el objetivo."
+"Crea una zona frondosa.\n Las unidades aliadas reciben +30% a la armadura \n y ganan experiencia 30% más rápido. \n «Armor BUFF» \nHaz clic con el botón izquierdo y clic con el botón izquierdo sobre el objetivo."
 END
 //------------------------------------------------------------
 OBJECT:ElvenHeroicStatueDescription09v2
@@ -485,7 +485,7 @@ OBJECT:ElvenHeroicStatueDescription09v2
 END
 //------------------------------------------------------------
 OBJECT:HeroicStatueDescription09v2
-"Los aliados cercanos a la estatua ganan \n +25% a la armadura \n y consiguen experiencia un 25% más rápido. \n «Armor BUFF» \n Aumenta en 10 el límite de puntos de mando."
+"Los aliados cercanos a la estatua ganan \n +30% a la armadura \n y consiguen experiencia un 30% más rápido. \n «Armor BUFF» \n Aumenta en 10 el límite de puntos de mando."
 END
 //------------------------------------------------------------
 OBJECT:DwarvenHeroicStatueDescription09v2
@@ -533,7 +533,7 @@ CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier09v2
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipGoblinKingBattleFrenzy09v2
-"Requisito: Nivel 4. \n Los aliados cercanos ganan \n +25% a la armadura y 25% más de experiencia. \n Los trolls cercanos ganan experience 25% más rápido. \n «Armor BUFF»  \n Capacidad pasiva."
+"Requisito: Nivel 4. \n Los aliados cercanos ganan \n +25% al daño, +25% a la armadura\n y ganan experiencia 50% más rápido. \n Los trolls cercanos ganan experience 30% más rápido\ny +20 puntos de autocuración. \n «Armor BUFF»  \n Capacidad pasiva."
 End
 //------------------------------------------------------------
 CONTROLBAR:TooltipElrondLeadership09v2
@@ -541,7 +541,7 @@ CONTROLBAR:TooltipElrondLeadership09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipArwenLeadership09v2
-"Requisito: Nivel 2. \n La caballería cercana a Arwen gana +25% a la armadura \n y consigue experiencia un 25% más rápido. \n «Armor BUFF» \n Capacidad pasiva."
+"Requisito: Nivel 2. \n La caballería cercana a Arwen gana +30% a la armadura \n y consigue experiencia un 30% más rápido. \n «Armor BUFF» \n Capacidad pasiva."
 End
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirLeadership09v2
@@ -549,7 +549,7 @@ CONTROLBAR:ToolTipHaldirLeadership09v2
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipInspiringPresence09v2
-"Los aliados cercanos a Tom Bombadil ganan \n +25% a la armadura y consiguen experiencia un 25% más rápido. \n «Armor BUFF» \n Capacidad pasiva."
+"Los aliados cercanos a Tom Bombadil ganan \n +25% al daño y consiguen experiencia un 25% más rápido. \n «Damage BUFF» \n Capacidad pasiva."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipAragornLeadership09v2
@@ -573,7 +573,7 @@ CONTROLBAR:ToolTipTheodenLeadership09v2
 END
 //------------------------------------------------------------
 TOOLTIP:ToolTipSarumanLeadership09v2
-"Los aliados cercanos a Saruman ganan +25% a la armadura \n y consiguen experiencia un 25% más rápido. \n «Armor BUFF» \n Capacidad pasiva."
+"Los aliados cercanos a Saruman ganan +30% a la armadura \n y consiguen experiencia un 30% más rápido. \n «Armor BUFF» \n Capacidad pasiva."
 END
 //------------------------------------------------------------
 CONTROLBAR:ToolTipHaldirGoldenArrow09v2
@@ -850,6 +850,497 @@ END
 Map:mapmpnothing/Desc
 "nothing"
 END
+//------------------------------------------------------------
+Map:mapAHrivercelon
+"Celon River"
+END
+Map:mapAHrivercelon/Desc
+"The Celon was a long river in East Beleriand during the First Age of Middle-earth.The Celon began in the Hill of Himring and flowed southwest between the lands of Estolad and Himlad, and passed the borders of Nan Elmoth and Doriath. It was a tributary of the river Aros. \n\n Size: 320 x 325 \n Lairs: 4x Troll Lair, 2x Warg Lair \n Neutral Structures: 2x Inn\nMap by Ahwehawe"
+END
+//------------------------------------------------------------
+MAP:MAPMPBucklandIII
+"North Buckland"
+END
+MAP:MAPMPBucklandIII/Desc
+"The Eastern border of the Shire was the home of Merry Brandybuck.\n\n Size: 550 x 550\n Lairs: 2x Troll Lair, 2x Barrow Wight Lair\n Neutral Structures: 1x Outpost, 2x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPDesertofRhun
+"Desert of Rhun"
+END
+Map:MAPMPDesertofRhun/Desc
+"A vast desert lying to the south-east of Rhun. Many unprepared travellers lose their way attempting to traverse this rugged region. \n\n Size: 550 x 550\n Lairs: 6x Goblin Lair\n Neutral Structures: 2x Outpost, 2x Inn, 2x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPDorEnErnil
+"Dor-en-Ernil"
+END
+Map:MAPMPDorEnErnil/Desc
+"Though its boundaries are not clearly established, Dor-en-Ernil appears to have been part of - or perhaps synonymous with - the mountainous coastland fief known as Belfalas or the wider sense of Dol Amroth. \n\n Size: 550 x 570 \n Lairs: 5x Troll Lair, 6x Warg Lair \n Neutral Structures: 1x Inn\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPForochel
+"Forochel"
+END
+Map:MAPMPForochel/Desc
+"Frozen wastelands in northern Middle-earth. The ancient stronghold of Morgoth, Utumno, was located here.\n\n Size: 500 x 400\n Lairs: 2x Goblin, 4x Troll Lair\n Neutral Structures: 3x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+MAP:MapMPHaradOasisii
+//"Harad Oasis II"
+"South Harad Oasis"
+End
+MAP:MapMPHaradOasisii/Desc
+"Harad was the name of the immense lands to the South of Gondor and Mordor. It was inhabited by many different tribes called Haradrim.\n\n Size: 500x500\n Lairs: 8x Goblin Lair, 4x Troll Lair\n Neutral Structures: 4x Outposts\nMap from RotWk 2.02"
+End
+//------------------------------------------------------------
+Map:MAPMPHarnenOasis
+"Harnen Oasis"
+END
+Map:MAPMPHarnenOasis/Desc
+"A vast oasis located north of the Harnen Valley \n\n Size: 525 x 525 \n Lairs: 4x Troll Lair, 2x Goblin Lair \n Neutral Structures: 1x Outpost, 2x Signal Fire\nMap from RotWk 2.02""
+END
+//------------------------------------------------------------
+Map:MAPMPIsleofRhun
+"Isle of Rhun"
+END
+Map:MAPMPIsleofRhun/Desc
+"A palmy isle located in the south-eastern part of the Sea of Rhun. \n\n Size: 500 x 500 \n Lairs: 3x Troll Lair, 2x Warg Lair \n Neutral Structures: 2x Outpost, 2x Inn, 1x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+MAP:MapMPIslesofJoy
+"Isles of Joy"
+End
+MAP:MapMPIslesofJoy/Desc
+"A group of idyllic islands in the Sea of Harlindon. They are said to bring joy and fortune to anyone who journeys to their shores.\n\n Size: 600 x 600\n Lairs: 2x Troll Lair, 8x Goblin Lair\n Neutral Structures: 2x Inn 2x Signal Fire, 4x Shipwright\nMap from RotWk 2.02"
+End
+//------------------------------------------------------------
+Map:MAPMPLaketown
+"Lake-town"
+END
+Map:MAPMPLaketown/Desc
+"Lake-town, also referred to as Esgaroth, was a small independent settlement of Men in the north-western part of the Long Lake in Rhovanion. \n\n Size: 600 x 520 \n Lairs: 2x Troll Lair, 2x Warg Lair, 5x Goblin Lair \n Neutral Structures: 2x Outpost, 1x Inn\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPLamedon
+"Lamedon"
+END
+Map:MAPMPLamedon/Desc
+"Lamedon was a region and fiefdom in southern Gondor, a series of valleys through which the Ringlo and Ciril rivers flowed south.\n\n Size: 600 x 600\n Lairs: 2x Warg Lair, 4x Troll Lair\n Neutral Structures: 2x Inn, 2x Outpost, 2x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPNarrowsoftheForest
+"Narrows of the Forest"
+End
+Map:MAPMPNarrowsoftheForest/Desc
+"The Narrows were located in the south-central part of Mirkwood. It was referred to as the "waist" of the forest caused by the indentation of the East Bight. \n\n Size: 500 x 500 \n Lairs: 4x Troll Lair, 4x Warg Lair \n Neutral Structures: 1x Outpost, 1x Inn\nMap from RotWk 2.02"
+End
+//------------------------------------------------------------
+Map:MAPMPNorthWold
+"North Wold"
+END
+Map:MAPMPNorthWold/Desc
+"An old, desolate area to the north of the Summit of Amon Hen. \n\n Size: 460 x 460 \n Lairs: 2x Warg Lair \n Neutral Structures: 1x Signal Fire\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:mapmppelennorfieldsoutskirts
+"Pelennor Fields II"
+END
+Map:mapmppelennorfieldsoutskirts/Desc
+"The Battle of the Pelennor Fields was a battle for the city of Minas Tirith, and ultimately for Gondor. It was the greatest battle of the War of the Ring, and indeed the largest of the entire Third Age. \n Map by Lazarus, reworked by RotWK 2.02 team"
+END
+//------------------------------------------------------------
+Map:mapmpRingloRiver
+"Ringlo River"
+END
+Map:mapmpRingloRiver/Desc
+"A winding river in the central regions of Gondor which served as the boundary between Anfalas to the west and Belfalas to the east.\n\n Size: 500 x 450\n Lairs: 4x Warg Lair, 2x Troll Lair\n Neutral Structures: 1x Outpost, 1x Inn\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPUmbarPeninsula
+"Umbar Peninsula"
+END
+Map:MAPMPUmbarPeninsula/Desc
+"A peninsula north-west of the City of the Corsairs. \n\n Size: 500 x 500 \n Lairs: 3x Troll Lair, 1x Barrow Wight Lair, 2x Warg Lair \n Neutral Structures: 1x Signal Fire, 2x Inn, 1x Outpost\nMap from RotWk 2.02"
+END
+//------------------------------------------------------------
+Map:MAPMPWestRohan
+"West Rohan"
+End
+Map:MAPMPWestRohan/Desc
+"A region found within the land of Rohan. Also referred to as Westemnet, the region extends along the mountains to Helm's Deep and to the Gap of Rohan. \n\n Size: 600 x 600 \n Lairs: 5x Warg Lair, 2x Troll Lair \n Neutral Structures: 1x Outpost, 2x Inn, 2x Signal Fire\nMap from RotWk 2.02"
+End
+//------------------------------------------------------------
+Map:mapttmeringstream
+"Mering Stream"
+END
+Map:mapttmeringstream/Desc
+"The Mering Stream was known for being one of borders between the kingdoms of Gondor and Rohan. The stream rises in the Firien-Dale, flows through the Firien wood and bends eastward through the marshes of the Fenmarch. \n Map by Temptation."
+END
+//------------------------------------------------------------
+Map:map_ab_archet
+"Archet"
+END
+Map:map_ab_archet/Desc
+"Archet was a remote village of Bree-land, set among the trees on the edge of the Chetwood, east of Bree itself. \nCreeps: 1x Trolls , 2x Spider , 2x Warg , 2x Goblin \nMap by AndyBranDy"
+END
+//------------------------------------------------------------
+Map:map_ab_buckland_ii
+"Buckland XL"
+END
+Map:map_ab_buckland_ii/Desc
+"Buckland, also known as the East March, was a small but densely populated sliver of land located between the Old Forest and the east bank of the Brandywine River, which separated the region from the Shire. \nCreeps: 2x Trolls , 2x Wights\nNeutral Structures: 1x Inn , 2x Signalfire \nSize 400x395 \n Map from AotR, adapted by AndyBrandy"
+END
+//------------------------------------------------------------
+Map:map_ab_buckleburyferry
+"Bucklebury Ferry"
+END
+Map:map_ab_buckleburyferry/Desc
+"Bucklebury Ferry was a raft-ferry used as the second main crossing point of the Brandywine River from the Shire to Buckland. \nCreeps: 2x Trolls , 4x Wargs , 2x Goblins\nNeutral Structures: 2x Inn\nMap by Ninkazy and AnDyBranDy"
+END
+//------------------------------------------------------------
+Map:map_ab_crossingofporos
+"Crossing of Poros"
+END
+Map:map_ab_crossingofporos/Desc
+"The Crossings of Poros marked the point where the Harad Road passed over the river Poros from Ithilien to South Gondor \nCreeps: 2x Trolls , 2x Spider , 2x Wargs\nNeutral Structures: 2x Inn \nSize 355x340\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_eastemnet
+"Plains of Eastemnet"
+END
+Map:map_ab_eastemnet/Desc
+"The Eastemnet was a part of Rohan, and an area of wide, grassy plains found east of the river Entwash, between it and the Great River Anduin. \nCreeps:  Trolls 6x , 4x Warg\nNeutral Structures: 2x Inn , 2x Outpost , 1x Signalfire.\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_eastfarthing_hills
+"Eastfarthing Hills"
+END
+Map:map_ab_eastfarthing_hills/Desc
+"The Eastfarthing was a Farthing of the Shire on the borders of Buckland \nCreeps:  Trolls 4x \nNeutral Structures: 4x Inn , 1x Signalfire\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_ephelduath
+"Ephel Duath"
+END
+Map:map_ab_ephelduath/Desc
+"The Ephel Duath, or the Mountains of Shadow, were a range of mountains that guarded Mordor's western and southern borders. \nCreeps: 2x Trolls , 2x Spider , 2x Goblins\nNeutral Structures: 2x Inn \nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_greenham
+"Greenham"
+END
+Map:map_ab_greenham/Desc
+"Greenham was a town of Gondor and the capital of the province of Lamedon. It was situated within a fenced field atop a small hill and lay along the river Ciril. \nCreeps: 2x Trolls , 2x Spiders , 2x Wargs\nNeutral Structures: 2x Inn \nSize: 326x372\nMap by AnDyBranDy`""
+END
+//------------------------------------------------------------
+Map:map_ab_harondor
+"Harondor Hills"
+END
+Map:map_ab_harondor/Desc
+"South Gondor, known in Sindarin as Harondor, was a region south of Ithilien. \nCreeps: 2x Trolls , 4x Warg , \nNeutral Structures: 2x Inn\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_hobbiton
+"Hobbiton Hill"
+END
+Map:map_ab_hobbiton/Desc
+"Hobbiton Hill, sometimes called simply The Hill, was a hill in the Westfarthing between Hobbiton and Overhill. \nCreeps: 2x Trolls , 2x Warg\nNeutral Structures: 2x Inn , 1x Signalfire.\nMap by AnDyBranDy"
+END
+//------------------------------------------------------------
+Map:map_ab_isle_of_balar
+"Isle of Balar"
+END
+Map:map_ab_isle_of_balar/Desc
+"The Isle of Balar was an island located about seventy-five miles off the southern coast of Beleriand in the great Bay of Balar, known for being a refuge and gathering point of Eldar and Edain during the First Age of Middle-earth. \nCreeps: 2x Trolls , 4x Wargs\nNeutral Structures: 2x Inn \nSize 450x500\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_near_harad
+"Near Harad"
+END
+Map:map_ab_near_harad/Desc
+"Near Harad was an indefinite region of Harad that lay to the south of Gondor and Mordor, beyond the River Harnen. \nCreeps: 2x Goblins , 2x Wargs , 2x Haradrims\nNeutral Structures: 2x Inn\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_northern_waste
+"Northern Waste"
+END
+Map:map_ab_northern_waste/Desc
+"Forodwaith was a vast cold region, in the far north end of Middle-earth,beyond the Mountains of Angmar, Mount Gundabad and the Ered MithrinForodwaith was the name of both a region (also known as the Northern Waste) . \nCreeps: 6x Trolls , 4x Warg , \nNeutral Structures: 2x Inn , 1x Signalfire, 2x Outspot.\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_northern_waste_8p
+"Northern Waste 8p"
+END
+Map:map_ab_northern_waste_8p/Desc
+"Forodwaith was a vast cold region, in the far north end of Middle-earth,beyond the Mountains of Angmar, Mount Gundabad and the Ered MithrinForodwaith was the name of both a region (also known as the Northern Waste) . \nCreeps: 6x Trolls , 4x Warg , \nNeutral Structures: 2x Inn , 1x Signalfire, 2x Outspot.\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_pinnath_gelin
+"Pinnath Gelin"
+END
+Map:map_ab_pinnath_gelin/Desc
+"Pinnath Gelin or Green Hills was a fief in the far west of Gondor. \nCreeps:  Trolls 2x , 2x Warg\nNeutral Structures: 2x Inn , 1x Signalfire\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_river_nimrodel
+"River Nimrodel"
+END
+Map:map_ab_river_nimrodel/Desc
+"Nimrodel was the small river that rose in the eastern foothills of the Misty Mountains, and flowed east to meet the Celebrant on the western borders of Lothlorien. \n Map by AndyBrandy`"
+END
+//------------------------------------------------------------
+Map:map_ab_tharbad
+"Tharbad"
+END
+Map:map_ab_tharbad/Desc
+"Tharbad was a ford and fortified town at the river Gwathló on the southern border of Eriador \nCreeps: 2x Trolls , 2x Spider , 2x Wargs\nNeutral Structures: 2x Inn \nSize 380x340 \n Map by AndyBrandy`"
+END
+//------------------------------------------------------------
+Map:map_ab_theriverharnen
+"Harnen River"
+END
+Map:map_ab_theriverharnen/Desc
+"The river Harnen ("Southing" in Westron) was a river south of Gondor. \nCreeps: 2x Trolls , 4x Wargs\nNeutral Structures: 2x Inn \nMap by AnDyBranDy"
+END
+//------------------------------------------------------------
+Map:map_ab_the_great_desert
+"The Gread Desert"
+END
+Map:map_ab_the_great_desert/Desc
+"The Great Desert is a large, barren desert region located south of most of the familiar lands of Middle-earth. \nCreeps: 2x Trolls , 4x Warg , \nNeutral Structures: 2x Inn\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_thefirienwood
+"The Firien Wood"
+END
+Map:map_ab_thefirienwood/Desc
+"The Firien Wood was an oak forest below Halifirien, the westernmost of the Warning beacons of Gondor, on the fringes of Gondor and Rohan. \nCreeps: 2x Trolls , 4x Warg\nNeutral Structures: 2x Inn , 1x Signalfire \nSize 425x435\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_thelonelands
+"The Lone-lands"
+END
+Map:map_ab_thelonelands/Desc
+"The Lone-lands was a name used by Hobbits for the wilderness east of Bree-land. This area contained, among other features, the Weather Hills and Weathertop \nCreeps: 2x Trolls , 2x Spider , 2x Wargs\nNeutral Structures: 2x Inn\nMap by AnDyBranDy"
+END
+//------------------------------------------------------------
+Map:map_ab_trollshaws_ii
+"Trollshaws II"
+END
+Map:map_ab_trollshaws_ii/Desc
+"The Trollshaws were the upland woods, consisting partly of beech trees, lying west of Rivendell between the rivers Hoarwell and Loudwater in eastern Eriador.\nCreeps:  Trolls 2x , 2x Warg\nNeutral Structures: 2x Inn , 1x Signalfire\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_ab_west_arthedain
+"West Arthedain"
+END
+Map:map_ab_west_arthedain/Desc
+"Arthedain was the largest of the three Dunedain realms. \nCreeps: 2x Trolls , 2x Goblins , 2x Wargs\nNeutral Structures: 2x Inn \nSize 380x340 \nMap by AnDyBranDy "
+END
+//------------------------------------------------------------
+Map:map_ab_westfarthing
+"Westfarthing"
+END
+Map:map_ab_westfarthing/Desc
+"The Westfarthing was the western and most populated Farthing of the Shire, and was the site of the towns Michel Delving, Tuckborough , and Hobbiton. \nCreeps: 2x Trolls , 4x Wargs , 2x Goblins\nNeutral Structures: 2x Inn\nMap by AnDyBranDy`"
+END
+//------------------------------------------------------------
+Map:map_pk_arenas_of_durin
+"Arenas of Durin"
+END
+Map:map_pk_arenas_of_durin/Desc
+"Beneath the Lonely Mountain lie the Arenas of Durin, carved deep into the basalt heart of the mountain and sealed in blood. Here, battle is ritual, not spectacle. Some say Aule still listens, as combat echoes through the vaults of stone. \n Powerkartoffel, 2025"
+END
+//------------------------------------------------------------
+Map:map_pk_brandy_hills_canyon
+"Brandy Hills Canyon"
+END
+Map:map_pk_brandy_hills_canyon/Desc
+"This is an area north of Buckland along the eastern shores of Brandywine River until the Brandywood. Girdley Island is the only named point of interest of these hills though they are dotted by small Arnorian ruins. Some young hunters may be seen hunting bears and boars taking shelter in those ruins. \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_curse_of_the_deep_vein
+"Curse of the Deep Vein"
+END
+Map:map_pk_curse_of_the_deep_vein/Desc
+"In the final days of the 13th Miner District, haste met hubris deep below the stone. They flooded the vein to cleanse it, and awoke a curse that drowned the machines in poison and chained the living to its pulse.\n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_deep_into_the_woods
+"Deep into the woods"
+END
+Map:map_pk_deep_into_the_woods/Desc
+"Deep into the Woods is a lost glade of the Woodland Realm, where elvish whispers linger and color-stained leaves guard ancient paths. \n \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_deepforge_cistern
+"Deepforge Cistern"
+END
+Map:map_pk_deepforge_cistern/Desc
+"Deepforge Cistern is a triumph of stoneborn engineering, carved where the mountain bleeds cold water from its deepest veins. It tempers fire, drives the forges, and breathes iron breath into halls no shadow can conquer. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_deeprot_bastion
+"Deeprot Bastion"
+END
+Map:map_pk_deeprot_bastion/Desc
+"Once the pride of the Deepkin, now a sewer for trolls and sludge Deeprot Bastion echoes with drums and disgrace. Dwarves speak its name only to spit, while goblins wallow where kings once drank. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_deepwood_vale
+"Deepwood Vale"
+END
+Map:map_pk_deepwood_vale/Desc
+"Deepwood Vale lies hidden beneath the ancient canopy, where silver leaves whisper above paths few dare tread. Once a quiet refuge of the Silvan folk, its shadows now stir with memories older than song, and not all of them sleep. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_dol_amroth
+"Dol Amroth"
+END
+Map:map_pk_dol_amroth/Desc
+"Dol Amroth stands high over the Sea of Belfalas, its towers raised by the Faithful of Numenor. From its stone harbor, proud men sailbound by old oaths and seaborn honor. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_evendim_winter
+"Frozen Evendim"
+END
+Map:map_pk_evendim_winter/Desc
+"A lone lake not far from the Shire, now locked in ice by the deep winter of the North. \nMap by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_fords_of_brandywine
+"Fords of Brandywine"
+END
+Map:map_pk_fords_of_brandywine/Desc
+"To the hobbits of the Shire, the Brandywine was the boundary between the known and unknown.\n Reskin by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_gilmaris
+"Gilmaris"
+END
+Map:map_pk_gilmaris/Desc
+"Gilmaris rises by a quiet river, its gardens bright and its stone halls filled with life. Built by proud Men, it thrives on trade, learning, and the beauty of honest craft. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_gor_drath
+"Gor-Drath"
+END
+Map:map_pk_gor_drath/Desc
+"Gor-Drath, the Dreadplain, lies scorched and silent where no star dares shine. Here, beneath the broken sky, the land itself trembles with the memory of ancient terror and fire unquenched. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_grimdam_hollow
+"Grimdam Hollow"
+END
+Map:map_pk_grimdam_hollow/Desc
+"Grimdam Hollow sinks beneath an orange sky, where dammed rivers wheeze and roots blacken under fire. What once thrived now chokes, its silence broken only by the forges breath. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_grubdeep
+"Grubdeep"
+END
+Map:map_pk_grubdeep/Desc
+"Grubdeep claws outward with every tree felled, its fires fueled by Fangorns bones. Though roots rise and branches press close, the forge grows faster carving silence into flame, and forest into ash. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_ironvale_tunnels
+"Ironvale Tunnels"
+END
+Map:map_pk_ironvale_tunnels/Desc
+"Within the Blue Mountains lies Ironvale, a fertile basin surrounded by dark cliffs and pine forests. A vast tunnel network runs beneath the rock, allowing armies to cross the battlefield unseen. At its center, a blood-stained fire burns where many have fallen. \n Enable ring heroes to active the Cave System. \nMap by Powerkartoffel, August 2025"
+END
+//------------------------------------------------------------
+Map:map_pk_ironwaste
+"Ironwaste"
+END
+Map:map_pk_ironwaste/Desc
+"Ironwaste sprawls beneath Mordors choking sky, where furnaces roar and dead trees crumble to ash. The air burns, the ground groans, and the forges never sleep. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_mountains_of_tyranny
+"Mountains of Tyranny"
+END
+Map:map_pk_mountains_of_tyranny/Desc
+"Under ice and snow lies the final stand of the Free Peoples.\nThangorodrim has awakened, and its fire now shapes the frozen north.\nDarkness spreads unchecked, and the world remembers only silence.\n In honor of Casper, FFA Tourney Winner \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_old_ford
+"Old Ford"
+END
+Map:map_pk_old_ford/Desc
+"The Old Ford was the point where the Old Forest Road crossed the River Anduin, about forty miles downriver from the Carrock. In older times, the river was crossed by a stone bridge here, but by the end of the Third Age, the bridge had long since disappeared, and the crossing was no more than a simple ford. \n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_orthancs_gift
+"Orthancs Gift"
+END
+Map:map_pk_orthancs_gift/Desc
+"Orthancs Gift was once a village of Men, now buried beneath smoke, steam, and stone. Saruman calls it progress. where weakness burned, his forge breathes and the sky glows with triumph. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_pazghar
+"Pazghar"
+END
+Map:map_pk_pazghar/Desc
+"The Oasis of Pazghar the great city of East Harad\n Map by Powerkartoffel."
+END
+//------------------------------------------------------------
+Map:map_pk_peacewater_vale
+"Peacewater Vale"
+END
+Map:map_pk_peacewater_vale/Desc
+"They used to call it Duskenvale. Back then, soft tunes passed between lanterns, and freedom walked unguarded among the reeds. \n Now they call it Peacewater. What once was marsh became river, not by rainfall, but by blood paid by the unnamed dead. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_silvanreach
+"Silvanreach"
+END
+Map:map_pk_silvanreach/Desc
+"Silvanreach stretches beneath a vaulted canopy, where tall trees veil the earth in endless twilight. Once a quiet refuge of the Silvan folk, its stillness now hums with something older listening, rooted, and unseen. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_starkhorn_plateau
+"Starkhorn Plateau"
+END
+Map:map_pk_starkhorn_plateau/Desc
+"High upon the slopes of Starkhorn in the White Mountains, a wide plateau lies between snow and stone. Meltwater streams fall from the peak into a great waterfall below. \n Enable ring heroes to active the Cave System. \n Map by Powerkartoffel, August 2025"
+END
+//------------------------------------------------------------
+Map:map_pk_stonespindle_core
+"Stonespindle Core"
+END
+Map:map_pk_stonespindle_core/Desc
+"A dwarven crossroads carved deep into the mountain, where icy tunnels echo with wagons and worn tracks whisper of centuries of toil. Above the depths, a gentle fall sings over stone carved by the rhythm of labor long past. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_tainted_lands
+"Tainted Lands"
+END
+Map:map_pk_tainted_lands/Desc
+"In the scorched lands of Mordor, where ash chokes the sky and evil never sleeps, armies clash for dominion under the Eye of Sauron. Only strength and strategy will decide who commands the shadows. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_tharnhollow
+"Tharnhollow"
+END
+Map:map_pk_tharnhollow/Desc
+"Tharnhollow fell not in battle, but in silencen its walls broken, its people gone, its name left to the moss and the wind. The forest crept in like a shroud, but the ruin was complete before the roots took hold. \n Map by Powerkartoffel"
+END
+//------------------------------------------------------------
+Map:map_pk_ungoliaths_nest
+"Ungoliaths Nest"
+END
+Map:map_pk_ungoliaths_nest/Desc
+"Ungoliaths Nest delves beneath forgotten hills, where miners once broke stone too deep and stirred an ancient brood. Now, web-choked tunnels echo with the hunger of Ungoliaths spawn, untouched by sun or song. \n Map by Powerkartoffel"
+END
+//----------------------------------
+Map:map_pk_woodmen_town
+"Woodmen Town"
+END
+Map:map_pk_woodmen_town/Desc
+"The oldest settlement of the Woodmen was founded by the folk of Balthi long ago. He brought the Lamp out of the darkness, and the light of the Lamp has ever protected Woodmen-town and its inhabitants. The town nestles on the banks of the Enchanted River, which blocks attacks from the east. The Woodmen also use the river to travel back and forth between Woodmen-town and Woodland Hall.\n Map by Powerkartoffel"
+END
 //----------------------------------
 Map:map_pk_glanduin_canyon
 "Glanduin Canyon"
@@ -900,10 +1391,10 @@ Map:map_pk_enchanted_river/Desc
 "The Enchanted River was a black river in Mirkwood that flowed north from its source in the Mountains of Mirkwood towards the Forest River. \n Map by Powerkartoffel"
 END
 //------------------------------------------------------------
-Map:map_so_rhudaur
+Map:mapSOrhudaur
 "Rhudaur"
 END
-Map:map_so_rhudaur/Desc
+Map:mapSOrhudaur/Desc
 "Rhudaur was the eastern Kingdom of Arnor and mostly populated by the native Hill-men. Under their leader Hwaldar they joined the Witch-king in his war against the Dunedain. \n Map from RotWK, by Solas."
 END
 //------------------------------------------------------------
@@ -25811,7 +26302,7 @@ VALUE:1X
 END
 
 VALUE:2X
-"No Mirrors & Random Teams"
+"2X"
 END
 
 VALUE:4X
