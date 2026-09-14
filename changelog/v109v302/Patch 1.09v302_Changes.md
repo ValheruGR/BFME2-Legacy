@@ -1,0 +1,590 @@
+//------------------------------------------------------------------------------------------------------;;
+;;----------------------------------BFME2 1.09v3.2 from 1.09v3.1 Changelog -----------------------------;;
+//------------------------------------------------------------------------------------------------------;;
+
+//......................................................................................................//
+//............................................          ....  ..........................................//
+//...............................         ..',,;;:;;;:::ccc:;;;,''......................................//
+//..........................',,;;;,,;;:::ccoxkkkkkkkkkkkxkkxxkxxxddc;'..................................//
+//........................,coddoooooddxxxxkOkkOOkkxxxxxxxxxxxxxxxxkxxdl,................................//
+//...................';:ldxddoooooddxdxxdxOOkkOOOkxxxxxkxxxxxdoddxxxxxxxoc:'............................//
+//................;cdxkkxxxxxddddddxxxxxkOOOkOOkkOOkkkOkkkkkkdoddxxkkkkkkkxo:'.''.......................//
+//.............,lxOkkkxxxkkOOkxxxxxxxxkkkkOOOOOOOOOOkOOkkkkOOkxxkkkOOkkkO000Oxccodo;. ..................//
+//............,xOOOkkkkkkkOOkkkkkkOOkkkOOkkkkkkkkkOOOkkkOOOOOOOOkO000OkOKNNNNXKxlldxc...................//
+//............lOOOOOOkkOOO00OOOOOOOkkkOkkkkOOkkkkOOOOOkO000OO0OO00000OO0XNWWWNNXOdooc''.................//
+//...........;k0000OOOOO000KKK00OOkkkkxkkkOOOkkOOOOOOOOO0000000000000O00XNWWWNNX0kkxd:..................//
+//..........,xO0000000O0000KKKK00OOkkkkOOOOOOOOOO0000000000000000K00000KXNWWWNXK0000Od'.................//
+//.........;ocoO0000000000KKKKK00000OOOOOOO0000KKK000000K0000KKKKK0000KKKXNNXKK00KK00o'.................//
+//...... .lo. ,k0000000KKKKKXXKK000000000000KKKKXKKK000KKK00KKKKKK00000KKKKXXXKKKKK00o'.................//
+//...    ,x:. .d00000KKKKXXXXXXKKKKKKKKKKKKKKKKXKKKKKKKKXXKKKKKXXKK00000KKKXXXXKKK0OOx,.................//
+//..  .;:dk:'..oOO00KKKKXXXXXKKKK0000KKKKKKKKKKXKKKKKKKKXXXXXXXXXKK0OOOO0KKXXK0OkkOOkx:.................//
+//.. .:dool:;..lO00KKKKXXXXK00O0000000000KKKKKXXKKKKKKXXXXXXXXXXKK0OxdxO00KKKK0Okxkkkxo'................//
+//..   .';clc..lO0KKKKXXXKKOOxdddkOOOkkkOO00KKKKKKXXXXXXXXXXXXXXK0OkolxOkxxO0KK00Okxxxxo;...............//
+//..    .:cc;,ck00KKXXXK0kxkxdddddolloodxkO000K000KXXXXXXXXXXXXXXKkdlcdOOkkk0KKK0kkxxxxxdc'.............//
+//........'':k0000KKXOo;'.;OOkO00Oc..,,,,;;;;;;;,,:x0KXXXXXXXXXXXXKOdlldOKKKKKK0OOOkxxkkxxl'............//
+//..........o00000Odc'. ..dXKKKKOc.  ... ..   .....';oKXXXXXXKKK0Okxdollok0XXKKKOOO0OkxxkOOl............//
+//.........'d000x:'......'kXXKX0;..................  'dKXKKXOllOK0OOo'...';oOKXKK00K0kkkOOOx,...........//
+//.........cO0Oc......... .d0KKd.................... .'dKKKXd. .lOXXKc. .. .,ldxxkOOkOO00kdo:...........//
+//....... 'xKOc............'d0Kk;..................... 'x00Kl    'xKXx'...........''';cdxool,'..........//
+//........:O0d'.............'oO0k;.....................'oO00;     ,OXO,........  ....  .',,'............//
+//........l0k;................:xOk:.....................;OKO;     :OK0;.................................//
+//........ckk,.................,:dkdc'.'................,k00o.   .o0Kx' ................................//
+//.........lxc''.................':loc,'.................lkOOc.  'lll,..................................//
+//.........,,'......................'................. ..':odol,.,'.....................................//
+//.....................................................  ....''','......................................//
+//......................................................................................................//
+
+
+
+# The Lord of the Rings: Battle for Middle-Earth II
+
+* Patch 1.09 — Version 3.02 - Changelog
+* Release date: ---
+* Final Build: ---
+
+
+---
+
+
+## Faction. Men Of The West:
+### Men. Units:
+#### Units. Infantry:
+- ß01. GondorSoldier unupgraded armor against PIERCE now takes 135% damage, from 150%. Originally 125%. (+10% improvement)
+- ß01. GondorSoldier unupgraded shield block armor against PIERCE now takes 108% damage, from 100%. Originally 125%. (means the extra bonus is now -20% dmg taken instead of -33.3%)
+- ß12. GondorSoldier now deals 80% against IsengardFurnace, from 78%.
+- ß10. GondorArcher Horde: Shroud reveal set to 480 from 400.
+- ß01. GondorRanger speed increased to 52 from 50.
+- ß01. GondorRanger build time increased to 40 seconds from 30.
+- ß01. GondorRanger health gains per level standarized to +4%, from +10/+5. Total health gains now +42% from +43%. #Looks like a ridiculous change but it means if we ever touch ranger HP, it's gonna remain being +42%. And it's standard for elite archers now.
+- ß01. GondorRanger damage gains in total now x05 from x06.
+- ß10. GondorRanger Horde: Shroud reveal set to 550 from 600.
+- ß14. GondorRanger armor damage taken by poison set to 125% from 100%.
+- ß01. ElvenWarriorFromInn damage gains now x07 from x08.
+- ß01. ElvenWarriorFromInn armor against trample now takes 140% from 180%. (Originally 30%)
+- ß01. ElvenWarriorFromInn health gains per level standarized to +4%, from +10/+5. Total health gains now +42% from +64%.
+- ß12. ElvenWarriorFromInn horde: range now -125 shorter than individual unit range, from -75. (Same formula is applies by every archer horde on this game)
+- ß14. GondorTowerGuard fixed not gaining level 8 speed bonus as horde.
+#### Units. Cavalry:
+- ß01. Knight now take 120%/60% SIEGE damage, from 100%/50%.
+- ß01. Rohirrim now take 120%/70% SIEGE damage, from 100%/60%.
+- ß01. Rohirrim damage gains per level now +5% from +6%.
+- ß01. Rohirrim damage gains now x05 from x06.
+
+### Men. Heroes:
+#### Heroes. Gandalf:
+- ß01. GondorGandalf WizardBlast now deals a tiny +20% damage extra damage in a small pizza slice shape area. From previosly enabling this bonus on level 8, now its enabled at level 1.
+- ß02. GondorGandalf WizardBlast attack range restored to 10.5, from 20. (Fixes gandalf casting the blast from too far away)
+#### Heroes. Boromir:
+- ß03. Boromir horn of gondor reload time increased to 120 seconds from 100. (Originally 90).
+- ß01. Boromir health reduced to 3000 from 3200.//played with 3100 with lau.
+- ß13. Boromir horn of gondor radius of effect reduced to 250 from 350.
+- ß13. Boromir base speed increased to 52 from 50. Speed bonus gained at level 7 is now +3%, from +7%.
+- ß09. Boromir build time reduced to 40 from 50. //played with 45 since beta01
+#### Heroes. Theoden:
+- ß09. Theoden build time reduced to 35 seconds from 40. Health reduced to 2500 from 2600.
+- ß14. Theoden experience required for level 6 to 9 slightly increased. (Total for lvl10 remains same)
+#### Heroes. Aragorn:
+- ß09. Aragorn elendil total unpack time decreased to 1400 ms from 2400 ms. Removed the code that freezes him after completion or abortion.
+- ß13. Aragorn elendil blue particles are now linked to the actual animation. Fx dissapaers once ability ends.
+#### Heroes. Faramir:
+- ß10. Faramir: health reduced to 2125 from 2250
+
+### Men. Structures:
+- ß01. MenFortress trebuchet build cost reduced to 650 from 700.
+- ß01. GondorArcheryRange level 2 upgrade now cost 350 from 500.
+- ß01. GondorArcheryRange health at lvl1/lvl2/lvl3 now 3500/4750/6000 from 3500/5300/6800.
+- ß01. GondorWell build time increased to 30 seconds from 25.
+- ß11. GondorFarm buildtime reduced to 19 seconds from 20 seconds. 
+
+### Men. Spellbook:
+- ß10. Summon Dunedains spawn area dispersation 320 from 300.
+- ß10. Summon Dunedains reload time 120 from 100.
+- ß13. MenWood radius increased to 260 from 250 (matching ElvenWood). 
+- ß16. MenWood leadership set to Armor Buff, from Armor Leadership. (Means it cant be canceled by basic debuff)
+
+
+---
+
+
+## Factions. Elves:
+### Elves. Units:
+#### Units. Cavalry:
+- ß01. RivendellLancer now take 120%/60% SIEGE damage, from 100%/50%.
+#### Units. Infantry:
+- ß01. MirkwoodArcher armor against CAVALRY_RANGED now takes 80% damage, from 100%. // Because lorien archers take 67% and they survive more volley arrows than mirks.
+- ß01. MirkwoodArcher armor against SIEGE now takes 120% damage, from 100%. // damage from monsters, destruction spells and artillery, indeed.
+- ß01. MirkwoodArcher health gains per level standarized to +4%, from +10/+5. Total health gains now +42% from +65%.
+- ß01. MirkwoodArcher banner carrier hp reduced to 250 from 300. (Originally 200)
+- ß01. MirkwoodArcher damage gains reduced to x05 from x06. 
+- ß06. MirkwoodArcher silverthorn magic damage reduced to 21 from 24. (35% of pierce, instead of 40%. Lorien archer still gain 40% of their pierce)
+- ß10. MirkwoodArcher damage against SpiderRider reduced to 90% from 100%. //Note mirkwood already deals 80% against any other cavalry, spiderirder was excluded when they were crap.
+- ß10. MirkwoodArcher: attack range reduced to 435 from 450.
+- ß10. MirkwoodArcher Horde: Shroud reveal set to 585 from 650.
+- ß12. RohanPeasantFromInn can now be upgraded with heavy armor, which improves the resistance against any damage type by 35%. Cost set to 150. Required Drafted upgrade.
+- ß12. RohanPeasantFromInn can now be upgraded with forged blade, which adds 20 base damage. Adds 50% bonus against infantry. (Other swordmen in bfme2 gain +100% bonus vs other infantry). Cost set to 200. Required Drafted upgrade.
+- ß12. RohanPeasantFromInn armor now takes 35%/22% SPECIALIST from 50%/50% (unupgraded, upgraded respectively).
+- ß12. RohanPeasantFromInn armor now takes 150%/100% CAVALRY from 100%/100% (unupgraded, upgraded respectively).
+- ß12. RohanPeasantFromInn armor now takes 100%/30% FLAME from 30%/30% (unupgraded, upgraded respectively).
+- ß12. RohanPeasantFromInn armor now takes 150%/100% HERO from 100%/100% (unupgraded, upgraded respectively).
+- ß12. RohanPeasantFromInn armor now takes 150%/100% HERO_RANGED from 100%/100% (unupgraded, upgraded respectively).
+- ß12. RohanPeasantFromInn armor now takes 120%/78% STRUCTURAL from 100%/100% (unupgraded, upgraded respectively).
+- ß12. Elven batallions commandsets standarized to: abilities in the 2nd slot, forgedblade/silver in the 3rd, armor in the 4th, banner in the 5th, bombard in the 6th.
+- ß14. ElvenMithlondPike damage/health gains are now multiplicative. Total damage/health gain reduced to x08/x06 from x010/x07
+#### Units. Monsters:
+- ß01. Ents armor now takes 35% CRUSH damage from 25%. (dealt by watcher)
+- ß06. Ents armor now takes 25% POISON, from 10%.
+- ß06. Treebeard armor now takes 25% POISON, from 10%.
+- ß01. Treebeard armor now takes 35% CRUSH damage from 25%. (dealt by watcher)
+
+### Elves. Heroes:
+#### Heroes. Haldir:
+- ß01. Haldir experience required lvl2 to 4 decreased to 40/80/120 from 50/100/150.
+#### Heroes. Arwen:
+- ß03. Arwen experience required lvl2 to 4 decreased to 40/110/180 from 60/120/180. //played with 50/100/150 in beta1
+- ß03. Arwen damage gains set to tier x05 from x06.
+- ß10. Arwen Mounted attack moving animation removed: now uses the default attack animation.
+#### Heroes. Elrond:
+- ß10. Elrond attack moving animation removed: now uses the default attack animation.
+- ß10. Elrond elven grace: radius reduced to 170 from 200.
+- ß10. Elrond elven grace reload time increased to 120 seconds from 100. //Matching boromirs horn reload time.
+#### Heroes. Legolas:
+- ß01. Legolas: Arrow Wind level 10 using vanilla FX, fixed.
+- ß01. Legolas respawn time increased to 60 from 55. (Originally 65)
+- ß10. Legolas bow damage penalty against Isengard Heroes removed. Set to 100% from 90%.
+#### Heroes. Thranduil:
+- ß06. Thranduil deadeye magic damage against Artillery increased to 75% from 35%.
+- ß06. Thranduil thorn of vengance shockwave height reduced. (looks a bit ridiculous given the trajectory)
+#### Heroes. Glorfindel:
+- ß06. Glorfindel BladeOfPurity unpack time reduced to 800ms from 1000ms. (same than Aragorn blademaster)
+
+### Elves. Structures:
+- ß01. Elven galadriel mirror build time increased to 30 seconds from 25.
+- ß10. ElvenBarrack level 2 upgrade cost increased to 650 from 600.
+
+### Elves. Spellbook:
+- ß01. Spellbook flood damage against machines(including Grond) increased to 150% from 100%.
+- ß16. ElvenWood leadership set to Armor Buff from Unique Buff. 
+
+
+---
+
+
+## Factions. Dwarves:
+### Dwarves. Units:
+- ß01. Guardian now deals 95% against barracks, from 100%.
+- ß01. Dwarven banner carrier hp decreased to 300 from 350. (Originally 400)
+- ß16. AxeThrower horde speed increased to 42 from 37. (phalanx is 45). Played with 41 since ß05.
+- ß10. AxeThrower: Shroud reveal set to 520 from 400.
+- ß10. AxeThrower attack animation duration increased to match real reload time. // so you can tell when its worth cancel the attack to move.
+- ß12. AxeThrower crush revenge set to 20 SLASH damage from 5 PIERCE. //means they crush-revenge on cavalry like a swordmen, instead of like an archer. except that a normal swordmen crushrevenges 40 SLASH, or 20 in the case of orcs.
+- ß14. AxeThrower +35% vs creeps. (wargs, goblins, wights, drakes, warg sentries)
+- ß05. MenOfDale bonus against monsters no longer affect heroes nor flyers. (implies damage against witchking and flyers 100% from 115%).
+- ß10. MenOfDale Horde: Shroud reveal set to 540 from 500.
+- ß12. Dwarven batallions commandsets standarized to: abilities in the 2nd slot, forgedblade/firearrow in the 3rd, armor in the 4th, banner in the 5th, bombard in the 6th.
+#### Units. Cavalry:
+- ß08. //RemovedThis//- ß05. DwarvenBattleWagon can now be metaimpacted: troll with tree will slightly push them down but the stuning time is just 100ms 
+- ß08. DwarvenBattleWagon armor now takes 24% SLASH/URUk from 20%. Get heavyarmor if u wanna tank swords.
+#### Units. Machines:
+- ß14. DwarvenCatapult Oil Barrel minimun range increased to 650 from 585.
+
+### Dwarves. Heroes:
+- ß06. Gloin build time now 35 seconds from 30.
+- ß06. Dain build time now 40 seconds from 45. 
+- ß01. Gimli build time now 55 seconds from 50.
+- ß01. Dwarven heroes no longer share experience with heroes.
+
+### Dwarves. Structures:
+- ß01. DwarvenMineshaft health reduced to 2500 from 2600.
+- ß01. DwarvenMineshaft entry/exit points are now closer to the door. (faster evacuate/enter, less marging for idiot noobs to command and get them stuck themselves.)
+- ß01. DwarvenHearth build time increased to 30 seconds from 25.
+- ß01. DwarvenFortress catapult buildcost reduced to 650 from 700.
+- ß10. DwarvenMightyCatapult (Fortress and Citadel): turn rotation time reduced to 5000ms from 10000ms.
+- ß12. DwarvenMightyCatapult (Fortress and Citadel): fixed weapon not shooting when casted very close to the minimum range.
+
+### Dwarves. Spellbook:
+- ß10. DwarvenRiches can now be used on sumnmoned undermines. //have fun buffing a farm making 9 money with no level up. Regards, bambi.
+- ß12. //RemovedThis//- ß10. DwarvenUndermine completly overhauled. 
+- ß12. //RemovedThis//- ß10. DwarvenUndermine can no longer be casted in fog of war, but it can be casted by a enemy fortress.
+- ß12. //RemovedThis//- ß10. DwarvenUndermine summoning now deals 750 SIEGE damage max with 40% taperoff in 75 radius, from 230 SPECIALIST damage with 50% taperoff in 100 radius.
+- ß12. //RemovedThis//- ß10. DwarvenUndermine reload time now 360 from 270.
+- ß12. //RemovedThis//- ß11. DwarvenUndermine summoning damage radius set to 100. //played with radius75 in beta10
+- ß12. DwarvenUndermine cast now slows downs the units in the cast area for 3 seconds, then a explosion occurs with FX, spawning the actual undermine. //Played with 2 seconds since beta10, it was pretty impossible to dodge given the slow down.
+- ß12. DwarvenUndermine can now be summoned slightly closer to enemy fortress. Min distance set to 550 from 600.
+- ß12. DwarvenUndermine max/min damage set to 460/125, from 230/125.
+- ß12. DwarvenUndermine weapon radius reduced to 160 from 200.
+- ß12. DwarvenUndermine shockwave metaimpact height reduced to 50 from 75.
+- ß12. DwarvenUndermine damage type set to SIEGE, from SPECIALIST in order to represent more acurately such a explotion. 
+
+
+---
+
+
+## Factions. Isengard:
+### Isengard. Units:
+### Units. Infantry:
+- ß01. IsengardPikeman damage agaisst cavetrolls reduced to 95% from 100%
+- ß07. //RemovedThis//- ß06. IsengardCrossbow reload time increased to 2600ms from 2300ms. //tested with 2500 untill beta2. //tested with 2800 with lau in beta1. //tested with 2600ms since beta03
+- ß07. IsengardCrossbow preattackdelay increased to 820 from 400. (reloadtime kept as 2300) //with this value, crossbows shot while moving like before the fix but in 1v1 they remain the same.
+- ß05. IsengardCrossbow damage against CaveTroll decreased to 90% from 95.7%.
+- ß10. IsengardCrossbow: Shroud reveal set to 470 from 500.
+- ß12. IsengardCrossbow horde: range now -125 shorter than individual crossbow range, from -100. (Same formula is applied by every archer horde on this game)
+### Units. WargRider:
+- ß12. //RemovedThis// - ß01. WargRider armor against POISON now takes 120%/75% from 110%/75%.
+- ß13. WargRider damage standard/forgedblade set to 63/115 from 63/125.
+- ß16. WargRider experience required to level up to 3 increased to 180 from 145. (matching good cav)
+- ß16. WargRider experience required to level up to 5 increased to 390 from 320. (matching good cav)
+- ß16. WargRider experience required to level up to 10 increased to 770 from 600. (matching good cav)
+
+### Units. Berserker:
+- ß01. Berserker radius of damage is no longer penaltied to 15 against dwarven infantry. Now cause damage in 20 radius. (Originally 15 against everything)
+- ß01. Berserker kills are now knockbacked. Looks and sounds cool. Regards, bambi.
+- ß01. Berserker damage against Heroes restored to 100% from 85%.
+- ß01. Berserker damage against Guardians restored to 100% from 80%.
+- ß02. Berserker can now purchase forged blades and HeavyArmor.
+- ß02. Berserker damage unupgraded/upgraded set to 250/350 from 300.
+- ß02. Berserker damage against cavalry increaed to 60% from 50%.
+- ß02. Berserker penalty against HERO removed. Now deals 100% from 85%.
+- ß02. Berserker penalty against STRUCTURE removed. Now deals 100% from 90%.
+- ß02. Berserker penalty against COMMANDCENTER removed. Now deals 100% from 85%.
+- ß02. Berserker heavyarmor set to 150 cost.
+- ß03. Berserker heavyarmor now provides +35% general armor but it's 20% weaker against Heroes, trample, cavalry and structural damage. ß16. And 20% extra stronger aganst pike damage.
+- ß05. Berserker red forged blade now shows up when upgraded.
+- ß10. Berserker: Shroud reveal range set to 300 from 200.
+- ß03. Berserker forgedblade set to 200 cost. //played with 175 inbeta2
+- ß05. Berserker armor now takes 110% HERO damage, from 100%. 
+- ß05. Berserker armor now takes 150% SIEGE damage, from 100%. //played with 120% since beta03
+- ß05. Berserker armor now takes 60% PIERCE damage, from 72%. (Originally 100%) Dodgerate reduced to 50% from 64%. (Originally 80%)
+- ß09. Berserker now deals 67% damage against Ents, from 100%.
+- ß09. Berserker now deals 80% damage against Treebeard, from 100%.
+
+### Isengard. Heroes:
+#### Heroes. Lurtz:
+- ß09. Lurtz buildtime increased to 35 seconds from 30 seconds.
+#### Heroes. Saruman:
+- ß01. Saruman Fireball damage against fellbeast and witchking on fellbeast reduced by -10%.
+- ß01. Saruman Fireball damage against banners reduced to 15% from 100%.
+- ß01. Saruman Fireball damage against WitchKing on foot increased by 20%
+- ß01. Saruman Fireball taperoff now 67% from 100%.
+- ß01. Saruman LightningStorm is now a ArrowStorm kind of weapon(LightningSword, legolas ArrowWind, ex WizardTower). Individual projectiles can chase the targets.
+- ß04. Saruman LightningStorm FX significantly less heavier and annoying.
+- ß04. Saruman LightningStorm projectile hit damage radius reduced to 30 from 35.
+- ß09. Saruman SpeechCrasft train allies experience reduced to 75 from 100. (originally 50)
+- ß09. Saruman LightningStorm reload time increased to 290 seconds from 245. Now it's a seriously dangerous ability... with its unit tracking...
+- ß11. Saruman experience required between levels 7,8,9 increased to 1230/1630/2030 from 1150/1400/1900. Total experience required till level 10 remains same.
+#### Heroes. Sharku:
+- ß01. Sharku respawn time increased to 50 from 45.
+#### Heroes. Wormtonge:
+- ß01. Wormtonge respawn time reduced to 50 from 55.
+
+### Isengard. Structures:
+- ß01. IsengardUrukPit level 2 upgrade now cost 350 from 450.
+- ß13. IsengardUrukPit level 2 health at level 1/2/3 reduced to 3000/4500/6000 from 3000/5000/6500.
+- ß01. IsengardFortress WizardTower is no longer a ArrowStorm kind of weapon. It can no longer chase moving targets and just randomly hit the target area. Also fixes random friendly objects being damaged in random places of the map.
+- ß01. IsengardFortress WizardTower buildcost 1200 from 1800. Hit radius restored to 30 from 25.
+- ß03. IsengardFortress WizardTower damage against grond increased to 250% from 150%. (Because it wont track it while moving)
+- ß03. IsengardFortress WizardTower damage against Balrog increased to 75% from 40%. (because it cant track him and hit 100% anymore)
+- ß03. IsengardFortress WizardTower can now be casted in the fog of war like all the other fortress abilities.
+
+### Isengard. Spellbook:
+- ß01. Devastation reload time increased to 340 seconds from 330. (Originally 360)
+
+
+---
+
+
+## Factions. Mordor:
+### Mordor. Units:
+- ß12. HaradrimLancerFromInn crush revenge set to 20 SLASH damage from 5 PIERCE. //means they crush-revenge on cavalry like a swordmen, instead of like an archer. except that a normal swordmen crushrevenges 40 SLASH, or 20 in the case of orcs.
+- ß05. HaradrimArcher bonus against monsters no longer affect heroes nor flyers. (implies damage against witchking and flyers 100% from 120%).
+- ß05. MordorOrcArcher damage against LorienWarrior increased to +15% from +10%. (Since bt2dc OrcArcher has a +15 bonus vs all infantry but LW was a exception)
+- ß10. MordorOrcArcher: Shroud reveal set to 420 from 400.
+- ß11. MordorCorsair FireBomb reworked again: animations, preattackdelay, delaybetweenshots and minimum attack ranges restored to 1.06 values. 
+- ß11. MordorCorsair FireBomb reworked again: Bombard mode is now identical to standard, but standard mode projectile is 15% faster, while bombard mode is 15% slower. (makes bombard mode easier to dodge)
+- ß11. MordorCorsair FireBomb FLAME damage increased to 20 from 15. (this is the real damage that causes level up, but is not what usually kills things)
+- ß11. MordorCorsair FireBomb LOGICAL_FIRE fire duration duration reduced. (MinDecay set to 32 from 20. Originally 16. The higher MinDecay is, the faster the fire extinguishes) 
+- ß11. MordorCorsair FireBomb standard-bombard weapons have now their timers sincronizer, making it slightly harder and unpractical to try glitch-abuse to shoot twice.
+- ß11. MordorCorsair horde firebomb mode not properly shooting as a horde.
+- ß12. Mordor hordes commandsets standarized to: abilities in the 2nd slot, forgedblade/firearrow in the 3rd, armor in the 4th, banner in the 5th, bombard in the 6th.
+
+### Units. Monsters:
+- ß04. MountainTroll punch (radius, arc, taperoff) set to (20, 135º, 100%) from (50, 40º, 80%) respectively. //played with (20, 180º) since beta2
+- ß04. MountainTroll clubswing (radius and arc) set to (35, 135º) from (60, 80º) respectively. //played with (35, 180º) since beta2
+- ß02. MountainTroll autoheal basic/advanced set to 15/25 from 20/30.
+- ß02. MountainTroll now takes 38.5% from crush revenge when trampling pikes, from 35%. (Originally 100%).
+- ß04. MountainTroll health gains are now multiplicative: set to +4% per level, total health at lvl10 is are now 2562 from 2775.
+- ß04. MountainTroll damage gains per level reduced to x04 from x05.
+- ß04. MountainTroll armor now takes 135% SPECIALIST, from 129%. (Originally 100%)
+- ß10. MountainTroll eat orc reload time increased to 21 seconds from 14 seconds.
+- ß02. DrummerTroll clubswing (damage and taperoff) set to (100, 72%) from (100, 100%) respectively.
+- ß04. DrummerTroll clubswing (radius and arc) set to (30, 135º) from (60, 90º) respectively.  //played with (20, 180º) since beta2
+- ß04. DrummerTroll kick (radius and arc) set to (20, 135º) from (60, 20º) respectively. //played with (35, 180º) since beta2
+- ß02. DrummerTroll kick animation not properly locking the clubswing animation, fixed.
+- ß02. DrummerTroll armor now takes 75% poison from 50%. (Originally 25%)
+- ß02. DrummerTroll armor now takes 35% uruk damage from 25%. (damage dealt by orcs and urukhais)
+- ß02. DrummerTroll armor now takes 50% crush from 5%. (damage dealt by watcher spawn or special attacks)
+- ß02. DrummerTroll armor now takes 100% siege from 70%. Originally 50%. (damage dealt by monsters like trolls and catapults.)
+- ß02. DrummerTroll roar ability is no longer instant. Now has 500ms of unpacking. Removed these 10 seconds of drumming animation if the troll is not sent to battle.
+- ß04. DrummerTroll health gains are now multiplicative: set to +4% per level, total health at lvl10 is are now 2847 from 2975.
+- ß04. DrummerTroll damage gains per level reduced to x04 from x05.
+- ß04. DrummerTroll kick & clubswing damage set to 120/80 from 100/100 respectively. Portrait damage shows the average of both weapons (100)
+- ß09. DrummerTroll auto heal amount reduced to 30 healthpoints per second, from 40.
+- ß13. DrummerTroll weapons are no longer AoE kind of weapon.
+- ß04. AttackTroll clubswing (radius and arc) set to (35, 135º) from (60, 80º) respectively. //played with (35, 180º) since beta2
+- ß01. AttackTroll damage against heroes reduced. (Bonuses of +15%, +30%, +60% reduced to 0%, +5%, +25%).
+- ß01. AttackTroll damage against structures increased to 300 from 250. //Originally 400.
+- ß04. AttackTroll health gains are now multiplicative: set to +3% per level, total health at lvl10 is now 3914 from 4300. //played with 4100 since beta1
+- ß01. AttackTroll total damage gains untill level 10: reduced to x03 from x05.
+- ß01. AttackTroll commandpoints increased to 70 from 65.
+- ß09. AttackTroll armor now takes 50% CRUSH, from 5%. (damage dealt by watcher spawn or special attacks) //played with 10%, still pretty imnune to watcher. //PLAYED WITH 35% SINCE beta04
+- ß04. AttackTroll armor now takes 100% SIEGE, from 70%. (damage dealt by other monsters, including watcher arms)
+- ß04. AttackTroll armor now takes 35% URUK, from 25%. (damage dealt by orcs and uruks)
+- ß04. AttackTroll damage taperoff reduced to 67% from 80%.
+- ß09. AttackTroll auto heal amount reduced to 40 healthpoints per second, from 50.
+- ß07. AttackTroll HeavyArmor now penalties 20% the POISON armor. (Formula is: gains 35% armor, but gets 20% penaltied on some damage types, like pikes, and now also poison)
+- ß05. MordorMumakil melee damage now properly deals 450% as intended, against WitchKing and Shelob. (because they were considered monsters, they were only getting 250% bonus)
+- ß06. MordorMumakil armor now takes 135% MAGIC, from 175%. (Originally 225%)
+
+### Mordor. Heroes:
+#### Heroes. MouthOfSauron:
+- ß01. MouthOfSauron doubt cast delay now 600ms from 900ms.
+- ß01. MouthOfSauron doubt radius increased to 150 from 140.
+- ß01. MouthOfSauron doubt speed reduction improved to -8% speed from -5%.
+- ß01. MouthOfSauron EvilEye base damage increased to 1750 from 1440. //played with 1600 with lau
+- ß01. MouthOfSauron EvilEye now deals 135% against general heroes, from 115%.
+- ß11. MouthOfSauron EvilEye now deals 280% against MordorWitchKing on foot, from 115%.
+- ß01. MouthOfSauron EvilEye now deals 150% against Elrond, Aragorn, Gimli, from 130%.
+- ß01. MouthOfSauron EvilEye now deals 45% from 40% against ElvenLegolas.
+#### Heroes. FellBeast:
+- ß01. Fellbeast buildtime reduced to 75 from 78. Respawntime reduced to 80 from 83.
+- ß04. Fellbeast armor now takes 65% HERO_RANGED, from 80%.
+- ß04. Fellbeast armor now takes 80% STRUCTURAL, from 100%.
+#### Heroes. WitchKing:
+- ß01. WitchKing morgul blade start ability range increased to 25 from 15. //just like sharku man eater.
+- ß10. //RemovedThis//. - ß04. WitchKing war mace knockback radius slightly reduced to physically match the damage in area. (knockback should always be slightly smaller than damage radius). 
+- ß10. WitchKing war mace first radius improvement moved to level 4, from 5.
+- ß10. WitchKing war Screech ability moved to level 5, from 4.
+- ß10. WitchKing war mace radius at level 1/4/8 set to 37/41/45, from 35/40/40.
+
+### Mordor. Structures:
+- ß01. Mordor HeavyArmor technology build cost now 800 from 1000.
+- ß01. Mordor Fortress catapult build cost increase to 750 from 650.
+
+### Mordor. Spellbooks:
+- ß01. MordorRainOfFire minimum outer damage increased to 1600 from 1450. (Originally 200)
+
+
+---
+
+
+## Factions. Goblins:
+### Goblins. Units:
+#### Units. Infantry:
+- ß12. Goblin hordes commandsets standarized to: abilities in the 2nd slot, forgedblade/firearrow/grabtree in the 3rd, armor in the 4th, banner in the 5th, bombard/venomsacks in the 6th.
+- ß01. GoblinWarrior HeavyArmor now cost 175 from 200.
+- ß01. GoblinWarrior forged blades now cost 175 from 200.
+- ß01. GoblinArcher banner carriers now cost 120 from 150.
+- ß01. GoblinArcher HeavyArmor now cost 175 from 200.
+- ß10. GoblinArcher Horde: Shroud reveal set to 480 from 450.
+- ß01. HalftrollMarauder existing -10% penalty against buildings now only applies against Barracks.
+- ß01. HalftrollMarauder now deals 100% from 80% against Isengard Warg Riders.
+- ß01. HalftrollMarauder HeavyArmor now cost 200 from 250.
+- ß01. HalftrollMarauder splash damage now deal 75% from 55% against Isengard Warg Riders.
+- ß01. HalftrollMarauder damage against battlewagons increased to 85% from 75%.
+- ß01. HalftrollMarauder banner carrier hp increased to 360 from 240. (Originally 120)
+- ß01. HalftrollMarauder unupgraded/upgraded armor against pikes noww 120%/60% from 130%/65%. (Originally 175%/130%)
+- ß07. //RemovedThis// - ß05. HalftrollMarauder preattackdelay reduced to 500ms from 600ms. Animation randomly speeded up between 1x and 1.5x.
+- ß07. HalftrollMarauder horde: attack ranks to release 2 from 1. (retarded shit)
+- ß10. HalftrollMarauder Horde: Shroud reveal set to 400 from 300.
+- ß10. HalftrollMarauder splash damage against Cavalry now also includes GoblinSpiderlings!
+#### Units. Cavalry:
+- ß07. SpiderRider armor damage taken by SIEGE set to 50% from 30%.
+- ß10. SpiderRider Horde: Shroud reveal set to 400 from 275.
+- ß16. SpiderRider experience required to level up to 3 increased to 180 from 145. (matching good cav)
+- ß16. SpiderRider experience required to level up to 5 increased to 390 from 370. (matching good cav)
+- ß16. SpiderRider experience required to level up to 10 increased to 770 from 700. (matching good cav)
+#### Units. Spiderling:
+- ß10. GoblinSpiderling damage against GoblinMineShaft increased to 60% from 50%.
+- ß12. //RemovedThis// - ß10. GoblinSpiderling damage against Mallorn increased to 80% from 75%.
+
+#### Units. Monsters:
+- ß09. GoblinFireDrake locomotor reworked with the intention to make it more organic looking and also fixing drake getting stuck to 0% speed when decelerated.
+- ß01. GoblinFireDrake flame attack radius damage increased to 30 from 20.
+- ß02. GoblinFireDrake inferno damage no longer radiates from the drake, but the target area.
+- ß02. GoblinFireDrake inferno flame (radius, arc) set to (75, 180º) from (110, 90º). (Originally (150, 90))
+- ß02. GoblinFireDrake inferno logicalfire (radius, arc) set to (50, 180º) from (110, 90).
+- ß01. GoblinFireDrake inferno set a damagetaperoff of 67%.
+- ß01. CaveTroll shoulder damage against dwarven mine reduced to 95% from 107%.
+- ß01. CaveTroll shoulder damage against gondor farm increased to 80% from 67%.
+- ß02. CaveTroll damage is no longer "radial". Now it always hits something with full damage (similar to witwchking or heroes with splash damage)
+- ß04. CaveTroll punch (radius and arc) set to (20, 135º) from (50, 40º) respectively. //played with (20, 180º) since beta2
+- ß04. CaveTroll clubswing (radius and arc) set to (35, 135º) from (60, 80º) respectively.  //played with (35, 180º) since beta2
+- ß02. CaveTroll autoheal basic/advanced set to 22/35 from 27/40.
+- ß04. CaveTroll health gains are now multiplicative: set to +5% per level, total health at lvl10 is are now 3104 from 2975.
+- ß07. CaveTroll goblin throw damage bonus against towers (+300%) now also includes SummonedBarricade and SummonedLoneTowers.
+- ß11. CaveTroll goblin throw reload time reduced to 21 seconds from 30 seconds.
+- ß01. MountainGiant armor now takes 35% CRUSH damage from 25%. (dealt by watcher)
+
+### Goblins. Heroes:
+#### Heroes. Gorkil:
+- ß01. GoblinKing totem cast minimum range increased to 500 from 200.
+- ß01. GoblinKing totem size scaled to x1.5 to make it more visible.
+- ß01. GoblinKing health restored to 2200 from 2400.
+- ß13. GoblinKing experience required for levels 5 to 10 decreased. Total experience required for level 10 now 1550 from 1900. //played with reductions only between levels 7 and 10 since beta1
+- ß01. GoblinKing level 10 Call from the Deep now summons 2 fire drakes instead of 3.
+- ß01. GoblinKing PoisonedStinger reload time now 120 secs from 100.
+- ß01. GoblinKing PoisonedStinger start ability range incrased to 25 from 15.
+- ß01. GoblinKing PoisonedStinger paralyze duration reduced to 4500 from 5000 ms. //Slow down remains being 12 secs.
+- ß01. GoblinKing Scorpion now uses the ResilientHeroArmorMounted armor (used by MountedGandalf, MoS, DainPig, ThrandElk, etc)
+- ß09. GoblinKing Scorpion crush revenge damage taken now 88.8% from 77.7%. //played with 100% since beta01
+- ß01. GoblinKing Scorpion crush knockback reduced (he now crushes them like shelob, instead of trampling like a heavy charger horse)
+- ß03. GoblinKing Scorpion can now walk backward (like battlewagons).
+- ß03. GoblinKing shock standing time set to 2600ms from 3382 (the time he takes to wake up from the floor when knockbck)
+- ß09. GoblinKing Scorpion locomotor reworked with the intention to make it more organic looking. //removed the backward movement
+- ß14. GoblinKing stinger is now castable only on heroes and monsters (because it's annoying to waste it on infantry)
+- ß16. GoblinKing level 4 leadership now provides High Tier Hero leadership, from Armor Buff leadership. (KING LEADERSHIP!!!!!)
+- ß16. GoblinKing level 4 leadership range reduced to 225 from 290.
+
+#### Heroes. Shelob
+- ß03. Shelob hp restored to 4000 from 3750.
+- ß01. Shelob armor against heroes now takes 57% damage from 55%:
+- ß14. Shelob armor against pikes improved to 55% from 57%.
+- ß01. Shelob minimum speed for crushing set to 65% from 75%
+- ß04. //RemovedThis//- ß01. Shelob base damage increased to 300 from 270. //Consider she has a taperoff of 65%
+- ß01. Shelob PoisonedStinger start ability range increased to 25 from 15. //just like sharku man eater.
+- ß01. Shelob PoisonedStinger paralyze duration reduced to 5500 from 6000 ms. //Slow down remains being 15 secs.
+- ß01. Shelob PoisonedStinger reload time now 90 secs from 80.
+- ß03. Shelob locomotor: turntime reduced to 1500ms from 2000ms. Aceleration and braking softened to avoid glitchy turns.
+- ß09. Shelob locomotor locomotor reworked with the intention to make it more organic looking.
+- ß14. Shelob stinger is now castable only on heroes and monsters (because it's annoying to waste it on infantry)
+
+#### Heroes. Drogoth
+- ß06. Drogoth wingblast can now knockback 3k heroes again, from being removed at the end of 1.09v3.01. But now each blast has only 40% chances of knockback a heroe in the area.
+- ß06. Drogoth wingblast provides 50% armor while using it. (recommended to combine it with defensive stance for obvious reasons).
+- ß06. Drogoth wingblast weapon reworked. Each wing flap damage set to 40, with a taperoff of 40%. (Max dmg 40, min 16) from a max damage of 15 and a min of 5.
+- ß06. Drogoth wingblast radius now properly matches damage-shockwave and cast radial cursor.
+- ß06. Drogoth armor now takes 38% PIERCE from 40%.
+- ß06. Drogoth wingblast reload time increased to 135 seconds from 120. (Preparing for Drogoth lame soon...)
+- ß07. Drogoth wingblast start ability unpack time decreased to 1000ms from 2000ms.
+
+
+### Goblins. Structures: 
+- ß01. Goblin Mineshaft entry/exit points are now closer to the door. (faster evacuate/enter, less marging for idiot noobs to command and get them stuck themselves.)
+- ß01. Goblin Fissure health at lvl1/2/3 now 2000/3500/7500 from 1800/3500/7500
+
+### Goblins. Spellbook:
+- ß01. Summon spiders reload time increased to 250 seconds from 240.  (Originally 360)
+
+
+---
+
+
+## Global:
+### Global. LeadershipSystem:
+- ß16. Armor Buff (25% armor 25% experience) now provides 30% armor 30% experience. (Men Wood, Elven Wood, Men Statue)
+- ß16. Crebain/Bats health increased to 2000 from 1500.
+- ß16. Crebain/Bats armor now takes 150% HERO_RANGED from 200%.
+
+### Global. Other:
+- ß14. Commandpoints standarized to 1000 in any map size. 
+- ß15. Added a No Mirror option, which immediatly takes the players back to the lobby.
+- ß15. Added a Random Team option in the game menu.
+- ß15. LumberMills can no longer set rally points.
+- ß16. //Could not override it. Don't pick it, idiots//.- ß15. 2X mode no longer provides 2000 maximum commandpoints.
+- ß16. 1/3X mode no longer provides 330 maximum commandpoints.
+- ß16. 1/2X mode no longer provides 500 maximum commandpoints.
+- ß07. Signalfire heal respawn percent per second set to 0.35% from 1% (Originally 3%).
+
+### Global. Units:
+- ß12. Battering rams can now level up! Damage and health gains to +3% percent per level.
+- ß12. Artillery bombard buttons standarized to: abilities in the 2nd space, auto-acquire toggle in the 5th, bombard in the 6th.
+- ß05. Artillery and batering rams armor now take 55% SPECIALIST from 40%.
+- ß09. Artillery armor now take 60% CRUSH from 40%.
+- ß09. Artillery armor now take 125% SIEGE from 105%..
+
+### Global. Pathfinding:
+- ß10. Pathfinding: All farms extra geometry removed: now they are easier to place near rocks and other buildings. 
+- ß14. Pathfinding: ForceIdleMSEC: 33 from 67 frames. //rotwk idea. //frames in which a unit stops to "Look" for new targets. //played with 0 frames in beta09, it lead to spiderlings not being able to grab treasure chests
+- ß09. Pathfinding: HordesWaitForHordes: = No from True //rotwk Miraak idea // has the same effect than my Cylindrical geometries
+- ß09. Pathfinding: Removed this 1.09 v3.00 change: all hordes having cylindrical shape, instead of rectangular shape. (implied smoother pathfinding around enemy hordes, but broke formations with left+right click and some units became harder to chase than others. 
+- ß09. Pathfinding: Reverted 1.09 v3.01 cavalry geometry size increment: fixes cavs not being able to chase eachother or being chased by marauders halftrolls when slowed down. //Get ready to revert some goblin buffs here.
+- ß09. Pathfinding: Hordes of 20 units (orcs, goblins) has now been slightly reshaped in order to be chaseable by any other swordmen in the game.
+- ß10. Pathfinding: NormalHorseHordeMemberLocomotor aceleration/braking set to 1500/1000 from 800/1500. Fixes units like Blackrider not being able to chase units in movement, yet also affects individual horde members aswell.
+- ß10. Pathfinding: Reviewered the shroud reveal range of every horde on the game: enforced this rule: all archers shroud reveal is +150 range than their actual attack weapon. Cavalry is 400. And swordmen are 300-400.
+- ß05. Batering rams armor now take 105% SIEGE from 60%.
+
+### Global. Monsters:
+- ß02. All troll creatures attack damage no longer radiate from them, now begins in the attacked area directly. Affects MountainTrolls, CaveTrolls, AttackTrolls, DrummerTrolls.
+
+### Global. Spellbook:
+- ß01. Earthquake damage in general increased in the outer area, and increased particulary more against fortress.
+- ß01. Earthquake damage against machinse increased to 35% from 10%.
+- ß12. Earthquake shroud reveal area increased to 300 from 200.
+- ß01. Hobbit heroes(Frodo Sam Merry Pippin) health reduced to 600 from 650.
+- ß01. MordorBalrog damage against fortress increased to 10% from 9%.
+- ß01. Wildmen damage against farms reduced to 100% from 110%.
+- ß09. SummonedDragon locomotor locomotor reworked with the intention to make it more organic looking.
+- ß01. Wyrm can now use the attack move command.
+- ß06. Wyrm summoning knockback radius reduced to 50 from 65. 
+- ß06. TomBombadil punch now deals 200% against artillery machines, from 150%. Originally 100%, consider he deals MAGIC and CRUSH dmg.
+- ß06. TomBombadil punch now deals 275% against BattleWagons, from 220%. Originally 100%, consider he deals MAGIC and CRUSH dmg.
+- ß16. TomBombadil leadership set to Damage Buff from Armor Buff.
+- ß16. TomBombadil health reduced to 5500 from 6000.
+- ß13. TaintLand radius increased to 260 from 250 (matching ElvenWood). Shroud Reveal radius now properly matches the actual size (260 from 175).
+- ß16. TaintLand leadership set to Armor Buff, from Armor Leadership. (Means it cant be canceled by basic debuff)
+
+### Global. Maps:
+- ß14. Umbar: Fixed the zoomo at noones request. lol
+- ß14. IronVale Tunnels: conditioned the tunnels to Ring Heroes. Flatenned the middle.
+- ß09. Stackhorn Plateua: gud map now. playable :)
+- ß14. Mering Stream II: removed untainteable areas (means you can now cast elven fucking wood anywhere)
+- ß11. Added AndyBrandy's "Near Harad" 1vs1 map.
+- ß11. Updated AndyBrandy's "Ephel Duath" 1vs1 map.
+- ß12. Updated AndyBrandy's "Near Harad" 1vs1 map: removed signalfires and set creeps to 2 goblins 2 wargs 2 haradrim.
+- ß12. Removed "Lune" map by SilverBane.
+- ß12. Removed "Old Forest" map from RotWk.
+- ß12. Removed "Pelennor Fields" map from RotWk.
+- ß12. Added "Pelennor Fields II" map from RotWk, slightly reworked to match bfme2 expectatives.
+- ß12. Added "River Nimrodel" map from AndyBrandy.
+
+### Global. Scaling System:
+- **Scaling System**  
+For reference, here’s the comparison between patches:  
+[📊 View Spreadsheet](https://docs.google.com/spreadsheets/d/1yEYCYTaNzw8azL3yr7UMgazvvkVFbWgeROXqI8lKJj4/edit?gid=1624461350#gid=1624461350)
+
+
+---
+
+
+## Log notes:
+### Common terms:
+- Crush Revenge = damage received while trampling (especially from pikes).
+- Flanked Penalty = armor reduction when attacked from the side or rear.
+- Cooldown = reload time before an attack or ability can be used again.
+- OneHit = instantly kills the target.
+- "From" = compared to the previous released version.
+- "Originally" or "Restored" = refers to BFME2 1.06 or the version where the feature first existed.
+### Damage types:
+The game uses several damage categories. The most common are:
+- SLASH = swords and standard melee attacks.
+- PIERCE = arrows and ranged weapons.
+- SPECIALIST = pikes and anti-cavalry attacks.
+- CAVALRY = cavalry melee attacks.
+- CRUSH = trample damage.
+- SIEGE = siege weapons, trolls, and heavy attackers.
+- HERO_RANGED = hero bow attacks.
+- MAGIC = spells and magical abilities.
+- FLAME = fire-based damage.
+Other damage types may appear in changelogs but are less common.
+- Experience Requirements = experience needed to reach a level.
+- Experience Awards = experience granted when the unit is killed.
+- Experience Level Changes = any modification to leveling, rewards, or bonuses gained from levels.
+### Damage or health points growth:
+Some changelogs refer to level-up damage or health scaling:
+- X2 = roughly +2% increment per level.
+- X5 = roughly +5% increment per level.
+- X10 = roughly +10% increment per level.
+Higher values mean the unit benefits more from leveling up.
+### Numbers and notation:
+- X% / Y% = values without upgrades / with upgrades.
+- D1 / D2 in R1 / R2 = area damage. Targets closer to the center take more damage.
+- DamageTaperOff = how much damage is retained at longer distances. Higher values mean less damage loss.
