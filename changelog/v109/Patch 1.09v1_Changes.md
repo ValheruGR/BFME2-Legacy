@@ -141,41 +141,30 @@
 
 ## Faction. Men:
 
-### Men. General
-- Fixed kind of definition of Rohirrim Archers.
+### Men. Units
 - Fixed Men Infantry Banner carriers NOT respawning dead units every 7s, from 10
-- Men fortress changing of damaged model now is fixed. (corrected)
-- Fixed lifetime bug with summoned rangers. (revived rangers having longer lifetime)
-### Men. lone tower
-- Men Lone Tower health now 3000 from 2500. Armor reverted to normal structure armor. (More damage took from SLASH, hero, cavarly, MAGIC & FLAME)
-- Men lone tower now respawns one 1 unit per horde each 10 seconds. Radius set to 150. (If house of healing are purchased)
-- Men lone tower leadership range now 150 from 250.
-- Men Lone tower shroud reveal radius now 780 from 960.
-### Men. house of healing
-- Houses of Healing now heals all nearby units simultaneously, from one.
-- Houses of Healing respawn units range 250 from 200.
-- Houses of Healing heal range 250 from 300.
-- Houses of Healing respawn rate now 6.5 seconds from 5.
-- House of Healing Revive Timer bonus from 20% to 15%
-### Men. walls
-- Men Outer Wallhubs not displaying the radius of wall expansion fixed.
-- Men Outer WallHubs now are 15% bigger. (because they act as a mini-fortress to allow the expansion of the walls)
-- Men Outer WallHubs health now 3000 from 1500.
-- Men Outer WallHubs expand walls radius now 600 (from 500).
-- Men Fortress WallHubs expand radius now 1500 (from 500)
-### Men. fortress
-- Men Fortress Fire Boiling Oil button removed from radial commands set. Palantir button moved, from the 5th spot to the 2nd spot.
-- Men Fortress Boiling Oil upgrade cost now 1350 from 1500.
-- Men Fortress Boiling Oil reload time now 60 seconds from 120 seconds.
-- Men Fortress Flaming Munitions upgrade no longer requires Numenor Stonework as a prerequisite
-- Men Fortress expansion Tower health 1300 from 1000
-- Men Fortress Trebuchet expansion health 2000 from 1500.
-- Men Fortress Trebuchet expansion build cost 750 from 1200.
-- Men Fortress Ivory Tower upgrade now requires the numenor stone work upgrade.
-- Men Fortress Ivory Tower upgrade cost 1200 from 1500. Originally 1200.
-- Men Fortress Use Ivory Tower cooldown 240 secs from 315. Originally 150.
-- Men Fortress Use Ivory Tower now properly grants a speed bonus. (10% speed from 15%) Affects own's player heros, infantry and cavalry, from orcs, uruks and cavalry. Now affects the actual units in the whole map during 30 seconds. From "35 rechargables seconds" near the own fortress. (Works just like Farisght/Palantir). Bonus display a special leadership nugget.
-### Men. structures & upgrades
+- Gondor Knight health gains for levels 6 to 10 now 10 10 10 10 10 from 20 20 20 20 20.
+- Gondor Archer deals 90% to Gondor Soldier.
+- Gondor Archer pierce armor now 80%/40% (from 80%/50%)
+- Gondor Archer experience required for levels 2 to 10 now 35 35 35 50 50 50 50 50 100 from 20 20 40 40 180 50 50 50 50. (Previuos than this; 40 40 40 40 and originally 50 50 50 50.)
+- Gondor Tower Guard uruk armor now 150%/65% from 125%/65%.
+- Gondor Tower Guard pike now deals 110% against cavalry from 100%. //LogNote:Consider they should hypotetically be the best pike of the game due it's slowest speed, they have also got the slowest pike damage ironically. If it wasn't cause of it's super-anti-Crush-Revenge weapons, they would be literally the worst anti-cavalry unit of the game.)
+- Gondor Tower Guard Crush-Revenge damage reduced. 380 from 400.
+- Gondor Tower Guard now earns +10% speed at level 5. 
+- Gondor Rangers longshot ability cooldown now 3 minutes from 4.
+#### Units. Rohirrims
+- Fixed kind of definition of Rohirrim Archers.
+- Rohirrim experience required for levels 6 to 10 now 85 85 85 85 115 from 100 100 100 100 100.
+- Rohirrim bow damage in horde now 290/250 from 260/250. (Unupgraded/Fire respectively) (Originally 200/200) //LogNote: Damage is explayed in horde to be compared with Spider Riders 
+- Rohirrim forged blades deal 133% against fortress. (From 100%. Originally 200%.)
+- Rohan banner health 150 from 100. (affect peasants from inn)
+- Fixed rohan banner being crushable by simple cavalry.
+- Rohirrim Crush armor now 50/30 from 50/36
+- Rohirrim FLAME armor now 140/93 from 140/120
+- Rohirrim MAGIC armor now 100/75 from 100/90
+- Rohirrim Structural armor now 150/75 from 150/60
+
+### Men. Structures
 - Men statue build time 20 from 25.
 - Gondor Archery Range level 2 upgrade cost 450 from 500. //LogNote:dwarf is 500
 - Gondor Archery Range level 2 upgrade build time 25 secs from 30. //LogNote:dwarf is 20
@@ -187,30 +176,49 @@
 - Blacksmith level 3 upgrade build time from 60 to 45s.
 - Men Sentry Tower health now 1600 from 2200.
 - Men Farms now take 64% CAVALRY damage, from 75%.
-### Men. Units
-- Gondor Knight health gains for levels 6 to 10 now 10 10 10 10 10 from 20 20 20 20 20.
-- Gondor Archer deals 90% to Gondor Soldier.
-- Gondor Archer pierce armor now 80%/40% (from 80%/50%)
-- Gondor Archer experience required for levels 2 to 10 now 35 35 35 50 50 50 50 50 100 from 20 20 40 40 180 50 50 50 50. (Previuos than this; 40 40 40 40 and originally 50 50 50 50.)
-- Gondor Tower Guard uruk armor now 150%/65% from 125%/65%.
-- Gondor Tower Guard pike now deals 110% against cavalry from 100%. //LogNote:Consider they should hypotetically be the best pike of the game due it's slowest speed, they have also got the slowest pike damage ironically. If it wasn't cause of it's super-anti-Crush-Revenge weapons, they would be literally the worst anti-cavalry unit of the game.)
-- Gondor Tower Guard Crush-Revenge damage reduced. 380 from 400.
-- Gondor Tower Guard now earns +10% speed at level 5. 
-- Gondor Rangers longshot ability cooldown now 3 minutes from 4.
-### Men. Rohirrims
-- Rohirrim experience required for levels 6 to 10 now 85 85 85 85 115 from 100 100 100 100 100.
-- Rohirrim bow damage in horde now 290/250 from 260/250. (Unupgraded/Fire respectively) (Originally 200/200) //LogNote: Damage is explayed in horde to be compared with Spider Riders 
-- Rohirrim forged blades deal 133% against fortress. (From 100%. Originally 200%.)
-- Rohan banner health 150 from 100. (affect peasants from inn)
-- Fixed rohan banner being crushable by simple cavalry.
-- Rohirrim Crush armor now 50/30 from 50/36
-- Rohirrim FLAME armor now 140/93 from 140/120
-- Rohirrim MAGIC armor now 100/75 from 100/90
-- Rohirrim Structural armor now 150/75 from 150/60
-### Men. oathbreakers
+#### Structures. walls
+- Men Outer Wallhubs not displaying the radius of wall expansion fixed.
+- Men Outer WallHubs now are 15% bigger. (because they act as a mini-fortress to allow the expansion of the walls)
+- Men Outer WallHubs health now 3000 from 1500.
+- Men Outer WallHubs expand walls radius now 600 (from 500).
+- Men Fortress WallHubs expand radius now 1500 (from 500)
+#### Structures. fortress
+- Men fortress changing of damaged model now is fixed. (corrected)
+- Men Fortress Fire Boiling Oil button removed from radial commands set. Palantir button moved, from the 5th spot to the 2nd spot.
+- Men Fortress Boiling Oil upgrade cost now 1350 from 1500.
+- Men Fortress Boiling Oil reload time now 60 seconds from 120 seconds.
+- Men Fortress Flaming Munitions upgrade no longer requires Numenor Stonework as a prerequisite
+- Men Fortress expansion Tower health 1300 from 1000
+- Men Fortress Trebuchet expansion health 2000 from 1500.
+- Men Fortress Trebuchet expansion build cost 750 from 1200.
+- Men Fortress Ivory Tower upgrade now requires the numenor stone work upgrade.
+- Men Fortress Ivory Tower upgrade cost 1200 from 1500. Originally 1200.
+- Men Fortress Use Ivory Tower cooldown 240 secs from 315. Originally 150.
+- Men Fortress Use Ivory Tower now properly grants a speed bonus. (10% speed from 15%) Affects own's player heros, infantry and cavalry, from orcs, uruks and cavalry. Now affects the actual units in the whole map during 30 seconds. From "35 rechargables seconds" near the own fortress. (Works just like Farisght/Palantir). Bonus display a special leadership nugget.
+##### Fortress. House Of Healing
+- Houses of Healing now heals all nearby units simultaneously, from one.
+- Houses of Healing respawn units range 250 from 200.
+- Houses of Healing heal range 250 from 300.
+- Houses of Healing respawn rate now 6.5 seconds from 5.
+- House of Healing Revive Timer bonus from 20% to 15%
+
+
+### Men. Spellbook
+#### Spellbook. oathbreakers
 - OathBreaker from spellbook lifetime restored to 45 seconds from 50. 
 - OathBreakers MAGIC damage now deal 66% to Balrog, from 100%.
-### Men. eowyn
+- Fixed lifetime bug with summoned rangers. (revived rangers having longer lifetime)
+#### Spellbook. Lone Tower
+- Men Lone Tower health now 3000 from 2500. Armor reverted to normal structure armor. (More damage took from SLASH, hero, cavarly, MAGIC & FLAME)
+- Men lone tower now respawns one 1 unit per horde each 10 seconds. Radius set to 150. (If house of healing are purchased)
+- Men lone tower leadership range now 150 from 250.
+- Men Lone tower shroud reveal radius now 780 from 960.
+
+
+
+
+### Men. Heroes.
+#### Heroes. Eowyn
 - Eowyn experience required for levels 4 & 5 reduced.
 - Eowyn spear reverted to original weapon (Fast but low damage). 
 - Eowyn spear now gain a bonus of +20% against heros and monsters.
@@ -225,12 +233,12 @@
 - Eowyn Smite thrown bonus against evil heros now properly includes dismounted WitchKing.
 - Eowyn Smite thrown now deals 85% against Mumakil. //LogNote: Since Eomer is having a bonus now.
 - Eowyn Smite thrown now deals 435% from 350% to Witchking and Fellbeast
-### Men. boromir
+#### Heroes. boromir
 - Boromir leadership now grants 25% experience. Range 275 from 200.
 - Boromir horn of gondor cooldown from 90s to 100s.
 - Boromir Captain of Gondor now grants 100 experience, from 50.
 - Boromir Captain of Gondor cooldown from 180s to 150s.
-### Men. faramir
+#### Heroes. faramir
 - Faramir leadership range now 300 from 350. Originally 200.
 - Faramir Captain of Gondor now grants 100 experience, from 50.
 - Faramir Captain of Gondor cooldown from 180s to 150s.
@@ -240,13 +248,13 @@
 - Faramir wound arrow knoback strengh reduced. (means units like cavetrolls can resist it)
 - Faramir wound arrow now deals 240% to Fellbeast and 220% to Witchking, from 300%
 - Faramir wound arrow now deals 125% to Drogoth.
-### Men. theoden
+#### Heroes. theoden
 - Theoden experience required to levels 7, 8, 9, 10 reduced. 200/250/250/250/250 from 300/300/380/240/240. 
 - Theoden King's Favor ability now grants 75 experience, from 50.
 - Theoden King's Favor ability cooldown from 180s to 120.
 - Theoden health 2800 from 3000.
 - Theoden glorious charge now grants a damage bonus of +25% from nothing(originally +100%)
-### Men. aragorn
+#### Heroes. aragorn
 - Aragorn Blademaster sword radius 15 radius from 14/10.
 - Aragorn no longer shares his experience with Gandalf anymore.
 - Aragorn normal sword radius 6 from 12. /corrected.
@@ -254,7 +262,7 @@
 - Aragorn leadership range 275 from 200.
 - Aragorn damage on structures from 250 incrementable & 62.5 incrementable to only 312.5 incrementable. Fixes Aragorn gaining double damage against structures. (raping a fortress on level but lossing in level 2). 
 - Aragorn Elendil autoability will now apply if at least 15 enemies are found in a small radius
-### Men. gandalf
+#### Heroes. gandalf
 - Gandalf no longer shares his experience with Aragorn anymore.
 - Gandalf respawn timers actualised to its build time. (65 from 55) 
 - Gandalf buildtime 65 from 70. (just because im suiting his revival timmers, 70 too longo. but 45 for revival is retarded)
@@ -694,58 +702,10 @@
 
 
 ## Factions. Isengard
-### Isengard. General
-- Fixed Isengard infantry Banner carriers NOT respawning dead units every 7s, from 10s.
-- Fixed isengard ballista having no animations when attacking.
-- Fixed sharku gaining double damage per rank.
-- Fixed crossbowmen bombard trajectory and weapon. 
-- Fixed Devastation stunning dragon strike.
-- Fixed sharku man-eater bonus category (now elf mist could not cancel its bonus)
-- Fixed Warg Howl not stacking with dain mighty rage.
+### Isengard. Units:
+#### Units. Infantry:
 - Fixed uruk hai heavy armor taking more flanked damage than standard armor.
-- Fixed palantir affecting flyers.
-- Now Isengard player can not mount converted Witch king. So we avoid the bug of wk converted to isengard permanently.
-### Isengard. siege
-- Ballista build time now 27 from 20.
-- Ballista now has a minimum cast range of 80(can't shoot in melee)
-- Battering ram health 1750 from 1500. Originally 2000.
-- Battering Ram damage restored to 1000 from 750. Damage on fortress 75%.
-- Isengard Explosive mine now takes down a fortress only IF it's inside a 25 radius, from 125. Otherway, the fortress will remain with a black health bar. (around 2% of health)
-### Isengard. walls
-- Isengard Outer Wallhubs not displaying the radius of wall expansion fixed.
-- Isengard Outer WallHubs now are 15% bigger. (because they act as a mini-fortress to allow the expansion of the walls)
-- Isengard Outer WallHubs health now 3000 from 1500.
-- Isengard Outer WallHubs expand walls radius now 600 (from 400).
-- Isengard Fortress WallHubs expand radius now 1500 (from 400)
-### Isengard. structures
-- Isengard Siege Works level 2 upgrade time 25 secs from 30.
-- Isengard Armory level 3 upgrade build time 25 secs from 30.
-- Isengard Armory level 3 upgrade build cost 400 secs from 600.
-- Isengard Furnace ranking to lvl2 gains a 12% armor bonus against SWORDS and SIEGE. 
-- Isengard Uruk Pit level 2 upgrade now cost 450 from 500. //LogNote:This way upgrade is more considerable than begin a Warg Pit.
-- Isengard Warg Sentry now display a radial shadow decal in the placement cursor that indicates the guard range of the wargs.
-- Isengard Warg Sentries leash range reduced. 500 from 600. (Radius where they crush but not atack. Radius where they attack is 450).
-- Isengard Warg Sentry buildtime 50 from 55.
-- Isengard Warg Sentry armor from Structure armor to Unit Production armor. (means it's counter is CAVALRY and SPECIALIST)
-- Isengard Warg Sentry wargs are not affected by leadership anymore.
-### Isengard. fortress
-- Isengard Fortress ballista expansion health 2000 from 1000
-- Isengard Fortress ballista expansion now costs 750 from 1200.
-- Isengard Fortress Burning Forges upgrade discounts now -10%/-20%/-30%/-40%/-50% from -10%/-20%/-25%/-30%/-35%.
-- Isengard Fortress Excavations respawn units range 250 from 200.
-- Isengard Fortress Excavations cost discount on structures re-added. Discount bonus now -7.5%/-15%/-20%/-25%/-33%. (Originally -10%/-20%/-25%/-30%/-35%)
-- Isengard Fortress Excavations can now heal builders and heros. No longer heals warg sentries.
-- Isengard Fortress Excavations heal range 250 from 300.
-- Isengard Fortress Excavations respawn rate now 10 seconds from 8.
-- Isengard Fortress Wizard Tower Build cost 1200 from 1000.
-- Isengard Fortress Wizard Tower lightening strike now deals significantly more damage to Flyers.
-- Isengard Fortress Mine launcher range 250 from 300
-- Isengard Fortress Mine launcher build cost 750 from 1500.
-- Isengard Fortress Mine launcher damage now 200 from 300.
-- Isengard Fortress Mine launcher buildtime 25 from 30.
-- Isengard Fortress Mine launcher bombs target point have been pushed forward a bit. +50 actually.
-- Isengard Fortress Mine launcher doesnt knock back heros anymore. Resistance 100%
-### Isengard. infantry
+- Fixed Isengard infantry Banner carriers NOT respawning dead units every 7s, from 10s.
 - Berserker SLASH armor now 85%, from 100%.
 - Berserker PIERCE armor now 75% , from 100%.
 - Berserker POISON armor now 15% , from 100%.
@@ -762,13 +722,59 @@
 - Crossbowmen PIERCE armor now 77%/38.5% from 77%/40%.
 - Crossbowmen POISON armor now 30%/15% from 30%/25%.
 - Crossbowmen now deal 125% to eagles, from 115%.
+- Fixed crossbowmen bombard trajectory and weapon. 
 - Crossbowmen now deal 115% to drogoth, from 100%.
 - Crossbowmen now deal 125% to mounted wk, from 100%.
-### Isengard. warg riders
+#### Units. Cavalry
+- Fixed Warg Howl not stacking with dain mighty rage.
+- Fixed isengard ballista having no animations when attacking.
 - Warg rider experience required for levels 5 to 10 now 120 50 50 50 50 80 from 100 0 50 50 50 50.
 - Warg rider Howl reducing itself armor now affect the following damage types: SPECIALIST and STRUCTURAL, from every kind of damage type.
 - Warg rider Howl bonus damage now 165%, from 170%.
-### Isengard. saruman
+#### Units. Machines:
+- Ballista build time now 27 from 20.
+- Ballista now has a minimum cast range of 80(can't shoot in melee)
+- BatteringRam health 1750 from 1500. Originally 2000.
+- BatteringRam damage restored to 1000 from 750. Damage on fortress 75%.
+- Isengard Explosive mine now takes down a fortress only IF it's inside a 25 radius, from 125. Otherway, the fortress will remain with a black health bar. (around 2% of health)
+
+### Isengard. Structures
+- Isengard Siege Works level 2 upgrade time 25 secs from 30.
+- Isengard Armory level 3 upgrade build time 25 secs from 30.
+- Isengard Armory level 3 upgrade build cost 400 secs from 600.
+- Isengard Furnace ranking to lvl2 gains a 12% armor bonus against SWORDS and SIEGE. 
+- Isengard Uruk Pit level 2 upgrade now cost 450 from 500. //LogNote:This way upgrade is more considerable than begin a Warg Pit.
+- Isengard Warg Sentry now display a radial shadow decal in the placement cursor that indicates the guard range of the wargs.
+- Isengard Warg Sentries leash range reduced. 500 from 600. (Radius where they crush but not atack. Radius where they attack is 450).
+- Isengard Warg Sentry buildtime 50 from 55.
+- Isengard Warg Sentry armor from Structure armor to Unit Production armor. (means it's counter is CAVALRY and SPECIALIST)
+- Isengard Warg Sentry wargs are not affected by leadership anymore.
+#### Structures. Walls
+- Isengard Outer Wallhubs not displaying the radius of wall expansion fixed.
+- Isengard Outer WallHubs now are 15% bigger. (because they act as a mini-fortress to allow the expansion of the walls)
+- Isengard Outer WallHubs health now 3000 from 1500.
+- Isengard Outer WallHubs expand walls radius now 600 (from 400).
+- Isengard Fortress WallHubs expand radius now 1500 (from 400)
+#### Structures. Fortress
+- Isengard Fortress ballista expansion health 2000 from 1000
+- Isengard Fortress ballista expansion now costs 750 from 1200.
+- Isengard Fortress Burning Forges upgrade discounts now -10%/-20%/-30%/-40%/-50% from -10%/-20%/-25%/-30%/-35%.
+- Isengard Fortress Excavations respawn units range 250 from 200.
+- Isengard Fortress Excavations cost discount on structures re-added. Discount bonus now -7.5%/-15%/-20%/-25%/-33%. (Originally -10%/-20%/-25%/-30%/-35%)
+- Isengard Fortress Excavations can now heal builders and heros. No longer heals warg sentries.
+- Isengard Fortress Excavations heal range 250 from 300.
+- Isengard Fortress Excavations respawn rate now 10 seconds from 8.
+- Isengard Fortress Wizard Tower Build cost 1200 from 1000.
+- Isengard Fortress Wizard Tower lightening strike now deals significantly more damage to Flyers.
+- Isengard Fortress Mine launcher range 250 from 300
+- Isengard Fortress Mine launcher build cost 750 from 1500.
+- Isengard Fortress Mine launcher damage now 200 from 300.
+- Isengard Fortress Mine launcher buildtime 25 from 30.
+- Isengard Fortress Mine launcher bombs target point have been pushed forward a bit. +50 actually.
+- Isengard Fortress Mine launcher doesnt knock back heros anymore. Resistance 100%
+
+### Isengard. Heroes
+#### Heroes. Saruman
 - Saruman experience required for levels 8 / 9 / 10 increased slightly. (Still lesser than 1.06) //LogNote:due WoP
 - Saruman Fireball damage against Fellbeast/WitchKing now 90%/50% from 75%/75%.
 - Saruman Wizard Blast damage restored to 500 from 650.
@@ -781,7 +787,7 @@
 - Saruman ThunderBolt is now a Word of Power. 
 - Saruman Word of Power cooldown set to 300s. (Vanilla Gandalf was 360s with 25% recharge bonus). 
 - Saruman Word of Power Damage/Radius set to 500/250 respectively. (Vanilla Gandalf's WoP values, currently Gandalf is around 1000/400)
-### Isengard. lurtz 
+#### Heroes. Lurtz 
 - Lurtz cripple strike stun duration 20 secs from 30.
 - Lurtz cripple cooldown now 100 seconds from 60.
 - Lurtz cripple strike range increased to 400 from 350. (Note, when the cripple arrow is casted on a hero, lurtz STILL does need to approach within a distance of 320, and the cripple arrow will be shoot only if the hero does not walk out of the attack range area, which now is 400. This means lurtz have less chances to miss the target and "start-cooldown")
@@ -789,12 +795,15 @@
 Does not stun.. Now AI will use lurtz cripple on flyers.
 - Lurtz leadership now grants +25% experience. 
 - Lurtz radius of leadership 275 from 200
-### Isengard. sharku
+#### Heroes. Sharku
+- Fixed sharku man-eater bonus category (now elf mist could not cancel its bonus)
+- Fixed sharku gaining double damage per rank.
 - Sharku respawn timers actualised to his buildtime (45 secs from 50).
 - Sharku splash damage now 135 from 170 and can not be increased by ranking up. Base damage stays 270.
 - Sharku health 2400 from 2000. Sharku armor set as Mouth of Sauron one. (consider MoS health is 2800)   
 - Sharku can no longer eat Builders. (in order to avoid the bug)
-### Isengard. wormtongue
+#### Heroes. Wormtongue
+- Now Isengard player can not mount converted Witch king. So we avoid the bug of wk converted to isengard permanently.
 - Wormtongue experience required for levels 8 9 reduced, and increased for level 10 proportionally. Does not mean he is nerfed. He needs to kill the same amount to reach to 10.
 - Wormtongue debuff now stacks with generic debufff. //LogNote:Grima debuff never reduced armor/damage. Just speed and reload rate from few archers.
 - Wormtongue speed debuff duration 25 secs from 30.
@@ -802,7 +811,9 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 - Wormtongue can now convert dismounted Witchking. (restored but bug is no longer possible)
 - Wormtongue corrode allegiance can not be casted on flyers (even if it wouldn't work by orthodox ways, there are known manners to glitch it)
 - Wormtongue Corrode allegiance reload time now 240 seconds from 180.
-### Isengard. spellbook
+
+### Isengard. Spellbook
+- Fixed palantir affecting flyers.
 - Suited the way of how units are affected by Palantir. 
 - Now affects ONLY the casted units, ONLY once, on an area of 150 from 120. (From; affecting units on an area of 120 and "recharging" other units that walk through a 200 radius area.)
 - Palantir speed bonus now affects MINES.
@@ -811,6 +822,7 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 - Fuel the Fires now also grants 15% armor to the player Lumber Mills. (not allies)
 - Devastation damage to ents 2400 from 800.
 - Devastation paralyze duration now 5000 milliseconds from 5500
+- Fixed Devastation stunning dragon strike.
 - Dragon Strike cooldown from 720s to 670s
 - Dragon Strike can now hit flyers.
 - Dragon Strike FX improved
@@ -826,18 +838,35 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 
 
 ## Factions. Mordor:
-### Mordor. General
-- Fixed Mouth Of Sauron Doubt debuffing balrogs dragons and wyrms.
-- Fixed mordor catapult not being able to use human heads. Note, the bombard icon will now bombard its default weapons. The long-range one will work against Ships, as originally intended by EA. With the difference it attacks ships automatically.
-- Fixed Witch King Mounted armor being 3.75% tougher unintentionally.
-- Fixed Barrow Wight glitch. (delay between shots now 0.6 seconds from 0.3 seconds.)
-- Haradrim lancer description and tooltip actualized to their actual function (like axe throwers)
-- Blackrider dismounted glitch fix: sword preattackdelay now 500ms from 100ms.
-- Fixed mordor gate watcher applying debuff when it is not fully built.
-- Fixed Mordor flyers having no attack sound 60% of the times against units. Now they use original sounds as base when attacking and there's a 40% chance new sounds play. 
-- Fixed Mordor Fortress Catapult not having received the +17% range addition. (Leading to all artillery having more range than a structural catapult)
 
-### Mordor. Hordes
+
+### Mordor. Units
+- Fixed mordor catapult not being able to use human heads. Note, the bombard icon will now bombard its default weapons. The long-range one will work against Ships, as originally intended by EA. With the difference it attacks ships automatically.
+#### Units. Haradrim Archers
+- Fixed Haradrim Archer health increased unintentionally. Restored to 250 from 300. 
+- Mordor Haradrim Archer PIERCE armor now 80%/40% from 95%/50%.
+- Mordor Haradrim Palace have a structural (no fire) weapon on level 3. (Originally a structural weapon at level 2, and fire weapon at level 3)
+- Mordor Haradrim Archer can now stealth near trees
+- Mordor Haradrim Archer weapon contesting buildings removed.
+- Mordor Haradrim Archer now deals +20% damage against any monster, including flyers.
+- Mordor Barbed Arrows can now be set on auto-ability mode.
+- Mordor Barbed Arrows no longer require an upgrade
+- Mordor Barbed Arrows automatically becomes available at Haradrim Archer Level 3
+- Mordor Barbed Arrows now deal splash in radius 5
+- Mordor Barbed Arrows now deal 100% to Heroes and Monsters, from 30%
+- Mordor Barbed Arrows cooldown now 90s, from 60s
+#### Units. HaradrimLancer
+- Haradrim lancer description and tooltip actualized to their actual function (like axe throwers)
+- Haradrim Lancer is not included in Mordor Horde Bonus anymore.
+- Haradrim Lancer cost 280 from 250.
+- Haradrim Lancer damage 44. (from 54).
+- Haradrim Lancer now deals 135% against Cave Troll.
+- Haradrim Lancer health now 280 from 300.
+- Haradrim Lancer damage scalars to structures now are 50% to Fortresses and Fortress Expansions. 80% against the rest of the structures. (from 60% against all kind of building)
+- Haradrim Lancer pre attack delay 1400 from 950. (fixes animation when throwing lance)
+- Haradrim Lancer weapon in melee  delay between shots 1000ms from 2000ms.
+- Haradrim Lancer now takes 60% PIERCE, from 50.
+- Haradrim Lancer can now attack flyers. They deal 60% against them.
 - Mordor orc experience required now 30 30 30 50 30 30 30 30 50 from 20 20 40 40 20 20 20 20 40.
 - Mordor Orc Fighter now deal 170% against general structures but Fortress. (From 165%)
 - Mordor Orc Fighter now deal 155% against isengard structures. (From 165%)
@@ -855,26 +884,7 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 - Mordor Horde bonus radius 205 from 255. Originally 160.
 - Corsair with Forged Blades now suffer a 17.5% penalty to Cavalry and Buildings
 - Corsair now deal 75% to all against builders.
-### Mordor. fellbeast
-- Fellbeast no longer shares his experience with other Fellbeasts and mounted Witch King.
-- Fellbeast revive timer actualised to it's buildtime. (90 from 115)
-- Fellbeast attack radius restored to 30 from 45.
-- Fellbeast buildtime 90 from 80.
-- Fellbeast now takes 180% FLAME from 160%.
-- Fellbeast now takes 180% MAGIC from 160%.
-- Fellbeast now takes 0% SPECIALIST from 100%.
-- Fellbeast plow weapon radius restored to 40 (from 45).//LogNote:It was never supposed to be changed.
-### Mordor. Witchking On Fellbeast
-- Witch King claw atack now deal 65% against Shelob and Dismounted WitchKing. 
-- Witch King revive timer actualised to it's buildtime. (100 from 115)
-- Witch King mounted now takes 190% MAGIC from 200%.
-- Witch King mounted now takes 220% FLAME from 250%.
-- Witch King mounted now takes 0% SPECIALIST from 50%.
-- Witch King mounted plow weapon radius restored to 40 (from 50). It was not supposed to be touchd.
-- Witch King mounted Dreadvisage radius 300 from 600. (Originally 200)
-- Witch King mounted attack radius 35 from 45. Originally 30. 
-- Witch King mounted attack radius against ARCHERS now 30 from 45. Originally 30.
-### Mordor. siege units
+#### Units. Siege
 - Mordor Grond crush damage now 1000 CRUSH damage from 2000 SIEGE damage. Crush radius now 20 from 0.
 - Mordor Grond speed now 15 from 10.
 - Mordor Grond health from 15k to 50k
@@ -884,7 +894,20 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 - Mordor Grond shockwave resistance increased. Now can not be knobacked by anything.
 - Mordor Catapults acuracy slightly improved. Chances to a perfect hit now One in Eight, from One in Ten. And less chances to shoot too far from the target. //LogNote:Consider catapult fire balls explotions have more radius of damage. So they need good scatter to be useful against units.
 - Mordor Catapults now deal 135% from 100% against walls. 
-### Mordor. mountain Trolls.
+
+
+### Mordor. Monsters.
+#### Monsters. Mumakil
+- Mumakil level 5-level 10 now gains +5 amount to auto heal.
+- Mumakil experience required for level 5 to 10 now 300/300/300/300/200/300 from 100/400/200/400/400/200. In total it's actually increased by 100.
+- Mumakil damage gains for level 6 to 10 now 35 35 45 45 60 from 20 20 20 20 20. (220 from 100)
+- Mumakil health gains for all levels now 250 250 300 700 300 300 350 350 700 from 50 50 50 50 50 50 50 50 50. (total 3500 gains, from 450)
+- Mumakil now correctly take ticking fire damage when aflame
+- Mumakil fire animation duration is now 20s
+- Mumakil now takes 60% CAVALRY_RANGED from 50%.
+- Mumakil normal attack now deal 85% to fortress. From 100%
+ (note that mumakils are bufferable with darkness and hero stances. plus delay between shots had been reduced)
+#### Monsters. Mountain Trolls.
 - Mountain Troll in level 5 become 25% tougher to SPECIALIST and PIERCE.
 - Mountain Troll buildtime 37 from 40secs.
 - Mountain Troll CRUSH damage 30 from 10. And doesn't take damage additive anymore.
@@ -893,13 +916,13 @@ Does not stun.. Now AI will use lurtz cripple on flyers.
 FAKE-Mountain Troll with tree now deals 100% to lairs, from 50%
 FAKE-Mountain Troll now deal 115% damage to Heroes when equipped with a Tree
 - Mountain Troll command points now 45 from 50.
-### Mordor. drummer Trolls.
+#### Monsters. Drummer Trolls.
 - Drummer Troll makes nearby Troll autoheal faster. (+20 HP to autoheal amount. Consider Tier 1 Troll autoheal amount is 40 and Attack Trolls are 50).
 - Drummer Troll now grant allied Cave Trolls, Mountain Trolls, and Attack Trolls +15% Armor and +15% EXP
 - Drummer Troll now take 35% of Crush-revenge of pikemen. From 100%.
 - Drummer Troll speed 47 from 44. 
 - Drummer Troll attack damage type now siege from crush. Means it hurts structures and pikes decently. Damage 100 from 120. //LogNote:To compare, a Troll with tree deals 120.
-### Mordor. attack Trolls.
+#### Monsters. Attack Trolls.
 - Attack Troll experience required now 90 90 90 180 90 90 90 180 from 70 70 70 70 170 100 100 150 150.
 - Attack Troll now earns +50% more damage slowly till level 10. (200 total damage from 80 with two damage bonuses)
 - Attack Troll now earns +50% health points slowly till level 10.  (150 150 150 200 150 150 150 150 200 from 0 0 0 100 100 100 100 100 100)
@@ -925,7 +948,11 @@ FAKE-Mountain Troll now deal 115% damage to Heroes when equipped with a Tree
 - Attack Troll now deals 115% against heros from 90%.
 - Attack Troll now deals 130% against aragorn gimli and elrond from 90%.
 - Attack Troll now deals 50% against structures and 70% against neutrail lairs, from 40%. Originally 100%.
-### Mordor. structures
+
+
+### Mordor. Structures
+- Fixed Mordor Fortress CatapultExpansion not having received the +17% range addition. (Leading to all artillery having more range than a structural catapult)
+- Fixed mordor gate watcher applying debuff when it is not fully built.
 - Mordor Siege Works level 2 upgrade cost 500 from 800. 
 - Mordor Siege Works level 2 upgrade time 25 secs from 30.
 - Mordor Tavern level 3 upgrade cost 400  from 600.
@@ -936,7 +963,7 @@ FAKE-Mountain Troll now deal 115% damage to Heroes when equipped with a Tree
 - Mordor Battle Tower health now 2200 from 2500.
 - Mordor Troll Cage level 2 upgrade time 25 from 30.
 - Mordor Troll Cage level 3 upgrade time 45 from 40.
-### Mordor. fortress
+#### Structures. Fortress
 - Mordor Fortress Fire Magma Cauldrons button removed from radial commands set. Palantir button moved from the 4th button to the 2nd.
 - Mordor Fortress Magma Cauldrons upgrade cost now 1350 from 1500.
 - Mordor Fortress Magma Cauldrons reload time now 45 seconds from 30 seconds.
@@ -950,13 +977,40 @@ FAKE-Mountain Troll now deal 115% damage to Heroes when equipped with a Tree
 - Mordor Fortress Gate Watcher expansion delay between shots 24s from 30s.
 - Mordor Fortress Gate Watcher expansion build time 25 from 30.
 - Mordor Fortress Gate Watcher expansion health 2000 from 2500. (Originally 1500)
-### Mordor. WitchKingWK 
+
+
+### Mordor. Heroes 
+- Fixed Mordor flyers having no attack sound 60% of the times against units. Now they use original sounds as base when attacking and there's a 40% chance new sounds play. 
+- Fixed Barrow Wight glitch. (delay between shots now 0.6 seconds from 0.3 seconds.)
+- Fixed Witch King Mounted armor being 3.75% tougher unintentionally.
+- Fixed Mouth Of Sauron Doubt debuffing balrogs dragons and wyrms.
+- Blackrider dismounted glitch fix: sword preattackdelay now 500ms from 100ms.
+#### Heroes. Fellbeast
+- Fellbeast no longer shares his experience with other Fellbeasts and mounted Witch King.
+- Fellbeast revive timer actualised to it's buildtime. (90 from 115)
+- Fellbeast attack radius restored to 30 from 45.
+- Fellbeast buildtime 90 from 80.
+- Fellbeast now takes 180% FLAME from 160%.
+- Fellbeast now takes 180% MAGIC from 160%.
+- Fellbeast now takes 0% SPECIALIST from 100%.
+- Fellbeast plow weapon radius restored to 40 (from 45).//LogNote:It was never supposed to be changed.
+#### Heroes. Witchking On Fellbeast
+- Witch King claw atack now deal 65% against Shelob and Dismounted WitchKing. 
+- Witch King revive timer actualised to it's buildtime. (100 from 115)
+- Witch King mounted now takes 190% MAGIC from 200%.
+- Witch King mounted now takes 220% FLAME from 250%.
+- Witch King mounted now takes 0% SPECIALIST from 50%.
+- Witch King mounted plow weapon radius restored to 40 (from 50). It was not supposed to be touchd.
+- Witch King mounted Dreadvisage radius 300 from 600. (Originally 200)
+- Witch King mounted attack radius 35 from 45. Originally 30. 
+- Witch King mounted attack radius against ARCHERS now 30 from 45. Originally 30.
+#### Heroes. WitchKingWK 
 - WitchKing healing rate now mwatches when dismounted/mounted. Now 40/40 from 42/32. (dismounted/mounted respectively).
 - Buying and Reviving the Witchking now spawns the Morgul Beacon, as depicted in Peter Jackson's Lord of the Rings films.
 - WitchKing dismounted armor now takes 44% SPECIALIST dmg from 42%. //LogNote: Consider that his horde-counter still being arrows, he's got a Tough Hero but he can not dodge any possible arrow. So since he takes every single arrow, he's like 200% weaker to arrows than Gimli, Elrond, Aragorn, Saruman.
 - WitchKing dismounted now take 29% CAVALRY dmg, from 25%. //LogNote: It's logic to have some kind of penalty against cavalry considering he one hits any possible multiple horde group at once.
 - WitchKing level 10 power applicable on multiples heroes, and shows some badass and laggy effects, etc etc.
-### Mordor. blackriders
+#### Heroes. Blackriders
 - Blackrider CRUSH damage is no longer affected thru stances.
 - Blackrider CRUSH damage gained in levels 6,7,8,9,10 reduced. (from 10,10,10,10,20 to 8,8,8,8,8 respectively)
 - Blackrider gains 80 HP from 60 when rank to level 2 and 3. And 100 HP from 80 when rank to level 4.
@@ -970,50 +1024,19 @@ FAKE-Mountain Troll now deal 115% damage to Heroes when equipped with a Tree
 - Barrow Wight HERO_RANGED armor now 20% from 10%.
 - Barrow Wight Drain Life multiplier (healself percentage per attack) now 33% from 35%. (originally 50%)
 - Barrow Wight default speed/charging mode now 33/100 from 25/100, respectively.
-### Mordor. Mouth of Sauron
+#### Heroes. Mouth of Sauron
 - Mouth of Sauron Dissent spell cooldown 180 seconds from 200.
 - Mouth of Sauron no longer shares his experience with blackriders anymore.
 - Mouth of Sauron Evil Eye now have a +15% bonus against Aragorn, Gimli and Elrond.
 - Mouth of Suaron mounted deals 77% from 87% to STRUCTURES. 
-### Mordor. haradrim archers
-- Fixed Haradrim Archer health increased unintentionally. Restored to 250 from 300. 
-- Mordor Haradrim Archer PIERCE armor now 80%/40% from 95%/50%.
-- Mordor Haradrim Palace have a structural (no fire) weapon on level 3. (Originally a structural weapon at level 2, and fire weapon at level 3)
-- Mordor Haradrim Archer can now stealth near trees
-- Mordor Haradrim Archer weapon contesting buildings removed.
-- Mordor Haradrim Archer now deals +20% damage against any monster, including flyers.
-- Mordor Barbed Arrows can now be set on auto-ability mode.
-- Mordor Barbed Arrows no longer require an upgrade
-- Mordor Barbed Arrows automatically becomes available at Haradrim Archer Level 3
-- Mordor Barbed Arrows now deal splash in radius 5
-- Mordor Barbed Arrows now deal 100% to Heroes and Monsters, from 30%
-- Mordor Barbed Arrows cooldown now 90s, from 60s
-### Mordor. Mumakil
-- Mumakil level 5-level 10 now gains +5 amount to auto heal.
-- Mumakil experience required for level 5 to 10 now 300/300/300/300/200/300 from 100/400/200/400/400/200. In total it's actually increased by 100.
-- Mumakil damage gains for level 6 to 10 now 35 35 45 45 60 from 20 20 20 20 20. (220 from 100)
-- Mumakil health gains for all levels now 250 250 300 700 300 300 350 350 700 from 50 50 50 50 50 50 50 50 50. (total 3500 gains, from 450)
-- Mumakil now correctly take ticking fire damage when aflame
-- Mumakil fire animation duration is now 20s
-- Mumakil now takes 60% CAVALRY_RANGED from 50%.
-- Mumakil normal attack now deal 85% to fortress. From 100%
- (note that mumakils are bufferable with darkness and hero stances. plus delay between shots had been reduced)
-### Mordor. RainOfFire
+
+
+### Mordor. Spellbook:
+#### Spellbook. RainOfFire
 - Mordor Rain of fire weapons are spreaded in 2 damages, separated by 0.100 seconds, so it can damage x2.
 - Mordor Rain of fire shockwave effect doubled
-### Mordor. eye of sauron
+#### Spellbook. Eye Of Sauron
 - Eye of Sauron lifetime now 50s, from 60s.
-### Mordor. HaradrimLancer
-- Haradrim Lancer is not included in Mordor Horde Bonus anymore.
-- Haradrim Lancer cost 280 from 250.
-- Haradrim Lancer damage 44. (from 54).
-- Haradrim Lancer now deals 135% against Cave Troll.
-- Haradrim Lancer health now 280 from 300.
-- Haradrim Lancer damage scalars to structures now are 50% to Fortresses and Fortress Expansions. 80% against the rest of the structures. (from 60% against all kind of building)
-- Haradrim Lancer pre attack delay 1400 from 950. (fixes animation when throwing lance)
-- Haradrim Lancer weapon in melee  delay between shots 1000ms from 2000ms.
-- Haradrim Lancer now takes 60% PIERCE, from 50.
-- Haradrim Lancer can now attack flyers. They deal 60% against them.
 
 
 ---

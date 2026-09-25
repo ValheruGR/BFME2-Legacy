@@ -443,6 +443,8 @@
 - ß14. GoblinKing stinger is now castable only on heroes and monsters (because it's annoying to waste it on infantry)
 - ß16. GoblinKing level 4 leadership now provides High Tier Hero leadership, from Armor Buff leadership. (KING LEADERSHIP!!!!!)
 - ß16. GoblinKing level 4 leadership range reduced to 225 from 290.
+- ß17. GoblinKing experience required for levels 2,3,4 reduced to 35/70/105 from 40/80/120.
+- ß17. GoblinKing build/respawn time increased to 40/45 from 35/40.
 
 #### Heroes. Shelob
 - ß03. Shelob hp restored to 4000 from 3750.
