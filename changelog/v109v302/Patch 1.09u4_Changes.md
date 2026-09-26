@@ -38,7 +38,7 @@
 
 # The Lord of the Rings: Battle for Middle-Earth II
 
-* Patch 1.09 — Version 3.02 - Changelog
+* Patch 1.09 — Version 4 - Changelog
 * Release date: ---
 * Final Build: ---
 
@@ -487,6 +487,7 @@
 - ß16. Crebain/Bats armor now takes 150% HERO_RANGED from 200%.
 
 ### Global. Other:
+- ß17. Renamed the version to "Update 4". From now we gonna keep this convention, no more decimals. Just consecutive updates 5,6,7,8,9,11, etc. Renames filenames and ensured patch is read after cheat files.
 - ß14. Commandpoints standarized to 1000 in any map size. 
 - ß15. Added a No Mirror option, which immediatly takes the players back to the lobby.
 - ß15. Added a Random Team option in the game menu.
